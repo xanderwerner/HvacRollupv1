@@ -1,0 +1,6 @@
+# Core data run (v1 free spine).
+openpyxl>=3.1
+certifi>=2024.0   # CA bundle for macOS framework Python (SSL)
+
+# ROC enrichment module (roc.py) — next increment
+playwright>=1.44
