@@ -33,8 +33,10 @@ def close_excel_workbook() -> None:
 
 def main() -> None:
     limit = int(sys.argv[1]) if len(sys.argv) > 1 else 10
-    print(f"HVAC Roll-Up v1 — sourcing {limit} qualified leads\n")
-    close_excel_workbook()
+    print(f"HVAC Roll-Up v1 — sourcing {limit} qualified leads "
+          f"(-> {config.WRITE_TARGET})\n")
+    if config.WRITE_TARGET == "excel":
+        close_excel_workbook()
     result = pipeline.run(limit=limit)
 
     print("\n================ SUMMARY ================")

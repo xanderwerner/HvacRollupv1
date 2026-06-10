@@ -16,9 +16,9 @@ def main() -> None:
 
     args = p.parse_args()
     if args.cmd == "run":
-        pipeline.run(limit=args.limit, write_excel=True)
+        pipeline.run(limit=args.limit, write_out=True)
     elif args.cmd == "discover":
-        res = pipeline.run(limit=args.limit, write_excel=False)
+        res = pipeline.run(limit=args.limit, write_out=False)
         for lead in res["top"][: args.limit]:
             print(f"{lead.buy_box_fit:8s} {lead.review_count:>4}rv {lead.rating}  "
                   f"{lead.company_name} ({lead.city})")

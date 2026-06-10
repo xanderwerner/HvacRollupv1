@@ -29,7 +29,7 @@ def _fit_rank(lead: Lead) -> tuple:
     return (rank, lead.rating or 0, lead.review_count or 0)
 
 
-def run(limit: int = 10, write_excel: bool = True) -> dict:
+def run(limit: int = 10, write_out: bool = True) -> dict:
     if not config.GOOGLE_PLACES_API_KEY:
         raise RuntimeError("GOOGLE_PLACES_API_KEY missing from .env")
 
@@ -80,11 +80,16 @@ def run(limit: int = 10, write_excel: bool = True) -> dict:
     print(f"   stored {n} leads in {config.DB_PATH.name}")
 
     written = []
-    if write_excel:
-        print("== 5. WRITE (Excel Organic List) ==")
-        import excel_writer
-        written = excel_writer.write_leads(survivors, limit=limit)
-        print(f"   wrote {len(written)} rows")
+    if write_out:
+        if config.WRITE_TARGET == "gsheet":
+            print("== 5. WRITE (Google Sheet — Organic List) ==")
+            import gsheets_writer
+            written = gsheets_writer.write_leads(survivors, limit=limit)
+        else:
+            print("== 5. WRITE (Excel — Organic List) ==")
+            import excel_writer
+            written = excel_writer.write_leads(survivors, limit=limit)
+        print(f"   wrote {len(written)} rows to {config.WRITE_TARGET}")
 
     return {
         "raw": len(raw),

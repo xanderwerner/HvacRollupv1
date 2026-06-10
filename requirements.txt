@@ -2,5 +2,9 @@
 openpyxl>=3.1
 certifi>=2024.0   # CA bundle for macOS framework Python (SSL)
 
+# Google Sheets output (live master)
+gspread>=6.0
+google-auth>=2.0
+
 # ROC enrichment module (roc.py) — next increment
 playwright>=1.44

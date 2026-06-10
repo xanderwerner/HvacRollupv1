@@ -44,6 +44,15 @@ MIN_REVIEWS = 25     # under 25 = too small / one-man shop -> disqualify
 MAX_REVIEWS = 500    # over 500 = likely too big / PE-scaled -> flag
 
 # --- Output target ---
+# "gsheet" = write to the live Google Sheet (default); "excel" = local .xlsx
+WRITE_TARGET = "gsheet"
+
+# Google Sheet (live master)
+GSHEET_ID = "1OLBI9bgRZ3dDoGAeaYCohwNsv0KJbqtv90a7AAPHu-o"   # "HVAC Database"
+GSHEET_TAB = "Organic List"
+SERVICE_ACCOUNT_FILE = PROJECT_ROOT / "service_account.json"  # gitignored
+
+# Excel (local fallback target)
 EXCEL_PATH = Path(
     "/Users/xanderwerner/Documents/HVAC ROLL-UP/Copy of HVAC Database 2.xlsx"
 )

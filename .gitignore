@@ -13,3 +13,8 @@ venv/
 *.sqlite3
 .cache/
 data/
+
+# Google service-account key
+service_account.json
+*-*.iam.gserviceaccount.com.json
+hvacrollup-*.json

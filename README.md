@@ -43,11 +43,16 @@ pip install -r requirements.txt
 
 ## Run
 
+Output target is set by `config.WRITE_TARGET`:
+- `"gsheet"` (default) → writes to the live Google Sheet "HVAC Database" / Organic
+  List via `service_account.json` (gitignored). Re-runs auto-dedupe by company
+  name, so each run appends only net-new survivors.
+- `"excel"` → writes to the local `.xlsx` instead (auto-closes the workbook first).
+
 ```bash
-# Close the Excel workbook first (the script also tries to auto-close it).
 python run.py            # source 10 leads into the Organic List
 python run.py 25         # source 25
-python cli.py discover   # preview survivors without writing Excel
+python cli.py discover   # preview survivors without writing anywhere
 ```
 
 ## Layout
