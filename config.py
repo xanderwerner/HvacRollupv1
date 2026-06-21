@@ -40,9 +40,12 @@ TRADES = {
     "Electrical": "electrician",
 }
 
-# --- Buy box thresholds (from the Organic Legend size-signal guide) ---
-MIN_REVIEWS = 25     # under 25 = too small / one-man shop -> disqualify
-MAX_REVIEWS = 500    # over 500 = likely too big / PE-scaled -> flag
+# --- Buy box (UPDATED 2026-06-09): 10+ employees, NO upper ceiling ---
+BUY_BOX_MIN_EMPLOYEES = 10        # primary size rule now = employee count
+# Review thresholds kept only as a weak Places discovery heuristic (employee
+# count from Apollo is the binding buy-box filter now).
+MIN_REVIEWS = 25
+MAX_REVIEWS = 100000  # effectively no upper cap (no ceiling on size)
 
 # --- Output target ---
 # "gsheet" = write to the live Google Sheet (default); "excel" = local .xlsx

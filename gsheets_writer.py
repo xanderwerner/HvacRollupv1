@@ -79,3 +79,49 @@ def write_leads(leads: list[Lead], limit: Optional[int] = None) -> list[str]:
         rng = f"A{first_empty}:{_col_a1(len(headers))}{end}"
         ws.update(range_name=rng, values=matrix, value_input_option="USER_ENTERED")
     return written
+
+
+def append_row_dicts(rows: list[dict], limit: Optional[int] = None) -> list[str]:
+    """Append pre-built {header: value} rows (e.g. Apollo-sourced) to the sheet.
+
+    Auto-assigns Prospect #, dedupes by company name, dropdown-safe.
+    """
+    ws = _worksheet()
+    vals = ws.get_all_values()
+    hrow = next(i for i, row in enumerate(vals) if "Company Name" in row)
+    headers = vals[hrow]
+    ccol = headers.index("Company Name")
+    pcol = headers.index("Prospect #") if "Prospect #" in headers else None
+
+    existing, max_no, first_empty = set(), 0, None
+    for i in range(hrow + 1, len(vals)):
+        cell = vals[i][ccol] if ccol < len(vals[i]) else ""
+        if cell.strip() == "":
+            first_empty = i + 1
+            break
+        existing.add(cell.strip().lower())
+        if pcol is not None and pcol < len(vals[i]):
+            try:
+                max_no = max(max_no, int(str(vals[i][pcol]).strip()))
+            except ValueError:
+                pass
+    first_empty = first_empty or len(vals) + 1
+
+    matrix, written, no = [], [], max_no
+    for rd in rows:
+        name = (rd.get("Company Name") or "").strip()
+        if not name or name.lower() in existing:
+            continue
+        no += 1
+        rd = {**rd, "Prospect #": f"{no:03d}"}
+        matrix.append(["" if rd.get(h) is None else rd.get(h, "") for h in headers])
+        existing.add(name.lower())
+        written.append(name)
+        if limit and len(written) >= limit:
+            break
+
+    if matrix:
+        end = first_empty + len(matrix) - 1
+        ws.update(range_name=f"A{first_empty}:{_col_a1(len(headers))}{end}",
+                  values=matrix, value_input_option="USER_ENTERED")
+    return written
