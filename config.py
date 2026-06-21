@@ -25,6 +25,7 @@ def load_env(path: Path = PROJECT_ROOT / ".env") -> None:
 load_env()
 
 GOOGLE_PLACES_API_KEY = os.environ.get("GOOGLE_PLACES_API_KEY", "")
+APOLLO_API_KEY = os.environ.get("APOLLO_API_KEY", "")
 
 # --- Target market (from the Buy Box / Master Reference docs) ---
 PHOENIX_METRO_CITIES = [
