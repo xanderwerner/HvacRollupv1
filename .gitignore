@@ -13,6 +13,7 @@ venv/
 *.sqlite3
 .cache/
 data/
+phone_callbacks.jsonl
 
 # Google service-account key
 service_account.json

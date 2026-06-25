@@ -64,6 +64,16 @@ def reveal_person(person_id: str) -> dict | None:
     return res.get("person") if isinstance(res, dict) else None
 
 
+def request_phone(person_id: str, webhook_url: str) -> dict:
+    """Kick off the ASYNC mobile-phone reveal. Apollo acks immediately, then
+    POSTs the verified number to `webhook_url` seconds-to-minutes later.
+    Returns the immediate ack response (contains the person stub + request_id)."""
+    return _req("POST", "/people/match",
+                body={"id": person_id,
+                      "reveal_phone_number": True,
+                      "webhook_url": webhook_url})
+
+
 def enrich_company(domain: str, pause: float = 0.4) -> dict:
     """Full enrichment for one company domain. Returns {org, owner}."""
     out = {"domain": domain, "org": None, "owner": None}
