@@ -74,6 +74,24 @@ def request_phone(person_id: str, webhook_url: str) -> dict:
                       "webhook_url": webhook_url})
 
 
+def search_people(titles: list[str], locations: list[str],
+                  keyword_tags: list[str], employee_ranges: list[str],
+                  min_years_exp: int = 0,
+                  page: int = 1, per_page: int = 25) -> dict:
+    """Global people search (not tied to a specific org). Returns raw API response."""
+    body = {
+        "person_titles": titles,
+        "person_locations": locations,
+        "q_organization_keyword_tags": keyword_tags,
+        "organization_num_employees_ranges": employee_ranges,
+        "per_page": per_page,
+        "page": page,
+    }
+    if min_years_exp:
+        body["minimum_years_of_experience"] = min_years_exp
+    return _req("POST", "/mixed_people/api_search", body=body)
+
+
 def enrich_company(domain: str, pause: float = 0.4) -> dict:
     """Full enrichment for one company domain. Returns {org, owner}."""
     out = {"domain": domain, "org": None, "owner": None}
