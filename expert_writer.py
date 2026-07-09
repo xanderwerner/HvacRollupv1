@@ -28,6 +28,8 @@ HEADERS = [
     "Date Added",
     "Outreach Status",
     "Notes",
+    "Direct Mobile",
+    "Company Phone",
 ]
 
 TAB_NAME = "Expert List"
@@ -57,31 +59,44 @@ def _worksheet():
 
 
 def write_experts(experts: list[dict], limit: int | None = None) -> list[str]:
-    """Append expert rows to the Expert List tab. Returns names written."""
+    """Append expert rows to the Expert List tab. Returns names written.
+
+    Reads the live sheet headers so it stays correct even if columns were
+    added or reordered outside this script (e.g. by enrich_expert_phones.py).
+    """
     ws = _worksheet()
     vals = ws.get_all_values()
 
-    if not vals or vals[0] != HEADERS:
-        # Tab exists but headers may have shifted — trust row 0
-        hrow = 0
-    else:
-        hrow = 0
+    # live headers from the sheet (row 0); fall back to canonical HEADERS
+    live_headers = vals[0] if vals else HEADERS
 
-    # build dedup key set from existing rows
+    # ensure any HEADERS we know about are present (add missing ones)
+    for h in HEADERS:
+        if h not in live_headers:
+            new_idx = len(live_headers)
+            live_headers.append(h)
+            if ws.col_count < new_idx + 1:
+                ws.add_cols(new_idx + 1 - ws.col_count)
+            ws.update_cell(1, new_idx + 1, h)
+
+    H = {h: i for i, h in enumerate(live_headers) if h}
+    name_col = H.get("Full Name", 1)
+    co_col = H.get("Company Name", 3)
+    no_col = H.get("Expert #", 0)
+
     existing = set()
     max_no = 0
     for row in vals[1:]:
-        name = row[1].strip().lower() if len(row) > 1 else ""
-        company = row[2].strip().lower() if len(row) > 2 else ""
-        if name or company:
-            existing.add((name, company))
+        name = row[name_col].strip().lower() if name_col < len(row) else ""
+        co = row[co_col].strip().lower() if co_col < len(row) else ""
+        if name:
+            existing.add((name, co))
         try:
-            max_no = max(max_no, int(str(row[0]).strip()))
+            max_no = max(max_no, int(str(row[no_col]).strip()))
         except (ValueError, IndexError):
             pass
 
-    first_empty = len(vals) + 1  # append after last row
-
+    first_empty = len(vals) + 1
     date_str = datetime.date.today().strftime("%m/%d/%y")
     matrix, written, no = [], [], max_no
 
@@ -89,28 +104,30 @@ def write_experts(experts: list[dict], limit: int | None = None) -> list[str]:
         name = (ex.get("Full Name") or "").strip()
         company = (ex.get("Company Name") or "").strip()
         key = (name.lower(), company.lower())
-        if not name:
-            continue
-        if key in existing:
+        if not name or key in existing:
             continue
         no += 1
-        row = [
-            no,
-            name,
-            ex.get("Title", ""),
-            company,
-            ex.get("Company Employees", ""),
-            ex.get("Company Revenue", ""),
-            ex.get("City", ""),
-            ex.get("Years of Experience", ""),
-            ex.get("Email", ""),
-            ex.get("LinkedIn URL", ""),
-            ex.get("Apollo Person ID", ""),
-            ex.get("Apollo Org ID", ""),
-            date_str,
-            "New",
-            ex.get("Notes", ""),
-        ]
+        ex_full = {
+            "Expert #": no,
+            "Full Name": name,
+            "Title": ex.get("Title", ""),
+            "Company Name": company,
+            "Company Employees": ex.get("Company Employees", ""),
+            "Company Revenue": ex.get("Company Revenue", ""),
+            "City": ex.get("City", ""),
+            "Years of Experience": ex.get("Years of Experience", ""),
+            "Email": ex.get("Email", ""),
+            "LinkedIn URL": ex.get("LinkedIn URL", ""),
+            "Apollo Person ID": ex.get("Apollo Person ID", ""),
+            "Apollo Org ID": ex.get("Apollo Org ID", ""),
+            "Date Added": date_str,
+            "Outreach Status": "New",
+            "Notes": ex.get("Notes", ""),
+            "Direct Mobile": ex.get("Direct Mobile", ""),
+            "Company Phone": ex.get("Company Phone", ""),
+        }
+        row = ["" if ex_full.get(h) is None else ex_full.get(h, "")
+               for h in live_headers]
         matrix.append(row)
         existing.add(key)
         written.append(f"{name} ({company})")
@@ -119,7 +136,7 @@ def write_experts(experts: list[dict], limit: int | None = None) -> list[str]:
 
     if matrix:
         r = first_empty
-        rng = f"A{r}:{_col_a1(len(HEADERS))}{r + len(matrix) - 1}"
+        rng = f"A{r}:{_col_a1(len(live_headers))}{r + len(matrix) - 1}"
         ws.update(range_name=rng, values=matrix, value_input_option="RAW")
 
     return written
