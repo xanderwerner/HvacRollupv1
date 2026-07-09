@@ -19,3 +19,4 @@ phone_callbacks.jsonl
 service_account.json
 *-*.iam.gserviceaccount.com.json
 hvacrollup-*.json
+zoominfo_key.pem
