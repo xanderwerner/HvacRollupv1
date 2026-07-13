@@ -153,10 +153,15 @@ def merge_by_phone(companies_dict):
     return companies_dict
 
 
+def exclude_solar(companies_dict):
+    """Xander doesn't want solar companies in the roll-up -- drop anything with 'solar' in the name."""
+    return {k: c for k, c in companies_dict.items() if "solar" not in c["company_name"].lower()}
+
+
 if __name__ == "__main__":
-    electrical = merge_by_phone(load_tdlr("data/tx_tdlr_electrical_raw.json", "Electrical"))
-    hvac = merge_by_phone(load_tdlr("data/tx_tdlr_ac_raw.json", "HVAC"))
-    plumbing = merge_by_phone(load_tsbpe("data/tx_rmp_raw.csv"))
+    electrical = exclude_solar(merge_by_phone(load_tdlr("data/tx_tdlr_electrical_raw.json", "Electrical")))
+    hvac = exclude_solar(merge_by_phone(load_tdlr("data/tx_tdlr_ac_raw.json", "HVAC")))
+    plumbing = exclude_solar(merge_by_phone(load_tsbpe("data/tx_rmp_raw.csv")))
 
     print(f"Electrical: {len(electrical)} unique companies")
     print(f"HVAC (A/C Contractor): {len(hvac)} unique companies")
