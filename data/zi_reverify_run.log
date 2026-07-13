@@ -1,0 +1,38 @@
+re-checking 30 merged canonicals + 167 still-nameless companies (free)
+[merged 1/30] AC Repair Near Me                   match=not_in_zi
+[merged 2/30] Scottsdale Air Heating & Cooling    match=domain
+[merged 3/30] America's Home Services             match=name+AZ
+[merged 4/30] Cool Breeze Comfort Solutions       match=domain
+[merged 5/30] Precision Air & Plumbing            match=domain  <-- DRIFT emp 40->33
+[merged 6/30] Phend Plumbing & Rooter LLC         match=domain  <-- DRIFT emp 4->10
+[merged 7/30] Just Air LLC                        match=domain
+[merged 8/30] North Mechanical Heating and Coolin match=domain
+[merged 9/30] Cactus Plumbing And Air             match=domain
+[merged 10/30] My Plumber Plumbing Services LLC    match=domain
+[merged 11/30] Cooling Specialists                 match=name+AZ
+[merged 12/30] All Season Plumbing And Air         match=domain
+[merged 13/30] Platinum Air Heating & Cooling, LLC match=domain
+[merged 14/30] Roto-Rooter Plumbing Drain Services match=domain
+[merged 15/30] Action Plumbing                     match=domain
+[merged 16/30] Oro Valley Plumbing LLC             match=domain
+[merged 17/30] Queen Creek Plumbing Services       match=not_in_zi
+[merged 18/30] NextGen Plumbing LLC                match=not_in_zi
+[merged 19/30] Reliable Plumbing & Heating         match=domain
+[merged 20/30] Jobe & Sons Plumbing                match=domain
+[merged 21/30] Prescott Valley Heating and Cooling match=not_in_zi
+[merged 22/30] Felix Appliance Heating & AC Repair match=domain
+[merged 23/30] AirTime Cooling and Heating         match=domain
+[merged 24/30] HVAC Near Me                        match=not_in_zi
+[merged 25/30] AZ Home Services Group AC Repair &  match=not_in_zi
+[merged 26/30] Plumbers Near Me - Water Heater & P match=not_in_zi
+[merged 27/30] Temperature Control, Inc. A/C-Heati match=domain  <-- DRIFT emp 12->36
+[merged 28/30] Rite Way Heating, Cooling & Plumbin match=domain  <-- DRIFT emp 67->201
+[merged 29/30] Goettl Air Conditioning and Plumbin match=domain
+[merged 30/30] ACE Home Services                   match=domain  <-- DRIFT emp 110->483
+[nameless 25/167]
+[nameless 50/167]
+[nameless 75/167]
+[nameless 100/167]
+[nameless 125/167]
+[nameless 150/167]
+FINISHED_REVERIFY

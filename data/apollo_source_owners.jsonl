@@ -1,0 +1,107 @@
+{"row_id": "C040", "company": "Smith Plumbing, Heating and Cooling", "domain": "smithservicesaz.com", "ts": "10:27:01", "apollo_org_id": "5ed34de63f94fe0001d8cd05", "apollo_employees": 59, "owner_name": "Jamie Smith", "owner_title": "Owner", "owner_email": "jamie@smithservicesaz.com", "owner_linkedin": "http://www.linkedin.com/in/jamie-smith-7ab40b62", "result": "success"}
+{"row_id": "C082", "company": "Magic Touch Mechanical", "domain": "fireandairaz.com", "ts": "10:27:03", "apollo_org_id": "54a12aa969702dc12850f001", "apollo_employees": 12, "owner_name": "Rich Morgan", "owner_title": "CEO", "owner_email": "rich.morgan@magictouchair.com", "owner_linkedin": "http://www.linkedin.com/in/magictouch", "result": "success"}
+{"row_id": "C267", "company": "AZ Home Services Group AC Repair & Plumbing Services", "domain": "azhomeservices.group", "ts": "10:27:05", "apollo_org_id": "6314dc60ba9cd900cddcc22e", "apollo_employees": 4, "owner_name": "AZ Group", "owner_title": "Business Owner", "owner_email": null, "owner_linkedin": "http://www.linkedin.com/in/az-home-services-group-015884249", "result": "success"}
+{"row_id": "C275", "company": "Plumbers Near Me - Water Heater & Plumbing Services", "domain": "plumbersnearme.services", "ts": "10:27:06", "apollo_org_id": "64210d190d2eea0001fb3c63", "apollo_employees": 4, "owner_name": "Plumbers Chandler", "owner_title": "Business Owner", "owner_email": "chandler@plumbersnearme.services", "owner_linkedin": "http://www.linkedin.com/in/plumbers-near-me-chandler-722914353", "result": "success"}
+{"row_id": "C629", "company": "Valley Heating, Cooling & Appliances", "domain": "azvalleyservices.com", "ts": "10:27:08", "apollo_org_id": "67281d5a6893d60001172b7d", "apollo_employees": 1, "result": "no_owner_contact"}
+{"row_id": "C640", "company": "GoodFellas Air Conditioning & Plumbing", "domain": "goodfellasac.com", "ts": "10:27:09", "apollo_org_id": "6726d2e8ed6bc2000181d697", "apollo_employees": 1, "result": "no_owner_contact"}
+{"row_id": "C643", "company": "Efficient Air HVAC & Energy Solutions", "domain": "myefficientair.com", "ts": "10:27:11", "apollo_org_id": "55920456736964191eba1d00", "apollo_employees": 3, "result": "no_owner_contact"}
+{"row_id": "C645", "company": "1st Choice Plumbing, Air & Insulation", "domain": "1stchoicemechanicalaz.com", "ts": "10:27:12", "apollo_org_id": "642105648eb41200011729fe", "apollo_employees": 1, "result": "no_owner_contact"}
+{"row_id": "C648", "company": "Benjamin Franklin Plumbing of Prescott", "domain": "benfranklinplumbingprescott.com", "ts": "10:27:13", "result": "org_not_found"}
+{"row_id": "C649", "company": "Benjamin Franklin Plumbing of Mohave County", "domain": "benfranklinplumbingmohavecounty.com", "ts": "10:27:14", "result": "org_not_found"}
+{"row_id": "C650", "company": "Olive Air, Heating & AC Repair", "domain": "oliveairandheating.com", "ts": "10:27:14", "apollo_org_id": "66f8fafee919d20001cc2f50", "apollo_employees": 3, "result": "no_owner_contact"}
+{"row_id": "C653", "company": "Dignity Plumbers Service & Water Softeners", "domain": "dignityplumbingaz.com", "ts": "10:27:15", "result": "org_not_found"}
+{"row_id": "C661", "company": "Autocare Air Conditioning & Auto Repair", "domain": "autocareacandbrakeinc.com", "ts": "10:27:16", "result": "org_not_found"}
+{"row_id": "C668", "company": "Ram Plumbing, Inc.", "domain": "ramplumbingaz.com", "ts": "10:27:17", "apollo_org_id": "6048ca9ca9856c00014e9dbc", "apollo_employees": 6, "result": "no_owner_contact"}
+{"row_id": "C672", "company": "Connolly Electric & Mechanical", "domain": "connollyelectric.net", "ts": "10:27:18", "apollo_org_id": "671454a637264e0001111e17", "apollo_employees": 22, "owner_name": "Chris Connolly", "owner_title": "Owner", "owner_email": null, "owner_linkedin": "http://www.linkedin.com/in/chris-connolly-36601173", "result": "success"}
+{"row_id": "C680", "company": "Instant Plumbing and Rooter", "domain": "instant.plumbing", "ts": "10:27:20", "result": "org_not_found"}
+{"row_id": "C683", "company": "Temco AC Repair & Replacement", "domain": "temcoair.com", "ts": "10:27:20", "apollo_org_id": "54fca21473696401807f1200", "apollo_employees": 12, "result": "no_owner_contact"}
+{"row_id": "C685", "company": "T.C.R. Rooter and Plumbing Repair", "domain": "tcrrooter.com", "ts": "10:27:22", "result": "org_not_found"}
+{"row_id": "C686", "company": "Eagle Air AC Repair", "domain": "eagleairacrepair.com", "ts": "10:27:22", "apollo_org_id": "5e57e2ffbd15ea0001788417", "apollo_employees": 1, "result": "no_owner_contact"}
+{"row_id": "C687", "company": "A.S.G. Plumbing Enterprises Tucson", "domain": "tucsonazplumber.com", "ts": "10:27:24", "result": "org_not_found"}
+{"row_id": "C690", "company": "Drain Medics - No-Dig Sewer Repair", "domain": "calldrainmedics.com", "ts": "10:54:18", "apollo_org_id": "56d6fcb2f3e5bb15f3001e83", "apollo_employees": 4, "result": "no_owner_contact"}
+{"row_id": "C698", "company": "A/C ExperTek Service and Installation", "domain": "acexpertek.com", "ts": "10:54:20", "result": "org_not_found"}
+{"row_id": "C699", "company": "PHD Plumbing", "domain": "phdyuma.com", "ts": "10:54:20", "result": "org_not_found"}
+{"row_id": "C706", "company": "Saguaro Plumbing And Air Of Tempe", "domain": "saguaroplumbingandair.com", "ts": "10:54:21", "result": "org_not_found"}
+{"row_id": "C708", "company": "POP Plumbing LLC - Glendale", "domain": "popplumbing.co", "ts": "10:54:22", "result": "org_not_found"}
+{"row_id": "C709", "company": "Advanced Automotive & Air Ride", "domain": "advancedautomotiveairride.com", "ts": "10:54:23", "result": "org_not_found"}
+{"row_id": "C710", "company": "Liberty Tradesmen", "domain": "libertytradesmen.com", "ts": "10:54:23", "result": "org_not_found"}
+{"row_id": "C711", "company": "Cobra Plumbing LLC", "domain": "cobraplumbingllc.com", "ts": "10:54:24", "result": "org_not_found"}
+{"row_id": "C714", "company": "Air Duct Dynasty", "domain": "airductdynasty.co", "ts": "10:54:25", "result": "org_not_found"}
+{"row_id": "C716", "company": "Johnson Family Plumber & HVAC", "domain": "johnsonplumbinghvac.site", "ts": "10:54:26", "result": "org_not_found"}
+{"row_id": "C718", "company": "Stanley & Sons Heating & Cooling Company", "domain": "stanleyhvac.homes", "ts": "10:54:26", "result": "org_not_found"}
+{"row_id": "C720", "company": "Arizona Cooling Company", "domain": "azcoolco.com", "ts": "10:54:27", "apollo_org_id": "673ee600e1147d000188f8a8", "apollo_employees": 0, "result": "no_owner_contact"}
+{"row_id": "C721", "company": "America\u2019s Home Services Of Glendale", "domain": "americahomeservicesllc.com", "ts": "10:54:28", "result": "org_not_found"}
+{"row_id": "C722", "company": "Innovative Air Queen Creek", "domain": "innovativeac.com", "ts": "10:54:29", "result": "org_not_found"}
+{"row_id": "C723", "company": "Allen Family Plumbing & HVAC", "domain": "allenplumbinghvac.homes", "ts": "10:54:30", "result": "org_not_found"}
+{"row_id": "C724", "company": "AC and Refrigeration (AC, Heating, Refrigeration, Electrical and Plumbing)", "domain": "vesselhomeservices.com", "ts": "10:54:31", "apollo_org_id": "69ba1e305c4d0a000176cfae", "apollo_employees": 1, "result": "no_owner_contact"}
+{"row_id": "C725", "company": "E.R. Tankless & Plumbing", "domain": "erplumbingaz.com", "ts": "10:54:32", "result": "org_not_found"}
+{"row_id": "C728", "company": "Techcool AC Repair Scottsdale", "domain": "techcoollv.com", "ts": "10:54:33", "apollo_org_id": "5fc88137c9e4e60001223fdc", "apollo_employees": 0, "result": "no_owner_contact"}
+{"row_id": "C730", "company": "Core Comfort HVAC", "domain": "azminisplitinstall.com", "ts": "10:54:34", "result": "org_not_found"}
+{"row_id": "C732", "company": "Hunter Brothers Heating & AC", "domain": "hunterhvac.homes", "ts": "10:54:35", "result": "org_not_found"}
+{"row_id": "C733", "company": "Charlie Hall's Wrangler Plumbing", "domain": "charlie-plumbing.jany.io", "ts": "10:54:35", "apollo_org_id": "670394b2c73b0e0001342e2d", "apollo_employees": 35, "result": "no_owner_contact"}
+{"row_id": "C735", "company": "Auto Air Conditioning Repair Shop", "domain": "autoairconditioning.repair", "ts": "10:54:37", "result": "org_not_found"}
+{"row_id": "C736", "company": "Proforce Plumbing Sewer & Drain", "domain": "proforceplumbing.com", "ts": "10:54:37", "result": "org_not_found"}
+{"row_id": "C738", "company": "Simpson Plumbing LLC", "domain": "bullheadcity.plumbernw.com", "ts": "10:54:38", "apollo_org_id": "54a1229769702d84c5682003", "apollo_employees": 19, "owner_name": "Joe Simpson", "owner_title": "Owner/ Operator", "owner_email": "joe@plumbernw.com", "owner_linkedin": "http://www.linkedin.com/in/joe-simpson-17b86048", "result": "success"}
+{"row_id": "C740", "company": "Precision Plumber Buckeye", "domain": "emergencyplumberbuckeye1.com", "ts": "10:54:40", "result": "org_not_found"}
+{"row_id": "C744", "company": "ChillTek AC Repair", "domain": "chilltekacrepairglendale.com", "ts": "10:54:40", "apollo_org_id": "5f49da1a1688e70001d9fd6d", "apollo_employees": 0, "result": "no_owner_contact"}
+{"row_id": "C745", "company": "AARO Enterprises, HVAC Contractor", "domain": "aaroenterprises.com", "ts": "10:54:42", "apollo_org_id": "63681f9da9016b0001ede89d", "apollo_employees": 4, "result": "no_owner_contact"}
+{"row_id": "C746", "company": "Aarow Plumbing Inc", "domain": "aarowplumbing.com", "ts": "10:54:44", "apollo_org_id": "66de03e2671a86000100e6da", "apollo_employees": 1, "result": "no_owner_contact"}
+{"row_id": "C749", "company": "HOWLAIR Air Conditioning & Heating HVAC", "domain": "howlairscottsdale.com", "ts": "10:54:45", "result": "org_not_found"}
+{"row_id": "C753", "company": "Prospector Plumbing and Septic pumping , Apache Junction AZ85119", "domain": "prospectorplumbingandsepticservice.com", "ts": "10:54:46", "result": "org_not_found"}
+{"row_id": "C755", "company": "Davis Brothers Heating & Air Conditioning", "domain": "davishvac.homes", "ts": "10:54:46", "result": "org_not_found"}
+{"row_id": "C760", "company": "Your Phoenix HVAC", "domain": "yourphoenixhvac.net", "ts": "10:54:47", "result": "org_not_found"}
+{"row_id": "C762", "company": "Roto-Rooter Sewer & Drain Service", "domain": "rotorootersewerndrainsvc.com", "ts": "10:54:48", "result": "org_not_found"}
+{"row_id": "C763", "company": "One Shot Installation Electrical, Plumbing & Appliance Repair-Electrician & Plumber Flagstaff, AZ.", "domain": "oneshotinstallation.com", "ts": "10:54:49", "result": "org_not_found"}
+{"row_id": "C764", "company": "Airtronics Air Conditioning & Heating", "domain": "airtronx.com", "ts": "10:54:49", "result": "org_not_found"}
+{"row_id": "C770", "company": "Plumbers Crack Plumbing", "domain": "plumberscrackplumbing.simdif.com", "ts": "10:54:50", "apollo_org_id": "697a50339c0095000153c585", "apollo_employees": 0, "result": "no_owner_contact"}
+{"row_id": "C771", "company": "ZonAir AC Repair Tempe", "domain": "zonairacrepairtempe.com", "ts": "10:54:51", "apollo_org_id": "66da56282a160202ba64b392", "apollo_employees": 0, "result": "no_owner_contact"}
+{"row_id": "C773", "company": "Arizona Sewer Solution Plumbing and Drain", "domain": "arizonasewersolution.com", "ts": "10:54:52", "result": "org_not_found"}
+{"row_id": "C775", "company": "Endivo Plumbing", "domain": "endivoconstruction.com", "ts": "10:54:53", "result": "org_not_found"}
+{"row_id": "C777", "company": "Lynlee Plumbing", "domain": "lynleeplumbing.com", "ts": "10:54:54", "result": "org_not_found"}
+{"row_id": "C778", "company": "A & C Plumbing Concepts, Inc.", "domain": "ancplumbing.com", "ts": "10:54:55", "result": "org_not_found"}
+{"row_id": "C781", "company": "United Plumbers Tempe", "domain": "unitedplumberstempe.com", "ts": "10:54:55", "result": "org_not_found"}
+{"row_id": "C785", "company": "Discount Plumbing Pros", "domain": "discountplumbingpros.com", "ts": "10:54:56", "result": "org_not_found"}
+{"row_id": "C787", "company": "Prime AC Repair Phoenix", "domain": "primeacrepairphoenix.com", "ts": "10:54:57", "result": "org_not_found"}
+{"row_id": "C788", "company": "OneCall Plumber Scottsdale", "domain": "onecallplumberscottsdale.com", "ts": "10:54:58", "result": "org_not_found"}
+{"row_id": "C789", "company": "Quality Pumping Septic Services", "domain": "qualitypumpingservices.com", "ts": "10:54:58", "result": "org_not_found"}
+{"row_id": "C791", "company": "Ez AC Repair Scottsdale", "domain": "ezacrepairscottsdale.com", "ts": "10:54:59", "result": "org_not_found"}
+{"row_id": "C803", "company": "Quality Refrigeration Supply LLC", "domain": "quality-refrigeration-supply-llc-106928.square.site", "ts": "10:55:00", "result": "org_not_found"}
+{"row_id": "C805", "company": "Plumbing & Electrical Concepts", "domain": "plumbingandelectricalconcepts.com", "ts": "10:55:00", "result": "org_not_found"}
+{"row_id": "C808", "company": "Glendale HVAC Contractor Pro LLC", "domain": "prohvacofglendale.com", "ts": "10:55:01", "apollo_org_id": "68767042a72cdb00152b1c6a", "apollo_employees": 0, "result": "no_owner_contact"}
+{"row_id": "C810", "company": "SunPeak AC Repair Buckeye", "domain": "sunpeakairbuckeye.com", "ts": "10:55:02", "result": "org_not_found"}
+{"row_id": "C811", "company": "Kaylormade Plumbing - Emergency Plumber", "domain": "kaylormadeplumbing.com", "ts": "10:55:03", "result": "org_not_found"}
+{"row_id": "C812", "company": "HighPeak Prescott HVAC Repair", "domain": "prescotthighpeakheatingcooling.com", "ts": "10:55:04", "result": "org_not_found"}
+{"row_id": "C814", "company": "Affordable Avondale AC Repair", "domain": "affordableavondaleacrepair.com", "ts": "10:55:04", "result": "org_not_found"}
+{"row_id": "C819", "company": "Roto-Rooter Show Low - Septic & Drain Cleaning", "domain": "showlowrotorooter.com", "ts": "10:55:05", "result": "org_not_found"}
+{"row_id": "C820", "company": "Hoosier Plumbing Company - Maricopa, AZ", "domain": "hoosierplumbingaz.com", "ts": "10:55:06", "result": "org_not_found"}
+{"row_id": "C821", "company": "Laba Plumbing", "domain": "boblabaplumbing.net", "ts": "10:55:07", "result": "org_not_found"}
+{"row_id": "C823", "company": "Expert Plumber Glendale", "domain": "expertplumberglendale.com", "ts": "10:55:07", "result": "org_not_found"}
+{"row_id": "C824", "company": "Best Plumbing Goodyear AZ", "domain": "newwavepipeco.site", "ts": "10:55:08", "result": "org_not_found"}
+{"row_id": "C826", "company": "Trusted Chandler HVAC Repair", "domain": "trustedchandlercoolingheating.com", "ts": "10:55:09", "result": "org_not_found"}
+{"row_id": "C827", "company": "Master Plumbing Gilbert AZ", "domain": "bluespringsystems.site", "ts": "10:55:10", "result": "org_not_found"}
+{"row_id": "C829", "company": "Lakeland Advanced Climate Control", "domain": "steelehvacllc.com", "ts": "10:55:10", "result": "org_not_found"}
+{"row_id": "C830", "company": "D&M Construction, Electrical, & Plumbing", "domain": "dm-construction-llc.com", "ts": "10:55:11", "result": "org_not_found"}
+{"row_id": "C837", "company": "Tite Plumbing Glendale", "domain": "plumbingtco.com", "ts": "10:55:12", "result": "org_not_found"}
+{"row_id": "C841", "company": "Peoria Plumbing & Drain", "domain": "peoriaplumbingfirst.com", "ts": "10:55:13", "result": "org_not_found"}
+{"row_id": "C845", "company": "Goodyear Plumbing & Piping", "domain": "christianrandleplumbingpro.com", "ts": "10:55:13", "result": "org_not_found"}
+{"row_id": "C846", "company": "Pro Plumbers Surprise", "domain": "proplumberssurprise.com", "ts": "10:55:14", "result": "org_not_found"}
+{"row_id": "C849", "company": "HALTOM & SON'S CONTRACTING - General Contractor in Show Low, Arizona", "domain": "showlowbuilder.com", "ts": "10:55:15", "result": "org_not_found"}
+{"row_id": "C850", "company": "Surprise Plumber and Handyman", "domain": "surpriseplumbingandhandyman.com", "ts": "10:55:16", "result": "org_not_found"}
+{"row_id": "C858", "company": "Responsive Plumber Peoria", "domain": "responsiveplumberpeoria.com", "ts": "10:55:16", "result": "org_not_found"}
+{"row_id": "C859", "company": "Goodyear Plumbing & Sewer", "domain": "goodyearplumbingsewer.com", "ts": "10:55:17", "result": "org_not_found"}
+{"row_id": "C863", "company": "Kin Plumbing Gilbert", "domain": "kiplumbingpro.com", "ts": "10:55:18", "result": "org_not_found"}
+{"row_id": "C864", "company": "Air Conditioning Champ", "domain": "airconditioningchamp.com", "ts": "10:55:18", "result": "org_not_found"}
+{"row_id": "C865", "company": "ProFab Heating & Cooling", "domain": "profabhvac.com", "ts": "10:55:19", "result": "org_not_found"}
+{"row_id": "C874", "company": "Glendale Plumbing Experts", "domain": "glendaleplumbingexperts.com", "ts": "10:55:20", "result": "org_not_found"}
+{"row_id": "C878", "company": "American Plumber", "domain": "americanplumberco.com", "ts": "10:55:21", "result": "org_not_found"}
+{"row_id": "C880", "company": "Platinum Tempe Plumbing Experts", "domain": "platinumtempeplumbingexperts.com", "ts": "10:55:21", "result": "org_not_found"}
+{"row_id": "C881", "company": "El Mirage AC Repair", "domain": "elmirageacrepair.com", "ts": "10:55:22", "result": "org_not_found"}
+{"row_id": "C882", "company": "Stefick Plumbing and Drain", "domain": "stefickplumbing.com", "ts": "10:55:23", "result": "org_not_found"}
+{"row_id": "C885", "company": "Max Performance Heating & AC Repair", "domain": "maxperformanceheatingacrepair.shop", "ts": "10:55:24", "result": "org_not_found"}
+{"row_id": "C886", "company": "Expert Plumbers of Queen Creek", "domain": "expertplumbersofqueencreek.com", "ts": "10:55:24", "result": "org_not_found"}
+{"row_id": "C887", "company": "Northshore Plumbing", "domain": "northshoreplumbinglhc.com", "ts": "10:55:25", "result": "org_not_found"}
+{"row_id": "C895", "company": "Ace Air Duct Services", "domain": "steelehvacllc.com", "ts": "10:55:26", "result": "org_not_found"}
+{"row_id": "C903", "company": "Desert Plumbing Of Buckeye", "domain": "plumbingbuckeye.com", "ts": "10:55:27", "result": "org_not_found"}
+{"row_id": "C929", "company": "Integrity Electrical Services Company LLC", "domain": "www.integrityelectricaz.com", "ts": "11:31:33", "apollo_org_id": "611741e5531c340001e31915", "apollo_employees": 43, "owner_name": "Nelly Tianga", "owner_title": "Vice President", "owner_email": "nelly@iesmail.net", "owner_linkedin": "http://www.linkedin.com/in/nelly-tianga-087463b4", "result": "success"}
+{"row_id": "C934", "company": "Integrity Electrical LLC", "domain": "www.integrityelectricaz.com", "ts": "11:31:37", "apollo_org_id": "611741e5531c340001e31915", "apollo_employees": 43, "owner_name": "Nelly Tianga", "owner_title": "Vice President", "owner_email": "nelly@iesmail.net", "owner_linkedin": "http://www.linkedin.com/in/nelly-tianga-087463b4", "result": "success"}
+{"row_id": "C936", "company": "Integrity Electrical Service LLC", "domain": "www.integrityelectricaz.com", "ts": "11:31:39", "apollo_org_id": "611741e5531c340001e31915", "apollo_employees": 43, "owner_name": "Nelly Tianga", "owner_title": "Vice President", "owner_email": "nelly@iesmail.net", "owner_linkedin": "http://www.linkedin.com/in/nelly-tianga-087463b4", "result": "success"}

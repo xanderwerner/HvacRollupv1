@@ -1,0 +1,286 @@
+{
+ "hvac": [
+  [
+   "C040",
+   347677987,
+   "Smith Plumbing, Heating and Cooling"
+  ],
+  [
+   "C629",
+   551706498,
+   "Valley Heating, Cooling & Appliances"
+  ],
+  [
+   "C640",
+   480631776,
+   "GoodFellas Air Conditioning & Plumbing"
+  ],
+  [
+   "C643",
+   407798070,
+   "Efficient Air HVAC & Energy Solutions"
+  ],
+  [
+   "C645",
+   528008449,
+   "1st Choice Plumbing, Air & Insulation"
+  ],
+  [
+   "C648",
+   1339435840,
+   "Benjamin Franklin Plumbing of Prescott"
+  ],
+  [
+   "C650",
+   1312628422,
+   "Olive Air, Heating & AC Repair"
+  ],
+  [
+   "C653",
+   1288612411,
+   "Dignity Plumbers Service & Water Softeners"
+  ],
+  [
+   "C661",
+   411747746,
+   "Autocare Air Conditioning & Auto Repair"
+  ],
+  [
+   "C668",
+   452396073,
+   "Ram Plumbing, Inc."
+  ],
+  [
+   "C676",
+   347053107,
+   "DR Plumbing | Plumbers Marana"
+  ],
+  [
+   "C683",
+   60440785,
+   "Temco AC Repair & Replacement"
+  ],
+  [
+   "C685",
+   468352392,
+   "T.C.R. Rooter and Plumbing Repair"
+  ],
+  [
+   "C687",
+   411010320,
+   "A.S.G. Plumbing Enterprises Tucson"
+  ],
+  [
+   "C698",
+   345736028,
+   "A/C ExperTek Service and Installation"
+  ],
+  [
+   "C699",
+   347538475,
+   "PHD Plumbing"
+  ],
+  [
+   "C708",
+   541112592,
+   "POP Plumbing LLC - Glendale"
+  ],
+  [
+   "C718",
+   1339171180,
+   "Stanley & Sons Heating & Cooling Company"
+  ],
+  [
+   "C719",
+   1127493575,
+   "Truelove Plumbing"
+  ],
+  [
+   "C720",
+   1287648916,
+   "Arizona Cooling Company"
+  ],
+  [
+   "C722",
+   401136248,
+   "Innovative Air Queen Creek"
+  ],
+  [
+   "C726",
+   538140917,
+   "Magics Auto Ac & Hose LLc"
+  ],
+  [
+   "C728",
+   411008109,
+   "Techcool AC Repair Scottsdale"
+  ],
+  [
+   "C732",
+   1339392523,
+   "Hunter Brothers Heating & AC"
+  ],
+  [
+   "C736",
+   1285183144,
+   "Proforce Plumbing Sewer & Drain"
+  ],
+  [
+   "C737",
+   369010768,
+   "E & S Plumbing Services"
+  ],
+  [
+   "C744",
+   537263217,
+   "ChillTek AC Repair"
+  ],
+  [
+   "C745",
+   529759969,
+   "AARO Enterprises, HVAC Contractor"
+  ],
+  [
+   "C746",
+   356130265,
+   "Aarow Plumbing Inc"
+  ],
+  [
+   "C753",
+   411966914,
+   "Prospector Plumbing and Septic pumping , Apache Junction AZ85119"
+  ],
+  [
+   "C755",
+   1339407233,
+   "Davis Brothers Heating & Air Conditioning"
+  ],
+  [
+   "C756",
+   1236566547,
+   "Dub's Plumbing Services"
+  ],
+  [
+   "C758",
+   1150080935,
+   "Marco's Mam Plumbing & Repair"
+  ],
+  [
+   "C759",
+   1339272187,
+   "AC Air conditioning & Heating"
+  ],
+  [
+   "C760",
+   1333574393,
+   "Your Phoenix HVAC"
+  ],
+  [
+   "C762",
+   1249051071,
+   "Roto-Rooter Sewer & Drain Service"
+  ],
+  [
+   "C763",
+   542095009,
+   "One Shot Installation Electrical, Plumbing & Appliance Repair-Electrician & Plumber Flagstaff, AZ."
+  ],
+  [
+   "C764",
+   1327101185,
+   "Airtronics Air Conditioning & Heating"
+  ],
+  [
+   "C768",
+   411524104,
+   "Air Solutions"
+  ],
+  [
+   "C778",
+   551759453,
+   "A & C Plumbing Concepts, Inc."
+  ],
+  [
+   "C789",
+   540456181,
+   "Quality Pumping Septic Services"
+  ],
+  [
+   "C805",
+   564253022,
+   "Plumbing & Electrical Concepts"
+  ],
+  [
+   "C821",
+   1105833331,
+   "Laba Plumbing"
+  ],
+  [
+   "C830",
+   1340082615,
+   "D&M Construction, Electrical, & Plumbing"
+  ],
+  [
+   "C835",
+   409928866,
+   "Aaa Affordable AC"
+  ],
+  [
+   "C843",
+   1238968910,
+   "Bud's Plumbing"
+  ],
+  [
+   "C851",
+   1179605652,
+   "Sierra Sewer & Drain Services"
+  ],
+  [
+   "C870",
+   1333109560,
+   "Grande AC & Heating Repair Inc."
+  ],
+  [
+   "C872",
+   410550371,
+   "Affordable Hometown Plumbing"
+  ],
+  [
+   "C879",
+   411377414,
+   "Heaven Bound Plumbing"
+  ],
+  [
+   "C890",
+   7263093,
+   "Apache Junction Plumber"
+  ],
+  [
+   "C892",
+   1115245572,
+   "Hvac Supplies"
+  ],
+  [
+   "C903",
+   537505826,
+   "Desert Plumbing Of Buckeye"
+  ]
+ ],
+ "elec": [
+  [
+   "C929",
+   "425053376",
+   "Integrity Electrical Services Company LLC"
+  ],
+  [
+   "C934",
+   "425053376",
+   "Integrity Electrical LLC"
+  ],
+  [
+   "C936",
+   "425053376",
+   "Integrity Electrical Service LLC"
+  ]
+ ]
+}

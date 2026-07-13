@@ -1,0 +1,12 @@
+targets: 530
+[50/530] {'match': 50, 'no_match': 0, 'conflict_name': 0}
+[100/530] {'match': 100, 'no_match': 0, 'conflict_name': 0}
+[150/530] {'match': 150, 'no_match': 0, 'conflict_name': 0}
+[200/530] {'match': 200, 'no_match': 0, 'conflict_name': 0}
+[250/530] {'match': 250, 'no_match': 0, 'conflict_name': 1}
+[300/530] {'match': 300, 'no_match': 0, 'conflict_name': 1}
+[350/530] {'match': 350, 'no_match': 0, 'conflict_name': 2}
+[400/530] {'match': 400, 'no_match': 0, 'conflict_name': 3}
+[450/530] {'match': 450, 'no_match': 0, 'conflict_name': 4}
+[500/530] {'match': 500, 'no_match': 0, 'conflict_name': 4}
+FINISHED_APOLLO_VERIFY {'match': 530, 'no_match': 0, 'conflict_name': 4}

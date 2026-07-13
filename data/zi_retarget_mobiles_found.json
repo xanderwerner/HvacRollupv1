@@ -1,0 +1,422 @@
+[
+ {
+  "row_id": "C242",
+  "owner": "Thomas Gainard Atkinson",
+  "company": "American Home Water & Air",
+  "ts": "11:25:01",
+  "match_status": "FULL_MATCH",
+  "result": {
+   "firstName": "Thomas",
+   "lastName": "Atkinson",
+   "phone": "",
+   "mobilePhone": "(602) 377-4761",
+   "mobilePhoneDoNotCall": false,
+   "email": "atkinson@watersoftenersphoenix.com",
+   "jobTitle": "Owner",
+   "id": 1474863182,
+   "directPhoneDoNotCall": false,
+   "company": {
+    "id": 1194705407
+   }
+  }
+ },
+ {
+  "row_id": "C259",
+  "owner": "Bradley John Koestner",
+  "company": "Desert Water Plumbing and Rooter",
+  "ts": "11:25:35",
+  "match_status": "FULL_MATCH",
+  "result": {
+   "firstName": "Bradley",
+   "lastName": "Koestner",
+   "phone": "",
+   "mobilePhone": "(623) 256-2649",
+   "mobilePhoneDoNotCall": false,
+   "email": "brad@desertschools.org",
+   "jobTitle": "Plumber",
+   "id": 10280332452,
+   "directPhoneDoNotCall": false,
+   "company": {
+    "id": 361303380
+   }
+  }
+ },
+ {
+  "row_id": "C292",
+  "owner": "Rodney Joseph Obiedzenski Jr",
+  "company": "Service General HVAC",
+  "ts": "11:25:44",
+  "match_status": "FULL_MATCH",
+  "result": {
+   "firstName": "Rodney",
+   "lastName": "Obiedzenski",
+   "phone": "(928) 438-2665",
+   "mobilePhone": "(928) 681-7639",
+   "mobilePhoneDoNotCall": true,
+   "email": "rodneyo@servicegeneralhvac.com",
+   "jobTitle": "Manager, Operations",
+   "id": 17987300540,
+   "directPhoneDoNotCall": false,
+   "company": {
+    "id": 551478562
+   }
+  }
+ },
+ {
+  "row_id": "C331",
+  "owner": "WILLIAM HARRISON",
+  "company": "Greenway Heating & Cooling LLC",
+  "ts": "11:25:58",
+  "match_status": "FULL_MATCH",
+  "result": {
+   "firstName": "William",
+   "lastName": "Harrison",
+   "phone": "",
+   "mobilePhone": "(928) 897-1283",
+   "mobilePhoneDoNotCall": true,
+   "email": "",
+   "jobTitle": "Owner",
+   "id": -1244862058,
+   "directPhoneDoNotCall": false,
+   "company": {
+    "id": 398380393
+   }
+  }
+ },
+ {
+  "row_id": "C333",
+  "owner": "Donald Arthur Kramer",
+  "company": "River Valley Air Conditioning, Inc.",
+  "ts": "11:26:00",
+  "match_status": "FULL_MATCH",
+  "result": {
+   "firstName": "Donald",
+   "lastName": "Kramer",
+   "phone": "(928) 223-5097",
+   "mobilePhone": "(760) 272-8967",
+   "mobilePhoneDoNotCall": false,
+   "email": "don@rivervalleyac.com",
+   "jobTitle": "Certified Technician",
+   "id": 1599830743,
+   "directPhoneDoNotCall": false,
+   "company": {
+    "id": 345553583
+   }
+  }
+ },
+ {
+  "row_id": "C335",
+  "owner": "James Francis Gilmore",
+  "company": "Quick Refrigeration",
+  "ts": "11:26:01",
+  "match_status": "FULL_MATCH",
+  "result": {
+   "firstName": "Jimmy",
+   "lastName": "Gilmore",
+   "phone": "",
+   "mobilePhone": "(602) 882-2512",
+   "mobilePhoneDoNotCall": true,
+   "email": "jimmy@getcoolquick.com",
+   "jobTitle": "",
+   "id": 2352449526,
+   "directPhoneDoNotCall": false,
+   "company": {
+    "id": 357949376
+   }
+  }
+ },
+ {
+  "row_id": "C344",
+  "owner": "Chad Murphy",
+  "company": "Red Rock Air Heating & Cooling LLC",
+  "ts": "11:26:05",
+  "match_status": "FULL_MATCH",
+  "result": {
+   "firstName": "Chad",
+   "lastName": "Murphy",
+   "phone": "(623) 400-3773",
+   "mobilePhone": "(480) 209-9674",
+   "mobilePhoneDoNotCall": true,
+   "email": "chad@redrockair.com",
+   "jobTitle": "Service Manager",
+   "id": 2971652293,
+   "directPhoneDoNotCall": false,
+   "company": {
+    "id": 405235729
+   }
+  }
+ },
+ {
+  "row_id": "C352",
+  "owner": "Tzvi Asa",
+  "company": "Asa Plumbing Phoenix",
+  "ts": "11:26:09",
+  "match_status": "FULL_MATCH",
+  "result": {
+   "firstName": "Tzvi",
+   "lastName": "Asa",
+   "phone": "(520) 655-8858",
+   "mobilePhone": "(480) 796-4060",
+   "mobilePhoneDoNotCall": false,
+   "email": "tzvi@asaplumbingaz.com",
+   "jobTitle": "Plumber",
+   "id": -1782266254,
+   "directPhoneDoNotCall": true,
+   "company": {
+    "id": 1336912933
+   }
+  }
+ },
+ {
+  "row_id": "C356",
+  "owner": "christopher Robin SCOTT",
+  "company": "Monster Air & Mechanical LLC",
+  "ts": "11:26:11",
+  "match_status": "FULL_MATCH",
+  "result": {
+   "firstName": "Christopher",
+   "lastName": "Scott",
+   "phone": "",
+   "mobilePhone": "(602) 920-4352",
+   "mobilePhoneDoNotCall": true,
+   "email": "",
+   "jobTitle": "",
+   "id": 10042089296,
+   "directPhoneDoNotCall": false,
+   "company": {
+    "id": 410295310
+   }
+  }
+ },
+ {
+  "row_id": "C357",
+  "owner": "Jeramie Moore",
+  "company": "Air Repair, Inc.",
+  "ts": "11:26:13",
+  "match_status": "FULL_MATCH",
+  "result": {
+   "firstName": "Jeramie",
+   "lastName": "Moore",
+   "phone": "",
+   "mobilePhone": "(480) 532-5254",
+   "mobilePhoneDoNotCall": true,
+   "email": "jeramie@azairrepairinc.com",
+   "jobTitle": "",
+   "id": -782646359,
+   "directPhoneDoNotCall": false,
+   "company": {
+    "id": 456609238
+   }
+  }
+ },
+ {
+  "row_id": "C358",
+  "owner": "Randall L Vore",
+  "company": "Apple Plumbing Services",
+  "ts": "11:26:14",
+  "match_status": "FULL_MATCH",
+  "result": {
+   "firstName": "Randall",
+   "lastName": "Vore",
+   "phone": "(602) 374-4443",
+   "mobilePhone": "(602) 292-7828",
+   "mobilePhoneDoNotCall": true,
+   "email": "randy@appleplumbingaz.com",
+   "jobTitle": "Loyal Member",
+   "id": 2303848903,
+   "directPhoneDoNotCall": true,
+   "company": {
+    "id": 346113396
+   }
+  }
+ },
+ {
+  "row_id": "C402",
+  "owner": "Devon James Carr",
+  "company": "DC Family Plumbing",
+  "ts": "11:26:33",
+  "match_status": "FULL_MATCH",
+  "result": {
+   "firstName": "Devon",
+   "lastName": "Carr",
+   "phone": "",
+   "mobilePhone": "(480) 376-6924",
+   "mobilePhoneDoNotCall": false,
+   "email": "devon@dcfamilyplumbing.com",
+   "jobTitle": "Director, Operations",
+   "id": 6915376879,
+   "directPhoneDoNotCall": false,
+   "company": {
+    "id": 530086089
+   }
+  }
+ },
+ {
+  "row_id": "C440",
+  "owner": "Christopher M Harper",
+  "company": "Ultimate Comfort HVAC LLC",
+  "ts": "11:26:44",
+  "match_status": "FULL_MATCH",
+  "result": {
+   "firstName": "Christopher",
+   "lastName": "Harper",
+   "phone": "",
+   "mobilePhone": "(480) 278-1692",
+   "mobilePhoneDoNotCall": false,
+   "email": "hchris@ultimatecomforthvacllc.com",
+   "jobTitle": "Chris Harper",
+   "id": 5993177780,
+   "directPhoneDoNotCall": false,
+   "company": {
+    "id": 530074550
+   }
+  }
+ },
+ {
+  "row_id": "C447",
+  "owner": "Don Michael Romero",
+  "company": "D R Plumbing Heating & Cooling",
+  "ts": "11:26:48",
+  "match_status": "FULL_MATCH",
+  "result": {
+   "firstName": "Don Michael",
+   "lastName": "Romero",
+   "phone": "",
+   "mobilePhone": "(928) 207-3278",
+   "mobilePhoneDoNotCall": false,
+   "email": "",
+   "jobTitle": "Manager",
+   "id": 11249783200,
+   "directPhoneDoNotCall": false,
+   "company": {
+    "id": 411475905
+   }
+  }
+ },
+ {
+  "row_id": "C456",
+  "owner": "Tommy Jason Barba",
+  "company": "Estrella Mountain Plumbing LLC",
+  "ts": "11:26:51",
+  "match_status": "FULL_MATCH",
+  "result": {
+   "firstName": "Tommy J",
+   "lastName": "Barba",
+   "phone": "(602) 221-7922",
+   "mobilePhone": "(623) 238-0595",
+   "mobilePhoneDoNotCall": true,
+   "email": "tommy@estrellamountainplumbing.com",
+   "jobTitle": "Manager",
+   "id": 9208092807,
+   "directPhoneDoNotCall": true,
+   "company": {
+    "id": 410544785
+   }
+  }
+ },
+ {
+  "row_id": "C633",
+  "owner": "Bruce Henry Flood",
+  "company": "Bruce's Air Conditioning",
+  "ts": "11:27:43",
+  "match_status": "FULL_MATCH",
+  "result": {
+   "firstName": "Bruce",
+   "lastName": "Flood",
+   "phone": "",
+   "mobilePhone": "(832) 816-8248",
+   "mobilePhoneDoNotCall": true,
+   "email": "bruces@brucesac.com",
+   "jobTitle": "Owner",
+   "id": 294168770,
+   "directPhoneDoNotCall": false,
+   "company": {
+    "id": 5718230
+   }
+  }
+ },
+ {
+  "row_id": "C657",
+  "owner": "Rusty Dean Edwards",
+  "company": "Rusty's Air Conditioning And Heating, Water Treatment",
+  "ts": "11:27:46",
+  "match_status": "FULL_MATCH",
+  "result": {
+   "firstName": "Rusty",
+   "lastName": "Edwards",
+   "phone": "(602) 960-5145",
+   "mobilePhone": "(505) 239-6370",
+   "mobilePhoneDoNotCall": false,
+   "email": "rusty@rustysairaz.com",
+   "jobTitle": "",
+   "id": 5776095662,
+   "directPhoneDoNotCall": false,
+   "company": {
+    "id": 1313344727
+   }
+  }
+ },
+ {
+  "row_id": "C689",
+  "owner": "Deven Tells",
+  "company": "All Aloha Plumbing Phoenix",
+  "ts": "11:27:57",
+  "match_status": "FULL_MATCH",
+  "result": {
+   "firstName": "Deven",
+   "lastName": "Tells",
+   "phone": "(619) 202-8593",
+   "mobilePhone": "(808) 757-5652",
+   "mobilePhoneDoNotCall": false,
+   "email": "deven@allalohaplumbing.com",
+   "jobTitle": "President",
+   "id": 3347356990,
+   "directPhoneDoNotCall": false,
+   "company": {
+    "id": 476776588
+   }
+  }
+ },
+ {
+  "row_id": "C695",
+  "owner": "Jeffrey Michael Stanley",
+  "company": "Rooter Ready and Plumbing Solutions",
+  "ts": "11:27:59",
+  "match_status": "FULL_MATCH",
+  "result": {
+   "firstName": "Jeffrey",
+   "lastName": "Stanley",
+   "phone": "",
+   "mobilePhone": "(480) 392-8075",
+   "mobilePhoneDoNotCall": true,
+   "email": "jeff_stanley@talkingstickresort.com",
+   "jobTitle": "Poker Dealer",
+   "id": 5000938142,
+   "directPhoneDoNotCall": false,
+   "company": {
+    "id": 347536386
+   }
+  }
+ },
+ {
+  "row_id": "C906",
+  "owner": "William Miles Griffin Jr",
+  "company": "Bill's Evaporative Cooler Services",
+  "ts": "11:28:18",
+  "match_status": "FULL_MATCH",
+  "result": {
+   "firstName": "William",
+   "lastName": "Griffin",
+   "phone": "(972) 733-8488",
+   "mobilePhone": "(214) 476-4253",
+   "mobilePhoneDoNotCall": false,
+   "email": "bgriffin@billgriffinrealestate.com",
+   "jobTitle": "President",
+   "id": 1861292943,
+   "directPhoneDoNotCall": false,
+   "company": {
+    "id": 372263615
+   }
+  }
+ }
+]

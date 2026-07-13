@@ -1,0 +1,338 @@
+[
+ {
+  "row_id": "C260",
+  "owner": "Chad Eric Richardson",
+  "company": "Paragon Service Pros Heating and Air Conditioning",
+  "ts": "11:34:24",
+  "match_status": "FULL_MATCH",
+  "result": {
+   "firstName": "Charles",
+   "lastName": "Richardson",
+   "phone": "",
+   "mobilePhone": "(804) 921-9760",
+   "mobilePhoneDoNotCall": true,
+   "email": "",
+   "jobTitle": "Court Security Officer",
+   "id": 5315769465,
+   "directPhoneDoNotCall": false,
+   "company": {
+    "id": 1332420032
+   }
+  }
+ },
+ {
+  "row_id": "C405",
+  "owner": "Robert Anthony Koerber",
+  "company": "Sunshine Air Conditioning Inc.",
+  "ts": "11:35:07",
+  "match_status": "FULL_MATCH",
+  "result": {
+   "firstName": "Robert",
+   "lastName": "Koerber",
+   "phone": "(928) 680-3338",
+   "mobilePhone": "(928) 230-6817",
+   "mobilePhoneDoNotCall": true,
+   "email": "",
+   "jobTitle": "Owner",
+   "id": 11257763816,
+   "directPhoneDoNotCall": true,
+   "company": {
+    "id": 235536549
+   }
+  }
+ },
+ {
+  "row_id": "C486",
+  "owner": "Paul Abraham Belcher III",
+  "company": "City Plumbing and Rooter Az LlC",
+  "ts": "11:35:53",
+  "match_status": "FULL_MATCH",
+  "result": {
+   "firstName": "Paul",
+   "lastName": "Belcher",
+   "phone": "",
+   "mobilePhone": "(661) 993-7443",
+   "mobilePhoneDoNotCall": true,
+   "email": "paulb@cityplumbingrooter.com",
+   "jobTitle": "Chief Executive Officer",
+   "id": 4241700980,
+   "directPhoneDoNotCall": false,
+   "company": {
+    "id": 480137574
+   }
+  }
+ },
+ {
+  "row_id": "C490",
+  "owner": "John Wesley Close III",
+  "company": "All Affordable Plumbing, Restoration, and Air Conditioning",
+  "ts": "11:35:56",
+  "match_status": "FULL_MATCH",
+  "result": {
+   "firstName": "John",
+   "lastName": "Close",
+   "phone": "",
+   "mobilePhone": "(760) 909-1775",
+   "mobilePhoneDoNotCall": false,
+   "email": "",
+   "jobTitle": "",
+   "id": 8497086433,
+   "directPhoneDoNotCall": false,
+   "company": {
+    "id": 1262666769
+   }
+  }
+ },
+ {
+  "row_id": "C598",
+  "owner": "Daniel Wayne Lewis",
+  "company": "Certified Air Services, Inc",
+  "ts": "11:39:20",
+  "match_status": "FULL_MATCH",
+  "result": {
+   "firstName": "Daniel",
+   "lastName": "Lewis",
+   "phone": "(909) 620-8565",
+   "mobilePhone": "(714) 412-4601",
+   "mobilePhoneDoNotCall": true,
+   "email": "dan@certifiedairservices.com",
+   "jobTitle": "Owner",
+   "id": 1885650449,
+   "directPhoneDoNotCall": true,
+   "company": {
+    "id": 357125606
+   }
+  }
+ },
+ {
+  "row_id": "C673",
+  "owner": "Ragen Paul Hamilton",
+  "company": "Prescott Valley Heating and Cooling LLC",
+  "ts": "11:39:34",
+  "match_status": "FULL_MATCH",
+  "result": {
+   "firstName": "Ragen",
+   "lastName": "Hamilton",
+   "phone": "",
+   "mobilePhone": "(928) 420-6887",
+   "mobilePhoneDoNotCall": false,
+   "email": "ragen@pvhac.com",
+   "jobTitle": "Owner",
+   "id": 10028809882,
+   "directPhoneDoNotCall": false,
+   "company": {
+    "id": 457027077
+   }
+  }
+ },
+ {
+  "row_id": "C822",
+  "owner": "Jose G. Flores",
+  "company": "Reliable AC Repair Maricopa",
+  "ts": "11:39:55",
+  "match_status": "FULL_MATCH",
+  "result": {
+   "firstName": "Jose",
+   "lastName": "Flores",
+   "phone": "",
+   "mobilePhone": "+56 9 8513 7627",
+   "mobilePhoneDoNotCall": false,
+   "email": "jflores@nbpower.com",
+   "jobTitle": "Training, Substation & Terminal Design Engineering Engineer",
+   "id": 5764934729,
+   "directPhoneDoNotCall": false,
+   "company": {
+    "id": 56542439
+   }
+  }
+ },
+ {
+  "row_id": "C832",
+  "owner": "JOHN KIAH BROWN",
+  "company": "Catalyst Heating Service",
+  "ts": "11:39:57",
+  "match_status": "FULL_MATCH",
+  "result": {
+   "firstName": "John",
+   "lastName": "Brown",
+   "phone": "",
+   "mobilePhone": "(650) 922-2372",
+   "mobilePhoneDoNotCall": true,
+   "email": "john.brown@catsemi.com",
+   "jobTitle": "Industry Director",
+   "id": 8274674268,
+   "directPhoneDoNotCall": false,
+   "company": {
+    "id": 1126516619
+   }
+  }
+ },
+ {
+  "row_id": "C908",
+  "owner": "Antonio Jesus Diaz",
+  "company": "4D8 Electric, Inc.",
+  "ts": "11:40:07",
+  "match_status": "FULL_MATCH",
+  "result": {
+   "firstName": "Antonio",
+   "lastName": "Diaz",
+   "phone": "",
+   "mobilePhone": "(602) 574-7054",
+   "mobilePhoneDoNotCall": true,
+   "email": "antonio@4d8electric.com",
+   "jobTitle": "General Foreman",
+   "id": -886255155,
+   "directPhoneDoNotCall": false,
+   "company": {
+    "id": 1335114880
+   }
+  }
+ },
+ {
+  "row_id": "C925",
+  "owner": "Douglas Edward Skelton",
+  "company": "Sec Electrical Contractor LLC",
+  "ts": "11:40:22",
+  "match_status": "FULL_MATCH",
+  "result": {
+   "firstName": "Douglas",
+   "lastName": "Skelton",
+   "phone": "",
+   "mobilePhone": "(480) 202-8901",
+   "mobilePhoneDoNotCall": true,
+   "email": "",
+   "jobTitle": "Manager",
+   "id": 10028272091,
+   "directPhoneDoNotCall": false,
+   "company": {
+    "id": 398514790
+   }
+  }
+ },
+ {
+  "row_id": "C928",
+  "owner": "John Russell Marenghi",
+  "company": "Castle Electrical and Lighting LLC",
+  "ts": "11:40:24",
+  "match_status": "FULL_MATCH",
+  "result": {
+   "firstName": "John",
+   "lastName": "Marenghi",
+   "phone": "",
+   "mobilePhone": "(480) 837-8230",
+   "mobilePhoneDoNotCall": false,
+   "email": "john@castleaz.com",
+   "jobTitle": "Electrical Contractor",
+   "id": 2353053453,
+   "directPhoneDoNotCall": false,
+   "company": {
+    "id": 411614630
+   }
+  }
+ },
+ {
+  "row_id": "C931",
+  "owner": "Joshua Fredrick Beck",
+  "company": "Mountain Power Electrical Contractor Inc",
+  "ts": "11:40:25",
+  "match_status": "FULL_MATCH",
+  "result": {
+   "firstName": "Joshua",
+   "lastName": "Beck",
+   "phone": "",
+   "mobilePhone": "(520) 955-0202",
+   "mobilePhoneDoNotCall": true,
+   "email": "josh@mtnpower.com",
+   "jobTitle": "Owner",
+   "id": -2054507178,
+   "directPhoneDoNotCall": false,
+   "company": {
+    "id": 80479069
+   }
+  }
+ },
+ {
+  "row_id": "C946",
+  "owner": "Scott Olsen",
+  "company": "American Power LLC",
+  "ts": "11:40:34",
+  "match_status": "FULL_MATCH",
+  "result": {
+   "firstName": "Scott",
+   "lastName": "Olsen",
+   "phone": "",
+   "mobilePhone": "(480) 688-0776",
+   "mobilePhoneDoNotCall": true,
+   "email": "scott.olsen@amrpwr.com",
+   "jobTitle": "President & Chief Executive Officer",
+   "id": 1694649895,
+   "directPhoneDoNotCall": false,
+   "company": {
+    "id": 461802002
+   }
+  }
+ },
+ {
+  "row_id": "C968",
+  "owner": "David Edward Emory",
+  "company": "Emory Electric LLC",
+  "ts": "11:40:51",
+  "match_status": "FULL_MATCH",
+  "result": {
+   "firstName": "David",
+   "lastName": "Emory",
+   "phone": "(520) 790-2550",
+   "mobilePhone": "(520) 235-1044",
+   "mobilePhoneDoNotCall": true,
+   "email": "david@emoryelectric.biz",
+   "jobTitle": "Owner",
+   "id": 11257763285,
+   "directPhoneDoNotCall": true,
+   "company": {
+    "id": 39554486
+   }
+  }
+ },
+ {
+  "row_id": "C970",
+  "owner": "James Earl Szoke",
+  "company": "Crown Electric LLC",
+  "ts": "11:40:54",
+  "match_status": "FULL_MATCH",
+  "result": {
+   "firstName": "Jim",
+   "lastName": "Szoke",
+   "phone": "(623) 936-0100",
+   "mobilePhone": "(623) 910-8898",
+   "mobilePhoneDoNotCall": true,
+   "email": "jszoke@crownelectricaz.com",
+   "jobTitle": "Manager",
+   "id": 2428050396,
+   "directPhoneDoNotCall": true,
+   "company": {
+    "id": 345377638
+   }
+  }
+ },
+ {
+  "row_id": "C989",
+  "owner": "Donovan John Kay",
+  "company": "Kay Electric Inc",
+  "ts": "11:41:10",
+  "match_status": "FULL_MATCH",
+  "result": {
+   "firstName": "Donavon",
+   "lastName": "Kay",
+   "phone": "",
+   "mobilePhone": "(928) 536-2999",
+   "mobilePhoneDoNotCall": true,
+   "email": "",
+   "jobTitle": "Small Business Owner",
+   "id": 2361629115,
+   "directPhoneDoNotCall": false,
+   "company": {
+    "id": 411964419
+   }
+  }
+ }
+]

@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Acquisition CRM — Home Services Roll-Up</title>
+<style>
+:root{
+  --surface:#fcfcfb; --page:#f9f9f7; --ink:#0b0b0b; --ink2:#52514e; --muted:#898781;
+  --grid:#e1e0d9; --baseline:#c3c2b7; --ring:rgba(11,11,11,.10);
+  --s1:#2a78d6; --seq250:#86b6ef; --seq300:#6da7ec; --seq350:#5598e7; --seq400:#3987e5;
+  --seq450:#2a78d6; --seq500:#256abf; --seq550:#1c5cab; --seq600:#184f95; --seq650:#104281;
+  --good:#0ca30c; --warn:#fab219; --serious:#ec835a; --crit:#d03b3b; --goodtext:#006300;
+  --card:#ffffff;
+}
+@media (prefers-color-scheme:dark){
+  :root{
+    --surface:#1a1a19; --page:#0d0d0d; --ink:#ffffff; --ink2:#c3c2b7; --muted:#898781;
+    --grid:#2c2c2a; --baseline:#383835; --ring:rgba(255,255,255,.10);
+    --s1:#3987e5; --card:#222221; --goodtext:#0ca30c;
+  }
+}
+*{box-sizing:border-box;margin:0}
+body{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;background:var(--page);color:var(--ink);font-size:14px}
+header{background:var(--surface);border-bottom:1px solid var(--grid);padding:14px 24px;display:flex;align-items:center;gap:16px;flex-wrap:wrap;position:sticky;top:0;z-index:50}
+header h1{font-size:17px;font-weight:700}
+header h1 span{color:var(--muted);font-weight:400;font-size:13px;margin-left:8px}
+nav{display:flex;gap:4px;margin-left:auto;flex-wrap:wrap}
+nav button{border:1px solid transparent;background:none;color:var(--ink2);padding:7px 14px;border-radius:8px;cursor:pointer;font-size:13.5px;font-weight:500}
+nav button:hover{background:var(--page)}
+nav button.on{background:var(--s1);color:#fff}
+.btn{border:1px solid var(--ring);background:var(--card);color:var(--ink);padding:7px 13px;border-radius:8px;cursor:pointer;font-size:13px;font-weight:500}
+.btn:hover{border-color:var(--baseline)}
+.btn.primary{background:var(--s1);color:#fff;border-color:transparent}
+main{max-width:1280px;margin:0 auto;padding:22px 24px 60px}
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(148px,1fr));gap:12px;margin-bottom:20px}
+.tile{background:var(--card);border:1px solid var(--ring);border-radius:12px;padding:14px 16px}
+.tile .v{font-size:26px;font-weight:700;margin-top:2px}
+.tile .l{font-size:11.5px;color:var(--ink2);text-transform:uppercase;letter-spacing:.4px}
+.tile.crit .v{color:var(--crit)}
+.tile.warn .v{color:var(--ink)}
+.tile .sub{font-size:11px;color:var(--muted);margin-top:2px}
+.panel{background:var(--card);border:1px solid var(--ring);border-radius:12px;padding:18px;margin-bottom:20px}
+.panel h2{font-size:13px;text-transform:uppercase;letter-spacing:.5px;color:var(--ink2);margin-bottom:14px}
+.grid2{display:grid;grid-template-columns:1.3fr 1fr;gap:20px}
+@media(max-width:900px){.grid2{grid-template-columns:1fr}}
+.stagebar{display:grid;grid-template-columns:170px 1fr 90px;align-items:center;gap:10px;padding:4px 0;font-size:12.5px}
+.stagebar .nm{color:var(--ink2);text-align:right}
+.stagebar .track{height:18px;display:flex;align-items:center}
+.stagebar .fill{height:18px;border-radius:0 4px 4px 0;min-width:2px;transition:width .3s;cursor:pointer}
+.stagebar .ct{font-weight:600}
+.stagebar .eb{color:var(--muted);font-size:11.5px;margin-left:6px;font-weight:400}
+table{width:100%;border-collapse:collapse;font-size:13px}
+th{text-align:left;font-size:11px;text-transform:uppercase;letter-spacing:.4px;color:var(--muted);padding:8px 10px;border-bottom:1px solid var(--baseline);cursor:pointer;white-space:nowrap}
+td{padding:8px 10px;border-bottom:1px solid var(--grid);vertical-align:top}
+tr:hover td{background:var(--page)}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
+.chip{display:inline-block;padding:2px 9px;border-radius:20px;font-size:11.5px;font-weight:600;border:1px solid var(--ring)}
+.chip.hot{background:rgba(208,59,59,.12);color:var(--crit)}
+.chip.warm{background:rgba(236,131,90,.14);color:var(--serious)}
+.chip.cold,.chip.lukewarm{color:var(--ink2)}
+.chip.notint{color:var(--muted);text-decoration:line-through}
+.date-flag{font-weight:600;white-space:nowrap}
+.date-flag.over{color:var(--crit)}
+.date-flag.today{color:var(--ink);background:rgba(250,178,25,.25);padding:1px 6px;border-radius:4px}
+.toolbar{display:flex;gap:10px;margin-bottom:14px;flex-wrap:wrap;align-items:center}
+input,select,textarea{font:inherit;color:var(--ink);background:var(--card);border:1px solid var(--baseline);border-radius:8px;padding:7px 10px}
+input:focus,select:focus,textarea:focus{outline:2px solid var(--s1);outline-offset:-1px}
+.board{display:flex;gap:12px;overflow-x:auto;padding-bottom:12px}
+.col{min-width:230px;width:230px;flex-shrink:0;background:var(--surface);border:1px solid var(--ring);border-radius:12px;padding:10px}
+.col h3{font-size:11.5px;text-transform:uppercase;letter-spacing:.4px;color:var(--ink2);padding:4px 6px 10px;display:flex;justify-content:space-between}
+.col.dragover{outline:2px dashed var(--s1)}
+.card{background:var(--card);border:1px solid var(--ring);border-radius:10px;padding:10px 12px;margin-bottom:8px;cursor:grab;font-size:12.5px}
+.card b{font-size:13px;display:block;margin-bottom:3px}
+.card .m{color:var(--ink2);font-size:11.5px;margin-top:2px}
+.modal-bg{position:fixed;inset:0;background:rgba(0,0,0,.45);display:none;align-items:flex-start;justify-content:center;z-index:100;padding:30px 14px;overflow:auto}
+.modal-bg.open{display:flex}
+.modal{background:var(--card);border-radius:14px;padding:22px;width:100%;max-width:760px;border:1px solid var(--ring)}
+.modal h2{font-size:16px;margin-bottom:16px}
+.fgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:10px 12px}
+.fgrid label{display:flex;flex-direction:column;gap:4px;font-size:11.5px;color:var(--ink2);font-weight:500}
+.fgrid label.wide{grid-column:1/-1}
+.modal .actions{display:flex;gap:10px;justify-content:flex-end;margin-top:18px}
+.tooltip{position:fixed;background:var(--ink);color:var(--page);padding:6px 10px;border-radius:8px;font-size:12px;pointer-events:none;z-index:200;display:none;max-width:260px}
+.note{font-size:12px;color:var(--muted);margin-top:10px;line-height:1.5}
+.empty{color:var(--muted);padding:30px;text-align:center}
+.icon{font-weight:700;margin-right:3px}
+a.co{color:var(--s1);cursor:pointer;font-weight:600;text-decoration:none}
+</style>
+</head>
+<body>
+<header>
+  <h1>Acquisition CRM <span>Home Services Roll-Up</span></h1>
+  <nav>
+    <button class="on" data-v="dash">Dashboard</button>
+    <button data-v="board">Pipeline</button>
+    <button data-v="cos">Companies</button>
+    <button data-v="calls">Call Log</button>
+  </nav>
+  <button class="btn primary" onclick="openCall()">+ Log Call</button>
+  <button class="btn" onclick="openCo()">+ Company</button>
+  <button class="btn" onclick="openData()">Data ⇅</button>
+</header>
+<main>
+  <div id="v-dash"></div>
+  <div id="v-board" style="display:none"></div>
+  <div id="v-cos" style="display:none"></div>
+  <div id="v-calls" style="display:none"></div>
+</main>
+
+<div class="modal-bg" id="m-co"><div class="modal">
+  <h2 id="co-title">Add Company</h2>
+  <div class="fgrid" id="co-form"></div>
+  <div class="actions"><button class="btn" id="co-del" style="margin-right:auto;color:var(--crit)">Delete</button>
+  <button class="btn" onclick="close_('m-co')">Cancel</button><button class="btn primary" onclick="saveCo()">Save</button></div>
+</div></div>
+
+<div class="modal-bg" id="m-call"><div class="modal">
+  <h2>Log a Call</h2>
+  <div class="fgrid" id="call-form"></div>
+  <div class="note">Saving a call can update the company's interest and next-action date below it — keep those current.</div>
+  <div class="actions"><button class="btn" onclick="close_('m-call')">Cancel</button><button class="btn primary" onclick="saveCall()">Save Call</button></div>
+</div></div>
+
+<div class="modal-bg" id="m-data"><div class="modal">
+  <h2>Data — Import / Export</h2>
+  <p style="font-size:13px;line-height:1.6;color:var(--ink2);margin-bottom:14px">
+    <b style="color:var(--ink)">This app holds data in this browser tab only — it is not shared with your team and is lost when the tab closes.</b>
+    Export before you close. The CSV columns match the Google Sheet tracker exactly, so you can move data both ways. For 6+ people logging calls simultaneously, the Google Sheet is your system of record; use this app for solo call sessions or reviewing an exported snapshot.</p>
+  <div style="display:flex;gap:10px;flex-wrap:wrap">
+    <button class="btn primary" onclick="exportCSV('cos')">Export Companies CSV</button>
+    <button class="btn primary" onclick="exportCSV('calls')">Export Call Log CSV</button>
+    <button class="btn" onclick="document.getElementById('imp-cos').click()">Import Companies CSV</button>
+    <button class="btn" onclick="document.getElementById('imp-calls').click()">Import Call Log CSV</button>
+  </div>
+  <input type="file" id="imp-cos" accept=".csv" style="display:none" onchange="importCSV(this,'cos')">
+  <input type="file" id="imp-calls" accept=".csv" style="display:none" onchange="importCSV(this,'calls')">
+  <div style="margin-top:16px"><label style="font-size:12px;color:var(--ink2)">Team (comma-separated — feeds every Caller dropdown)</label>
+  <input id="team-input" style="width:100%;margin-top:6px" onchange="LISTS.callers=this.value.split(',').map(s=>s.trim()).filter(Boolean);render()"></div>
+  <div class="actions"><button class="btn" onclick="close_('m-data')">Close</button></div>
+</div></div>
+
+<div class="tooltip" id="tt"></div>
+
+<script>
+const STAGES=["1. Not Contacted","2. Attempting Contact","3. Conversation Held","4. Interested","5. NDA Signed","6. Financials Received","7. LOI Submitted","8. Diligence","9. Closed - Acquired","X. Dead / Not Interested"];
+const RAMP=["--seq250","--seq300","--seq350","--seq400","--seq450","--seq500","--seq550","--seq600","--seq650"];
+const LISTS={
+  trades:["HVAC","Plumbing","Electrical","HVAC + Plumbing","Multi-Trade"],
+  interest:["Hot","Warm","Lukewarm","Cold","Not Interested","Unknown"],
+  callers:["Xander","Rep 2","Rep 3","Rep 4","Rep 5","Rep 6","Rep 7","Rep 8"],
+  reached:["Owner (Decision Maker)","Voicemail","No Answer","Gatekeeper","Wrong Number"],
+  outcomes:["Meaningful Conversation","Meeting Set","Callback Scheduled","Left Voicemail","No Answer","Not Interested","Bad Number","Do Not Call"],
+  sources:["Google Maps scrape","Purchased list","Referral","BizBuySell","Broker","Trade association","Other"]
+};
+const CO_FIELDS=[["name","Company Name","text"],["trade","Trade","sel:trades"],["city","City","text"],["state","State","text"],
+["owner","Owner Name","text"],["cell","Owner Cell","text"],["office","Office Phone","text"],["email","Email","text"],
+["assigned","Assigned To","sel:callers"],["stage","Stage","sel:STAGES"],["interest","Interest","sel:interest"],
+["nextAction","Next Action","text"],["nextDate","Next Action Date","date"],["revenue","Est. Revenue ($)","number"],
+["ebitda","EBITDA / SDE ($)","number"],["asking","Asking Price ($)","number"],["employees","Employees","number"],
+["trucks","Trucks","number"],["resPct","% Residential (0-100)","number"],["years","Yrs in Biz","number"],
+["motivation","Owner Age / Motivation","text"],["source","Lead Source","sel:sources"],["notes","Notes","area"]];
+const CALL_FIELDS=[["date","Date","date"],["caller","Caller","sel:callers"],["company","Company","sel:COS"],
+["reached","Reached","sel:reached"],["outcome","Outcome","sel:outcomes"],["interest","Interest After Call","sel:interest"],
+["mins","Minutes","number"],["summary","Call Summary","area"],["nextStep","Next Step","text"],["followUp","Follow-Up Date","date"]];
+
+let cos=[],calls=[],editIdx=null,view="dash",sortKey="nextDate",sortAsc=true;
+const $=id=>document.getElementById(id);
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const fmt$=v=>v||v===0?"$"+Number(v).toLocaleString():"—";
+const todayStr=()=>{const d=new Date();return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0")};
+const weekStart=()=>{const d=new Date();const dow=(d.getDay()+6)%7;d.setDate(d.getDate()-dow);return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0")};
+const dflag=d=>{if(!d)return"";const t=todayStr();if(d<t)return`<span class="date-flag over"><span class="icon">!</span>${d} overdue</span>`;if(d===t)return`<span class="date-flag today">● ${d} today</span>`;return `<span class="date-flag">${d}</span>`};
+const chip=i=>{const cls={"Hot":"hot","Warm":"warm","Lukewarm":"lukewarm","Cold":"cold","Not Interested":"notint"}[i]||"";return i?`<span class="chip ${cls}">${esc(i)}</span>`:""};
+
+function seed(){
+  const T=todayStr(),off=n=>{const d=new Date();d.setDate(d.getDate()+n);return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0")};
+  cos=[
+    {name:"Desert Air Mechanical",trade:"HVAC",city:"Phoenix",state:"AZ",owner:"Mike Sandoval",cell:"602-555-0142",office:"602-555-0100",email:"mike@desertairmech.com",assigned:"Xander",stage:STAGES[3],interest:"Hot",nextAction:"Send NDA draft",nextDate:off(-2),revenue:4200000,ebitda:780000,asking:"",employees:22,trucks:14,resPct:85,years:19,motivation:"62, wants to retire in 2-3 yrs",source:"Purchased list",notes:"SAMPLE — Owner very receptive, no kids in the business"},
+    {name:"Sun Valley Plumbing",trade:"Plumbing",city:"Mesa",state:"AZ",owner:"Dana Whitfield",cell:"480-555-0177",office:"480-555-0150",email:"dana@sunvalleyplumb.com",assigned:"Rep 2",stage:STAGES[2],interest:"Warm",nextAction:"Call back after busy season",nextDate:T,revenue:2100000,ebitda:390000,asking:"",employees:11,trucks:8,resPct:70,years:12,motivation:"55, open if price is right",source:"Google Maps scrape",notes:"SAMPLE — Asked what multiple we pay"},
+    {name:"Cactus Electric Co",trade:"Electrical",city:"Tucson",state:"AZ",owner:"Ray Ortega",cell:"520-555-0133",office:"520-555-0120",email:"ray@cactuselectric.com",assigned:"Rep 3",stage:STAGES[1],interest:"Unknown",nextAction:"3rd dial attempt",nextDate:off(1),revenue:1500000,ebitda:"",asking:"",employees:8,trucks:6,resPct:60,years:9,motivation:"Unknown",source:"Google Maps scrape",notes:"SAMPLE — Voicemail full, try early AM"},
+    {name:"Copper State Heating & Cooling",trade:"HVAC",city:"Scottsdale",state:"AZ",owner:"Tom Brennan",cell:"480-555-0198",office:"480-555-0180",email:"tbrennan@copperstatehc.com",assigned:"Xander",stage:STAGES[5],interest:"Hot",nextAction:"Review P&L, prep IOI",nextDate:off(3),revenue:6800000,ebitda:1150000,asking:5500000,employees:34,trucks:21,resPct:90,years:24,motivation:"67, health issues, motivated",source:"Broker",notes:"SAMPLE — Broker deal, clean books"},
+    {name:"Rio Verde Plumbing & Rooter",trade:"Plumbing",city:"Glendale",state:"AZ",owner:"Luis Camacho",cell:"623-555-0161",office:"623-555-0140",email:"luis@rioverderooter.com",assigned:"Rep 2",stage:STAGES[9],interest:"Not Interested",nextAction:"",nextDate:"",revenue:900000,ebitda:"",asking:"",employees:5,trucks:4,resPct:95,years:7,motivation:"41, building for his kids",source:"Purchased list",notes:"SAMPLE — Hard no, re-approach in 5 yrs"},
+    {name:"Grand Canyon Air & Plumbing",trade:"HVAC + Plumbing",city:"Tempe",state:"AZ",owner:"Karen Doyle",cell:"480-555-0125",office:"480-555-0110",email:"karen@gcairplumbing.com",assigned:"Rep 4",stage:STAGES[0],interest:"Unknown",nextAction:"First dial",nextDate:off(1),revenue:3300000,ebitda:540000,asking:"",employees:17,trucks:11,resPct:75,years:15,motivation:"Unknown",source:"Trade association",notes:"SAMPLE"}
+  ];
+  calls=[
+    {date:off(-9),caller:"Xander",company:"Desert Air Mechanical",reached:"Owner (Decision Maker)",outcome:"Meaningful Conversation",interest:"Warm",mins:12,summary:"SAMPLE — Mike picked up, retiring thoughts, asked for callback",nextStep:"Call back Tues",followUp:off(-6)},
+    {date:off(-8),caller:"Rep 2",company:"Sun Valley Plumbing",reached:"Voicemail",outcome:"Left Voicemail",interest:"Unknown",mins:1,summary:"SAMPLE — Left VM with buyout angle",nextStep:"Redial in 2 days",followUp:off(-6)},
+    {date:off(-7),caller:"Rep 3",company:"Cactus Electric Co",reached:"No Answer",outcome:"No Answer",interest:"Unknown",mins:0,summary:"SAMPLE — No answer",nextStep:"Try early morning",followUp:off(-5)},
+    {date:off(-6),caller:"Xander",company:"Desert Air Mechanical",reached:"Owner (Decision Maker)",outcome:"Meeting Set",interest:"Hot",mins:22,summary:"SAMPLE — $4.2M rev, 14 trucks. Wants NDA before numbers",nextStep:"Send NDA",followUp:off(-2)},
+    {date:off(-6),caller:"Rep 2",company:"Sun Valley Plumbing",reached:"Owner (Decision Maker)",outcome:"Meaningful Conversation",interest:"Warm",mins:9,summary:"SAMPLE — Dana curious on valuation, busy season now",nextStep:"Call after Aug",followUp:T},
+    {date:off(-5),caller:"Rep 2",company:"Rio Verde Plumbing & Rooter",reached:"Owner (Decision Maker)",outcome:"Not Interested",interest:"Not Interested",mins:4,summary:"SAMPLE — Firm no, keeping for kids",nextStep:"",followUp:""},
+    {date:off(-2),caller:"Rep 3",company:"Cactus Electric Co",reached:"Voicemail",outcome:"Left Voicemail",interest:"Unknown",mins:1,summary:"SAMPLE — VM again",nextStep:"3rd attempt",followUp:off(1)},
+    {date:off(-1),caller:"Xander",company:"Copper State Heating & Cooling",reached:"Owner (Decision Maker)",outcome:"Meaningful Conversation",interest:"Hot",mins:31,summary:"SAMPLE — P&L received. $1.15M EBITDA. Wants $5.5M",nextStep:"Review + IOI",followUp:off(3)},
+    {date:T,caller:"Rep 4",company:"Grand Canyon Air & Plumbing",reached:"Gatekeeper",outcome:"Callback Scheduled",interest:"Unknown",mins:3,summary:"SAMPLE — Office manager says Karen back tomorrow",nextStep:"Call 8am tomorrow",followUp:off(1)}
+  ];
+}
+
+// ---------- views ----------
+function render(){
+  document.querySelectorAll("nav button").forEach(b=>b.classList.toggle("on",b.dataset.v===view));
+  ["dash","board","cos","calls"].forEach(v=>$( "v-"+v).style.display=v===view?"":"none");
+  ({dash:rDash,board:rBoard,cos:rCos,calls:rCalls})[view]();
+}
+const lastCall=n=>calls.filter(c=>c.company===n).map(c=>c.date).sort().pop()||"";
+const nCalls=n=>calls.filter(c=>c.company===n).length;
+
+function rDash(){
+  const T=todayStr(),W=weekStart();
+  const wk=calls.filter(c=>c.date>=W).length;
+  const dm=calls.filter(c=>c.reached==="Owner (Decision Maker)").length;
+  const rate=calls.length?Math.round(dm/calls.length*1000)/10:0;
+  const meet=calls.filter(c=>c.outcome==="Meeting Set").length;
+  const over=cos.filter(c=>c.nextDate&&c.nextDate<T).length;
+  const due=cos.filter(c=>c.nextDate===T).length;
+  const hot=cos.filter(c=>c.interest==="Hot").length;
+  const tiles=[["Target Companies",cos.length,""],["Calls Logged",calls.length,""],["Calls This Week",wk,"Mon–Sun"],
+    ["DM Reach Rate",rate+"%",dm+" of "+calls.length+" dials"],["Meetings Set",meet,""],
+    ["Overdue Follow-Ups",over,over?"▲ fix today":"clear","crit"],["Due Today",due,"","warn"],["Hot Targets",hot,""]];
+  let h='<div class="tiles">'+tiles.map(t=>`<div class="tile ${t[3]&&t[1]>0?t[3]:""}"><div class="l">${t[0]}</div><div class="v">${t[1]}</div>${t[2]?`<div class="sub">${t[2]}</div>`:""}</div>`).join("")+"</div>";
+
+  const max=Math.max(1,...STAGES.map(s=>cos.filter(c=>c.stage===s).length));
+  h+='<div class="grid2"><div class="panel"><h2>Pipeline by Stage</h2>';
+  STAGES.forEach((s,i)=>{
+    const list=cos.filter(c=>c.stage===s),ct=list.length;
+    const eb=list.reduce((a,c)=>a+(Number(c.ebitda)||0),0);
+    const color=i<9?`var(${RAMP[i]})`:"var(--baseline)";
+    h+=`<div class="stagebar"><div class="nm">${esc(s)}</div><div class="track"><div class="fill" style="width:${ct/max*100}%;background:${color}" data-tt="${esc(s)}: ${ct} companies${eb?", "+fmt$(eb)+" EBITDA":""}"></div></div><div><span class="ct">${ct}</span>${eb?`<span class="eb">${fmt$(eb)}</span>`:""}</div></div>`;
+  });
+  h+='<div class="note">Bar length = companies in stage. Hover a bar for EBITDA in that stage.</div></div>';
+
+  h+='<div class="panel"><h2>Team Activity</h2><table><tr><th>Caller</th><th class="num">Calls</th><th class="num">This Wk</th><th class="num">DM Convos</th><th class="num">Meetings</th></tr>';
+  LISTS.callers.forEach(p=>{
+    const mine=calls.filter(c=>c.caller===p);if(!mine.length&&!cos.some(c=>c.assigned===p))return;
+    h+=`<tr><td>${esc(p)}</td><td class="num">${mine.length}</td><td class="num">${mine.filter(c=>c.date>=W).length}</td><td class="num">${mine.filter(c=>c.reached==="Owner (Decision Maker)").length}</td><td class="num">${mine.filter(c=>c.outcome==="Meeting Set").length}</td></tr>`;
+  });
+  h+='</table></div></div>';
+
+  const flw=cos.filter(c=>c.nextDate&&c.nextDate<=T&&!c.stage.startsWith("X")).sort((a,b)=>a.nextDate<b.nextDate?-1:1);
+  h+='<div class="panel"><h2>Follow-Ups Due</h2>';
+  h+=flw.length?'<table><tr><th>When</th><th>Company</th><th>Owner</th><th>Next Action</th><th>Assigned</th><th>Stage</th></tr>'+flw.map(c=>`<tr><td>${dflag(c.nextDate)}</td><td><a class="co" onclick="openCo(${cos.indexOf(c)})">${esc(c.name)}</a></td><td>${esc(c.owner)}<div class="m" style="color:var(--muted);font-size:11.5px">${esc(c.cell)}</div></td><td>${esc(c.nextAction)}</td><td>${esc(c.assigned)}</td><td>${esc(c.stage)}</td></tr>`).join("")+'</table>':'<div class="empty">Nothing overdue or due today. Keep it that way.</div>';
+  h+='</div>';
+  $("v-dash").innerHTML=h;
+  hookTT();
+}
+
+function rBoard(){
+  let h='<div class="board">';
+  STAGES.forEach((s,i)=>{
+    const list=cos.filter(c=>c.stage===s);
+    h+=`<div class="col" data-stage="${i}" ondragover="event.preventDefault();this.classList.add('dragover')" ondragleave="this.classList.remove('dragover')" ondrop="drop(event,${i})"><h3><span>${esc(s)}</span><span>${list.length}</span></h3>`;
+    list.forEach(c=>{h+=`<div class="card" draggable="true" ondragstart="event.dataTransfer.setData('text/plain',${cos.indexOf(c)})" onclick="openCo(${cos.indexOf(c)})"><b>${esc(c.name)}</b>${chip(c.interest)}<div class="m">${esc(c.trade)} · ${esc(c.city)}</div><div class="m">${c.ebitda?fmt$(c.ebitda)+" EBITDA":""}</div><div class="m">${c.nextDate?dflag(c.nextDate):""}</div></div>`});
+    h+="</div>";
+  });
+  $("v-board").innerHTML=h+"</div>";
+}
+function drop(e,stageIdx){e.preventDefault();e.currentTarget.classList.remove("dragover");const i=Number(e.dataTransfer.getData("text/plain"));if(!isNaN(i)&&cos[i]){cos[i].stage=STAGES[stageIdx];render();}}
+
+function rCos(){
+  let h=`<div class="toolbar"><input id="q" placeholder="Search company / owner / city…" style="min-width:220px" oninput="rCosTable()">
+  <select id="f-trade" onchange="rCosTable()"><option value="">All trades</option>${LISTS.trades.map(t=>`<option>${t}</option>`).join("")}</select>
+  <select id="f-stage" onchange="rCosTable()"><option value="">All stages</option>${STAGES.map(t=>`<option>${t}</option>`).join("")}</select>
+  <select id="f-who" onchange="rCosTable()"><option value="">Everyone</option>${LISTS.callers.map(t=>`<option>${t}</option>`).join("")}</select></div><div id="cos-table"></div>`;
+  $("v-cos").innerHTML=h;rCosTable();
+}
+function rCosTable(){
+  const q=($("q")?.value||"").toLowerCase(),ft=$("f-trade")?.value,fs=$("f-stage")?.value,fw=$("f-who")?.value;
+  let list=cos.filter(c=>(!q||`${c.name} ${c.owner} ${c.city}`.toLowerCase().includes(q))&&(!ft||c.trade===ft)&&(!fs||c.stage===fs)&&(!fw||c.assigned===fw));
+  list.sort((a,b)=>{let x=a[sortKey]??"",y=b[sortKey]??"";if(sortKey==="ebitda"||sortKey==="revenue"){x=Number(x)||0;y=Number(y)||0}if(x===""&&y!=="")return 1;if(y===""&&x!=="")return -1;return (x<y?-1:x>y?1:0)*(sortAsc?1:-1)});
+  const th=(k,l,num)=>`<th class="${num?'num':''}" onclick="sortKey==='${k}'?sortAsc=!sortAsc:(sortKey='${k}',sortAsc=true);rCosTable()">${l}${sortKey===k?(sortAsc?" ▲":" ▼"):""}</th>`;
+  let h=`<div class="panel" style="overflow-x:auto"><table><tr>${th("name","Company")}${th("trade","Trade")}${th("owner","Owner")}${th("assigned","Assigned")}${th("stage","Stage")}${th("interest","Interest")}${th("nextDate","Next Action")}${th("revenue","Revenue",1)}${th("ebitda","EBITDA",1)}<th class="num">Calls</th></tr>`;
+  h+=list.map(c=>`<tr><td><a class="co" onclick="openCo(${cos.indexOf(c)})">${esc(c.name)}</a><div style="color:var(--muted);font-size:11.5px">${esc(c.city)}, ${esc(c.state)}</div></td><td>${esc(c.trade)}</td><td>${esc(c.owner)}<div style="color:var(--muted);font-size:11.5px">${esc(c.cell)}</div></td><td>${esc(c.assigned)}</td><td>${esc(c.stage)}</td><td>${chip(c.interest)}</td><td>${dflag(c.nextDate)}<div style="font-size:11.5px;color:var(--ink2)">${esc(c.nextAction)}</div></td><td class="num">${fmt$(c.revenue)}</td><td class="num">${fmt$(c.ebitda)}</td><td class="num">${nCalls(c.name)}</td></tr>`).join("");
+  h+=list.length?"</table></div>":`</table><div class="empty">No companies match.</div></div>`;
+  $("cos-table").innerHTML=h;
+}
+
+function rCalls(){
+  const sorted=[...calls].sort((a,b)=>a.date<b.date?1:-1);
+  let h='<div class="panel" style="overflow-x:auto"><table><tr><th>Date</th><th>Caller</th><th>Company</th><th>Reached</th><th>Outcome</th><th>Interest</th><th class="num">Min</th><th>Summary</th><th>Follow-Up</th></tr>';
+  h+=sorted.map(c=>`<tr><td style="white-space:nowrap">${esc(c.date)}</td><td>${esc(c.caller)}</td><td>${esc(c.company)}</td><td>${esc(c.reached)}</td><td>${esc(c.outcome)}</td><td>${chip(c.interest)}</td><td class="num">${esc(c.mins)}</td><td style="max-width:340px">${esc(c.summary)}${c.nextStep?`<div style="color:var(--ink2);font-size:11.5px">→ ${esc(c.nextStep)}</div>`:""}</td><td>${dflag(c.followUp)}</td></tr>`).join("");
+  h+=sorted.length?'</table></div>':'</table><div class="empty">No calls logged yet.</div></div>';
+  $("v-calls").innerHTML=h;
+}
+
+// ---------- forms ----------
+function field(f,val){
+  const [k,l,t]=f;
+  if(t==="area")return `<label class="wide">${l}<textarea id="f-${k}" rows="2">${esc(val)}</textarea></label>`;
+  if(t.startsWith("sel:")){const src=t.slice(4);const opts=src==="STAGES"?STAGES:src==="COS"?cos.map(c=>c.name):LISTS[src];
+    return `<label>${l}<select id="f-${k}"><option value=""></option>${opts.map(o=>`<option ${o===val?"selected":""}>${esc(o)}</option>`).join("")}</select></label>`}
+  return `<label>${l}<input id="f-${k}" type="${t}" value="${esc(val)}"></label>`;
+}
+function openCo(i=null){
+  editIdx=i;const c=i!==null?cos[i]:{stage:STAGES[0],interest:"Unknown"};
+  $("co-title").textContent=i!==null?"Edit — "+c.name:"Add Company";
+  $("co-form").innerHTML=CO_FIELDS.map(f=>field(f,c[f[0]]??"")).join("");
+  $("co-del").style.display=i!==null?"":"none";
+  $("co-del").onclick=()=>{if(confirm2()){cos.splice(editIdx,1);close_("m-co");render();}};
+  $("m-co").classList.add("open");
+}
+let confirmArm=false;
+function confirm2(){if(confirmArm){confirmArm=false;return true}confirmArm=true;$("co-del").textContent="Really delete?";setTimeout(()=>{confirmArm=false;if($("co-del"))$("co-del").textContent="Delete"},2500);return false}
+function saveCo(){
+  const c=editIdx!==null?cos[editIdx]:{};
+  CO_FIELDS.forEach(([k])=>c[k]=$("f-"+k).value);
+  if(!c.name){$("f-name").focus();return}
+  if(editIdx===null)cos.push(c);
+  close_("m-co");render();
+}
+function openCall(){
+  $("call-form").innerHTML=CALL_FIELDS.map(f=>field(f,f[0]==="date"?todayStr():"")).join("");
+  $("m-call").classList.add("open");
+}
+function saveCall(){
+  const c={};CALL_FIELDS.forEach(([k])=>c[k]=$("f-"+k).value);
+  if(!c.company||!c.date)return;
+  calls.push(c);
+  const co=cos.find(x=>x.name===c.company);
+  if(co){if(c.interest)co.interest=c.interest;if(c.followUp)co.nextDate=c.followUp;if(c.nextStep)co.nextAction=c.nextStep;
+    if(co.stage===STAGES[0])co.stage=STAGES[1];
+    if(c.reached==="Owner (Decision Maker)"&&(co.stage===STAGES[0]||co.stage===STAGES[1]))co.stage=STAGES[2];
+    if(c.outcome==="Not Interested"||c.outcome==="Do Not Call")co.stage=STAGES[9];}
+  close_("m-call");render();
+}
+const close_=id=>$(id).classList.remove("open");
+document.querySelectorAll(".modal-bg").forEach(m=>m.addEventListener("mousedown",e=>{if(e.target===m)close_(m.id)}));
+
+// ---------- data io ----------
+const CO_COLS=[["name","Company Name"],["trade","Trade"],["city","City"],["state","State"],["owner","Owner Name"],["cell","Owner Cell"],["office","Office Phone"],["email","Email"],["assigned","Assigned To"],["stage","Stage"],["interest","Interest"],["nextAction","Next Action"],["nextDate","Next Action Date"],["revenue","Est. Revenue ($)"],["ebitda","EBITDA / SDE ($)"],["asking","Asking Price ($)"],["employees","Employees"],["trucks","Trucks"],["resPct","% Residential"],["years","Yrs in Biz"],["motivation","Owner Age / Motivation"],["source","Lead Source"],["notes","Notes"]];
+const CALL_COLS=[["date","Date"],["caller","Caller"],["company","Company Name"],["reached","Reached"],["outcome","Outcome"],["interest","Interest After Call"],["mins","Mins"],["summary","Call Summary"],["nextStep","Next Step"],["followUp","Follow-Up Date"]];
+function openData(){$("team-input").value=LISTS.callers.join(", ");$("m-data").classList.add("open")}
+const csv=v=>{v=String(v??"");return /[",\n]/.test(v)?'"'+v.replace(/"/g,'""')+'"':v};
+function exportCSV(which){
+  const [rows,colsdef,fn]=which==="cos"?[cos,CO_COLS,"companies.csv"]:[calls,CALL_COLS,"call_log.csv"];
+  const out=[colsdef.map(c=>csv(c[1])).join(",")].concat(rows.map(r=>colsdef.map(c=>csv(r[c[0]])).join(","))).join("\n");
+  const a=document.createElement("a");a.href=URL.createObjectURL(new Blob([out],{type:"text/csv"}));a.download=fn;a.click();
+}
+function parseCSV(text){
+  const rows=[];let row=[],cur="",inQ=false;
+  for(let i=0;i<text.length;i++){const ch=text[i];
+    if(inQ){if(ch==='"'){if(text[i+1]==='"'){cur+='"';i++}else inQ=false}else cur+=ch}
+    else if(ch==='"')inQ=true;
+    else if(ch===","){row.push(cur);cur=""}
+    else if(ch==="\n"||ch==="\r"){if(ch==="\r"&&text[i+1]==="\n")i++;row.push(cur);cur="";if(row.some(v=>v!==""))rows.push(row);row=[]}
+    else cur+=ch}
+  row.push(cur);if(row.some(v=>v!==""))rows.push(row);
+  return rows;
+}
+function importCSV(inp,which){
+  const f=inp.files[0];if(!f)return;
+  f.text().then(t=>{
+    const rows=parseCSV(t);if(rows.length<2)return;
+    const hdr=rows[0],colsdef=which==="cos"?CO_COLS:CALL_COLS;
+    const map=colsdef.map(([k,label])=>[k,hdr.findIndex(h=>h.trim().toLowerCase()===label.toLowerCase())]);
+    const out=rows.slice(1).map(r=>{const o={};map.forEach(([k,ix])=>{if(ix>=0)o[k]=r[ix]??""});return o}).filter(o=>which==="cos"?o.name:o.date);
+    if(which==="cos")cos=out;else calls=out;
+    inp.value="";close_("m-data");render();
+  });
+}
+
+// ---------- misc ----------
+document.querySelectorAll("nav button").forEach(b=>b.onclick=()=>{view=b.dataset.v;render()});
+function hookTT(){
+  const tt=$("tt");
+  document.querySelectorAll("[data-tt]").forEach(el=>{
+    el.onmousemove=e=>{tt.style.display="block";tt.textContent=el.dataset.tt;tt.style.left=(e.clientX+14)+"px";tt.style.top=(e.clientY+10)+"px"};
+    el.onmouseleave=()=>tt.style.display="none";
+  });
+}
+seed();render();
+</script>
+</body>
+</html>

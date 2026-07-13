@@ -1,0 +1,70 @@
+[step2] starting: 63 targets | credits used so far: 89/700
+[1/63] Mr. Fix It of Sierra Vista               no mobile  <-- COMPANY NAME MISMATCH, verify before using
+[2/63] Huachuca Plumbing LLC                    no mobile
+[3/63] A Plus Plumbing                          no mobile
+[4/63] Rescue One Air Cooling, Heating & Plumbi no mobile
+[5/63] AirTime Cooling and Heating              no mobile
+[6/63] 911 Air Repair                           no mobile
+[7/63] Evans Air Conditioning & Heating         no mobile
+[8/63] Emergency Master Plumbing & Air          no mobile
+[9/63] Champion Air                             no mobile  <-- SUSPECT: email domain 'getchampion.com' != company domain 'championair.com', DO NOT USE without manual check
+[10/63] Air Central Heating & Cooling            no mobile
+[11/63] Mountainside Air Conditioning Repair     no mobile
+[12/63] Simba Plumbing LLC                       no mobile
+[13/63] AZ Quality Plumbing LLC                  no mobile
+[14/63] City Heating and Cooling LLC             no mobile  <-- SUSPECT: email domain 'gocityair.com' != company domain 'cityheatingandcooling.org', DO NOT USE without manual check
+[15/63] The Cooling & Plumbing Co                no mobile
+  --- credit check: 104/700 used (15 spent this run, expected ~15) ---
+[16/63] American Conditioned Air                 no mobile
+[17/63] Heath's Air LLC                          no mobile  <-- SUSPECT: email domain 'heathxs.com' != company domain 'heathsair.com', DO NOT USE without manual check
+[18/63] C&H Plumbing                             no mobile
+[19/63] Pro Solutions Air                        no mobile
+[20/63] Craig Plumbing Inc.                      no mobile
+[21/63] HilCo Air Conditioning & Heating         no mobile  <-- COMPANY NAME MISMATCH, verify before using
+[22/63] Neighborhood Plumber & Drain Service     no mobile
+[23/63] AC Solutions Air Conditioning and Heatin no mobile
+[24/63] Pink Plumbing and Sewer                  no mobile  <-- COMPANY NAME MISMATCH, verify before using
+[25/63] Mountain Comfort Heating & Cooling, Inc. no mobile  <-- COMPANY NAME MISMATCH, verify before using
+[26/63] Total Care Heating & Cooling LLC         no mobile
+[27/63] Greenwood Air                            no mobile
+[28/63] Affordable Plumbing Solutions            no mobile
+[29/63] Polar Cooling                            no mobile
+[30/63] Eagle Plumbing 1 LLC                     no mobile
+  --- credit check: 119/700 used (30 spent this run, expected ~30) ---
+[31/63] Berg's Heating & Air Conditioning Co.    no mobile  <-- COMPANY NAME MISMATCH, verify before using
+[32/63] Hub Heating and Cooling                  no mobile
+[33/63] Alphabet Plumbing & Rooter Inc           no mobile
+[34/63] Payson Plumbing Solutions                no mobile
+[35/63] Mountain High Plumbing Inc               no mobile
+[36/63] Antrim Air                               no mobile
+[37/63] San Tan Air                              no mobile
+[38/63] Wild West Mechanical Heating and Cooling no mobile
+[39/63] By choice heating and air                no mobile  <-- COMPANY NAME MISMATCH, verify before using
+[40/63] Papa Charlie's Heating-Cooling           no mobile  <-- COMPANY NAME MISMATCH, verify before using
+[41/63] GML Plumbing                             no mobile
+[42/63] Copper State Plumbing Services LLC       no mobile
+[43/63] Paragon Plumbing Inc                     no mobile
+[44/63] Elston HVAC                              no mobile  <-- COMPANY NAME MISMATCH, verify before using
+[45/63] The Cool Dude LLC                        no mobile
+  --- credit check: 134/700 used (45 spent this run, expected ~45) ---
+[46/63] O'Connor Heating & Cooling               no mobile
+[47/63] Hercules Industries                      no mobile
+[48/63] PCS Air Conditioning                     no mobile
+[49/63] AZ Auto Air                              no mobile
+[50/63] Central Arizona Supply                   no mobile
+[51/63] D&H Air Conditioning & Heating & Plumbin no mobile
+[52/63] Ground Zero Plumbing, AC and Electrical  no mobile  <-- SUSPECT: email domain 'groundzeromidwest.com' != company domain 'groundzeroplumbingac.com', DO NOT USE without manual check
+[53/63] 100% Plumbing                            no mobile
+[54/63] AZ Super Plumber - The Plumbing Store    no mobile  <-- COMPANY NAME MISMATCH, verify before using
+[55/63] Maloney Plumbing & Drain Services in Pho no mobile  <-- SUSPECT: email domain 'wjmaloney.com' != company domain 'maloneyplumbing.com', DO NOT USE without manual check
+[56/63] All Pro AC                               no mobile
+[57/63] MVP Plumbing                             no mobile
+[58/63] Wood's Plumbing Enterprises LLC          no mobile
+[59/63] 24/7 Craig Plumbing Bullhead City AZ     no mobile
+[60/63] Foothills Air Conditioning               no mobile
+  --- credit check: 148/700 used (59 spent this run, expected ~60) ---
+[61/63] High Efficiency Air Conditioning Inc.    no mobile
+[62/63] halls plumbing                           SKIP - no owner id
+[63/63] Hughes Supply Buckeye                    no mobile
+
+[step2] FINISHED - 0 mobiles found | credits used this run: 61 | total used: 150/700

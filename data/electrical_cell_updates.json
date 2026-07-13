@@ -1,0 +1,121 @@
+[
+ {
+  "row_id": "C907",
+  "company": "2nd Generation Electric LLC",
+  "mobile": "(505) 373-5344",
+  "dnc": false,
+  "email": null
+ },
+ {
+  "row_id": "C909",
+  "company": "American Solar Electric Inc",
+  "mobile": "(480) 258-2947",
+  "dnc": false,
+  "email": "sean.seitz@americansolarandroofing.com"
+ },
+ {
+  "row_id": "C912",
+  "company": "Goodman Contracting Inc",
+  "mobile": "(801) 661-5105",
+  "dnc": true,
+  "email": "tom@goodmanelectric.net"
+ },
+ {
+  "row_id": "C918",
+  "company": "Thomas Electrical Inc",
+  "mobile": "(574) 340-8600",
+  "dnc": false,
+  "email": "skirkpatrick@thomaselectricalinc.com"
+ },
+ {
+  "row_id": "C926",
+  "company": "A Team Electrical Services Inc",
+  "mobile": "(928) 830-3386",
+  "dnc": true,
+  "email": null
+ },
+ {
+  "row_id": "C941",
+  "company": "Black Rock Power Systems LLC",
+  "mobile": "(928) 715-7370",
+  "dnc": true,
+  "email": null
+ },
+ {
+  "row_id": "C943",
+  "company": "Titan Power Inc",
+  "mobile": "(480) 861-4620",
+  "dnc": true,
+  "email": "aberney@titanpower.com"
+ },
+ {
+  "row_id": "C944",
+  "company": "Chamberlin Power LLC",
+  "mobile": "(321) 948-6197",
+  "dnc": false,
+  "email": "jose@chamberlinpower.com"
+ },
+ {
+  "row_id": "C947",
+  "company": "WolfPack Power Electric LLC",
+  "mobile": "(702) 544-1986",
+  "dnc": false,
+  "email": "damonbiddix@wolfpackpowerelectric.com"
+ },
+ {
+  "row_id": "C952",
+  "company": "Faulk Electric Corporation",
+  "mobile": "(520) 471-0040",
+  "dnc": true,
+  "email": "kim@faulkelectric.com"
+ },
+ {
+  "row_id": "C953",
+  "company": "Giant Electric Corporation",
+  "mobile": "(623) 204-2244",
+  "dnc": true,
+  "email": null
+ },
+ {
+  "row_id": "C971",
+  "company": "Farris Electric LLC",
+  "mobile": "(828) 217-7230",
+  "dnc": true,
+  "email": "davidm@farriselectric.com"
+ },
+ {
+  "row_id": "C976",
+  "company": "Harmon Electric, Inc.",
+  "mobile": "(602) 818-5862",
+  "dnc": true,
+  "email": "julieking@harmonelectric.net"
+ },
+ {
+  "row_id": "C979",
+  "company": "AMS Electric Inc",
+  "mobile": "(602) 741-4495",
+  "dnc": true,
+  "email": "wade@ams24hr.com"
+ },
+ {
+  "row_id": "C982",
+  "company": "Stark Electric Inc",
+  "mobile": "(520) 349-1048",
+  "dnc": true,
+  "email": "bstark@starkelectric.com"
+ },
+ {
+  "row_id": "C990",
+  "company": "Golka Electric Inc",
+  "mobile": "(480) 250-9870",
+  "dnc": true,
+  "email": "gary@golkaelectric.com"
+ },
+ {
+  "row_id": "C993",
+  "company": "Swain Electric, Inc.",
+  "mobile": "(316) 393-3097",
+  "dnc": true,
+  "email": "djeff@swainelectric.com"
+ }
+]
