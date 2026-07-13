@@ -1,0 +1,101 @@
+[
+  {
+    "id": "NM0021",
+    "company_name": "Roadrunner Plumbing",
+    "owner_name": "",
+    "owner_title": "",
+    "owner_linkedin_url": "",
+    "office_phone": "(575) 491-3447",
+    "confidence_notes": "Owner not found after multiple searches. Company website (roadrunner4u.com) has no About/Team page content available; general web listings (BuildZoom, D&B, Yelp) list Angel Ruiz and Don Montgomery as associated names but do not clearly identify either as owner, so not reported. Phone from Yelp listing (3016 Thunder Rd, Alamogordo)."
+  },
+  {
+    "id": "NM0023",
+    "company_name": "Home Plumbing & Heating",
+    "owner_name": "Frank Martinez",
+    "owner_title": "Owner",
+    "owner_linkedin_url": "",
+    "office_phone": "(505) 334-9353",
+    "confidence_notes": "Owner name and phone found directly on company website (hpheatingandplumbing.com), which describes it as a second-generation family business since 1974. No confident LinkedIn match found among several Frank Martinez profiles searched (none matched Aztec, NM plumbing)."
+  },
+  {
+    "id": "NM0026",
+    "company_name": "DUB-L-EE Construction, Plumbing & Heating",
+    "owner_name": "Eddie W. Saiz Sr.",
+    "owner_title": "Owner (co-owned with son Eddie J. Saiz Jr., also Owner)",
+    "owner_linkedin_url": "",
+    "office_phone": "(505) 292-1684",
+    "confidence_notes": "Two owners found on company Our Team page (dub-l-ee.com/our-team/): Eddie Sr. (founder, general construction/utilities) and Eddie Jr. (plumbing/mechanical), both titled 'Owner'. Multiple LinkedIn profiles for 'Eddie Saiz' found but could not confidently distinguish Sr. vs Jr., so LinkedIn left blank. Worth flagging: two co-owners, either could be the primary acquisition contact."
+  },
+  {
+    "id": "NM0028",
+    "company_name": "National Heating & Ventilating",
+    "owner_name": "Matthew Carson",
+    "owner_title": "Owner & President",
+    "owner_linkedin_url": "https://www.linkedin.com/in/matthew-carson-3b344192/",
+    "office_phone": "505-242-5828",
+    "confidence_notes": "Matches apollo_hint 'Matthew Ca...n' exactly (Carson). LinkedIn profile lists him at National Heating & Ventilating Co. and CA Systems, Inc., Albuquerque, matching apollo hint title. Flag: some older/third-party sources (search snippets) reference Dana Skaar/Sidney Skaar as President/VP - likely outdated or a different historical leadership period for this 80+ year old company; going with Matthew Carson as current per LinkedIn + apollo hint match."
+  },
+  {
+    "id": "NM0033",
+    "company_name": "Roadrunner Air Conditioning , Heating & Refrigeration",
+    "owner_name": "Derek Cunningham",
+    "owner_title": "Owner & President",
+    "owner_linkedin_url": "https://www.linkedin.com/in/derek-cunningham-65411050/",
+    "office_phone": "(505) 404-6941",
+    "confidence_notes": "Confirmed via web search snippet titled 'Derek Cunningham - President at Roadrunner Air Conditioning, Heating & Refrigeration, Inc. | LinkedIn' (exact company name match) and other sources listing him as Owner. Flag: a second LinkedIn profile (linkedin.com/in/derek-cunningham-39a53435/) also references the same company - possibly a duplicate/old profile; used the more complete one."
+  },
+  {
+    "id": "NM0034",
+    "company_name": "Zuni Electric",
+    "owner_name": "Bryce Eaton",
+    "owner_title": "Founder and Owner",
+    "owner_linkedin_url": "https://www.linkedin.com/in/bryce-eaton-82720611b/",
+    "office_phone": "575-437-6514",
+    "confidence_notes": "Owner name and phone from company website (zunielectric.com), founded 1984. LinkedIn confirmed via search showing 'Bryce Eaton - Zuni Electric Inc' located in Alamogordo, distinguished from several other same-name LinkedIn profiles in unrelated fields."
+  },
+  {
+    "id": "NM0035",
+    "company_name": "Fulkerson Plumbing",
+    "owner_name": "Braxton Fulkerson",
+    "owner_title": "Owner (apollo hint listed as President)",
+    "owner_linkedin_url": "https://www.linkedin.com/in/braxton-fulkerson-616162174/",
+    "office_phone": "575-622-1600",
+    "confidence_notes": "Matches apollo_hint 'Braxton Fu...n' exactly (Fulkerson). Confirmed on company 'Meet the Team' page as Owner. LinkedIn profile confirmed with 'FULKERSON PLUMBING & HEATING CO., INC.', Roswell location."
+  },
+  {
+    "id": "NM0037",
+    "company_name": "V A Electric",
+    "owner_name": "Don Aragon",
+    "owner_title": "President",
+    "owner_linkedin_url": "https://www.linkedin.com/in/don-aragon-63623a3a/",
+    "office_phone": "(505) 433-5885",
+    "confidence_notes": "Family-owned business; founder Vicente Aragon and wife Katharine remain board members, son Don Aragon is President (day-to-day operations), another son Vince Aragon is VP. Don Aragon chosen as primary contact given President title and confirmed LinkedIn match. Worth flagging: multiple family members in leadership, any could be relevant to acquisition outreach."
+  },
+  {
+    "id": "NM0040",
+    "company_name": "Mechanical Products SW",
+    "owner_name": "Mark Cunningham / Joe Gombar",
+    "owner_title": "Co-Presidents",
+    "owner_linkedin_url": "https://www.linkedin.com/in/mark-cunningham-b911612b/",
+    "office_phone": "602-288-4920",
+    "confidence_notes": "AMBIGUOUS - flag for review. All 3 apollo hints matched real people: Frank Schmitt (Sc...t) is listed by several sources as 'President', while a company announcement states 'MPSW Names Mark Cunningham & Joe Gombar as Co-Presidents' (matching Cu...m and Go...r hints) - appears to be a recent leadership transition from Schmitt to Cunningham/Gombar, but exact current status unclear. Also, mpswinc.com domain redirects to mpsw.com, whose contact page lists Phoenix/Tucson/Albuquerque NM offices, NOT Gallup (the city in our source data) - a separate 'Mechanical Southwest Inc' also exists at 108 W Maloney Ave, Gallup, NM, phone (505) 722-6501, which may or may not be the same entity. Phone reported here is the mpsw.com corporate HQ number (Phoenix); Joe Gombar LinkedIn also available: https://www.linkedin.com/in/joe-gombar-427204287."
+  },
+  {
+    "id": "NM0041",
+    "company_name": "Privett Electric",
+    "owner_name": "Eddy Privett",
+    "owner_title": "Owner",
+    "owner_linkedin_url": "",
+    "office_phone": "(575) 226-2115",
+    "confidence_notes": "Owner and phone found via web search (multiple directory listings); family-owned since 1996, employees include Dylan Lee Privett and Eddy Lee Privett. No confident LinkedIn match - searches for 'Eddy/Eddie Privett' returned unrelated profiles (e.g., a Florida therapy-equipment company owner), so left blank rather than guessing."
+  },
+  {
+    "id": "NM0043",
+    "company_name": "Varco Electric",
+    "owner_name": "Anthony Fierro",
+    "owner_title": "General Manager",
+    "owner_linkedin_url": "https://www.linkedin.com/in/anthony-fierro-860716105/",
+    "office_phone": "(575) 887-0181",
+    "confidence_notes": "AMBIGUOUS - flag for review. Anthony Fierro matches apollo_hint 'Anthony Fi...o' exactly (Fierro) and is confirmed as General Manager via LinkedIn and D&B/ZoomInfo. However, a separate source (Blue Book directory) lists Jeremy Vargas as the actual Owner of Varco Electric LLC - no LinkedIn found for Vargas. Reported Fierro since he matches the verified apollo hint and title, but Jeremy Vargas may be the more relevant acquisition contact as owner."
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "id": "NM0046",
+    "company_name": "Total Plumbing",
+    "owner_name": "Ruben Mendez",
+    "owner_title": "Owner",
+    "owner_linkedin_url": "https://www.linkedin.com/in/ruben-mendez-82a32217b/",
+    "office_phone": "(505) 385-4713",
+    "confidence_notes": "Owner first name 'Ruben' confirmed via multiple Yelp/customer reviews of the company; full name and title confirmed via a matching LinkedIn profile titled 'Company Owner at Total Plumbing'. Company's own domain (totalplumbingnm.com) has an SSL cert mismatch and could not be fetched directly, but the phone number and email (mendezrm@cableone.net) surfaced in search results corroborate the surname Mendez. Phone from Yelp/BBB-linked directory listings, consistent across sources."
+  },
+  {
+    "id": "NM0047",
+    "company_name": "Medlin Mechanical",
+    "owner_name": "Herschel \"Trey\" Medlin",
+    "owner_title": "Owner/President",
+    "owner_linkedin_url": "https://www.linkedin.com/in/trey-medlin-89b4ab27/",
+    "office_phone": "(505) 577-8087",
+    "confidence_notes": "Owner/title confirmed via BBB business profile listing Herschel 'Trey' Medlin as Owner/President and principal contact. LinkedIn profile lists him at 'Medlin Mechanical' in Glorieta, NM (a small community near Santa Fe) — high confidence match. Phone from BBB profile."
+  },
+  {
+    "id": "NM0049",
+    "company_name": "Nightlight Electric",
+    "owner_name": "Roger Sheak",
+    "owner_title": "Owner/President",
+    "owner_linkedin_url": "https://www.linkedin.com/in/roger-sheak-20619814/",
+    "office_phone": "(505) 327-6565",
+    "confidence_notes": "FLAG - conflicting info: company's own About page (nightlightelectric.com/about) and LinkedIn (title 'President - Nightlight Electric Company') both name Roger Sheak as owner/leader, so he is reported here. However, the apollo_hint given was 'Tom Pe...o, CEO', and a LinkedIn profile for a 'Tom Perdomo' also claims 'CEO at Nightlight Electric' — but that profile lists his location as the Los Angeles Metro Area, which is inconsistent with a Farmington, NM-based company and could not be corroborated on the company's own site. Worth manually confirming whether there are two leadership roles (e.g., local owner vs. an out-of-state corporate/franchise CEO) before outreach. Phone from company website (505 line; a separate Colorado number also exists)."
+  },
+  {
+    "id": "NM0054",
+    "company_name": "Rmc Electric",
+    "owner_name": "Randy Morales",
+    "owner_title": "Owner",
+    "owner_linkedin_url": "",
+    "office_phone": "(505) 321-7842",
+    "confidence_notes": "Owner name/title confirmed via BBB business profile (principal and customer contact listed as 'Mr. Randy Morales, Owner'). No company website exists (domain field was blank). Searched LinkedIn directly for 'Randy Morales' + RMC Electric/Albuquerque; multiple people with this name appeared but none matched this company/location, so LinkedIn marked not found rather than guessed. Phone from BBB profile."
+  },
+  {
+    "id": "NM0059",
+    "company_name": "Maddox Plumbing",
+    "owner_name": "Kevin Maddox",
+    "owner_title": "President",
+    "owner_linkedin_url": "https://www.linkedin.com/in/kevin-maddox-04371814b/",
+    "office_phone": "(575) 526-3929",
+    "confidence_notes": "Matches apollo_hint 'Kevin Ma...x, President'. Confirmed via BBB profile and LinkedIn, which explicitly reads 'Kevin Maddox - President - MADDOX PLUMBING INC' — high confidence. Company founded in 1981 by Larry Maddox (likely Kevin's father/relative); Kevin is current President/CEO. Phone from BBB business profile."
+  },
+  {
+    "id": "NM0060",
+    "company_name": "Sun City Plumbing & Heating",
+    "owner_name": "David Olguin",
+    "owner_title": "President",
+    "owner_linkedin_url": "",
+    "office_phone": "(575) 526-9758",
+    "confidence_notes": "Owner confirmed via BBB profile ('Mr. David Olguin, President') and myHomePro listing. Jason Olguin (likely a relative) is VP/General Manager and has a LinkedIn profile, but no confident LinkedIn profile for David Olguin himself was found after several searches, so marked not found. Phone (575) 526-9758 is corroborated across BBB, myHomePro, Allbiz, and Chamber of Commerce listings; note the company's current website (youknowsuncity.com) instead displays (575) 777-9758 as its main line — worth confirming which is currently active before outreach."
+  },
+  {
+    "id": "NM0062",
+    "company_name": "Daniels Plumbing",
+    "owner_name": "Daniel Jaramillo",
+    "owner_title": "Founder/Owner",
+    "owner_linkedin_url": "https://www.linkedin.com/in/daniel-jaramillo-7a6646127/",
+    "office_phone": "505-908-3599",
+    "confidence_notes": "Founder confirmed via an nmmarketplace.com feature article stating 'In 2010 Daniel Jaramillo founded Daniels Plumbing, Heating and Air Conditioning, LLC.' LinkedIn profile lists him at 'Daniels Heating & Air Conditioning, LLC' in Albuquerque — same parent company (legal name is 'Daniels Plumbing, Heating and Air Conditioning, LLC'), reasonably confident match though exact LinkedIn title wasn't visible. Company is headquartered in Albuquerque with a separate Santa Fe office; phone listed here is the Santa Fe-specific line from danielshvacnm.com/santa-fe/."
+  },
+  {
+    "id": "NM0065",
+    "company_name": "RA Biel Plumbing & Heating",
+    "owner_name": "Mark Biel",
+    "owner_title": "Owner",
+    "owner_linkedin_url": "https://www.linkedin.com/in/mark-biel-b81b8a13",
+    "office_phone": "(505) 278-5112",
+    "confidence_notes": "Confirms apollo_hint 'Mark Bi...l, Owner' — confirmed via company's own 'Meet the Team' page (rabielplumbing.com/meet-the-team) and LinkedIn (title reads 'Mark Biel - Owner, R.A. Biel Plumbing & Heating Inc.') — high confidence. Second apollo_hint 'Aaron Bi...l, General Manager' also confirmed as Aaron Biel, General Manager, via the same company page (likely a family member; company has been family-owned since 1988). Phone is the New Mexico office number from the company's own site; a separate Durango, CO number (970-601-8585) also exists for a second location."
+  },
+  {
+    "id": "NM0067",
+    "company_name": "Robbins Heating & Air Conditioning",
+    "owner_name": "Michelle Robbins",
+    "owner_title": "Owner",
+    "owner_linkedin_url": "https://www.linkedin.com/in/michelle-robbins-b2485645/",
+    "office_phone": "(505) 595-2790",
+    "confidence_notes": "Matches apollo_hint 'Michelle Ro...s, Owner'. Confirmed via company's own About page (robbinshvaconline.com), which states 'owners Steve and Michelle founded Robbins Heating & Air Conditioning in 2003' — Michelle is co-owner with her husband Steve Robbins (also has his own 'Meet the Owner' page on the site). LinkedIn title exactly matches 'Owner at Robbins Heating & Air Conditioning, LLC' — high confidence. Phone from company website."
+  },
+  {
+    "id": "NM0068",
+    "company_name": "The Electric Horseman",
+    "owner_name": "Dennis Lucero",
+    "owner_title": "Owner",
+    "owner_linkedin_url": "",
+    "office_phone": "(505) 454-4700",
+    "confidence_notes": "Owner name/title confirmed directly via BBB business profile, which lists 'Mr. Dennis Lucero' as both Owner and Principal Contact. No company website exists (domain field was blank). Searched LinkedIn for 'Dennis Lucero' + Electric Horseman/New Mexico; several New Mexico-based Dennis Lucero profiles appeared (Albuquerque area) but none explicitly referenced this company, so LinkedIn marked not found rather than guessed. Phone from BBB/business directory listings."
+  },
+  {
+    "id": "NM0069",
+    "company_name": "Caitco Drainworks",
+    "owner_name": "Chris Wilson",
+    "owner_title": "President",
+    "owner_linkedin_url": "https://www.linkedin.com/in/chris-wilson-62a704169/",
+    "office_phone": "(505) 424-9191",
+    "confidence_notes": "Not prominently listed on the company website; confirmed via a santafe.com feature story ('Santa Fe Stories: Caitco Drainworks Chris Wilson') and BBB profile listing 'Mr. Chris Wilson' as President/principal contact. LinkedIn profile found for a Chris Wilson in the Santa Fe/Albuquerque area lists his title as 'Plumber at CaitCo Drainworks' rather than President — same person and company (exact company name match), but title differs from BBB, so moderate confidence on the LinkedIn match specifically. Phone from BBB/company listings."
+  }
+]

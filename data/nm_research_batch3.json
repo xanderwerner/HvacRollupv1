@@ -1,0 +1,108 @@
+[
+  {
+    "id": "NM0046",
+    "name": "Total Plumbing",
+    "domain": "totalplumbingnm.com",
+    "city": "Rio Rancho",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0047",
+    "name": "Medlin Mechanical",
+    "domain": "medlinmechanical.com",
+    "city": "Santa Fe",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0049",
+    "name": "Nightlight Electric",
+    "domain": "nightlightelectric.com",
+    "city": "Farmington",
+    "apollo_hints": [
+      {
+        "first_name": "Tom",
+        "last_initial": "Pe...o",
+        "title": "CEO"
+      }
+    ]
+  },
+  {
+    "id": "NM0054",
+    "name": "Rmc Electric",
+    "domain": "",
+    "city": "Albuquerque",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0059",
+    "name": "Maddox Plumbing",
+    "domain": "maddoxplumbinginc.com",
+    "city": "Las Cruces",
+    "apollo_hints": [
+      {
+        "first_name": "Kevin",
+        "last_initial": "Ma...x",
+        "title": "President"
+      }
+    ]
+  },
+  {
+    "id": "NM0060",
+    "name": "Sun City Plumbing & Heating",
+    "domain": "youknowsuncity.com",
+    "city": "Las Cruces",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0062",
+    "name": "Daniels Plumbing",
+    "domain": "danielshvacnm.com",
+    "city": "Santa Fe",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0065",
+    "name": "RA Biel Plumbing & Heating",
+    "domain": "rabielplumbing.com",
+    "city": "Farmington",
+    "apollo_hints": [
+      {
+        "first_name": "Aaron",
+        "last_initial": "Bi...l",
+        "title": "General Manager"
+      },
+      {
+        "first_name": "Mark",
+        "last_initial": "Bi...l",
+        "title": "Owner"
+      }
+    ]
+  },
+  {
+    "id": "NM0067",
+    "name": "Robbins Heating & Air Conditioning",
+    "domain": "robbinshvaconline.com",
+    "city": "Farmington",
+    "apollo_hints": [
+      {
+        "first_name": "Michelle",
+        "last_initial": "Ro...s",
+        "title": "Owner"
+      }
+    ]
+  },
+  {
+    "id": "NM0068",
+    "name": "The Electric Horseman",
+    "domain": "",
+    "city": "Las Vegas",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0069",
+    "name": "Caitco Drainworks",
+    "domain": "caitcocares.com",
+    "city": "Santa Fe",
+    "apollo_hints": []
+  }
+]

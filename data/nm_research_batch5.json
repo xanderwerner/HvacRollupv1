@@ -1,0 +1,90 @@
+[
+  {
+    "id": "NM0087",
+    "name": "VICA Heating and Air Conditioning",
+    "domain": "vicahvac.com",
+    "city": "Albuquerque",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0088",
+    "name": "Enoch Mechanical",
+    "domain": "enochmechanical.com",
+    "city": "Las Cruces",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0089",
+    "name": "Precision Electric",
+    "domain": "precisionelectricnm.com",
+    "city": "Dexter",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0090",
+    "name": "Southwestern Electrical Contracting",
+    "domain": "southwesternelectrical.com",
+    "city": "Alamogordo",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0092",
+    "name": "TRC Plumbing",
+    "domain": "trcplumbing.com",
+    "city": "Farmington",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0093",
+    "name": "KDC Mechanical",
+    "domain": "kdc-mechanical.com",
+    "city": "Albuquerque",
+    "apollo_hints": [
+      {
+        "first_name": "Cory",
+        "last_initial": "Du...y",
+        "title": "Vice President"
+      },
+      {
+        "first_name": "Kelly",
+        "last_initial": "Lu...o",
+        "title": "VP of Operations"
+      }
+    ]
+  },
+  {
+    "id": "NM0097",
+    "name": "The Air Conditioning",
+    "domain": "theacco.com",
+    "city": "Anthony",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0099",
+    "name": "Western Mechanical",
+    "domain": "western-mech.com",
+    "city": "Albuquerque",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0102",
+    "name": "Amp Pro Electric",
+    "domain": "ampproelectrictxnm.com",
+    "city": "Chaparral",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0103",
+    "name": "Carver Electric",
+    "domain": "carverelectric.com",
+    "city": "Mesilla Park",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0107",
+    "name": "S Plumbing",
+    "domain": "asplumbinginc.com",
+    "city": "Albuquerque",
+    "apollo_hints": []
+  }
+]

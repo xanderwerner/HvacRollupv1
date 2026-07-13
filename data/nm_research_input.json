@@ -1,0 +1,496 @@
+[
+  {
+    "id": "NM0004",
+    "name": "Pueblo Electric",
+    "domain": "puebloelectric.com",
+    "city": "Los Alamos",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0005",
+    "name": "MCS Residential Cooling & Heating",
+    "domain": "mcsabq.com",
+    "city": "Albuquerque",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0006",
+    "name": "Travers Mechanical Services",
+    "domain": "traversmechanicalservices.com",
+    "city": "Albuquerque",
+    "apollo_hints": [
+      {
+        "first_name": "Mike",
+        "last_initial": "Tr...s",
+        "title": "Owner"
+      }
+    ]
+  },
+  {
+    "id": "NM0007",
+    "name": "Phoenix Mechanical",
+    "domain": "phoenixmechanical.net",
+    "city": "Taos",
+    "apollo_hints": [
+      {
+        "first_name": "Mark",
+        "last_initial": "Mc...e",
+        "title": "President"
+      },
+      {
+        "first_name": "Randy",
+        "last_initial": "Ma...l",
+        "title": "President"
+      }
+    ]
+  },
+  {
+    "id": "NM0008",
+    "name": "kW Electric",
+    "domain": "kwelectric.org",
+    "city": "Edgewood",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0009",
+    "name": "Master Plumbers",
+    "domain": "masterplumbersinc.com",
+    "city": "Hobbs",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0010",
+    "name": "Donner Plumbing & Heating",
+    "domain": "donnerplumbing.com",
+    "city": "Albuquerque",
+    "apollo_hints": [
+      {
+        "first_name": "Kyle",
+        "last_initial": "Do...r",
+        "title": "President"
+      }
+    ]
+  },
+  {
+    "id": "NM0013",
+    "name": "Bock Electric",
+    "domain": "bockelectricnm.com",
+    "city": "Carlsbad",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0015",
+    "name": "Thompson Heating and Air Conditioning",
+    "domain": "thompsonnm.com",
+    "city": "Albuquerque",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0016",
+    "name": "Topp Plumbing & Heating",
+    "domain": "toppplumbingandheating.com",
+    "city": "Santa Fe",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0018",
+    "name": "H-Y Tech Mechanical & Construction Services",
+    "domain": "h-ytech.net",
+    "city": "Albuquerque",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0021",
+    "name": "Roadrunner Plumbing",
+    "domain": "roadrunner4u.com",
+    "city": "Alamogordo",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0023",
+    "name": "Home Plumbing & Heating",
+    "domain": "hpheatingandplumbing.com",
+    "city": "Aztec",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0026",
+    "name": "DUB-L-EE Construction, Plumbing & Heating",
+    "domain": "dub-l-ee.com",
+    "city": "Albuquerque",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0028",
+    "name": "National Heating & Ventilating",
+    "domain": "nationalheat.com",
+    "city": "Albuquerque",
+    "apollo_hints": [
+      {
+        "first_name": "Matthew",
+        "last_initial": "Ca...n",
+        "title": "Owner & President"
+      }
+    ]
+  },
+  {
+    "id": "NM0033",
+    "name": "Roadrunner Air Conditioning , Heating & Refrigeration",
+    "domain": "roadrunnerairconditioning.com",
+    "city": "Santa Fe",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0034",
+    "name": "Zuni Electric",
+    "domain": "zunielectric.com",
+    "city": "Alamogordo",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0035",
+    "name": "Fulkerson Plumbing",
+    "domain": "fulkerson-services.com",
+    "city": "Roswell",
+    "apollo_hints": [
+      {
+        "first_name": "Braxton",
+        "last_initial": "Fu...n",
+        "title": "President"
+      }
+    ]
+  },
+  {
+    "id": "NM0037",
+    "name": "V A Electric",
+    "domain": "vaelectricinc.com",
+    "city": "Albuquerque",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0040",
+    "name": "Mechanical Products SW",
+    "domain": "mpswinc.com",
+    "city": "Gallup",
+    "apollo_hints": [
+      {
+        "first_name": "Frank",
+        "last_initial": "Sc...t",
+        "title": "President"
+      },
+      {
+        "first_name": "Mark",
+        "last_initial": "Cu...m",
+        "title": "Co-president"
+      },
+      {
+        "first_name": "Joe",
+        "last_initial": "Go...r",
+        "title": "Co-president"
+      }
+    ]
+  },
+  {
+    "id": "NM0041",
+    "name": "Privett Electric",
+    "domain": "privettelectrichvac.com",
+    "city": "Portales",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0043",
+    "name": "Varco Electric",
+    "domain": "varcoelectric.com",
+    "city": "Carlsbad",
+    "apollo_hints": [
+      {
+        "first_name": "Anthony",
+        "last_initial": "Fi...o",
+        "title": "General Manager"
+      }
+    ]
+  },
+  {
+    "id": "NM0046",
+    "name": "Total Plumbing",
+    "domain": "totalplumbingnm.com",
+    "city": "Rio Rancho",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0047",
+    "name": "Medlin Mechanical",
+    "domain": "medlinmechanical.com",
+    "city": "Santa Fe",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0049",
+    "name": "Nightlight Electric",
+    "domain": "nightlightelectric.com",
+    "city": "Farmington",
+    "apollo_hints": [
+      {
+        "first_name": "Tom",
+        "last_initial": "Pe...o",
+        "title": "CEO"
+      }
+    ]
+  },
+  {
+    "id": "NM0054",
+    "name": "Rmc Electric",
+    "domain": "",
+    "city": "Albuquerque",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0059",
+    "name": "Maddox Plumbing",
+    "domain": "maddoxplumbinginc.com",
+    "city": "Las Cruces",
+    "apollo_hints": [
+      {
+        "first_name": "Kevin",
+        "last_initial": "Ma...x",
+        "title": "President"
+      }
+    ]
+  },
+  {
+    "id": "NM0060",
+    "name": "Sun City Plumbing & Heating",
+    "domain": "youknowsuncity.com",
+    "city": "Las Cruces",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0062",
+    "name": "Daniels Plumbing",
+    "domain": "danielshvacnm.com",
+    "city": "Santa Fe",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0065",
+    "name": "RA Biel Plumbing & Heating",
+    "domain": "rabielplumbing.com",
+    "city": "Farmington",
+    "apollo_hints": [
+      {
+        "first_name": "Aaron",
+        "last_initial": "Bi...l",
+        "title": "General Manager"
+      },
+      {
+        "first_name": "Mark",
+        "last_initial": "Bi...l",
+        "title": "Owner"
+      }
+    ]
+  },
+  {
+    "id": "NM0067",
+    "name": "Robbins Heating & Air Conditioning",
+    "domain": "robbinshvaconline.com",
+    "city": "Farmington",
+    "apollo_hints": [
+      {
+        "first_name": "Michelle",
+        "last_initial": "Ro...s",
+        "title": "Owner"
+      }
+    ]
+  },
+  {
+    "id": "NM0068",
+    "name": "The Electric Horseman",
+    "domain": "",
+    "city": "Las Vegas",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0069",
+    "name": "Caitco Drainworks",
+    "domain": "caitcocares.com",
+    "city": "Santa Fe",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0070",
+    "name": "Allied Plumbing",
+    "domain": "alliedplumber.com",
+    "city": "Albuquerque",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0072",
+    "name": "Rich Duran Plumbing",
+    "domain": "richduranplumbing.com",
+    "city": "Santa Fe",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0074",
+    "name": "Budwine Service Electric",
+    "domain": "budwine.com",
+    "city": "Carlsbad",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0078",
+    "name": "Caldwell Electrical Contractors",
+    "domain": "caldwellelectrical.com",
+    "city": "Albuquerque",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0079",
+    "name": "DRB Electric",
+    "domain": "drbelectric.com",
+    "city": "Albuquerque",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0080",
+    "name": "Lea County Septic Tank Service",
+    "domain": "leacountyseptictank.com",
+    "city": "Hobbs",
+    "apollo_hints": [
+      {
+        "first_name": "Pat",
+        "last_initial": "Ta...r",
+        "title": "Owner"
+      }
+    ]
+  },
+  {
+    "id": "NM0081",
+    "name": "Four Seasons Heating & Cooling",
+    "domain": "las-cruces-heating-cooling.com",
+    "city": "Las Cruces",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0082",
+    "name": "Hot Water Heater Buddy",
+    "domain": "hotwaterheaterbuddy.com",
+    "city": "Rio Rancho",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0083",
+    "name": "Spier Electric",
+    "domain": "spierelectric.com",
+    "city": "Albuquerque",
+    "apollo_hints": [
+      {
+        "first_name": "John",
+        "last_initial": "Sp...r",
+        "title": "CEO"
+      }
+    ]
+  },
+  {
+    "id": "NM0085",
+    "name": "AC & R Heating, Cooling, and Plumbing",
+    "domain": "acrcooling.com",
+    "city": "Albuquerque",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0086",
+    "name": "Mip P3 Plumbing",
+    "domain": "",
+    "city": "Albuquerque",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0087",
+    "name": "VICA Heating and Air Conditioning",
+    "domain": "vicahvac.com",
+    "city": "Albuquerque",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0088",
+    "name": "Enoch Mechanical",
+    "domain": "enochmechanical.com",
+    "city": "Las Cruces",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0089",
+    "name": "Precision Electric",
+    "domain": "precisionelectricnm.com",
+    "city": "Dexter",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0090",
+    "name": "Southwestern Electrical Contracting",
+    "domain": "southwesternelectrical.com",
+    "city": "Alamogordo",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0092",
+    "name": "TRC Plumbing",
+    "domain": "trcplumbing.com",
+    "city": "Farmington",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0093",
+    "name": "KDC Mechanical",
+    "domain": "kdc-mechanical.com",
+    "city": "Albuquerque",
+    "apollo_hints": [
+      {
+        "first_name": "Cory",
+        "last_initial": "Du...y",
+        "title": "Vice President"
+      },
+      {
+        "first_name": "Kelly",
+        "last_initial": "Lu...o",
+        "title": "VP of Operations"
+      }
+    ]
+  },
+  {
+    "id": "NM0097",
+    "name": "The Air Conditioning",
+    "domain": "theacco.com",
+    "city": "Anthony",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0099",
+    "name": "Western Mechanical",
+    "domain": "western-mech.com",
+    "city": "Albuquerque",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0102",
+    "name": "Amp Pro Electric",
+    "domain": "ampproelectrictxnm.com",
+    "city": "Chaparral",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0103",
+    "name": "Carver Electric",
+    "domain": "carverelectric.com",
+    "city": "Mesilla Park",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0107",
+    "name": "S Plumbing",
+    "domain": "asplumbinginc.com",
+    "city": "Albuquerque",
+    "apollo_hints": []
+  }
+]

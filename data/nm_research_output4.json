@@ -1,0 +1,101 @@
+[
+  {
+    "id": "NM0070",
+    "company_name": "Allied Plumbing",
+    "owner_name": "Derron D. Havenor",
+    "owner_title": "President",
+    "owner_linkedin_url": "",
+    "office_phone": "(505) 296-7742",
+    "confidence_notes": "Owner name confirmed via multiple directories (home8.org, contractors-near-me.net) as 'Derron Havenor, President'; not listed on company website itself. FLAG: LinkedIn search surfaced 'David Fematt' as 'Master Plumber at Allied Plumbing' and separately 'Owner, Allied Drains & Plumbing Services' — appears to be a different or overlapping-name entity; not used due to ambiguity. Phone from company website."
+  },
+  {
+    "id": "NM0072",
+    "company_name": "Rich Duran Plumbing",
+    "owner_name": "Rich Duran",
+    "owner_title": "Owner/Founder",
+    "owner_linkedin_url": "https://www.linkedin.com/in/rich-duran-99915034/",
+    "office_phone": "(505) 992-0306",
+    "confidence_notes": "From company About page (richduranplumbing.com), which describes founding history since 1994. LinkedIn profile self-identifies as 'owner at rich duran plumbing and heating, inc' - high confidence match."
+  },
+  {
+    "id": "NM0074",
+    "company_name": "Budwine Service Electric",
+    "owner_name": "",
+    "owner_title": "",
+    "owner_linkedin_url": "",
+    "office_phone": "(505) 885-3195",
+    "confidence_notes": "Not found after multiple searches - company website had a cert error, no BBB profile located, and directory listings appear unclaimed. Electrician license (#3239) shows inactive since 2015, suggesting the business may be defunct or has changed ownership - worth verifying operating status. Phone confirmed across several directories (Yelp, Manta, YellowPages)."
+  },
+  {
+    "id": "NM0078",
+    "company_name": "Caldwell Electrical Contractors",
+    "owner_name": "Kenneth Caldwell Sr.",
+    "owner_title": "President",
+    "owner_linkedin_url": "",
+    "office_phone": "(505) 933-2988",
+    "confidence_notes": "BBB and web search identify Kenneth Caldwell Sr. as President/owner; Ken Caldwell Jr. is listed separately as General Manager and Timothy W. Caldwell as VP. FLAG: a LinkedIn profile (linkedin.com/in/kenneth-caldwell-b81a651a9/) tied to 'Caldwell Electrical Contractors, LLC' (El Paso, TX area code) was found but could not be confirmed as Sr. vs Jr., so left blank rather than guess. Phone is the New Mexico office line from company website."
+  },
+  {
+    "id": "NM0079",
+    "company_name": "DRB Electric",
+    "owner_name": "Denise Baker",
+    "owner_title": "President / CFO (Owner)",
+    "owner_linkedin_url": "https://www.linkedin.com/in/denise-baker-74463a79/",
+    "office_phone": "(505) 877-8500",
+    "confidence_notes": "Confirmed via multiple sources (Dun & Bradstreet, Lead411, community/economic forum bios) as owner, President and CFO; co-built the company with Randy Baker since 1986/1991. LinkedIn profile matches name and company ('CFO/Executive producer at DRB electric')."
+  },
+  {
+    "id": "NM0080",
+    "company_name": "Lea County Septic Tank Service",
+    "owner_name": "Patricia Taylor",
+    "owner_title": "Owner",
+    "owner_linkedin_url": "",
+    "office_phone": "575-397-2382",
+    "confidence_notes": "ZoomInfo lists Patricia Taylor as Owner, matching the apollo_hint 'Pat Ta...r'. No confirmed LinkedIn profile found (many unrelated Patricia Taylor profiles, none tied to Hobbs/septic). FLAG: company website has a customer testimonial referring to a person named 'Elijah' as 'the owner and operator' - possible conflicting or secondary owner/family member worth verifying directly."
+  },
+  {
+    "id": "NM0081",
+    "company_name": "Four Seasons Heating & Cooling",
+    "owner_name": "Michael (Mike) Alesi",
+    "owner_title": "Owner",
+    "owner_linkedin_url": "",
+    "office_phone": "(575) 523-4381",
+    "confidence_notes": "BBB profile and company 'Our Company' history page confirm Mike Alesi founded and owns the company (est. 1987). A likely LinkedIn match (linkedin.com/in/michael-alesi-4755136a, based in Las Cruces, NM) was found, but the profile blocked content retrieval so company affiliation could not be confirmed - left blank rather than guess. Also found a 'Vincent Alesi - Marketing Director' at the same company, suggesting a family business."
+  },
+  {
+    "id": "NM0082",
+    "company_name": "Hot Water Heater Buddy",
+    "owner_name": "",
+    "owner_title": "",
+    "owner_linkedin_url": "",
+    "office_phone": "(505) 369-3727",
+    "confidence_notes": "Owner name not found after multiple searches. FLAG: fetching hotwaterheaterbuddy.com returned generic HVAC blog content branded for 'Orlando, Florida' rather than an NM business page, suggesting the domain may be a parked or repurposed content site - worth verifying this is still the live site for the Rio Rancho company before relying on it. Phone/address (924 Ocate Meadows Dr NE, Rio Rancho, NM) from ZoomInfo directory listing."
+  },
+  {
+    "id": "NM0083",
+    "company_name": "Spier Electric",
+    "owner_name": "John M. Spier",
+    "owner_title": "CEO",
+    "owner_linkedin_url": "",
+    "office_phone": "(505) 420-7729",
+    "confidence_notes": "Confirms and expands on apollo_hint 'John Sp...r, CEO' - company About page and multiple directories (BBB, ASA-NM) name John M. Spier as CEO. Several LinkedIn profiles named John Spier were found but none could be confirmed as this specific person (name is common; matching profiles were either private or showed unrelated jobs) - left blank rather than guess."
+  },
+  {
+    "id": "NM0085",
+    "company_name": "AC & R Heating, Cooling, and Plumbing",
+    "owner_name": "Dustin Domme",
+    "owner_title": "Owner",
+    "owner_linkedin_url": "https://www.linkedin.com/in/dustin-domme-52b5674a",
+    "office_phone": "(505) 891-3297",
+    "confidence_notes": "Multiple directories (Houzz, Manta, HomeAdvisor) confirm Dustin Domme as owner; LinkedIn profile title 'Heating and Cooling Service at AC&R...' confirms the match. FLAG: input domain acrcooling.com returned a DNS failure (does not resolve), and BBB indicates the business may be out of business (mail returned undeliverable in 2022) - verify current operating status before outreach."
+  },
+  {
+    "id": "NM0086",
+    "company_name": "Mip P3 Plumbing",
+    "owner_name": "Ricardo Cruz",
+    "owner_title": "Owner/President",
+    "owner_linkedin_url": "",
+    "office_phone": "(505) 702-9380",
+    "confidence_notes": "Input record had no domain and empty apollo_hints. Found via web search as 'P3 Plumbing, Inc.' in Albuquerque; BBB lists Ricardo Cruz as Owner/President. FLAG: could not confirm the relationship between the input name 'Mip P3 Plumbing' and 'P3 Plumbing, Inc.' - BBB's listed alternate name is 'Prompt Precise Plumbing', not 'Mip', and 'Mip' may be an unrelated directory-site category slug rather than part of the legal business name. Verify this is the intended target company before use. No confident LinkedIn match found for Ricardo Cruz (common name, no NM-specific profile confirmed)."
+  }
+]

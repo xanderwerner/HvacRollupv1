@@ -1,0 +1,101 @@
+[
+  {
+    "id": "NM0004",
+    "company_name": "Pueblo Electric",
+    "owner_name": "Greg Isaacs",
+    "owner_title": "President",
+    "owner_linkedin_url": "https://www.linkedin.com/in/greg-isaacs-2685aa32/",
+    "office_phone": "(505) 662-2000",
+    "confidence_notes": "High confidence. Greg Isaacs bought the company from prior owner Rob Heineman (per 2022 LANL Connections article); LinkedIn profile independently confirms 'President at Pueblo Electric, Inc.' Note: some older directories still list Rob Heineman as owner/president - that is outdated."
+  },
+  {
+    "id": "NM0005",
+    "company_name": "MCS Residential Cooling & Heating",
+    "owner_name": "Steven B. Chavez",
+    "owner_title": "Owner",
+    "owner_linkedin_url": "",
+    "office_phone": "(505) 888-1616",
+    "confidence_notes": "MEDIUM CONFIDENCE / FLAG: D&B lists Steven B. Chavez as Owner of Mechanical Control Solutions LLC (dba MCS Residential Cooling & Heating). However, mcsabq.com now 301-redirects to justcallace.com ('Ace Heating, Cooling, Plumbing and Electrical'), same address (4020 Vassar Dr NE, Albuquerque) - suggesting a rebrand/possible sale. BBB lists the current principal contact for that brand as Nick Knight, General Manager, not Chavez. Could not confirm whether Chavez remains the owner or is still involved. No LinkedIn found matching Chavez + this company. Worth a direct call to verify current ownership before outreach."
+  },
+  {
+    "id": "NM0006",
+    "company_name": "Travers Mechanical Services",
+    "owner_name": "Mike Travers",
+    "owner_title": "Owner",
+    "owner_linkedin_url": "https://www.linkedin.com/in/mike-travers-8a2b1838/",
+    "office_phone": "505-994-9788",
+    "confidence_notes": "FLAG - LIKELY NOT ACQUIRABLE: matches apollo_hint (Mike Tr...s, Owner). However, traversmechanicalservices.com now redirects to traversmechanical.com, whose site states the company is 'a Modigent company' headquartered in Phoenix, AZ - i.e. Travers Mechanical was already acquired by Modigent (~May 2022). Mike Travers' LinkedIn still shows him as 'Owner,' which may be stale post-acquisition (possibly retained as site lead). Older phone (505) 410-9331 also seen in older listings vs current 505-994-9788. Verify acquisition/ownership status before pursuing as a target."
+  },
+  {
+    "id": "NM0007",
+    "company_name": "Phoenix Mechanical",
+    "owner_name": "Kabir Cain, Ky Sturges, Jason Struck",
+    "owner_title": "Co-Owners",
+    "owner_linkedin_url": "",
+    "office_phone": "575-758-3027",
+    "confidence_notes": "FLAG - apollo_hints do not match: hints listed 'Mark Mc...e, President' and 'Randy Ma...l, President', but no source found any Mark/Randy connected to this company. Confirmed via company site and Taos News that founder Bob Draper handed the business to three long-time employees - Ky Sturges, Kabir Cain, and Jason Struck - as co-owners in Jan 2022. No confident LinkedIn profile found for any of the three (searches returned only employees/former owner Bob Draper). Apollo hints may reference a different 'Phoenix Mechanical' company (name is common; e.g. a Robert/Robbie Weng appears as President of an unrelated 'Phoenix Mechanical' entity in ZoomInfo, likely different company/state)."
+  },
+  {
+    "id": "NM0008",
+    "company_name": "kW Electric",
+    "owner_name": "",
+    "owner_title": "",
+    "owner_linkedin_url": "",
+    "office_phone": "(505) 480-4436",
+    "confidence_notes": "NOT FOUND - conflicting signals. One LinkedIn profile shows 'Kenneth Sailors - Owner at kW Electric, LLC' but his location/state could not be confirmed as New Mexico. Separately, the company's Facebook page handle is 'KWebbElectric' and a customer review mentions a 'Kris' doing the electrical work, suggesting the owner may actually be a Webb (e.g., Kris Webb), not Sailors. Could not resolve which (if either) is correct after 3 searches - marking owner name blank rather than guessing."
+  },
+  {
+    "id": "NM0009",
+    "company_name": "Master Plumbers",
+    "owner_name": "Vincent C. Lee",
+    "owner_title": "President",
+    "owner_linkedin_url": "https://www.linkedin.com/in/vincent-lee-6b2aa2a0/",
+    "office_phone": "(575) 397-9385",
+    "confidence_notes": "High confidence. Confirmed via BBB Business Profile principal contact ('Mr. Vincent C. Lee, President') and a matching LinkedIn profile located in Hobbs, NM listing Master Plumbers LLC."
+  },
+  {
+    "id": "NM0010",
+    "company_name": "Donner Plumbing & Heating",
+    "owner_name": "Kyle Donner",
+    "owner_title": "President/Owner",
+    "owner_linkedin_url": "https://www.linkedin.com/in/kyle-donner-3b551922a/",
+    "office_phone": "505-884-1017",
+    "confidence_notes": "High confidence, matches apollo_hint (Kyle Do...r, President). Company website 'About Us' history confirms Kyle Donner, along with Andrew Knight and Jason Garner, purchased Donner Plumbing & Heating from Michael and April Donner in December 2022. LinkedIn title reads 'President/owner at Donner Plumbing & Heating.'"
+  },
+  {
+    "id": "NM0013",
+    "company_name": "Bock Electric",
+    "owner_name": "Cory Bock",
+    "owner_title": "Owner/Journeyman Electrician",
+    "owner_linkedin_url": "https://www.linkedin.com/in/cory-bock-394207120",
+    "office_phone": "(575) 644-4879",
+    "confidence_notes": "High confidence. Cory Bock founded the company in 2014 with wife Ashley Bock; confirmed via web search and matching LinkedIn title 'Owner/Journeyman Electrician' at Bock Electric."
+  },
+  {
+    "id": "NM0015",
+    "company_name": "Thompson Heating and Air Conditioning",
+    "owner_name": "Gary Thompson",
+    "owner_title": "President",
+    "owner_linkedin_url": "https://www.linkedin.com/in/gary-thompson-8a914265",
+    "office_phone": "(505) 884-2675",
+    "confidence_notes": "High confidence. Company founded 1963 by Grady and Lois Thompson; owned/operated since 1984 by sons Gary Thompson (President) and Dan Thompson (Co-Owner). LinkedIn profile title reads 'pres - thompson heating & air conditioning', matching. Note Dan Thompson is a co-owner and could also be a relevant contact."
+  },
+  {
+    "id": "NM0016",
+    "company_name": "Topp Plumbing & Heating",
+    "owner_name": "Matthew Topp",
+    "owner_title": "Owner/Founder",
+    "owner_linkedin_url": "",
+    "office_phone": "(505) 930-0294",
+    "confidence_notes": "Medium-high confidence. Multiple independent sources (web search bio, Yellow Pages 'Matt Topp Plumbing' listing) confirm Matthew Topp founded the company in July 2008; company contact email is mtopp@toppplumbingandheating.com, consistent with the name. No LinkedIn profile found after searching - marked not found rather than guessing."
+  },
+  {
+    "id": "NM0018",
+    "company_name": "H-Y Tech Mechanical & Construction Services",
+    "owner_name": "Bryan Yearout",
+    "owner_title": "Manager (H-Y Tech is wholly owned by parent company Yearout Industrial)",
+    "owner_linkedin_url": "https://www.linkedin.com/in/bryan-yearout-00a5596/",
+    "office_phone": "(505) 884-0994",
+    "confidence_notes": "FLAG - not an independently owned target: business filings list Bryan Yearout and Caitlin Yearout as Managers/officers of H-Y Tech, which is wholly owned by parent company Yearout Industrial LLC (part of the larger 'Yearout Family of Businesses,' which also includes Yearout Mechanical, whose president is Kevin Yearout). This is a subsidiary of an existing multi-company group, not a standalone owner-operator - worth confirming before treating as a typical acquisition target. Two phone numbers found for the company: (505) 884-0994 (matches the Washington St NE address) and (505) 991-5062 (older/alternate listing) - used the former as primary."
+  }
+]

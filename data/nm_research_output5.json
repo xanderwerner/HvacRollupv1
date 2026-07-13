@@ -1,0 +1,101 @@
+[
+  {
+    "id": "NM0087",
+    "company_name": "VICA Heating and Air Conditioning",
+    "owner_name": "Victor \"Vic\" Arguello",
+    "owner_title": "Owner (20+ years)",
+    "owner_linkedin_url": "",
+    "office_phone": "(505) 877-0477",
+    "confidence_notes": "Multiple directories (licensed.contractors, BuildZoom, BBB) name Vic Arguello as owner since a 2003/2004 filing. An Albuquerque Journal obituary confirms Victor Richard Arguello (1939-2025), owner of VICA Heating and A/C for 20+ years, passed away June 2025. BBB currently shows the business as apparently out of business/closed, and the company website (vicahvac.com) returned an expired-SSL-certificate error on fetch, consistent with the business no longer being actively maintained. FLAG: verify current status/successor before outreach. No LinkedIn found."
+  },
+  {
+    "id": "NM0088",
+    "company_name": "Enoch Mechanical",
+    "owner_name": "Trevor Enoch",
+    "owner_title": "President",
+    "owner_linkedin_url": "https://www.linkedin.com/in/trevor-enoch-30a2b33a/",
+    "office_phone": "(575) 523-6741",
+    "confidence_notes": "Web search and company site indicate Enoch Mechanical was founded by Bill Enoch in 1995; Trevor Enoch (3rd generation) is now President overseeing the plumbing side, per company About page and corroborating listings. LinkedIn profile explicitly ties to Enoch Mechanical Inc, Las Cruces - high confidence match. Phone confirmed via company site (enochmechanical.com)."
+  },
+  {
+    "id": "NM0089",
+    "company_name": "Precision Electric",
+    "owner_name": "Donald \"Don\" DeGray",
+    "owner_title": "President",
+    "owner_linkedin_url": "",
+    "office_phone": "(575) 734-5111",
+    "confidence_notes": "Multiple independent business-directory sources (aggregated contact/BBB-style data) consistently name Donald DeGray as President, with Vicki McClain as Office Manager. Searched for a matching LinkedIn profile ('Don DeGray' + New Mexico/electric) but could not confirm a profile that ties specifically to Precision Electric Dexter/Roswell, NM - left blank rather than guess. Phone confirmed via company website (precisionelectricnm.com), listed as 24/7 line."
+  },
+  {
+    "id": "NM0090",
+    "company_name": "Southwestern Electrical Contracting",
+    "owner_name": "Bobby Moore",
+    "owner_title": "President",
+    "owner_linkedin_url": "",
+    "office_phone": "(575) 437-6381",
+    "confidence_notes": "Company (family-owned since founding by Bob Moore in 1974) BBB profile lists Bobby Moore as President. Scott Moore, a son/next-generation family member, holds VP title and has a confirmed LinkedIn (linkedin.com/in/scott-moore-80b8b975, 'vp - SOUTHWESTERN ELECTRICAL CONTRACTING') but that is not the primary owner, so left owner_linkedin_url blank rather than substitute the VP's profile. No LinkedIn found specifically for Bobby Moore. Phone confirmed via company website (southwesternelectrical.com)."
+  },
+  {
+    "id": "NM0092",
+    "company_name": "TRC Plumbing",
+    "owner_name": "",
+    "owner_title": "",
+    "owner_linkedin_url": "",
+    "office_phone": "(505) 326-6648",
+    "confidence_notes": "Not found after multiple searches (company website, BBB category listings, Yelp, BuildZoom, Cortera, NM contractor license lookup pointer) - no individual owner/president name surfaces publicly for this small (1-5 employee) privately held company. Phone number confirmed consistently across several directories matching the Farmington, NM address."
+  },
+  {
+    "id": "NM0093",
+    "company_name": "KDC Mechanical",
+    "owner_name": "KC Armstrong",
+    "owner_title": "CEO / Owner",
+    "owner_linkedin_url": "",
+    "office_phone": "(505) 908-1927",
+    "confidence_notes": "KC Armstrong identified as CEO/Owner via multiple independent sources (ZoomInfo, Buzzfile) that agree on title, but only initials found (no full first name) and no LinkedIn profile located for him specifically. Apollo hints verified: 'Cory Du...y' = Cory Dupuy, Vice President, LinkedIn https://www.linkedin.com/in/cory-dupuy-7b502584/ (confirmed). 'Kelly Lu...o' = Kelly Lucero, VP of Operations, LinkedIn https://www.linkedin.com/in/kelly-lucero-bb375693/ (confirmed, though one source listed her as Project Manager instead). Both are secondary contacts under the owner, included here for reference only. Phone confirmed via kdc-mechanical.com; a secondary number (505) 219-3982 also appears in some directories."
+  },
+  {
+    "id": "NM0097",
+    "company_name": "The Air Conditioning",
+    "owner_name": "Rick Bacchus",
+    "owner_title": "Owner",
+    "owner_linkedin_url": "https://www.linkedin.com/in/rick-bacchus-a8819a30",
+    "office_phone": "(575) 621-5388",
+    "confidence_notes": "BBB profile confirms company (The Air Conditioning Co.) is owned by Rick Bacchus and Philis Bacchus (husband/wife); used Rick since his LinkedIn title explicitly reads 'Owner at The Air Conditioning Co', high confidence match. Company serves both El Paso, TX and Anthony, NM; used the (575) NM-area-code number since city field is Anthony, NM."
+  },
+  {
+    "id": "NM0099",
+    "company_name": "Western Mechanical",
+    "owner_name": "Mike (Micheal) Baldonado",
+    "owner_title": "President / Owner",
+    "owner_linkedin_url": "https://www.linkedin.com/in/mike-b-15651610/",
+    "office_phone": "(505) 341-4458",
+    "confidence_notes": "ZoomInfo lists Micheal Baldonado as Owner (email m***@western-mech.com matches company domain); LinkedIn (display name abbreviated 'Mike B.') lists title 'President at Western Mechanical Heating. Air...' and a separate RocketReach listing corroborates full name 'Mike Baldonado' with 'Owner' title. High confidence despite the LinkedIn display name being initials-only. Phone confirmed via BBB and company address match (3301 Girard Blvd NE, Albuquerque)."
+  },
+  {
+    "id": "NM0102",
+    "company_name": "Amp Pro Electric",
+    "owner_name": "David Villarreal",
+    "owner_title": "Business Owner",
+    "owner_linkedin_url": "https://www.linkedin.com/in/david-villarreal-65a495133/",
+    "office_phone": "(575) 824-5233",
+    "confidence_notes": "LinkedIn title explicitly reads 'Business Owner - Amp Pro Electric', high confidence match; corroborated by general web search describing the company as family/locally owned since 2009. Phone confirmed via BBB and company listings matching the Chaparral, NM address."
+  },
+  {
+    "id": "NM0103",
+    "company_name": "Carver Electric",
+    "owner_name": "Lee Carver",
+    "owner_title": "Principal/Owner (uncertain - see notes)",
+    "owner_linkedin_url": "",
+    "office_phone": "(575) 527-2127",
+    "confidence_notes": "CONFLICTING INFO: Company was formed in 1986/incorporated 1998 with Lee and Bobby Carver named as principals in formation records; however the current BBB profile lists George Carver as President/Business Management contact. Could not determine with confidence who currently holds an 'owner' title - flagging for verification. Searched for LinkedIn matches on 'Lee Carver', 'Bobby Carver', and 'George Carver' + Carver Electric / Mesilla Park but found no profile that clearly matches this company - left blank rather than guess. Phone confirmed via multiple directories (Yelp, claimspages) matching company address."
+  },
+  {
+    "id": "NM0107",
+    "company_name": "S Plumbing",
+    "owner_name": "Albert Chavez",
+    "owner_title": "Owner/President",
+    "owner_linkedin_url": "https://www.linkedin.com/in/albert-chavez-6496b0172/",
+    "office_phone": "(505) 877-2897",
+    "confidence_notes": "The company's actual legal/trade name is 'A & S Plumbing, Inc.' (domain asplumbinginc.com), not literally 'S Plumbing' - searched under both names. BBB profile and LinkedIn both confirm Albert Chavez as Owner/President (Nick J. Chavez is listed separately as Treasurer); LinkedIn title reads 'Company Owner - A & S PLUMBING INC', high confidence match. Note: the (505) 877-2897 number is listed as the primary phone across most directories (Yelp, BuildZoom, Chamber of Commerce) but as 'fax' on the BBB profile specifically - flagging in case it needs verification as a live voice line."
+  }
+]

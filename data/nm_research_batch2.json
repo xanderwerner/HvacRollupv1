@@ -1,0 +1,113 @@
+[
+  {
+    "id": "NM0021",
+    "name": "Roadrunner Plumbing",
+    "domain": "roadrunner4u.com",
+    "city": "Alamogordo",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0023",
+    "name": "Home Plumbing & Heating",
+    "domain": "hpheatingandplumbing.com",
+    "city": "Aztec",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0026",
+    "name": "DUB-L-EE Construction, Plumbing & Heating",
+    "domain": "dub-l-ee.com",
+    "city": "Albuquerque",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0028",
+    "name": "National Heating & Ventilating",
+    "domain": "nationalheat.com",
+    "city": "Albuquerque",
+    "apollo_hints": [
+      {
+        "first_name": "Matthew",
+        "last_initial": "Ca...n",
+        "title": "Owner & President"
+      }
+    ]
+  },
+  {
+    "id": "NM0033",
+    "name": "Roadrunner Air Conditioning , Heating & Refrigeration",
+    "domain": "roadrunnerairconditioning.com",
+    "city": "Santa Fe",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0034",
+    "name": "Zuni Electric",
+    "domain": "zunielectric.com",
+    "city": "Alamogordo",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0035",
+    "name": "Fulkerson Plumbing",
+    "domain": "fulkerson-services.com",
+    "city": "Roswell",
+    "apollo_hints": [
+      {
+        "first_name": "Braxton",
+        "last_initial": "Fu...n",
+        "title": "President"
+      }
+    ]
+  },
+  {
+    "id": "NM0037",
+    "name": "V A Electric",
+    "domain": "vaelectricinc.com",
+    "city": "Albuquerque",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0040",
+    "name": "Mechanical Products SW",
+    "domain": "mpswinc.com",
+    "city": "Gallup",
+    "apollo_hints": [
+      {
+        "first_name": "Frank",
+        "last_initial": "Sc...t",
+        "title": "President"
+      },
+      {
+        "first_name": "Mark",
+        "last_initial": "Cu...m",
+        "title": "Co-president"
+      },
+      {
+        "first_name": "Joe",
+        "last_initial": "Go...r",
+        "title": "Co-president"
+      }
+    ]
+  },
+  {
+    "id": "NM0041",
+    "name": "Privett Electric",
+    "domain": "privettelectrichvac.com",
+    "city": "Portales",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0043",
+    "name": "Varco Electric",
+    "domain": "varcoelectric.com",
+    "city": "Carlsbad",
+    "apollo_hints": [
+      {
+        "first_name": "Anthony",
+        "last_initial": "Fi...o",
+        "title": "General Manager"
+      }
+    ]
+  }
+]

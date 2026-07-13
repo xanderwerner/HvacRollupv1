@@ -1,0 +1,91 @@
+[
+  {
+    "id": "NM0070",
+    "name": "Allied Plumbing",
+    "domain": "alliedplumber.com",
+    "city": "Albuquerque",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0072",
+    "name": "Rich Duran Plumbing",
+    "domain": "richduranplumbing.com",
+    "city": "Santa Fe",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0074",
+    "name": "Budwine Service Electric",
+    "domain": "budwine.com",
+    "city": "Carlsbad",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0078",
+    "name": "Caldwell Electrical Contractors",
+    "domain": "caldwellelectrical.com",
+    "city": "Albuquerque",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0079",
+    "name": "DRB Electric",
+    "domain": "drbelectric.com",
+    "city": "Albuquerque",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0080",
+    "name": "Lea County Septic Tank Service",
+    "domain": "leacountyseptictank.com",
+    "city": "Hobbs",
+    "apollo_hints": [
+      {
+        "first_name": "Pat",
+        "last_initial": "Ta...r",
+        "title": "Owner"
+      }
+    ]
+  },
+  {
+    "id": "NM0081",
+    "name": "Four Seasons Heating & Cooling",
+    "domain": "las-cruces-heating-cooling.com",
+    "city": "Las Cruces",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0082",
+    "name": "Hot Water Heater Buddy",
+    "domain": "hotwaterheaterbuddy.com",
+    "city": "Rio Rancho",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0083",
+    "name": "Spier Electric",
+    "domain": "spierelectric.com",
+    "city": "Albuquerque",
+    "apollo_hints": [
+      {
+        "first_name": "John",
+        "last_initial": "Sp...r",
+        "title": "CEO"
+      }
+    ]
+  },
+  {
+    "id": "NM0085",
+    "name": "AC & R Heating, Cooling, and Plumbing",
+    "domain": "acrcooling.com",
+    "city": "Albuquerque",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0086",
+    "name": "Mip P3 Plumbing",
+    "domain": "",
+    "city": "Albuquerque",
+    "apollo_hints": []
+  }
+]

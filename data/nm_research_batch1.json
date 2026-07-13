@@ -1,0 +1,102 @@
+[
+  {
+    "id": "NM0004",
+    "name": "Pueblo Electric",
+    "domain": "puebloelectric.com",
+    "city": "Los Alamos",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0005",
+    "name": "MCS Residential Cooling & Heating",
+    "domain": "mcsabq.com",
+    "city": "Albuquerque",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0006",
+    "name": "Travers Mechanical Services",
+    "domain": "traversmechanicalservices.com",
+    "city": "Albuquerque",
+    "apollo_hints": [
+      {
+        "first_name": "Mike",
+        "last_initial": "Tr...s",
+        "title": "Owner"
+      }
+    ]
+  },
+  {
+    "id": "NM0007",
+    "name": "Phoenix Mechanical",
+    "domain": "phoenixmechanical.net",
+    "city": "Taos",
+    "apollo_hints": [
+      {
+        "first_name": "Mark",
+        "last_initial": "Mc...e",
+        "title": "President"
+      },
+      {
+        "first_name": "Randy",
+        "last_initial": "Ma...l",
+        "title": "President"
+      }
+    ]
+  },
+  {
+    "id": "NM0008",
+    "name": "kW Electric",
+    "domain": "kwelectric.org",
+    "city": "Edgewood",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0009",
+    "name": "Master Plumbers",
+    "domain": "masterplumbersinc.com",
+    "city": "Hobbs",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0010",
+    "name": "Donner Plumbing & Heating",
+    "domain": "donnerplumbing.com",
+    "city": "Albuquerque",
+    "apollo_hints": [
+      {
+        "first_name": "Kyle",
+        "last_initial": "Do...r",
+        "title": "President"
+      }
+    ]
+  },
+  {
+    "id": "NM0013",
+    "name": "Bock Electric",
+    "domain": "bockelectricnm.com",
+    "city": "Carlsbad",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0015",
+    "name": "Thompson Heating and Air Conditioning",
+    "domain": "thompsonnm.com",
+    "city": "Albuquerque",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0016",
+    "name": "Topp Plumbing & Heating",
+    "domain": "toppplumbingandheating.com",
+    "city": "Santa Fe",
+    "apollo_hints": []
+  },
+  {
+    "id": "NM0018",
+    "name": "H-Y Tech Mechanical & Construction Services",
+    "domain": "h-ytech.net",
+    "city": "Albuquerque",
+    "apollo_hints": []
+  }
+]
