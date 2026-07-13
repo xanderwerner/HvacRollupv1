@@ -1,0 +1,83 @@
+[
+  {
+    "id": "NM0016",
+    "company_name": "Topp Plumbing & Heating",
+    "domain": "toppplumbingandheating.com",
+    "city": "Santa Fe",
+    "trade": "Plumbing",
+    "owner_name": "Matthew Topp",
+    "owner_title": "Owner/Founder"
+  },
+  {
+    "id": "NM0021",
+    "company_name": "Roadrunner Plumbing",
+    "domain": "roadrunner4u.com",
+    "city": "Alamogordo",
+    "trade": "Plumbing",
+    "owner_name": "",
+    "owner_title": ""
+  },
+  {
+    "id": "NM0023",
+    "company_name": "Home Plumbing & Heating",
+    "domain": "hpheatingandplumbing.com",
+    "city": "Aztec",
+    "trade": "Plumbing",
+    "owner_name": "Frank Martinez",
+    "owner_title": "Owner"
+  },
+  {
+    "id": "NM0041",
+    "company_name": "Privett Electric",
+    "domain": "privettelectrichvac.com",
+    "city": "Portales",
+    "trade": "Electrical",
+    "owner_name": "Eddy Privett",
+    "owner_title": "Owner"
+  },
+  {
+    "id": "NM0054",
+    "company_name": "Rmc Electric",
+    "domain": "",
+    "city": "Albuquerque",
+    "trade": "Electrical",
+    "owner_name": "Randy Morales",
+    "owner_title": "Owner"
+  },
+  {
+    "id": "NM0068",
+    "company_name": "The Electric Horseman",
+    "domain": "",
+    "city": "Las Vegas",
+    "trade": "Electrical",
+    "owner_name": "Dennis Lucero",
+    "owner_title": "Owner"
+  },
+  {
+    "id": "NM0081",
+    "company_name": "Four Seasons Heating & Cooling",
+    "domain": "las-cruces-heating-cooling.com",
+    "city": "Las Cruces",
+    "trade": "HVAC",
+    "owner_name": "Michael (Mike) Alesi",
+    "owner_title": "Owner"
+  },
+  {
+    "id": "NM0083",
+    "company_name": "Spier Electric",
+    "domain": "spierelectric.com",
+    "city": "Albuquerque",
+    "trade": "Electrical",
+    "owner_name": "John M. Spier",
+    "owner_title": "CEO"
+  },
+  {
+    "id": "NM0089",
+    "company_name": "Precision Electric",
+    "domain": "precisionelectricnm.com",
+    "city": "Dexter",
+    "trade": "Electrical",
+    "owner_name": "Donald \"Don\" DeGray",
+    "owner_title": "President"
+  }
+]

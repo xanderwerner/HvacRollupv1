@@ -1,0 +1,47 @@
+[
+  {
+    "id": "NM0021",
+    "company_name": "Roadrunner Plumbing",
+    "owner_name": "",
+    "owner_title": "",
+    "owner_linkedin_url": "",
+    "owner_email": "",
+    "notes": "Confirmed correct entity: 3016 Thunder Rd, Alamogordo, NM 88310, phone (575) 491-3447 (in business since ~2015, 2 employees per D&B). This is distinct from other same-named 'Roadrunner Plumbing/Air' businesses in San Antonio TX, Surprise AZ, Hobbs NM, Caldwell ID, etc. IMPORTANT FLAG: the domain roadrunner4u.com no longer belongs to this plumbing company -- it now resolves to an unrelated Utah-based web marketing business ('Roadrunner4U' / 'Command Center 4U'), so email/contact-form outreach via that domain will not reach the plumber; use phone (575) 491-3447 or mailing address instead. Checked: BuildZoom (lists 'Angel Ruiz' and 'Don Montgomery' as employees/license names but does not identify an owner), ZoomInfo (403 blocked), D&B, Porch, Yelp (403 blocked), BBB (no matching Alamogordo listing found), NM SOS enterprise.sos.nm.gov business search (search errored/hung after multiple attempts -- site appears to have a backend issue as of this session), NM CID license lookup at public.psiexams.com (search requires solving a CAPTCHA, which was not attempted per policy), WHOIS for roadrunner4u.com (privacy-protected via Domains By Proxy/GoDaddy), LinkedIn (no company or individual profile found), general news search (no owner mentioned). No confident owner name found after real effort -- marking not found."
+  },
+  {
+    "id": "NM0068",
+    "company_name": "The Electric Horseman",
+    "owner_name": "Dennis Lucero",
+    "owner_title": "Owner",
+    "owner_linkedin_url": "",
+    "owner_email": "",
+    "notes": "Name/title reconfirmed via BBB profile ('Mr. Dennis Lucero, Owner') and multiple directories (BuildZoom, ZoomInfo, D&B) for Electric Horseman Inc, 14B Rudolph Dr, Las Vegas NM 87701, (505) 454-4700; corporation since 2000, ~14 employees. He is also known locally as co-owner of Buffalo Hall & Cowboy Cafe BBQ (Santa Fe New Mexican article) in Las Vegas NM. LinkedIn: the company page 'THE ELECTRIC HORSEMAN, INC' exists on LinkedIn but does not list Dennis Lucero among shown employees/leadership. A personal profile 'Dennis Lucero - Albuquerque, New Mexico' (linkedin.com/in/dennis-lucero-0642371) turned up in searches but could not be verified as the same person (no employer/company shown in accessible search snippets, and Albuquerque != Las Vegas NM) -- not reporting it to avoid a false match. No direct/personal email found (only phone)."
+  },
+  {
+    "id": "NM0081",
+    "company_name": "Four Seasons Heating & Cooling",
+    "owner_name": "Michael (Mike) Alesi",
+    "owner_title": "Owner",
+    "owner_linkedin_url": "https://www.linkedin.com/in/michael-alesi-4755136a",
+    "owner_email": "4seasonslcnm@gmail.com",
+    "notes": "Company site (las-cruces-heating-cooling.com/about) confirms: 'Mike Alesi, President of Four Seasons Heating & Cooling Ltd', founded the company in 1987, based at 2261 Copper Loop, Las Cruces NM. LinkedIn profile 'Michael Alesi - Las Cruces, New Mexico' matches on location (full profile content blocked without login, so employer field not directly visible, but corroborated by a second LinkedIn hit for 'Vincent Alesi - Marketing Director - Four Seasons Heating & Cooling', indicating an Alesi family business, which supports the match). Email 4seasonslcnm@gmail.com is the company's only published contact email (phone 575-523-4381); given the small, owner-run size of the business this likely reaches Mike directly, but it is not a distinctly personal address -- flagging as best available rather than confirmed personal email."
+  },
+  {
+    "id": "NM0083",
+    "company_name": "Spier Electric",
+    "owner_name": "John M. Spier",
+    "owner_title": "CEO",
+    "owner_linkedin_url": "https://www.linkedin.com/in/john-m-spier-330377141",
+    "owner_email": "john@spierelectric.com",
+    "notes": "Well confirmed. spierelectric.com/about lists John M. Spier as 'Founder, Owner, Master Electrician' (site uses this title rather than 'CEO', but same person/company -- 1311 Cuesta Abajo Ct, Suite B, Albuquerque, NM 87113, license NM #414474). LinkedIn personal profile 'John M. Spier - Spier Electric LLC' found and matches; company page 'Spier Electric LLC' also exists on LinkedIn. Personal-format email john@spierelectric.com found via multiple sources (distinct from the generic Contact@Spierelectric.com listed on the site itself)."
+  },
+  {
+    "id": "NM0089",
+    "company_name": "Precision Electric",
+    "owner_name": "Donald \"Don\" DeGray",
+    "owner_title": "President",
+    "owner_linkedin_url": "",
+    "owner_email": "",
+    "notes": "Name/title reconfirmed via BBB profile (Donald DeGray listed as President and principal contact) and BuildZoom/D&B for Precision Electric Inc, 2 Durand Ln, Dexter NM 88230, (575) 734-5111, incorporated 1984/founded 1985, offices in Dexter and Roswell. Searched LinkedIn extensively (name variations, site:linkedin.com/in queries, NM-filtered) -- no profile for a Don/Donald DeGray connected to Precision Electric or Dexter/Roswell NM was found; only unrelated DeGray profiles elsewhere. Current precisionelectricnm.com site (recently redesigned) lists no personal names and no email address at all, only phone/contact form. No email found via ZoomInfo/RocketReach/etc. without paywall access. Marking both LinkedIn and email as not found."
+  }
+]

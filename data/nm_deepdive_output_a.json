@@ -1,0 +1,34 @@
+[
+  {
+    "id": "NM0016",
+    "company_name": "Topp Plumbing & Heating",
+    "owner_linkedin_url": "",
+    "owner_email": "mtopp@toppplumbingandheating.com",
+    "owner_name_confirmed": true,
+    "notes": "LinkedIn: not found. Tried 'Matthew Topp Topp Plumbing Santa Fe linkedin', 'site:linkedin.com/in Matthew Topp plumbing' — 10 profiles surfaced (IntelliGas, Akordi, CVS Health, Games Workshop, AustralianSuper, UK/Australia based, etc.), none reference Santa Fe or plumbing; also tried 'Topp Plumbing linkedin.com/company Santa Fe' — no company page found. Email: found direct personal email mtopp@toppplumbingandheating.com on company About Us page (not a generic info@ address). Name/title confirmed via About Us bio: 'Matthew Topp has been employed in the Santa Fe plumbing industry since 1998... established Topp Plumbing & Heating Inc. in July 2008' — consistent with Owner/Founder."
+  },
+  {
+    "id": "NM0023",
+    "company_name": "Home Plumbing & Heating",
+    "owner_linkedin_url": "",
+    "owner_email": "",
+    "owner_name_confirmed": true,
+    "notes": "LinkedIn: not found. Tried 'Frank Martinez Home Plumbing Aztec New Mexico linkedin', 'site:linkedin.com/in Frank Martinez Aztec OR Home Plumbing' — surfaced many unrelated Frank Martinez profiles (LA/DWP, Sodexo HVAC tech, Mainland Water Management, Canyon Lake POA) with no confirmable tie to Aztec NM or this company; too common a name to confirm without a direct match, so none reported. Email: only generic company mailbox hpheating1001@gmail.com found on About Us page; no personal email for Frank Martinez found. TITLE FLAG: company About Us page calls him 'Owner', but the BBB business profile lists him as 'Vice-President' alongside a Ms. Laurie Martinez, also listed as Vice-President (Business Management) — BBB does not list anyone as President/Owner. Owner_name_confirmed=true for the person (Frank J. Martinez is definitely a principal/second-generation family owner), but exact title (Owner vs VP) is unresolved — flagging rather than overwriting."
+  },
+  {
+    "id": "NM0041",
+    "company_name": "Privett Electric",
+    "owner_linkedin_url": "",
+    "owner_email": "",
+    "owner_name_confirmed": true,
+    "notes": "LinkedIn: not found. Tried 'Eddy Privett Privett Electric Portales linkedin' and 'Eddy Privett OR Edward Privett linkedin electrician New Mexico' — no matching profile; only unrelated hits (Eddy Prieto, Terrance Privett at a different company 'Modern Electric Co'). Email: company contact page (privettelectrichvac.com/contact) uses Cloudflare email obfuscation and could not be decoded via fetch; underlying address is very likely a generic info/office mailbox, not confirmed as Eddy's personal email, so left blank per instructions. Name/title confirmed: BBB profile explicitly lists 'Mr. Eddy Privett, Owner' as both principal contact and customer contact, matching existing data. Noted a Dylan Lee Privett also listed as company personnel (possibly family/successor) — not reported as owner since existing data already correctly names Eddy."
+  },
+  {
+    "id": "NM0054",
+    "company_name": "Rmc Electric",
+    "owner_linkedin_url": "",
+    "owner_email": "",
+    "owner_name_confirmed": true,
+    "notes": "LinkedIn: not found with confidence. Searches surfaced linkedin.com/in/randymorales and linkedin.com/in/randy-morales-a63a56a4 as candidates, but LinkedIn blocked direct page fetch (HTTP 999) and a LinkedIn people-directory hit shows '300+ Randy Morales profiles' exist — name too common to confirm a match to this Albuquerque electrician without further verification, so not reported to avoid a wrong match. Email: no domain was on file for this company; found website www.rmcelectricllc.com via search but it returned 404 (site appears down/inactive), so no contact page or email could be retrieved. Name confirmed: multiple independent business directories (Buzzfile, Manta, thebuildermarket) consistently list Randy Morales as Owner of RMC Electric Co, 7704 Edith Blvd NE, Albuquerque, NM 87113, servicing the area since 2001 — consistent with existing data."
+  }
+]
