@@ -1,0 +1,132 @@
+[
+ {
+  "id": "C616",
+  "company_name": "Elevation Plumbing LLC",
+  "owner_name_confirmed": "Alex Gomez",
+  "mobile_phone": "(928) 276-5083",
+  "office_phone": "",
+  "email": "alex@elevationplumbingco.com",
+  "job_title": "",
+  "match_notes": "CONTACT_ONLY_MATCH; email domain matches company name (elevationplumbingco.com); area code 928 consistent with Yuma AZ."
+ },
+ {
+  "id": "C610",
+  "company_name": "One Hour Air Conditioning & Heating",
+  "owner_name_confirmed": "Kevin Cerveri",
+  "mobile_phone": "",
+  "office_phone": "",
+  "email": "kevin.cerveri@onehourair.com",
+  "job_title": "",
+  "match_notes": "FULL_MATCH but only business email returned, no phone number available from ZoomInfo."
+ },
+ {
+  "id": "C668",
+  "company_name": "Ram Plumbing, Inc.",
+  "owner_name_confirmed": "Erik Carrasco",
+  "mobile_phone": "(602) 469-9942",
+  "office_phone": "",
+  "email": "erik@ramplumbingtucson.net",
+  "job_title": "Residential Division Manager",
+  "match_notes": "FULL_MATCH; ZoomInfo title (Residential Division Manager) differs from confirmed owner title (President) but name+company match exactly and email domain corroborates (ramplumbingtucson.net) - likely same person, ZI title may be outdated. Flag for verification when calling."
+ },
+ {
+  "id": "C679",
+  "company_name": "Martin Air HVAC",
+  "owner_name_confirmed": "Jacob Martin",
+  "mobile_phone": "",
+  "office_phone": "",
+  "email": "jake@martinairhvac.com",
+  "job_title": "HVAC Technician",
+  "match_notes": "FULL_MATCH; email domain matches company (martinairhvac.com); no phone returned. Title 'HVAC Technician' plausible for small owner-operator LLC (confirmed title was Member/Qualifying Party)."
+ },
+ {
+  "id": "C835",
+  "company_name": "Aaa Affordable AC",
+  "owner_name_confirmed": "Myron Black",
+  "mobile_phone": "(928) 486-3790",
+  "office_phone": "",
+  "email": "",
+  "job_title": "Owner",
+  "match_notes": "CONTACT_ONLY_MATCH; area code 928 consistent with Lake Havasu City AZ; job title matches confirmed Owner."
+ },
+ {
+  "id": "C955",
+  "company_name": "Desert Eagle Electric LLC",
+  "owner_name_confirmed": "Ramon Lopez",
+  "mobile_phone": "",
+  "office_phone": "",
+  "email": "rlopez@deserteagleelectric.com",
+  "job_title": "Founder",
+  "match_notes": "FULL_MATCH; job title matches confirmed (Founder); email domain matches company; no phone returned."
+ },
+ {
+  "id": "C978",
+  "company_name": "Sabino Electric Inc",
+  "owner_name_confirmed": "Douglas Jones",
+  "mobile_phone": "",
+  "office_phone": "(520) 623-6061",
+  "email": "",
+  "job_title": "Founder",
+  "match_notes": "FULL_MATCH; job title matches confirmed (Founder); area code 520 consistent with Tucson AZ; phone is direct/office line marked Do-Not-Call in ZoomInfo."
+ },
+ {
+  "id": "C981",
+  "company_name": "Cascade Electric Inc",
+  "owner_name_confirmed": "Brian Rooyakkers",
+  "mobile_phone": "",
+  "office_phone": "",
+  "email": "brian@cascadeelectric.com",
+  "job_title": "President",
+  "match_notes": "FULL_MATCH; job title matches confirmed (President); email domain matches company; no phone returned."
+ },
+ {
+  "id": "C1192",
+  "company_name": "Acosta Electric Inc",
+  "owner_name_confirmed": "Daniel Acosta",
+  "mobile_phone": "(602) 402-8105",
+  "office_phone": "",
+  "email": "dan@acostaelectric.com",
+  "job_title": "Owner",
+  "match_notes": "FULL_MATCH; job title matches confirmed (Owner); email domain matches company; area code 602 consistent with Phoenix metro."
+ },
+ {
+  "id": "C1196",
+  "company_name": "Amax Electrical Services Inc",
+  "owner_name_confirmed": "Chad Waddell",
+  "mobile_phone": "",
+  "office_phone": "",
+  "email": "chad@amaxelectricalservices.com",
+  "job_title": "Owner",
+  "match_notes": "FULL_MATCH; job title matches confirmed (Owner); email domain matches company; no phone returned."
+ },
+ {
+  "id": "C1363",
+  "company_name": "Allied Electric Technology LLC",
+  "owner_name_confirmed": "Stacy Sowerby",
+  "mobile_phone": "(602) 881-6613",
+  "office_phone": "",
+  "email": "",
+  "job_title": "Chief Executive Officer",
+  "match_notes": "FULL_MATCH; job title matches confirmed (CEO); area code 602 consistent with Phoenix; mobile marked Do-Not-Call in ZoomInfo."
+ },
+ {
+  "id": "C1448",
+  "company_name": "Alvarado Electric LLC",
+  "owner_name_confirmed": "George Alvarado",
+  "mobile_phone": "(602) 390-1595",
+  "office_phone": "",
+  "email": "g_alvarado@alvaradoelectricllc.com",
+  "job_title": "Chief Executive Officer",
+  "match_notes": "FULL_MATCH; job title matches confirmed (CEO); email domain matches company; area code 602 consistent with Gilbert/Phoenix metro."
+ },
+ {
+  "id": "C1493",
+  "company_name": "AC Desert Electric INC",
+  "owner_name_confirmed": "Cary Duncan",
+  "mobile_phone": "(602) 692-6576",
+  "office_phone": "",
+  "email": "cary@acdesertelectric.com",
+  "job_title": "Owner and Electrician",
+  "match_notes": "FULL_MATCH; job title matches confirmed (Owner and Electrician); email domain matches company; area code 602 consistent with Peoria/Phoenix metro; mobile marked Do-Not-Call in ZoomInfo."
+ }
+]

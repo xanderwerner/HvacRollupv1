@@ -1,0 +1,142 @@
+[
+ {
+  "id": "C2693",
+  "company_name": "Phoenix Commercial Electric Inc",
+  "owner_name_confirmed": "Isaac Odogui",
+  "mobile_phone": "(623) 688-7616",
+  "office_phone": "",
+  "email": "",
+  "job_title": "Electrician",
+  "match_notes": "FULL_MATCH; area code 623 matches Peoria AZ; title matches source owner_title. Note: sibling company 'Commercial Electric Inc' (Tucson, id C2601) returned NO_MATCH under same owner name, not confirmed as same person - not added."
+ },
+ {
+  "id": "C2339",
+  "company_name": "Delta Electric and Air LLC",
+  "owner_name_confirmed": "Michael Reiche",
+  "mobile_phone": "(602) 615-9927",
+  "office_phone": "",
+  "email": "mpreiche@deltaelectricandair.com",
+  "job_title": "Vice President, HVAC Division",
+  "match_notes": "FULL_MATCH; email domain matches company name exactly; area code 602 matches Phoenix; title matches source exactly. mobilePhoneDoNotCall=true."
+ },
+ {
+  "id": "C2163",
+  "company_name": "Electric Shuffle LLC",
+  "owner_name_confirmed": "Geoffrey Merlyn Hollister",
+  "mobile_phone": "",
+  "office_phone": "",
+  "email": "geoff@theelectricshuffle.com",
+  "job_title": "Master Electrician and Owner",
+  "match_notes": "FULL_MATCH; email domain matches company name closely; no phone returned by ZoomInfo."
+ },
+ {
+  "id": "C2663",
+  "company_name": "Innovative Lighting & Electric Inc",
+  "owner_name_confirmed": "Kevin Steele",
+  "mobile_phone": "",
+  "office_phone": "(970) 464-7047",
+  "email": "kevin@lightingaz.com",
+  "job_title": "Owner",
+  "match_notes": "FULL_MATCH; email domain 'lightingaz.com' strongly corroborates AZ lighting/electric business despite CO (970) office area code - likely ported/VOIP number. directPhoneDoNotCall=true."
+ },
+ {
+  "id": "C1785",
+  "company_name": "Empowered Electrical Solutions LLC",
+  "owner_name_confirmed": "Matthew Kuckuda",
+  "mobile_phone": "(602) 558-8582",
+  "office_phone": "",
+  "email": "matt@empoweredelectricalsolutions.com",
+  "job_title": "Owner",
+  "match_notes": "FULL_MATCH; email domain matches company name exactly; area code 602 matches Phoenix."
+ },
+ {
+  "id": "C1943",
+  "company_name": "Empowered Electric LLC",
+  "owner_name_confirmed": "Matthew Kuckuda",
+  "mobile_phone": "(602) 558-8582",
+  "office_phone": "",
+  "email": "matt@empoweredelectricalsolutions.com",
+  "job_title": "Owner",
+  "match_notes": "FULL_MATCH; same personId/contact as C1785 (Empowered Electrical Solutions LLC) - same owner appears to run both similarly-named AZ companies (Phoenix + Tucson)."
+ },
+ {
+  "id": "C2418",
+  "company_name": "DeVita Electric LLC",
+  "owner_name_confirmed": "Anthony Devita",
+  "mobile_phone": "(602) 570-8432",
+  "office_phone": "",
+  "email": "anthony@devitaelectric.com",
+  "job_title": "Electrician",
+  "match_notes": "FULL_MATCH; email domain matches company name exactly; area code 602 near Surprise AZ. mobilePhoneDoNotCall=true."
+ },
+ {
+  "id": "C2433",
+  "company_name": "Dane Electric LLC",
+  "owner_name_confirmed": "Glen Brazaitis",
+  "mobile_phone": "",
+  "office_phone": "",
+  "email": "glen@daneelectricaz.com",
+  "job_title": "Owner and Operator",
+  "match_notes": "FULL_MATCH; email domain explicitly includes 'az' and matches company name; title matches source exactly. No phone returned."
+ },
+ {
+  "id": "C1083",
+  "company_name": "All Points Electric LLC",
+  "owner_name_confirmed": "Michael Fullford",
+  "mobile_phone": "(480) 466-8277",
+  "office_phone": "",
+  "email": "mike@allpointselectricaz.com",
+  "job_title": "Owner",
+  "match_notes": "FULL_MATCH; email domain explicitly includes 'az' and matches company name; title matches source."
+ },
+ {
+  "id": "C2187",
+  "company_name": "AZ TECH ELECTRIC SERVICES LLC",
+  "owner_name_confirmed": "Zac Chamberlain",
+  "mobile_phone": "(480) 684-0584",
+  "office_phone": "",
+  "email": "",
+  "job_title": "Owner",
+  "match_notes": "FULL_MATCH; area code 480 matches Scottsdale; title matches source."
+ },
+ {
+  "id": "C2458",
+  "company_name": "AZ-Tech Electric LLC",
+  "owner_name_confirmed": "Zac Chamberlain",
+  "mobile_phone": "(480) 684-0584",
+  "office_phone": "",
+  "email": "",
+  "job_title": "Owner",
+  "match_notes": "FULL_MATCH; same personId as C2187, same owner running sibling company (Yuma). Title matches source."
+ },
+ {
+  "id": "C2509",
+  "company_name": "Fan Doctor Electric LLC",
+  "owner_name_confirmed": "Bryan E Petrey",
+  "mobile_phone": "",
+  "office_phone": "",
+  "email": "bryan@fandoctor.com",
+  "job_title": "Owner",
+  "match_notes": "FULL_MATCH; email domain matches company name ('fandoctor.com'); title matches source. No phone returned."
+ },
+ {
+  "id": "C225",
+  "company_name": "Brutinel Plumbing & Electrical, INC.",
+  "owner_name_confirmed": "Wesley R Baker",
+  "mobile_phone": "",
+  "office_phone": "",
+  "email": "wes@bph1985.com",
+  "job_title": "President",
+  "match_notes": "FULL_MATCH; email 'bph1985.com' plausibly abbreviates Brutinel Plumbing (& H?) 1985 founding year; title plausible for owner. No phone returned."
+ },
+ {
+  "id": "C551",
+  "company_name": "Copper State Plumbing Services LLC",
+  "owner_name_confirmed": "Rocco Vincent Marafioti",
+  "mobile_phone": "",
+  "office_phone": "",
+  "email": "mrocco@copperstateplumbingaz.business.site",
+  "job_title": "Owner",
+  "match_notes": "FULL_MATCH; email domain (Google Business Site) explicitly matches company name + AZ; title matches source. No phone returned."
+ }
+]

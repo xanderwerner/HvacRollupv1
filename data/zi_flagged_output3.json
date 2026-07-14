@@ -1,0 +1,102 @@
+[
+ {
+  "id": "C1035",
+  "company_name": "Express Electric Co",
+  "owner_name_confirmed": "Douglas Messamore",
+  "mobile_phone": "(928) 202-6486",
+  "office_phone": "",
+  "email": "",
+  "job_title": "Electrical Technician",
+  "match_notes": "FULL_MATCH, name+company exact match. Title is technician not owner but plausible for one-person owner-operator shop; area code 928 matches Arizona City region reasonably well."
+ },
+ {
+  "id": "C1044",
+  "company_name": "Affordable Electric Service",
+  "owner_name_confirmed": "Josh Weinert",
+  "mobile_phone": "",
+  "office_phone": "",
+  "email": "jr@affordableelectricservice.com",
+  "job_title": "",
+  "match_notes": "FULL_MATCH, name+company exact match, email domain matches company name exactly. No phone number returned by ZoomInfo, email only."
+ },
+ {
+  "id": "C1046",
+  "company_name": "M. R. Electrical",
+  "owner_name_confirmed": "Mark Rehburg",
+  "mobile_phone": "(530) 720-6718",
+  "office_phone": "",
+  "email": "rmark@mrelectricalcontractor.com",
+  "job_title": "",
+  "match_notes": "FULL_MATCH, email domain (mrelectricalcontractor.com) strongly corroborates company identity. Mobile area code 530 is Northern California, not AZ (Quartzsite) -- plausible if he kept an old cell number, but flagging the mismatch for awareness."
+ },
+ {
+  "id": "C1088",
+  "company_name": "TrustPoint Electric & Air",
+  "owner_name_confirmed": "Richard Digilio",
+  "mobile_phone": "",
+  "office_phone": "",
+  "email": "rich@trustpointelectric.com",
+  "job_title": "Business Owner",
+  "match_notes": "CONTACT_ONLY_MATCH. Email domain matches company name, job title is exactly 'Business Owner' -- strong corroboration. No phone number returned."
+ },
+ {
+  "id": "C1104",
+  "company_name": "Nate's Electrical Services",
+  "owner_name_confirmed": "Nathan (Nate) Munoz",
+  "mobile_phone": "(312) 721-6199",
+  "office_phone": "",
+  "email": "nate@nateselectrical.com",
+  "job_title": "Owner and Head Electrician",
+  "match_notes": "FULL_MATCH. Email domain matches company name exactly, job title 'Owner and Head Electrician' matches ICP well. Mobile area code 312 is Chicago, not AZ (Chandler) -- likely a retained out-of-state cell number; other signals corroborate strongly so kept."
+ },
+ {
+  "id": "C1116",
+  "company_name": "Power One Electric",
+  "owner_name_confirmed": "Joseph Sargent",
+  "mobile_phone": "(323) 247-4329",
+  "office_phone": "",
+  "email": "",
+  "job_title": "Owner",
+  "match_notes": "CONTACT_ONLY_MATCH, name matches exactly, job title 'Owner' matches ICP. Mobile area code 323 is LA, not AZ (Fort Mohave) -- possibly a retained CA cell number."
+ },
+ {
+  "id": "C1123",
+  "company_name": "Aguafria Electric LLC",
+  "owner_name_confirmed": "Thomas Williford",
+  "mobile_phone": "(352) 476-1937",
+  "office_phone": "",
+  "email": "",
+  "job_title": "Owner Operator",
+  "match_notes": "CONTACT_ONLY_MATCH, name matches exactly, job title 'Owner Operator' matches ICP well. Mobile area code 352 is Florida, not AZ (Glendale) -- possibly a retained out-of-state cell number; no email to further corroborate."
+ },
+ {
+  "id": "C1135",
+  "company_name": "SSD Electrical",
+  "owner_name_confirmed": "David Recalde",
+  "mobile_phone": "",
+  "office_phone": "(480) 298-6834",
+  "email": "david@ssdelectrical.com",
+  "job_title": "",
+  "match_notes": "CONTACT_ONLY_MATCH. Email domain matches company name exactly, phone area code 480 matches Phoenix metro (Scottsdale) correctly. Clean match, no red flags."
+ },
+ {
+  "id": "C1180",
+  "company_name": "Rose Electric",
+  "owner_name_confirmed": "Steve Rose",
+  "mobile_phone": "(928) 606-3556",
+  "office_phone": "",
+  "email": "",
+  "job_title": "",
+  "match_notes": "CONTACT_ONLY_MATCH, name matches (Steven/Steve, Rose). Area code 928 correctly matches Flagstaff, AZ. No job title returned but location corroboration is strong."
+ },
+ {
+  "id": "C1213",
+  "company_name": "Belasco Electric",
+  "owner_name_confirmed": "Arnold Belasco",
+  "mobile_phone": "(520) 744-1195",
+  "office_phone": "",
+  "email": "",
+  "job_title": "Boss",
+  "match_notes": "FULL_MATCH, name+company exact match. Job title 'Boss' is informal but consistent with a small owner-operator business. Area code 520 correctly matches Tucson, AZ."
+ }
+]

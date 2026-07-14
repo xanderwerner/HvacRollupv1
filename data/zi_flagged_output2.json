@@ -1,0 +1,132 @@
+[
+ {
+  "id": "C624",
+  "company_name": "AZ Auto Air",
+  "owner_name_confirmed": "Steve O'Brien",
+  "mobile_phone": "",
+  "office_phone": "",
+  "email": "steve@azautoair.com",
+  "job_title": "Owner",
+  "match_notes": "FULL_MATCH. Email domain (azautoair.com) matches company exactly. No phone returned."
+ },
+ {
+  "id": "C647",
+  "company_name": "Maloney Plumbing & Drain Services in Phoenix, AZ",
+  "owner_name_confirmed": "Mary Maloney",
+  "mobile_phone": "",
+  "office_phone": "",
+  "email": "mkmaloney@wjmaloney.com",
+  "job_title": "Founder",
+  "match_notes": "FULL_MATCH. Name and title match, but email domain is wjmaloney.com not maloneyplumbing.com - likely a legacy/DBA entity (W.J. Maloney) given exact surname match; verify domain before outreach."
+ },
+ {
+  "id": "C700",
+  "company_name": "Wood's Plumbing Enterprises LLC",
+  "owner_name_confirmed": "Andrew Dobbins",
+  "mobile_phone": "",
+  "office_phone": "",
+  "email": "andrew@woodsplumbing.com",
+  "job_title": "Owner and Master Plumber",
+  "match_notes": "FULL_MATCH. Email domain (woodsplumbing.com) matches company, title matches exactly."
+ },
+ {
+  "id": "C762",
+  "company_name": "Roto-Rooter Sewer & Drain Service",
+  "owner_name_confirmed": "David R. Gibbs",
+  "mobile_phone": "(520) 732-3735",
+  "office_phone": "",
+  "email": "",
+  "job_title": "Partner",
+  "match_notes": "FULL_MATCH. Area code 520 consistent with Sierra Vista, AZ location. Title 'Partner' plausible for independent franchisee owner."
+ },
+ {
+  "id": "C805",
+  "company_name": "Plumbing & Electrical Concepts",
+  "owner_name_confirmed": "Dave Smith",
+  "mobile_phone": "(928) 221-2179",
+  "office_phone": "",
+  "email": "",
+  "job_title": "Owner",
+  "match_notes": "FULL_MATCH. Area code 928 consistent with Flagstaff, AZ location. Title matches."
+ },
+ {
+  "id": "C813",
+  "company_name": "Liberty Plumbing - Flagstaff",
+  "owner_name_confirmed": "Thomas R. Ford",
+  "mobile_phone": "(623) 271-1481",
+  "office_phone": "",
+  "email": "tomford@libertymechanicalcorp.com",
+  "job_title": "President",
+  "match_notes": "FULL_MATCH. Email domain libertymechanicalcorp.com corroborates via 'Liberty' name match and title (President) matches. Area code 623 (Phoenix metro) does not match Flagstaff city but not disqualifying (mobile numbers often predate relocation)."
+ },
+ {
+  "id": "C831",
+  "company_name": "Plumbing Buckeye Sol",
+  "owner_name_confirmed": "Chauncey M. Briggs",
+  "mobile_phone": "(602) 595-0099",
+  "office_phone": "",
+  "email": "",
+  "job_title": "President",
+  "match_notes": "FULL_MATCH. Company matched under 'Briggs Air Conditioning, Heating & Refrigeration' (surname match), area code 602 consistent with Phoenix metro/Buckeye. Title matches. NOTE: mobilePhoneDoNotCall flag is TRUE - do not cold call this number, use for reference/other channels only."
+ },
+ {
+  "id": "C929",
+  "company_name": "Integrity Electrical Services Company LLC",
+  "owner_name_confirmed": "Mike Cobb (Michael Cobb)",
+  "mobile_phone": "(480) 440-1516",
+  "office_phone": "",
+  "email": "mike@integrityelectricaz.com",
+  "job_title": "Owner and Executive Operations Manager",
+  "match_notes": "FULL_MATCH. Email domain integrityelectricaz.com matches company family exactly, area code 480 consistent with Phoenix metro. Same contact record used across multiple related Integrity Electrical LLC entities. NOTE: mobilePhoneDoNotCall flag is TRUE - do not cold call, use email or other channel."
+ },
+ {
+  "id": "C934",
+  "company_name": "Integrity Electrical LLC",
+  "owner_name_confirmed": "Mike Cobb (Michael Cobb)",
+  "mobile_phone": "(480) 440-1516",
+  "office_phone": "",
+  "email": "mike@integrityelectricaz.com",
+  "job_title": "Owner and Executive Operations Manager",
+  "match_notes": "FULL_MATCH, same underlying ZoomInfo contact record as C929/C936 (same person, multiple related LLC filings across AZ cities). NOTE: mobilePhoneDoNotCall flag is TRUE - do not cold call, use email or other channel."
+ },
+ {
+  "id": "C936",
+  "company_name": "Integrity Electrical Service LLC",
+  "owner_name_confirmed": "Mike Cobb (Michael Cobb)",
+  "mobile_phone": "(480) 440-1516",
+  "office_phone": "",
+  "email": "mike@integrityelectricaz.com",
+  "job_title": "Owner and Executive Operations Manager",
+  "match_notes": "FULL_MATCH, same underlying ZoomInfo contact record as C929/C934 (same person, multiple related LLC filings across AZ cities). NOTE: mobilePhoneDoNotCall flag is TRUE - do not cold call, use email or other channel."
+ },
+ {
+  "id": "C954",
+  "company_name": "Pagett Electric Company",
+  "owner_name_confirmed": "Whitney Vancil",
+  "mobile_phone": "",
+  "office_phone": "",
+  "email": "wvancil@pagettelectric.com",
+  "job_title": "Owner and Operator",
+  "match_notes": "FULL_MATCH. Email domain pagettelectric.com matches company exactly, title matches."
+ },
+ {
+  "id": "C975",
+  "company_name": "Dependable Sparky Electric LLC",
+  "owner_name_confirmed": "Mike Tolliver",
+  "mobile_phone": "",
+  "office_phone": "",
+  "email": "mike.tolliver@dependablesparky.com",
+  "job_title": "Founder",
+  "match_notes": "FULL_MATCH. Email domain dependablesparky.com matches company exactly, title matches. (Sibling company 'Sparky Electrical LLC', id C938, returned COMPANY_ONLY_MATCH with no usable contact data - not included.)"
+ },
+ {
+  "id": "C1010",
+  "company_name": "GHS Electric",
+  "owner_name_confirmed": "Gaylene Jo Hutchins",
+  "mobile_phone": "(928) 444-0221",
+  "office_phone": "",
+  "email": "hgaylene@ghselectric.biz",
+  "job_title": "Electrical Contractor",
+  "match_notes": "FULL_MATCH. Email domain ghselectric.biz matches company exactly, area code 928 consistent with Bullhead City, AZ. NOTE: mobilePhoneDoNotCall flag is TRUE - do not cold call, use email or other channel."
+ }
+]

@@ -1,0 +1,102 @@
+[
+ {
+  "id": "C196",
+  "company_name": "Climate Pro LLC",
+  "owner_name_confirmed": "Daniel Justin Ozment",
+  "mobile_phone": "(480) 248-0494",
+  "office_phone": "(480) 602-4535",
+  "email": "dano@climateprollc.com",
+  "job_title": "",
+  "match_notes": "ZoomInfo FULL_MATCH on fullName+companyName. No jobTitle returned, but email domain (climateprollc.com) matches company name, strong corroboration."
+ },
+ {
+  "id": "C251",
+  "company_name": "911 Air Repair",
+  "owner_name_confirmed": "Raymond Anthony Nieves",
+  "mobile_phone": "",
+  "office_phone": "",
+  "email": "raymond.nieves@911-ac.com",
+  "job_title": "Owner",
+  "match_notes": "ZoomInfo FULL_MATCH. jobTitle 'Owner' is sane for a business owner; email domain (911-ac.com) corroborates. No phone number returned by ZoomInfo, email only."
+ },
+ {
+  "id": "C270",
+  "company_name": "Evans Air Conditioning & Heating",
+  "owner_name_confirmed": "Dennis Brian Evans",
+  "mobile_phone": "",
+  "office_phone": "",
+  "email": "dennis.evans@evans-air.com",
+  "job_title": "",
+  "match_notes": "ZoomInfo FULL_MATCH. No jobTitle returned, but email domain (evans-air.com) matches company name closely, strong corroboration. No phone number returned, email only."
+ },
+ {
+  "id": "C276",
+  "company_name": "Champion Air",
+  "owner_name_confirmed": "Joshua James Blood",
+  "mobile_phone": "(480) 670-1231",
+  "office_phone": "",
+  "email": "",
+  "job_title": "",
+  "match_notes": "ZoomInfo FULL_MATCH on fullName+companyName (returned as 'Josh Blood'). No jobTitle or email returned, only mobile phone."
+ },
+ {
+  "id": "C288",
+  "company_name": "Simon's Plumbing",
+  "owner_name_confirmed": "Simon Cupi",
+  "mobile_phone": "",
+  "office_phone": "",
+  "email": "simon@simonsplumbingaz.com",
+  "job_title": "",
+  "match_notes": "ZoomInfo FULL_MATCH. No jobTitle returned, but email domain (simonsplumbingaz.com) matches company name, strong corroboration. Email only, no phone."
+ },
+ {
+  "id": "C332",
+  "company_name": "Franklin Plumbing Services",
+  "owner_name_confirmed": "Michael Edward Macon",
+  "mobile_phone": "(928) 671-0974",
+  "office_phone": "",
+  "email": "",
+  "job_title": "President",
+  "match_notes": "ZoomInfo CONTACT_ONLY_MATCH (company link not independently verified by ZoomInfo, zoominfoCompanyId=0), but jobTitle 'President' is sane for a plumbing services owner and name matches exactly. Moderate confidence."
+ },
+ {
+  "id": "C341",
+  "company_name": "C&H Plumbing",
+  "owner_name_confirmed": "Jace Rex Baum",
+  "mobile_phone": "",
+  "office_phone": "",
+  "email": "jace@candhplumbing.com",
+  "job_title": "Owner",
+  "match_notes": "ZoomInfo FULL_MATCH. jobTitle 'Owner' is sane; email domain (candhplumbing.com) matches company name exactly, strong corroboration. Email only, no phone."
+ },
+ {
+  "id": "C374",
+  "company_name": "Greenwood Air",
+  "owner_name_confirmed": "Stephen M Greenwood",
+  "mobile_phone": "",
+  "office_phone": "",
+  "email": "stephen.greenwood@greenwoodair.com",
+  "job_title": "Owner",
+  "match_notes": "ZoomInfo FULL_MATCH. jobTitle 'Owner' is sane; email domain (greenwoodair.com) matches company name exactly, strong corroboration. Email only, no phone."
+ },
+ {
+  "id": "C383",
+  "company_name": "Sweet Dreams Plumbing",
+  "owner_name_confirmed": "Daniel J Cifelli",
+  "mobile_phone": "(602) 463-9751",
+  "office_phone": "",
+  "email": "",
+  "job_title": "Business Owner",
+  "match_notes": "ZoomInfo CONTACT_ONLY_MATCH (company link not independently verified, zoominfoCompanyId=0), but jobTitle 'Business Owner' is sane and name matches exactly. Moderate confidence."
+ },
+ {
+  "id": "C399",
+  "company_name": "Your Plumber, Heating & Air",
+  "owner_name_confirmed": "Matthew Scott Field",
+  "mobile_phone": "",
+  "office_phone": "",
+  "email": "matt@yourplumberaz.com",
+  "job_title": "",
+  "match_notes": "ZoomInfo FULL_MATCH (returned as 'Matt Field'). No jobTitle returned, but email domain (yourplumberaz.com) matches company name closely, strong corroboration. Email only, no phone."
+ }
+]

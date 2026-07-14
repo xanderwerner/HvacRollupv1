@@ -1,0 +1,82 @@
+[
+ {
+  "id": "C416",
+  "company_name": "Qualified Comfort Air Conditioning and Heating",
+  "owner_name_confirmed": "Derek Patrick Coleman",
+  "mobile_phone": "(520) 236-0585",
+  "office_phone": "",
+  "email": "",
+  "job_title": "Owner",
+  "match_notes": "CONTACT_ONLY_MATCH; title Owner matches expected role; area code 520 plausible for Huachuca City area."
+ },
+ {
+  "id": "C437",
+  "company_name": "Mountain High Plumbing Inc",
+  "owner_name_confirmed": "James Armand Velez",
+  "mobile_phone": "(928) 699-2510",
+  "office_phone": "",
+  "email": "jimmy@mountainhighplumbing.net",
+  "job_title": "Employee",
+  "match_notes": "FULL_MATCH; ZoomInfo title returned as 'Employee' (generic), but matched name Jimmy Velez is a plausible nickname for James, and email domain jimmy@mountainhighplumbing.net exactly matches the company name, strongly corroborating this is the right person despite the non-specific title."
+ },
+ {
+  "id": "C439",
+  "company_name": "Air Flow Air Conditioning & Refrigeration",
+  "owner_name_confirmed": "Aron Kauffman Kauffman",
+  "mobile_phone": "",
+  "office_phone": "(602) 245-3000",
+  "email": "aron@airflowaz.com",
+  "job_title": "",
+  "match_notes": "FULL_MATCH; no jobTitle returned, but email domain airflowaz.com corroborates company match; phone returned is office/direct, not mobile."
+ },
+ {
+  "id": "C449",
+  "company_name": "Mission Plumbing LLC",
+  "owner_name_confirmed": "Jorge Tirado",
+  "mobile_phone": "(928) 941-1389",
+  "office_phone": "",
+  "email": "",
+  "job_title": "Owner",
+  "match_notes": "CONTACT_ONLY_MATCH; title Owner matches expected role."
+ },
+ {
+  "id": "C454",
+  "company_name": "DeModica Air Conditioning",
+  "owner_name_confirmed": "Johnathan Hunter DeModica",
+  "mobile_phone": "(480) 433-3522",
+  "office_phone": "",
+  "email": "",
+  "job_title": "Owner and President and Chief Executive Officer",
+  "match_notes": "CONTACT_ONLY_MATCH; title strongly confirms owner status; matched as 'John DeModica' (nickname of Johnathan)."
+ },
+ {
+  "id": "C478",
+  "company_name": "Wild West Mechanical Heating and Cooling",
+  "owner_name_confirmed": "Mark Anthony Silva",
+  "mobile_phone": "",
+  "office_phone": "",
+  "email": "mark@wildwesthvac.com",
+  "job_title": "Owner",
+  "match_notes": "FULL_MATCH, title Owner; ZoomInfo returned no phone number, only email (domain wildwesthvac.com corroborates company). No phone available for this contact."
+ },
+ {
+  "id": "C492",
+  "company_name": "American Air Solutions",
+  "owner_name_confirmed": "David DeSplinter",
+  "mobile_phone": "(520) 559-6484",
+  "office_phone": "",
+  "email": "david@americanairaz.com",
+  "job_title": "Owner",
+  "match_notes": "CONTACT_ONLY_MATCH; title Owner and email domain americanairaz.com both corroborate match."
+ },
+ {
+  "id": "C542",
+  "company_name": "GML Plumbing",
+  "owner_name_confirmed": "Gregory Michael LaFlamme",
+  "mobile_phone": "",
+  "office_phone": "",
+  "email": "greg@gmlplumbing.com",
+  "job_title": "Owner and Plumber",
+  "match_notes": "FULL_MATCH; title 'Owner and Plumber' matches the owner_title already on file ('Owner Plumber') and email domain gmlplumbing.com corroborates. No phone number available, email only."
+ }
+]

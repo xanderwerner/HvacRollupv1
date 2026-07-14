@@ -1,0 +1,102 @@
+[
+ {
+  "id": "C1277",
+  "company_name": "Gila Electric",
+  "owner_name_confirmed": "Mike Brown",
+  "mobile_phone": "",
+  "office_phone": "(928) 348-8327",
+  "email": "",
+  "job_title": "Owner",
+  "match_notes": "FULL_MATCH. 928 area code fits Thatcher AZ. Only a direct/office 'phone' field returned by ZoomInfo, no mobile."
+ },
+ {
+  "id": "C1284",
+  "company_name": "Endeavor Electric",
+  "owner_name_confirmed": "Daniel Tauscher",
+  "mobile_phone": "(602) 919-2449",
+  "office_phone": "",
+  "email": "",
+  "job_title": "Business Owner",
+  "match_notes": "CONTACT_ONLY_MATCH. Title 'Business Owner' aligns with roster. 602 area code plausible for Gilbert AZ."
+ },
+ {
+  "id": "C1315",
+  "company_name": "Al-Co Electric",
+  "owner_name_confirmed": "Alex Kadar",
+  "mobile_phone": "(602) 769-7070",
+  "office_phone": "(602) 863-1513",
+  "email": "alex@alcoaz.com",
+  "job_title": "",
+  "match_notes": "FULL_MATCH. Email domain alcoaz.com strongly corroborates Al-Co Electric AZ. 602 area code fits Glendale AZ."
+ },
+ {
+  "id": "C1386",
+  "company_name": "Bay Star Electric",
+  "owner_name_confirmed": "Kenneth Breeling",
+  "mobile_phone": "(928) 303-6060",
+  "office_phone": "",
+  "email": "kenneth@baystarelectric.com",
+  "job_title": "Owner",
+  "match_notes": "FULL_MATCH. Email domain baystarelectric.com matches company exactly. 928 area code fits Topock AZ."
+ },
+ {
+  "id": "C1390",
+  "company_name": "Lights Out Electric",
+  "owner_name_confirmed": "Stephen Widomski",
+  "mobile_phone": "(708) 205-0554",
+  "office_phone": "",
+  "email": "steve@lightsoutelectric.com",
+  "job_title": "Owner",
+  "match_notes": "FULL_MATCH, Owner title and email domain lightsoutelectric.com corroborate the person. Mobile has a 708 (Chicago) area code, not AZ -- plausible if he kept an out-of-state cell, but flagged for verification before dialing."
+ },
+ {
+  "id": "C1384",
+  "company_name": "Highlight Electrical",
+  "owner_name_confirmed": "Michael Laurent",
+  "mobile_phone": "(480) 250-9195",
+  "office_phone": "",
+  "email": "",
+  "job_title": "Electrician",
+  "match_notes": "FULL_MATCH on name+company, 480 area code fits Scottsdale AZ. ZoomInfo title is 'Electrician' not 'Owner' -- plausible for an owner-operator but flagged since it doesn't exactly match roster title."
+ },
+ {
+  "id": "C1393",
+  "company_name": "Cirtcele Electric",
+  "owner_name_confirmed": "David Specht",
+  "mobile_phone": "(480) 650-5701",
+  "office_phone": "",
+  "email": "dave@cirtcele.com",
+  "job_title": "Director, Field Services",
+  "match_notes": "FULL_MATCH. Email domain cirtcele.com is an exact, distinctive match to the company name, strong identity corroboration. ZoomInfo title is 'Director, Field Services' rather than 'Owner' -- flagged for verification."
+ },
+ {
+  "id": "C1394",
+  "company_name": "Dolce Electric Co",
+  "owner_name_confirmed": "Anthony Dolce",
+  "mobile_phone": "(480) 225-2817",
+  "office_phone": "",
+  "email": "anthony@electriciansmesaaz.com",
+  "job_title": "Owner",
+  "match_notes": "FULL_MATCH. Owner title matches roster; email domain references electricians + Mesa AZ, consistent with city on file. 480 area code fits Mesa."
+ },
+ {
+  "id": "C1413",
+  "company_name": "Salt River Electric",
+  "owner_name_confirmed": "Gerald Roell",
+  "mobile_phone": "(602) 472-6504",
+  "office_phone": "",
+  "email": "jroell@srelectric.com",
+  "job_title": "Owner",
+  "match_notes": "FULL_MATCH. Email domain srelectric.com (Salt River Electric abbreviation) strongly corroborates. 602 area code fits Phoenix."
+ },
+ {
+  "id": "C1425",
+  "company_name": "Dutchman Electric",
+  "owner_name_confirmed": "Johannes de Kryger",
+  "mobile_phone": "(602) 339-3639",
+  "office_phone": "",
+  "email": "",
+  "job_title": "Owner",
+  "match_notes": "FULL_MATCH. Owner title matches roster; 602 area code plausible for Sun City AZ."
+ }
+]

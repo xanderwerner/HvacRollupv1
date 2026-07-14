@@ -1,0 +1,322 @@
+[
+ {
+  "id": "C1960",
+  "name": "Power Bound Electric LLC",
+  "owner_name": "Chase Jones",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Casa Grande",
+  "emp": 3
+ },
+ {
+  "id": "C2064",
+  "name": "Precision Electric Co Inc",
+  "owner_name": "Lucas Carroll Belt",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Phoenix",
+  "emp": 3
+ },
+ {
+  "id": "C2377",
+  "name": "G 4 Electric LLC",
+  "owner_name": "John Roy Gosney Jr",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Mesa",
+  "emp": 3
+ },
+ {
+  "id": "C2560",
+  "name": "Cobre Contracting",
+  "owner_name": "Richard Orozco Villegas",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Scottsdale",
+  "emp": 3
+ },
+ {
+  "id": "C1309",
+  "name": "365 Technologies Security & Electrical",
+  "owner_name": "Freddie Haber",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Scottsdale",
+  "emp": 2
+ },
+ {
+  "id": "C1312",
+  "name": "Amanti Electric LLC",
+  "owner_name": "Paul Vincent Amanti",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Tucson",
+  "emp": 2
+ },
+ {
+  "id": "C1349",
+  "name": "KRH Electrical",
+  "owner_name": "Kenneth R Hall",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Tucson",
+  "emp": 2
+ },
+ {
+  "id": "C1368",
+  "name": "Tomcat Electric",
+  "owner_name": "Michael Garza",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Yuma",
+  "emp": 2
+ },
+ {
+  "id": "C1504",
+  "name": "R & R Construction & Electrical LLC",
+  "owner_name": "Matt P Rios",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Cornville",
+  "emp": 2
+ },
+ {
+  "id": "C1707",
+  "name": "Extra Electrical Inc",
+  "owner_name": "David Gomez",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Peoria",
+  "emp": 2
+ },
+ {
+  "id": "C1869",
+  "name": "Sonoran Sunset Development LLC",
+  "owner_name": "Michael Licavoli Licavoli",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Tucson",
+  "emp": 2
+ },
+ {
+  "id": "C2182",
+  "name": "DYNAMO ELECTRIC LLC",
+  "owner_name": "William Luis Cusack",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Tucson",
+  "emp": 2
+ },
+ {
+  "id": "C2240",
+  "name": "Fast Layne Electric LLC",
+  "owner_name": "Joseph William Rose",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Tempe",
+  "emp": 2
+ },
+ {
+  "id": "C2277",
+  "name": "Brooks Electric LLC",
+  "owner_name": "Cole Brooks Slatcher",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "APACHE JUNCTION",
+  "emp": 2
+ },
+ {
+  "id": "C2300",
+  "name": "Automation Electric LLC",
+  "owner_name": "Fj Dewalt Oosthuizen",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Payson",
+  "emp": 2
+ },
+ {
+  "id": "C2465",
+  "name": "Epic Electric LLC",
+  "owner_name": "Julian Javier Encinas",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Surprise",
+  "emp": 2
+ },
+ {
+  "id": "C2685",
+  "name": "Jones Electric Inc",
+  "owner_name": "Jason Charles Jones",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Tucson",
+  "emp": 2
+ },
+ {
+  "id": "C1054",
+  "name": "12 Gauge Electric LLC",
+  "owner_name": "Joel Zavala",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Buckeye",
+  "emp": 1
+ },
+ {
+  "id": "C1079",
+  "name": "Honor Electric, LLC",
+  "owner_name": "Hector Contreras Fraire",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Peoria",
+  "emp": 1
+ },
+ {
+  "id": "C1107",
+  "name": "Trumbull Electric",
+  "owner_name": "Jacob Ryan Trumbull",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Prescott Valley",
+  "emp": 1
+ },
+ {
+  "id": "C1632",
+  "name": "Leach Electrical Repair LLC",
+  "owner_name": "Benjamin James Leach",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Phoenix",
+  "emp": 1
+ },
+ {
+  "id": "C1821",
+  "name": "Streamline Electrical Contracting LLC",
+  "owner_name": "Martin De Santiago",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Glendale",
+  "emp": 1
+ },
+ {
+  "id": "C1901",
+  "name": "Zeus Power Controls LLC",
+  "owner_name": "Kyle Steven Hills",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Scottsdale",
+  "emp": 1
+ },
+ {
+  "id": "C1917",
+  "name": "Real Power Electric LLC",
+  "owner_name": "Paul Lee Wilson",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Cave Creek",
+  "emp": 1
+ },
+ {
+  "id": "C2319",
+  "name": "Barcelo Electric LLC",
+  "owner_name": "Pedro Barcelo",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Tucson",
+  "emp": 1
+ },
+ {
+  "id": "C2602",
+  "name": "Desert Hills Electric Inc",
+  "owner_name": "Jason Adam Duke",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Tucson",
+  "emp": 1
+ },
+ {
+  "id": "C2607",
+  "name": "Efficient Electric Inc",
+  "owner_name": "Steve Scott Menzies",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Glendale",
+  "emp": 1
+ },
+ {
+  "id": "C2668",
+  "name": "M T J Electric Inc",
+  "owner_name": "John F Nichols",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Scottsdale",
+  "emp": 1
+ },
+ {
+  "id": "C2712",
+  "name": "Badgerland Electric, Inc.",
+  "owner_name": "Michael J Wondrash",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Scottsdale",
+  "emp": 1
+ },
+ {
+  "id": "C630",
+  "name": "Alaskan Air Conditioning & Heating Tucson",
+  "owner_name": "Ronald Bott",
+  "owner_title": "Qualifying Party",
+  "city": "Tucson",
+  "emp": "33"
+ },
+ {
+  "id": "C636",
+  "name": "Ground Zero Plumbing, AC and Electrical - Chandler",
+  "owner_name": "Brian Schemp",
+  "owner_title": "Member;Qualifying Party",
+  "city": "Chandler",
+  "emp": "27"
+ },
+ {
+  "id": "C641",
+  "name": "Felix Appliance Heating & AC Repair",
+  "owner_name": "Robert Felix",
+  "owner_title": "Qualifying Party",
+  "city": "Maricopa",
+  "emp": "3"
+ },
+ {
+  "id": "C667",
+  "name": "RCS Plumbing Heating Cooling",
+  "owner_name": "Bradley K Barker",
+  "owner_title": "Qualifying Party",
+  "city": "San Tan Valley",
+  "emp": 0
+ },
+ {
+  "id": "C669",
+  "name": "MVP Plumbing",
+  "owner_name": "Mark Alan Vedette",
+  "owner_title": "Member;Qualifying Party",
+  "city": "Chandler",
+  "emp": 0
+ },
+ {
+  "id": "C671",
+  "name": "Nichols Plumbing, Electrical, & HVAC",
+  "owner_name": "David Christian Nichols",
+  "owner_title": "Qualifying Party",
+  "city": "Cottonwood",
+  "emp": 0
+ },
+ {
+  "id": "C674",
+  "name": "Spartan Plumbing Solutions LLC",
+  "owner_name": "Glen Davidson",
+  "owner_title": "Qualifying Party",
+  "city": "Goodyear",
+  "emp": 0
+ },
+ {
+  "id": "C681",
+  "name": "Plumber of Tucson",
+  "owner_name": "Don Robert Paz",
+  "owner_title": "Qualifying Party",
+  "city": "Tucson",
+  "emp": "1"
+ },
+ {
+  "id": "C682",
+  "name": "Somers Plumbers - Phoenix Plumbing Company",
+  "owner_name": "David John Somers",
+  "owner_title": "Qualifying Party",
+  "city": "Phoenix",
+  "emp": 0
+ },
+ {
+  "id": "C684",
+  "name": "P3 Plumbing AZ",
+  "owner_name": "Devin Michael Peterson",
+  "owner_title": "Qualifying Party",
+  "city": "Wittmann",
+  "emp": 0
+ },
+ {
+  "id": "C692",
+  "name": "Struse Plumbing & Air Inc",
+  "owner_name": "Daniel Struse",
+  "owner_title": "Qualifying Party",
+  "city": "Sierra Vista",
+  "emp": "4"
+ }
+]

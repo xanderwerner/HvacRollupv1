@@ -1,0 +1,646 @@
+[
+ {
+  "id": "C1658",
+  "name": "SUN ELECTRICAL LLC",
+  "owner_name": "Brandon Michael Dennis",
+  "owner_title": "Owner",
+  "city": "Yuma"
+ },
+ {
+  "id": "C1666",
+  "name": "Spectra Electrical Services Inc",
+  "owner_name": "Caleb Graham",
+  "owner_title": "Vice President, Construction",
+  "city": "Tempe"
+ },
+ {
+  "id": "C1672",
+  "name": "Apache Dee's Electrical Services LLC",
+  "owner_name": "Dallas Dewey",
+  "owner_title": "Owner",
+  "city": "Apache Junction"
+ },
+ {
+  "id": "C1677",
+  "name": "State Electrical Contractors Inc",
+  "owner_name": "Arthur Reichsfeld",
+  "owner_title": "Owner",
+  "city": "Fountain Hills"
+ },
+ {
+  "id": "C1683",
+  "name": "Arizona Electrical Apparatus Inc",
+  "owner_name": "Sal Gonzalez",
+  "owner_title": "President & Owner",
+  "city": "Tucson"
+ },
+ {
+  "id": "C1686",
+  "name": "Chapman Electrical Contracting Inc",
+  "owner_name": "Jason Chapman",
+  "owner_title": "Chief Executive Officer",
+  "city": "Glendale"
+ },
+ {
+  "id": "C1691",
+  "name": "Chambers Electrical Services LLC",
+  "owner_name": "Gregory Chambers",
+  "owner_title": "Founder & Chief Executive Officer",
+  "city": "Glendale"
+ },
+ {
+  "id": "C1700",
+  "name": "Cornerstone Electrical Contractors LLC",
+  "owner_name": "Alan Bieberstein",
+  "owner_title": "Owner",
+  "city": "Tucson"
+ },
+ {
+  "id": "C1701",
+  "name": "Duffy Electrical Contractors Inc",
+  "owner_name": "George Fuller",
+  "owner_title": "Electrician",
+  "city": "Tucson"
+ },
+ {
+  "id": "C1720",
+  "name": "John Gorraiz Electrical Inc",
+  "owner_name": "John Gorraiz",
+  "owner_title": "Owner and Electrician",
+  "city": "Gilbert"
+ },
+ {
+  "id": "C1724",
+  "name": "BAMS Electrical Services LLC",
+  "owner_name": "Brian Thach",
+  "owner_title": "Electrician",
+  "city": "Mesa"
+ },
+ {
+  "id": "C1748",
+  "name": "McCloud Electrical",
+  "owner_name": "Harold McCloud",
+  "owner_title": "Owner",
+  "city": "Sedona"
+ },
+ {
+  "id": "C1749",
+  "name": "Tekline Electrical Services LLC",
+  "owner_name": "Jason Raymond",
+  "owner_title": "Vice President, Operations",
+  "city": "Chandler"
+ },
+ {
+  "id": "C1758",
+  "name": "Prestige Heating & Cooling",
+  "owner_name": "Francisco Elias",
+  "owner_title": "Owner",
+  "city": "Mesa"
+ },
+ {
+  "id": "C1772",
+  "name": "Liggett Electrical Services LLC",
+  "owner_name": "Johnny Liggett",
+  "owner_title": "Small Business Owner",
+  "city": "Somerton"
+ },
+ {
+  "id": "C1776",
+  "name": "Integrity Electrical & Controls Systems LLC",
+  "owner_name": "Aaron Minefee",
+  "owner_title": "Principal Owner",
+  "city": "Tucson"
+ },
+ {
+  "id": "C1780",
+  "name": "Industrial Electrical Solutions Inc.",
+  "owner_name": "Jasmine Ervin",
+  "owner_title": "Partner",
+  "city": "Litchfield Park"
+ },
+ {
+  "id": "C1795",
+  "name": "Electrical Unlimited LLC",
+  "owner_name": "Sean Cox",
+  "owner_title": "Service Electrician",
+  "city": "Yuma"
+ },
+ {
+  "id": "C1801",
+  "name": "Next Generation Concrete, Traffic Safety",
+  "owner_name": "Jose Celaya",
+  "owner_title": "Partner",
+  "city": "Tucson"
+ },
+ {
+  "id": "C1808",
+  "name": "Unique Electrical Contractors Incorporated",
+  "owner_name": "Than Soe",
+  "owner_title": "Co-Owner",
+  "city": "Scottsdale"
+ },
+ {
+  "id": "C1819",
+  "name": "Leap Frog Electrical LLC",
+  "owner_name": "Justin Mayotte",
+  "owner_title": "Owner",
+  "city": "Tempe"
+ },
+ {
+  "id": "C1825",
+  "name": "SPECIFIED ELECTRICAL CONTRACTORS, INC.",
+  "owner_name": "Marc Owen",
+  "owner_title": "Vice President",
+  "city": "PHOENIX"
+ },
+ {
+  "id": "C1853",
+  "name": "Wilde Wiring Inc",
+  "owner_name": "Jody Short",
+  "owner_title": "Electrician",
+  "city": "Scottsdale"
+ },
+ {
+  "id": "C1865",
+  "name": "MAC Power LLC",
+  "owner_name": "Andrea Coury",
+  "owner_title": "Owner",
+  "city": "gilbert"
+ },
+ {
+  "id": "C1921",
+  "name": "Sunstate Comfort Systems",
+  "owner_name": "Brent Young",
+  "owner_title": "Business Owner",
+  "city": "Tucson"
+ },
+ {
+  "id": "C1925",
+  "name": "E2 Power and Special Systems Group Inc",
+  "owner_name": "Rickey Wilson",
+  "owner_title": "Chief Executive Officer",
+  "city": "Tucson"
+ },
+ {
+  "id": "C1928",
+  "name": "Grand Canyon Electric Inc",
+  "owner_name": "David Lock",
+  "owner_title": "Chief Executive Officer",
+  "city": "Flagstaff"
+ },
+ {
+  "id": "C1930",
+  "name": "Paragon Power LLC",
+  "owner_name": "Dalin Pugmire",
+  "owner_title": "Electrician",
+  "city": "Phoenix"
+ },
+ {
+  "id": "C1938",
+  "name": "Power By Infinity",
+  "owner_name": "Christian Jose Mendoza",
+  "owner_title": "Owner",
+  "city": "Phoenix"
+ },
+ {
+  "id": "C1947",
+  "name": "Active Power Solutions LLC",
+  "owner_name": "William Glenn",
+  "owner_title": "Chief Executive Officer & Co-Founder",
+  "city": "Mesa (Maricopa)"
+ },
+ {
+  "id": "C1953",
+  "name": "Icon Power LLC",
+  "owner_name": "Jacob Bastian",
+  "owner_title": "Chief Executive Officer",
+  "city": "Tempe"
+ },
+ {
+  "id": "C1964",
+  "name": "Inty Power LLC",
+  "owner_name": "Stacey Rosario",
+  "owner_title": "Vice President, Strategy",
+  "city": "Tempe"
+ },
+ {
+  "id": "C2047",
+  "name": "County Electric Co LLC",
+  "owner_name": "Ketter Raska",
+  "owner_title": "Owner",
+  "city": "Glendale"
+ },
+ {
+  "id": "C2049",
+  "name": "Independent Electric Company Inc",
+  "owner_name": "Robert Loiselle",
+  "owner_title": "President",
+  "city": "Scottsdale"
+ },
+ {
+  "id": "C2051",
+  "name": "Indicom Electric Company",
+  "owner_name": "Roy Cracraft",
+  "owner_title": "President",
+  "city": "MESA"
+ },
+ {
+  "id": "C2063",
+  "name": "CLS Electric Corporation",
+  "owner_name": "Edwin Merlos",
+  "owner_title": "Electrician",
+  "city": "Phoenix"
+ },
+ {
+  "id": "C2068",
+  "name": "Elan Electric Incorporated",
+  "owner_name": "James Johnson",
+  "owner_title": "President",
+  "city": "Prescott Valley"
+ },
+ {
+  "id": "C2078",
+  "name": "Beltran Electric Co. Inc.",
+  "owner_name": "Alexis Beltran",
+  "owner_title": "Electrician",
+  "city": "Litchfield Park"
+ },
+ {
+  "id": "C2092",
+  "name": "Grayelectric, LLC",
+  "owner_name": "Elias Gray",
+  "owner_title": "Owner",
+  "city": "Buckeye"
+ },
+ {
+  "id": "C2094",
+  "name": "Enhanced Electric LLC",
+  "owner_name": "Jon Robert Kogut",
+  "owner_title": "Owner",
+  "city": "Kingman"
+ },
+ {
+  "id": "C2296",
+  "name": "Amtek Electric LLC",
+  "owner_name": "Ernest Mitchell",
+  "owner_title": "Owner of Electrical Contracting Company",
+  "city": "Yuma"
+ },
+ {
+  "id": "C2299",
+  "name": "Arrowhead Electric LLC",
+  "owner_name": "Joel Huerta",
+  "owner_title": "Owner",
+  "city": "Glendale"
+ },
+ {
+  "id": "C2311",
+  "name": "Class One Electric LLC",
+  "owner_name": "Samuel Sanchez",
+  "owner_title": "Electrician",
+  "city": "Phoenix"
+ },
+ {
+  "id": "C2314",
+  "name": "Chicos Electric LLC",
+  "owner_name": "Francisco Corral",
+  "owner_title": "Founder",
+  "city": "Avondale"
+ },
+ {
+  "id": "C2323",
+  "name": "Barbagallo Electric LLC",
+  "owner_name": "Vincent Barbagallo",
+  "owner_title": "Founder",
+  "city": "Fountain Hills"
+ },
+ {
+  "id": "C2336",
+  "name": "Desert Sun Electric LLC",
+  "owner_name": "Category Networks, Llc",
+  "owner_title": "Owner",
+  "city": "Tucson"
+ },
+ {
+  "id": "C2359",
+  "name": "Frederick Electric LLC",
+  "owner_name": "Jason Frederick",
+  "owner_title": "Electrician",
+  "city": "Glendale"
+ },
+ {
+  "id": "C2368",
+  "name": "By All Means Electric LLC",
+  "owner_name": "Jerome Desmond",
+  "owner_title": "Owner",
+  "city": "phoenix"
+ },
+ {
+  "id": "C2379",
+  "name": "DMT Construction",
+  "owner_name": "Javier Yeyny",
+  "owner_title": "Electrician",
+  "city": "Yuma"
+ },
+ {
+  "id": "C2381",
+  "name": "BPR Electric LLC",
+  "owner_name": "Cody Cromer",
+  "owner_title": "Electrician's Apprentice",
+  "city": "San Tan Valley"
+ },
+ {
+  "id": "C2382",
+  "name": "Darren Lance Electric LLC",
+  "owner_name": "Darren Lance",
+  "owner_title": "Owner",
+  "city": "Flagstaff"
+ },
+ {
+  "id": "C2387",
+  "name": "Copper Electric LLC",
+  "owner_name": "Eldridge Davis",
+  "owner_title": "Electrician",
+  "city": "flagstaff"
+ },
+ {
+  "id": "C2390",
+  "name": "AZ State Electric LLC",
+  "owner_name": "Mohamed Maloum",
+  "owner_title": "Owner, Electrician",
+  "city": "Chandler"
+ },
+ {
+  "id": "C2400",
+  "name": "Copper Point Electric LLC",
+  "owner_name": "Leo Murphy",
+  "owner_title": "Owner and President Chief Executive Officer",
+  "city": "Phoenix"
+ },
+ {
+  "id": "C2408",
+  "name": "CNR Electric LLC",
+  "owner_name": "Ryan Larson",
+  "owner_title": "Owner",
+  "city": "Mesa"
+ },
+ {
+  "id": "C2414",
+  "name": "Blue State Electric LLC",
+  "owner_name": "Perla Galaviz",
+  "owner_title": "Vice President, Operations",
+  "city": "Gilbert"
+ },
+ {
+  "id": "C2415",
+  "name": "Blake Electric LLC",
+  "owner_name": "Ellen Blake",
+  "owner_title": "Owner",
+  "city": "Oro Valley"
+ },
+ {
+  "id": "C2423",
+  "name": "Coppertown Electric LLC",
+  "owner_name": "Coppertown Electric LLC",
+  "owner_title": "",
+  "city": "Phoenix"
+ },
+ {
+  "id": "C2428",
+  "name": "Dent Electric LLC",
+  "owner_name": "Erik Dent",
+  "owner_title": "Owner",
+  "city": "Mesa"
+ },
+ {
+  "id": "C2443",
+  "name": "Armstrong Service Electric LLC",
+  "owner_name": "Natasha Armstrong",
+  "owner_title": "Co-Owner",
+  "city": "Phoenix"
+ },
+ {
+  "id": "C2452",
+  "name": "Bright Light Electric LLC",
+  "owner_name": "Nathaniel Hull",
+  "owner_title": "Chief Executive Officer",
+  "city": "Gilbert"
+ },
+ {
+  "id": "C2492",
+  "name": "DeSantis Electric LLC",
+  "owner_name": "Joe Desantis",
+  "owner_title": "Master Electrician",
+  "city": "Surprise"
+ },
+ {
+  "id": "C2535",
+  "name": "Mohave Electric Inc.",
+  "owner_name": "Deborah Johnson",
+  "owner_title": "Vice President",
+  "city": "Lake Havasu City"
+ },
+ {
+  "id": "C2550",
+  "name": "Supercharged Electric Inc",
+  "owner_name": "Gary Timmerman",
+  "owner_title": "Electrician Trainee",
+  "city": "Litchfield Park"
+ },
+ {
+  "id": "C2553",
+  "name": "Saguaro State Electric Inc",
+  "owner_name": "Jeremy Pool",
+  "owner_title": "Electrician",
+  "city": "Prescott"
+ },
+ {
+  "id": "C2559",
+  "name": "Aussie Electric Inc",
+  "owner_name": "Daryl Brown",
+  "owner_title": "President & Owner",
+  "city": "SCOTTSDALE"
+ },
+ {
+  "id": "C2566",
+  "name": "Sierra Electric Inc",
+  "owner_name": "Rene Garza",
+  "owner_title": "Electrician",
+  "city": "Gilbert"
+ },
+ {
+  "id": "C2567",
+  "name": "Arizona Wide Electric Inc",
+  "owner_name": "Veronica Bland",
+  "owner_title": "Commercial Electrician",
+  "city": "Cottonwood"
+ },
+ {
+  "id": "C2576",
+  "name": "Arizona Central Electric Inc",
+  "owner_name": "Ralph Goble",
+  "owner_title": "President",
+  "city": "Glendale"
+ },
+ {
+  "id": "C2581",
+  "name": "Schmit Electric Inc",
+  "owner_name": "Jim Schmit",
+  "owner_title": "Owner",
+  "city": "Scottsdale"
+ },
+ {
+  "id": "C2583",
+  "name": "Stellar Electric Inc",
+  "owner_name": "Roderick Lutz",
+  "owner_title": "Master Electrician and Owner Stellar Electric",
+  "city": "Cave Creek"
+ },
+ {
+  "id": "C2586",
+  "name": "Rural Electric Inc",
+  "owner_name": "Annie Fogerty",
+  "owner_title": "President",
+  "city": "Mesa"
+ },
+ {
+  "id": "C2587",
+  "name": "Circle R Electric Inc",
+  "owner_name": "Wendy Larson",
+  "owner_title": "Owner",
+  "city": "Chandler"
+ },
+ {
+  "id": "C2612",
+  "name": "Echo Canyon Electric, Inc",
+  "owner_name": "Mario Lio",
+  "owner_title": "President",
+  "city": "Phoenix"
+ },
+ {
+  "id": "C2618",
+  "name": "Guthrie Electric Inc",
+  "owner_name": "Brian Whitehead",
+  "owner_title": "Vice President",
+  "city": "Mesa"
+ },
+ {
+  "id": "C2621",
+  "name": "Gecko Electric Inc",
+  "owner_name": "Bruce Hilburn",
+  "owner_title": "Electrician Forman",
+  "city": "Litchfield Park"
+ },
+ {
+  "id": "C2625",
+  "name": "Deer Valley Electric Inc",
+  "owner_name": "Chris McClaskey",
+  "owner_title": "President",
+  "city": "Phoenix"
+ },
+ {
+  "id": "C2636",
+  "name": "Greater Phoenix Electric Inc",
+  "owner_name": "Kathy Robinson",
+  "owner_title": "Owner",
+  "city": "Phoenix"
+ },
+ {
+  "id": "C2637",
+  "name": "Hot Line Electric Inc",
+  "owner_name": "Timothy Gallagher",
+  "owner_title": "President",
+  "city": "Phoenix"
+ },
+ {
+  "id": "C2644",
+  "name": "Hayden Electric Inc",
+  "owner_name": "Jeremy Mansanales",
+  "owner_title": "Journeyman Electrician",
+  "city": "Scottsdale"
+ },
+ {
+  "id": "C2654",
+  "name": "Jacobs Electric Inc",
+  "owner_name": "Eric Jacobs",
+  "owner_title": "Owner",
+  "city": "Tucson"
+ },
+ {
+  "id": "C2684",
+  "name": "Kelley Electric Lighting and Design Inc",
+  "owner_name": "Kelley Moritz",
+  "owner_title": "Owner",
+  "city": "Glendale"
+ },
+ {
+  "id": "C2690",
+  "name": "JCP Electric Inc",
+  "owner_name": "Juan Pineda",
+  "owner_title": "Founder & Licensed Electrician",
+  "city": "Tucson"
+ },
+ {
+  "id": "C2692",
+  "name": "Quest Electric Inc",
+  "owner_name": "Randy Tawney",
+  "owner_title": "Electrician",
+  "city": "Casa Grande"
+ },
+ {
+  "id": "C2694",
+  "name": "Palo Verde Electric Inc",
+  "owner_name": "Rick Canfield",
+  "owner_title": "President",
+  "city": "Tucson"
+ },
+ {
+  "id": "C2699",
+  "name": "New Electric Inc",
+  "owner_name": "David Rossi",
+  "owner_title": "Owner",
+  "city": "Phoenix"
+ },
+ {
+  "id": "C2704",
+  "name": "Robco Electric Inc",
+  "owner_name": "Robert Germain",
+  "owner_title": "Owner",
+  "city": "Phoenix"
+ },
+ {
+  "id": "C2713",
+  "name": "Cottonwood Electric Inc",
+  "owner_name": "Brian Smith",
+  "owner_title": "Owner and Licensed Operator",
+  "city": "Cottonwood"
+ },
+ {
+  "id": "C2719",
+  "name": "Moon Electric Inc.",
+  "owner_name": "Kevin Moon",
+  "owner_title": "President",
+  "city": "Cortaro"
+ },
+ {
+  "id": "C2724",
+  "name": "ATS Electric, Inc.",
+  "owner_name": "David Hernandez",
+  "owner_title": "Vice President",
+  "city": "Glendale"
+ },
+ {
+  "id": "C2725",
+  "name": "DMC Electric Inc",
+  "owner_name": "David McSpadden",
+  "owner_title": "President & Chief Executive Officer",
+  "city": "PHOENIX"
+ },
+ {
+  "id": "C2726",
+  "name": "DUTCHMASTERS ELECTRIC, INC",
+  "owner_name": "Patrick Elkins",
+  "owner_title": "Electrician",
+  "city": "Tolleson"
+ }
+]

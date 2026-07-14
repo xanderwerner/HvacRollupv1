@@ -1,0 +1,9 @@
+[
+  {"id": "C2377", "company_name": "G 4 Electric LLC", "mobile_phone": "(480) 388-9924", "email": "jgosney@g4electricaz.com", "job_title": "Co-Founder", "match_notes": "DO NOT CALL flagged on mobile"},
+  {"id": "C1312", "company_name": "Amanti Electric LLC", "office_phone": "(520) 733-1200 ext. 2", "mobile_phone": "(520) 631-4514", "email": "paul@amantielectric.com", "job_title": "Business Owner", "match_notes": "DO NOT CALL flagged on both direct and mobile"},
+  {"id": "C1368", "company_name": "Tomcat Electric", "office_phone": "(928) 726-4505", "mobile_phone": "(928) 261-8096", "email": "mgarza@tomcatunlimited.com", "job_title": "Owner", "match_notes": "direct phone DO NOT CALL, mobile OK to call"},
+  {"id": "C1707", "company_name": "Extra Electrical Inc", "mobile_phone": "(928) 550-8055", "job_title": "President", "match_notes": ""},
+  {"id": "C2319", "company_name": "Barcelo Electric LLC", "office_phone": "(520) 908-0332", "mobile_phone": "(520) 603-2103", "email": "pedro@barceloelectric.com", "job_title": "Electrician", "match_notes": "DO NOT CALL flagged on both direct and mobile"},
+  {"id": "C2712", "company_name": "Badgerland Electric, Inc.", "mobile_phone": "(623) 776-9795", "job_title": "President", "match_notes": "DO NOT CALL flagged on mobile"},
+  {"id": "C636", "company_name": "Ground Zero Plumbing, AC and Electrical - Chandler", "mobile_phone": "(602) 524-9914", "job_title": "Business Owner", "match_notes": "DO NOT CALL flagged on mobile. NOTE: this exact company had a prior wrong-match incident in this project (Minnesota area code/email from a different bulk pull, reverted) -- this new match has a plausible AZ (602) area code and matches company/title cleanly, but flagging the history for extra caution before use."}
+]

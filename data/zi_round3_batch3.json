@@ -1,0 +1,482 @@
+[
+ {
+  "id": "C2397",
+  "name": "Bill Richards Electric LLC",
+  "owner_name": "Robert Wayne Beckham",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Tucson",
+  "emp": 6
+ },
+ {
+  "id": "C2398",
+  "name": "AZ Top Shelf Electric LLC",
+  "owner_name": "Gregory Glenn Tschetter",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Glendale",
+  "emp": 6
+ },
+ {
+  "id": "C2421",
+  "name": "Copperhead Electric LLC",
+  "owner_name": "Armando Cabrera Ruiz",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Litchfield Park",
+  "emp": 6
+ },
+ {
+  "id": "C2431",
+  "name": "Cazares Electric LLC",
+  "owner_name": "Jaime Jose Cazares",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Tucson",
+  "emp": 6
+ },
+ {
+  "id": "C2441",
+  "name": "Electric ArtTech LLC",
+  "owner_name": "Aleksandar S Tesanovic",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "SCOTTSDALE",
+  "emp": 6
+ },
+ {
+  "id": "C2487",
+  "name": "E-OPS",
+  "owner_name": "Matthew Barlow",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Surprise",
+  "emp": 6
+ },
+ {
+  "id": "C2505",
+  "name": "E E L",
+  "owner_name": "Dwayne Fred Lynch",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Mesa",
+  "emp": 6
+ },
+ {
+  "id": "C2561",
+  "name": "Bronson Electric Inc",
+  "owner_name": "William Alan Gerard Bronson",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Flagstaff",
+  "emp": 6
+ },
+ {
+  "id": "C2592",
+  "name": "Cordero Electric Inc",
+  "owner_name": "Teofilo Cordero",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Amado",
+  "emp": 6
+ },
+ {
+  "id": "C2605",
+  "name": "DTL Electric Inc",
+  "owner_name": "Darren Ward Loftis",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "apache junction",
+  "emp": 6
+ },
+ {
+  "id": "C2628",
+  "name": "Holbrook Electric Inc",
+  "owner_name": "John Holbrook",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Yuma",
+  "emp": 6
+ },
+ {
+  "id": "C2633",
+  "name": "Grivet Electric Inc",
+  "owner_name": "Brian Anthony Grivet",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "TempeTempe",
+  "emp": 6
+ },
+ {
+  "id": "C2691",
+  "name": "E & R Electric Inc",
+  "owner_name": "Joel E Blickenstaff",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Kingman",
+  "emp": 6
+ },
+ {
+  "id": "C2698",
+  "name": "Platinum Electric Inc",
+  "owner_name": "Lorenzo Toto Tramaglino",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Kingman",
+  "emp": 6
+ },
+ {
+  "id": "C2710",
+  "name": "Phil Stratton Electric Inc",
+  "owner_name": "Phillip Raymond Stratton",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Snowflake",
+  "emp": 6
+ },
+ {
+  "id": "C1299",
+  "name": "The Mighty Electricians",
+  "owner_name": "Jon Bolenbaugh",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Phoenix",
+  "emp": 5
+ },
+ {
+  "id": "C1678",
+  "name": "Arizona West Electrical Inc",
+  "owner_name": "Christoper Wayne Lucas",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Happy Jack",
+  "emp": 5
+ },
+ {
+  "id": "C1714",
+  "name": "Kaleidescope Electrical Incorporated",
+  "owner_name": "Lynn Broughton",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "FLAGSTAFF",
+  "emp": 5
+ },
+ {
+  "id": "C1792",
+  "name": "SPE  Electrical Services LLC",
+  "owner_name": "Scott Patka",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Tucson",
+  "emp": 5
+ },
+ {
+  "id": "C1861",
+  "name": "Phoenix Electricians Today LLC",
+  "owner_name": "Dennis Parker Ii Ii",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "phoenix",
+  "emp": 5
+ },
+ {
+  "id": "C1909",
+  "name": "Mission Critical Precision Power LLC",
+  "owner_name": "Christopher J Sandoval",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Gilbert",
+  "emp": 5
+ },
+ {
+  "id": "C1910",
+  "name": "Standard Power Services LLC",
+  "owner_name": "Kenneth Sheldon Forsman",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Phoenix",
+  "emp": 5
+ },
+ {
+  "id": "C1957",
+  "name": "Station Power Construction LLC",
+  "owner_name": "John Albert Barriger",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Phoenix",
+  "emp": 5
+ },
+ {
+  "id": "C1971",
+  "name": "Pro Circuit Power LLC",
+  "owner_name": "Travis Landon Brown",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Maricopa",
+  "emp": 5
+ },
+ {
+  "id": "C1981",
+  "name": "Valley Voltage LLC",
+  "owner_name": "Boe Bigelow",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Gilbert",
+  "emp": 5
+ },
+ {
+  "id": "C2009",
+  "name": "Shields Electric Company Inc.",
+  "owner_name": "Walter Steven Donn",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Tempe",
+  "emp": 5
+ },
+ {
+  "id": "C2345",
+  "name": "G S E Welding Service, G S E",
+  "owner_name": "James Russell Cox",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Flagstaff",
+  "emp": 5
+ },
+ {
+  "id": "C2366",
+  "name": "Garza Electric LLC",
+  "owner_name": "Steve Lawrence Garza",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Peoria",
+  "emp": 5
+ },
+ {
+  "id": "C2419",
+  "name": "BEK Electric & Welding Service LLC",
+  "owner_name": "Jose Hiram Islas",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Tolleson",
+  "emp": 5
+ },
+ {
+  "id": "C2427",
+  "name": "Ekiwa Electric LLC",
+  "owner_name": "Luis Equihua Urtiz",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Glendale",
+  "emp": 5
+ },
+ {
+  "id": "C2551",
+  "name": "Red Desert Electric Inc",
+  "owner_name": "Jeff William Doyle",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Camp Verde",
+  "emp": 5
+ },
+ {
+  "id": "C2659",
+  "name": "J Lahr Electric Inc",
+  "owner_name": "Jonathan Robert Lahr",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Chandler",
+  "emp": 5
+ },
+ {
+  "id": "C2669",
+  "name": "Lucent Electric Inc",
+  "owner_name": "Bryan Lee Parks",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Phoenix",
+  "emp": 5
+ },
+ {
+  "id": "C2722",
+  "name": "J W Shaffer Electric Inc",
+  "owner_name": "John Shaffer Jr",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Tucson",
+  "emp": 5
+ },
+ {
+  "id": "C1156",
+  "name": "Cyrus Electric",
+  "owner_name": "Dalton John Pillor",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Surprise",
+  "emp": 4
+ },
+ {
+  "id": "C1223",
+  "name": "Affinity Solutions Experts",
+  "owner_name": "Matthew A Kraujalis",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Mesa",
+  "emp": 4
+ },
+ {
+  "id": "C1280",
+  "name": "Complete Electrical Servies, Complete Electric",
+  "owner_name": "Don Lynn Fillingim",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Show Low",
+  "emp": 4
+ },
+ {
+  "id": "C1439",
+  "name": "Desert Sun Electric",
+  "owner_name": "Joseph Edward Mooney",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Mesa",
+  "emp": 4
+ },
+ {
+  "id": "C1515",
+  "name": "Sandoval Electrical Services LLC",
+  "owner_name": "Jon Sandoval Sandoval",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Fountain Hills",
+  "emp": 4
+ },
+ {
+  "id": "C1752",
+  "name": "Proven Electrical Concepts LLC",
+  "owner_name": "Brian Oliver Beckles",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Peoria",
+  "emp": 4
+ },
+ {
+  "id": "C1796",
+  "name": "DLC Electrical Services LLC",
+  "owner_name": "Derek Lujan Lopez",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Goodyear",
+  "emp": 4
+ },
+ {
+  "id": "C1849",
+  "name": "Cutting Edge Electrical Services LLC",
+  "owner_name": "Kurt Horacek",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Phoenix",
+  "emp": 4
+ },
+ {
+  "id": "C1883",
+  "name": "Obsidian Power",
+  "owner_name": "Steven Saner",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "SCOTTSDALE",
+  "emp": 4
+ },
+ {
+  "id": "C1959",
+  "name": "Powerline Contractors West Inc",
+  "owner_name": "Domingo De Leon",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Marana",
+  "emp": 4
+ },
+ {
+  "id": "C2365",
+  "name": "GreenTech Electric LLC",
+  "owner_name": "Ivan M Saenz Green Tech Electric Llc",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Glendale",
+  "emp": 4
+ },
+ {
+  "id": "C2598",
+  "name": "Dodge Electric Inc",
+  "owner_name": "Preston Allen Dodge",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Chandler",
+  "emp": 4
+ },
+ {
+  "id": "C2616",
+  "name": "Ebersole Electric Inc",
+  "owner_name": "Michael Ebersole",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Flagstaff",
+  "emp": 4
+ },
+ {
+  "id": "C2635",
+  "name": "Foster Electric Motor Service Inc",
+  "owner_name": "Jill Horine",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Chandler",
+  "emp": 4
+ },
+ {
+  "id": "C2640",
+  "name": "I M S Electric Inc",
+  "owner_name": "Ioan Magda",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Glendale",
+  "emp": 4
+ },
+ {
+  "id": "C2671",
+  "name": "K E R Electric Inc",
+  "owner_name": "Kacey Richards",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Phoenix",
+  "emp": 4
+ },
+ {
+  "id": "C2711",
+  "name": "Clayco Electric Inc",
+  "owner_name": "Clay Mauldin Mauldin",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Tucson AZ 85741",
+  "emp": 4
+ },
+ {
+  "id": "C1051",
+  "name": "AC PROFESSIONAL ELECTRIC, INC",
+  "owner_name": "Gonzalo Clinton Gonzales",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Phoenix",
+  "emp": 3
+ },
+ {
+  "id": "C1131",
+  "name": "All electric & construction LLC",
+  "owner_name": "Omar Marhaba",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Bullhead City",
+  "emp": 3
+ },
+ {
+  "id": "C1207",
+  "name": "Advanced Electrical Contracting Inc",
+  "owner_name": "Jeff Wayne Schaffer",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Prescott Valley",
+  "emp": 3
+ },
+ {
+  "id": "C1221",
+  "name": "A American Electrical Services Inc",
+  "owner_name": "Boris Gefter",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Tucson",
+  "emp": 3
+ },
+ {
+  "id": "C1273",
+  "name": "Debco Electric Co",
+  "owner_name": "Dennis Edward Benson",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Prescott Valley",
+  "emp": 3
+ },
+ {
+  "id": "C1334",
+  "name": "Albe Electric, Albe Construction",
+  "owner_name": "Michael Ronald Yochelson",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Phoenix",
+  "emp": 3
+ },
+ {
+  "id": "C1788",
+  "name": "Assurance Electrical Services LLC",
+  "owner_name": "Jeff Scott Brandlin",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "PRESCOTT VALLEY",
+  "emp": 3
+ },
+ {
+  "id": "C1877",
+  "name": "PRIORITY POWER, LLC",
+  "owner_name": "Brian Scott Olney",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Marana",
+  "emp": 3
+ },
+ {
+  "id": "C1929",
+  "name": "More Power Electric LLC",
+  "owner_name": "Gerald A Garcia Jr",
+  "owner_title": "Qualifying Party (unverified as true owner)",
+  "city": "Waddell",
+  "emp": 3
+ }
+]

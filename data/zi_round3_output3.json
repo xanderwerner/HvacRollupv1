@@ -1,0 +1,162 @@
+[
+ {
+  "id": "C2592",
+  "company_name": "Cordero Electric Inc",
+  "owner_name_confirmed": "Teofilo Cordero",
+  "mobile_phone": "(520) 429-3229",
+  "office_phone": "",
+  "email": "",
+  "job_title": "",
+  "match_notes": "FULL_MATCH. No job title returned by ZoomInfo; area code 520 fits Amado/Tucson region."
+ },
+ {
+  "id": "C2605",
+  "company_name": "DTL Electric Inc",
+  "owner_name_confirmed": "Darren Ward Loftis",
+  "mobile_phone": "(480) 226-8850",
+  "office_phone": "",
+  "email": "",
+  "job_title": "Contractor",
+  "match_notes": "FULL_MATCH, title Contractor plausible for owner-operator. DO NOT CALL flagged on mobile (mobilePhoneDoNotCall: true)."
+ },
+ {
+  "id": "C2628",
+  "company_name": "Holbrook Electric Inc",
+  "owner_name_confirmed": "John Holbrook",
+  "mobile_phone": "(928) 941-0613",
+  "office_phone": "(928) 726-1828",
+  "email": "john@holbrookelectric.com",
+  "job_title": "",
+  "match_notes": "FULL_MATCH, email matches company domain exactly. DO NOT CALL flagged on mobile (mobilePhoneDoNotCall: true)."
+ },
+ {
+  "id": "C2633",
+  "company_name": "Grivet Electric Inc",
+  "owner_name_confirmed": "Brian Anthony Grivet",
+  "mobile_phone": "(480) 323-0627",
+  "office_phone": "",
+  "email": "grivetb@grivetelectricinc.com",
+  "job_title": "Electrical Contractor",
+  "match_notes": "FULL_MATCH, email matches company domain, title fits owner-operator (ZoomInfo listed as 'Elecrical Contractor', typo)."
+ },
+ {
+  "id": "C2691",
+  "company_name": "E & R Electric Inc",
+  "owner_name_confirmed": "Joel E Blickenstaff",
+  "mobile_phone": "(928) 293-5416",
+  "office_phone": "",
+  "email": "",
+  "job_title": "President",
+  "match_notes": "FULL_MATCH, title President fits owner, area code 928 matches Kingman."
+ },
+ {
+  "id": "C1714",
+  "company_name": "Kaleidescope Electrical Incorporated",
+  "owner_name_confirmed": "Lynn Broughton",
+  "mobile_phone": "",
+  "office_phone": "(928) 213-5469",
+  "email": "",
+  "job_title": "",
+  "match_notes": "FULL_MATCH but only a direct/office phone returned, no mobile. Area code 928 fits Flagstaff."
+ },
+ {
+  "id": "C1981",
+  "company_name": "Valley Voltage LLC",
+  "owner_name_confirmed": "Boe Bigelow",
+  "mobile_phone": "",
+  "office_phone": "(480) 879-1730",
+  "email": "boe@valleyvoltage.com",
+  "job_title": "Director, Operations",
+  "match_notes": "FULL_MATCH, email matches company domain exactly, area code 480 fits Gilbert. Only office/direct phone returned, no mobile."
+ },
+ {
+  "id": "C2009",
+  "company_name": "Shields Electric Company Inc.",
+  "owner_name_confirmed": "Walter Steven Donn",
+  "mobile_phone": "",
+  "office_phone": "(623) 806-8455",
+  "email": "walter@shieldselectricinc.com",
+  "job_title": "Vice President",
+  "match_notes": "FULL_MATCH, email matches company domain exactly. Note: phone area code 623 (west valley) vs. company city Tempe (normally 480/602) - minor geographic mismatch but email corroboration is strong. Only office phone, no mobile."
+ },
+ {
+  "id": "C2419",
+  "company_name": "BEK Electric & Welding Service LLC",
+  "owner_name_confirmed": "Jose Hiram Islas",
+  "mobile_phone": "",
+  "office_phone": "",
+  "email": "jose@bekelectricaz.com",
+  "job_title": "",
+  "match_notes": "FULL_MATCH, email matches company domain (bekelectricaz.com) exactly. No phone number returned by ZoomInfo, email only."
+ },
+ {
+  "id": "C2427",
+  "company_name": "Ekiwa Electric LLC",
+  "owner_name_confirmed": "Luis Equihua Urtiz",
+  "mobile_phone": "(602) 486-6874",
+  "office_phone": "",
+  "email": "luis@ekiwaelectric.com",
+  "job_title": "",
+  "match_notes": "CONTACT_ONLY_MATCH (zoominfoCompanyId 0) but email matches company domain exactly, strong corroboration despite match status. Area code 602 fits Glendale/Phoenix metro."
+ },
+ {
+  "id": "C2669",
+  "company_name": "Lucent Electric Inc",
+  "owner_name_confirmed": "Bryan Lee Parks",
+  "mobile_phone": "",
+  "office_phone": "",
+  "email": "bparks@lucentelectric.net",
+  "job_title": "",
+  "match_notes": "FULL_MATCH, email matches company domain exactly. No phone number returned by ZoomInfo, email only."
+ },
+ {
+  "id": "C1223",
+  "company_name": "Affinity Solutions Experts",
+  "owner_name_confirmed": "Matthew A Kraujalis",
+  "mobile_phone": "(602) 869-7994",
+  "office_phone": "(602) 466-3513",
+  "email": "matt@affinityse.com",
+  "job_title": "Partner",
+  "match_notes": "FULL_MATCH, email matches company domain (affinityse.com), title Partner plausible for owner, area code 602 fits Mesa/Phoenix metro."
+ },
+ {
+  "id": "C1280",
+  "company_name": "Complete Electrical Servies, Complete Electric",
+  "owner_name_confirmed": "Don Lynn Fillingim",
+  "mobile_phone": "(928) 242-2579",
+  "office_phone": "(520) 587-2353",
+  "email": "",
+  "job_title": "President",
+  "match_notes": "CONTACT_ONLY_MATCH (zoominfoCompanyId 0) but title President fits owner and mobile area code 928 matches company city Show Low - good corroboration despite match status."
+ },
+ {
+  "id": "C2598",
+  "company_name": "Dodge Electric Inc",
+  "owner_name_confirmed": "Preston Allen Dodge",
+  "mobile_phone": "(208) 461-9350",
+  "office_phone": "(480) 917-2842",
+  "email": "preston.dodge@dodgeelectric.com",
+  "job_title": "Founder",
+  "match_notes": "FULL_MATCH, email matches company domain exactly, title Founder fits owner. NOTE: mobile area code 208 is Idaho, not Arizona - likely a retained out-of-state cell number given the very strong email/name/title match, but flagging for awareness. DO NOT CALL flagged on both direct phone and mobile (DoNotCall: true)."
+ },
+ {
+  "id": "C2635",
+  "company_name": "Foster Electric Motor Service Inc",
+  "owner_name_confirmed": "Jill Horine",
+  "mobile_phone": "",
+  "office_phone": "",
+  "email": "jill@fe-azp.com",
+  "job_title": "Treasurer",
+  "match_notes": "FULL_MATCH, email domain plausibly tied to company (fe-azp.com), title Treasurer plausible officer role at small company. No phone number returned, email only."
+ },
+ {
+  "id": "C1221",
+  "company_name": "A American Electrical Services Inc",
+  "owner_name_confirmed": "Boris Gefter",
+  "mobile_phone": "(520) 349-5379",
+  "office_phone": "",
+  "email": "",
+  "job_title": "Owner and President",
+  "match_notes": "FULL_MATCH, title 'Owner and President' is an excellent fit, area code 520 matches Tucson."
+ }
+]

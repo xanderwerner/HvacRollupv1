@@ -1,0 +1,112 @@
+[
+ {
+  "id": "C1570",
+  "company_name": "New Phase Electrical LLC",
+  "owner_name_confirmed": "Chad Martin",
+  "mobile_phone": "",
+  "office_phone": "",
+  "email": "chad@newphaseelectrical.com",
+  "job_title": "Co-Founder & Master Electrician",
+  "match_notes": "FULL_MATCH. Email matches company domain exactly. No phone number returned by ZoomInfo, email only."
+ },
+ {
+  "id": "C1669",
+  "company_name": "Springs & Sons Electrical Contractors LLC",
+  "owner_name_confirmed": "Dennis Baker",
+  "mobile_phone": "(602) 639-7101",
+  "office_phone": "(602) 944-6257",
+  "email": "mbaker@sselectrical.biz",
+  "job_title": "Co-Founder",
+  "match_notes": "DO NOT CALL (mobilePhoneDoNotCall=true) - mobile only, office line is callable. FULL_MATCH, email domain (sselectrical.biz) matches company name. Note: email prefix is 'mbaker' not 'dbaker' -- likely a shared/family company inbox (target owner is Dennis Lee Baker), included since surname and company domain both match strongly."
+ },
+ {
+  "id": "C1685",
+  "company_name": "Brutinel Plumbing and Electrical Inc",
+  "owner_name_confirmed": "Wesley Baker",
+  "mobile_phone": "",
+  "office_phone": "",
+  "email": "wes@bph1985.com",
+  "job_title": "President",
+  "match_notes": "FULL_MATCH. Email prefix 'wes' matches Wesley; domain likely abbreviates Brutinel Plumbing (BP) + founding-related digits. No phone returned, email only."
+ },
+ {
+  "id": "C1924",
+  "company_name": "Eco Power LLC",
+  "owner_name_confirmed": "Gregory Mariani",
+  "mobile_phone": "(602) 697-7974",
+  "office_phone": "",
+  "email": "",
+  "job_title": "President",
+  "match_notes": "DO NOT CALL (mobilePhoneDoNotCall=true). CONTACT_ONLY_MATCH, title President is plausible for owner; 602 area code consistent with Phoenix metro (company in Scottsdale)."
+ },
+ {
+  "id": "C2613",
+  "company_name": "Flatiron Electric Inc",
+  "owner_name_confirmed": "Jim (James Patrick) Shields",
+  "mobile_phone": "(480) 560-4684",
+  "office_phone": "",
+  "email": "",
+  "job_title": "",
+  "match_notes": "DO NOT CALL (mobilePhoneDoNotCall=true). CONTACT_ONLY_MATCH; ZoomInfo returned nickname 'Jim' for James, surname match, no title returned. 480 area code plausible for Phoenix-metro/Apache Junction."
+ },
+ {
+  "id": "C1744",
+  "company_name": "PH Electrical Contracting LLC",
+  "owner_name_confirmed": "Paul Hansen",
+  "mobile_phone": "(602) 561-2599",
+  "office_phone": "",
+  "email": "",
+  "job_title": "Electrical Contractor",
+  "match_notes": "DO NOT CALL (mobilePhoneDoNotCall=true). FULL_MATCH, title plausible for owner/qualifying party."
+ },
+ {
+  "id": "C2391",
+  "company_name": "Amigo Electric LLC",
+  "owner_name_confirmed": "Genaro Lopez",
+  "mobile_phone": "(520) 256-3441",
+  "office_phone": "",
+  "email": "",
+  "job_title": "",
+  "match_notes": "DO NOT CALL (mobilePhoneDoNotCall=true). CONTACT_ONLY_MATCH, 520 area code matches company city Tucson."
+ },
+ {
+  "id": "C2420",
+  "company_name": "American Standard Electric LLC",
+  "owner_name_confirmed": "Cornel Blidar",
+  "mobile_phone": "(623) 341-1218",
+  "office_phone": "",
+  "email": "cornel@aseaz.net",
+  "job_title": "Manager",
+  "match_notes": "FULL_MATCH, mobile is callable (DNC=false). Email domain 'aseaz.net' strongly matches company initials (American Standard Electric, AZ). 623 area code matches Glendale."
+ },
+ {
+  "id": "C2440",
+  "company_name": "Arizona Spa Electric LLC",
+  "owner_name_confirmed": "John (Jon) Mutka",
+  "mobile_phone": "",
+  "office_phone": "",
+  "email": "j.mutka@arizonaspaelectric.com",
+  "job_title": "Owner",
+  "match_notes": "FULL_MATCH, email domain matches company exactly, title Owner. No phone number returned, email only."
+ },
+ {
+  "id": "C1376",
+  "company_name": "Axiom Electric & Service",
+  "owner_name_confirmed": "Steve Woodring",
+  "mobile_phone": "",
+  "office_phone": "(520) 433-9250",
+  "email": "swoodring@axiomelectricservice.com",
+  "job_title": "",
+  "match_notes": "FULL_MATCH, email domain matches company exactly (axiomelectricservice.com), 520 area code matches company city Tucson. Phone returned was office/direct line, not mobile; no title returned."
+ },
+ {
+  "id": "C1764",
+  "company_name": "Amped Electrical LLC",
+  "owner_name_confirmed": "Tony Ange",
+  "mobile_phone": "",
+  "office_phone": "",
+  "email": "tony@amped-electrical.com",
+  "job_title": "",
+  "match_notes": "FULL_MATCH, email domain matches company exactly (amped-electrical.com), nickname Tony matches Anthony. No phone returned, email only."
+ }
+]

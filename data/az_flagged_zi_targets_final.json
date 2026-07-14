@@ -1,0 +1,2802 @@
+[
+ {
+  "id": "C2132",
+  "name": "DSM Electric, LLC",
+  "owner_name": "Sherman Neil Powell",
+  "owner_title": "Owner",
+  "city": "Gilbert",
+  "emp": 83
+ },
+ {
+  "id": "C1014",
+  "name": "Nissan Electric",
+  "owner_name": "Ben Nissan",
+  "owner_title": "Owner",
+  "city": "Peoria",
+  "emp": 82
+ },
+ {
+  "id": "C2163",
+  "name": "Electric Shuffle LLC",
+  "owner_name": "Geoffrey Merlyn Hollister",
+  "owner_title": "Owner",
+  "city": "Sedona",
+  "emp": 76
+ },
+ {
+  "id": "C1494",
+  "name": "John Bishop Electric",
+  "owner_name": "John Douglas Bishop",
+  "owner_title": "Owner",
+  "city": "Chandler",
+  "emp": 59
+ },
+ {
+  "id": "C1523",
+  "name": "VIPER ELECTRICAL SERVICES LLC",
+  "owner_name": "Jeanell Sarahi Fernandez",
+  "owner_title": "Owner",
+  "city": "Casa Grande",
+  "emp": 14
+ },
+ {
+  "id": "C2601",
+  "name": "Commercial Electric Inc",
+  "owner_name": "Isaac Odogui",
+  "owner_title": "Electrician",
+  "city": "Tucson",
+  "emp": 14
+ },
+ {
+  "id": "C2693",
+  "name": "Phoenix Commercial Electric Inc",
+  "owner_name": "Isaac Odogui",
+  "owner_title": "Electrician",
+  "city": "Peoria",
+  "emp": 14
+ },
+ {
+  "id": "C2339",
+  "name": "Delta Electric and Air LLC",
+  "owner_name": "Michael Reiche",
+  "owner_title": "Vice President, HVAC Division",
+  "city": "Phoenix",
+  "emp": 13
+ },
+ {
+  "id": "C2411",
+  "name": "Electric & Air  LLC",
+  "owner_name": "Michael Reiche",
+  "owner_title": "Vice President, HVAC Division",
+  "city": "Wittmann",
+  "emp": 13
+ },
+ {
+  "id": "C2648",
+  "name": "Innovative Electric Inc",
+  "owner_name": "Kevin Steele",
+  "owner_title": "Owner",
+  "city": "Phoenix",
+  "emp": 12
+ },
+ {
+  "id": "C2663",
+  "name": "Innovative Lighting & Electric Inc",
+  "owner_name": "Kevin Steele",
+  "owner_title": "Owner",
+  "city": "Scottsdale",
+  "emp": 12
+ },
+ {
+  "id": "C1663",
+  "name": "JJ Electrical Solutions LLC",
+  "owner_name": "Jason Jorg",
+  "owner_title": "Owner",
+  "city": "Tucson",
+  "emp": 10
+ },
+ {
+  "id": "C1128",
+  "name": "Accord Electric Specialists LLC",
+  "owner_name": "Ronald E Pittmann",
+  "owner_title": "Owner",
+  "city": "Glendale",
+  "emp": 8
+ },
+ {
+  "id": "C1304",
+  "name": "All Amps Electric LLC",
+  "owner_name": "Mark Canchola",
+  "owner_title": "Owner",
+  "city": "Scottsdale",
+  "emp": 8
+ },
+ {
+  "id": "C1433",
+  "name": "Lewis Electric",
+  "owner_name": "Jim Lewis Jr",
+  "owner_title": "Owner",
+  "city": "LAKE HAVASU CITY",
+  "emp": 8
+ },
+ {
+  "id": "C2004",
+  "name": "AMPS Electric LLC",
+  "owner_name": "Mark Canchola",
+  "owner_title": "Owner",
+  "city": "Surprise",
+  "emp": 8
+ },
+ {
+  "id": "C1827",
+  "name": "SD Electrical LLC",
+  "owner_name": "Linsey Marie Wilt",
+  "owner_title": "Owner",
+  "city": "Chandler",
+  "emp": 6
+ },
+ {
+  "id": "C2541",
+  "name": "Mathews Electric, Inc.",
+  "owner_name": "Michael C Mathews",
+  "owner_title": "Owner",
+  "city": "Brighton",
+  "emp": 6
+ },
+ {
+  "id": "C1785",
+  "name": "Empowered Electrical Solutions LLC",
+  "owner_name": "Matthew Kuckuda",
+  "owner_title": "Owner",
+  "city": "Phoenix",
+  "emp": 5
+ },
+ {
+  "id": "C1943",
+  "name": "Empowered Electric LLC",
+  "owner_name": "Matthew Kuckuda",
+  "owner_title": "Owner",
+  "city": "Tucson",
+  "emp": 5
+ },
+ {
+  "id": "C2418",
+  "name": "DeVita Electric LLC",
+  "owner_name": "Anthony Devita",
+  "owner_title": "Electrician",
+  "city": "Surprise",
+  "emp": 5
+ },
+ {
+  "id": "C2433",
+  "name": "Dane Electric LLC",
+  "owner_name": "Glen Brazaitis",
+  "owner_title": "Owner and Operator",
+  "city": "MESA",
+  "emp": 5
+ },
+ {
+  "id": "C2474",
+  "name": "ATM Electric LLC",
+  "owner_name": "John Michael Alster",
+  "owner_title": "Owner",
+  "city": "Phoenix",
+  "emp": 5
+ },
+ {
+  "id": "C1083",
+  "name": "All Points Electric LLC",
+  "owner_name": "Michael Fullford",
+  "owner_title": "Owner",
+  "city": "Flagstaff",
+  "emp": 4
+ },
+ {
+  "id": "C2187",
+  "name": "AZ TECH ELECTRIC SERVICES LLC",
+  "owner_name": "Zac Chamberlain",
+  "owner_title": "Owner",
+  "city": "Scottsdale",
+  "emp": 4
+ },
+ {
+  "id": "C2458",
+  "name": "AZ-Tech Electric LLC",
+  "owner_name": "Zac Chamberlain",
+  "owner_title": "Owner",
+  "city": "Yuma",
+  "emp": 4
+ },
+ {
+  "id": "C2509",
+  "name": "Fan Doctor Electric LLC",
+  "owner_name": "Bryan E Petrey",
+  "owner_title": "Owner",
+  "city": "Phoenix",
+  "emp": 4
+ },
+ {
+  "id": "C1099",
+  "name": "O'Bannon Electric",
+  "owner_name": "Dennis Carl O'Bannon",
+  "owner_title": "Owner",
+  "city": "Golden Valley",
+  "emp": 3
+ },
+ {
+  "id": "C1889",
+  "name": "Broadband Power Solutions, LLC",
+  "owner_name": "Chase Austin Davis",
+  "owner_title": "Owner",
+  "city": "YOUNG",
+  "emp": 3
+ },
+ {
+  "id": "C1247",
+  "name": "Bob's Air Conditioning Repair Co, Arizona's Independant Renovation Co, Air Co Electric",
+  "owner_name": "Robert Buruato Barcelo",
+  "owner_title": "Owner",
+  "city": "Gilbert",
+  "emp": 2
+ },
+ {
+  "id": "C2562",
+  "name": "Sierra Vista Electric Inc",
+  "owner_name": "Zach Ogier",
+  "owner_title": "Owner",
+  "city": "Sierra Vista",
+  "emp": 2
+ },
+ {
+  "id": "C1667",
+  "name": "R S B Electrical Inc",
+  "owner_name": "Robert Benson",
+  "owner_title": "Owner",
+  "city": "Mesa",
+  "emp": 1
+ },
+ {
+  "id": "C218",
+  "name": "Scottsdale Air Heating & Cooling",
+  "owner_name": "Timothy John Harris",
+  "owner_title": "",
+  "city": "Tempe",
+  "emp": "15"
+ },
+ {
+  "id": "C220",
+  "name": "Alaskan Air Conditioning & Heating",
+  "owner_name": "Timothy Edward Cannon Jr",
+  "owner_title": "",
+  "city": "Tempe",
+  "emp": "33"
+ },
+ {
+  "id": "C225",
+  "name": "Brutinel Plumbing & Electrical, INC.",
+  "owner_name": "Wesley R Baker",
+  "owner_title": "",
+  "city": "Casa Grande",
+  "emp": "9"
+ },
+ {
+  "id": "C232",
+  "name": "Just Air LLC",
+  "owner_name": "James Edward Mattingly",
+  "owner_title": "",
+  "city": "Phoenix",
+  "emp": 0
+ },
+ {
+  "id": "C238",
+  "name": "Emergency Air Heating, Cooling and Plumbing",
+  "owner_name": "Keith M Thompson",
+  "owner_title": "",
+  "city": "Chandler",
+  "emp": "25"
+ },
+ {
+  "id": "C250",
+  "name": "AirTime Cooling and Heating",
+  "owner_name": "Daniel Joseph Santoro",
+  "owner_title": "",
+  "city": "Mesa",
+  "emp": "2"
+ },
+ {
+  "id": "C257",
+  "name": "Al & Riley's Air Conditioning and Sheet Metal",
+  "owner_name": "Clifford Leland Kinser",
+  "owner_title": "",
+  "city": "Casa Grande",
+  "emp": 0
+ },
+ {
+  "id": "C262",
+  "name": "Plumbers Near Me, LLC",
+  "owner_name": "Oded Cohen",
+  "owner_title": "Business Owner",
+  "city": "Scottsdale",
+  "emp": "4"
+ },
+ {
+  "id": "C267",
+  "name": "AZ Home Services Group AC Repair & Plumbing Services",
+  "owner_name": "Jerry Finney Jr.",
+  "owner_title": "Owner",
+  "city": "Queen Creek",
+  "emp": "4"
+ },
+ {
+  "id": "C285",
+  "name": "HVAC Near Me",
+  "owner_name": "Eran Sharabi",
+  "owner_title": "",
+  "city": "Chandler",
+  "emp": "1"
+ },
+ {
+  "id": "C318",
+  "name": "My Plumber Plumbing Services LLC",
+  "owner_name": "Joseph Leo Duchene III",
+  "owner_title": "Member",
+  "city": "Tucson",
+  "emp": 0
+ },
+ {
+  "id": "C319",
+  "name": "Oasis Air Conditioning & Heating",
+  "owner_name": "Paul Murrieta",
+  "owner_title": "",
+  "city": "Green Valley",
+  "emp": 0
+ },
+ {
+  "id": "C346",
+  "name": "Craig Plumbing Inc.",
+  "owner_name": "Craig Michael Ainsworth",
+  "owner_title": "",
+  "city": "Lake Havasu City",
+  "emp": 0
+ },
+ {
+  "id": "C350",
+  "name": "All Season Plumbing And Air",
+  "owner_name": "James Joseph Philo Jr",
+  "owner_title": "",
+  "city": "Scottsdale",
+  "emp": 0
+ },
+ {
+  "id": "C351",
+  "name": "HilCo Air Conditioning & Heating",
+  "owner_name": "Brian Peter Mc Queen",
+  "owner_title": "",
+  "city": "Peoria",
+  "emp": 0
+ },
+ {
+  "id": "C354",
+  "name": "Stellar Plumbing",
+  "owner_name": "Curtis Lee Stratman",
+  "owner_title": "",
+  "city": "Prescott Valley",
+  "emp": 0
+ },
+ {
+  "id": "C377",
+  "name": "Barber Plumbing LLC",
+  "owner_name": "David Allen Barber Jr",
+  "owner_title": "",
+  "city": "Lakeside",
+  "emp": 0
+ },
+ {
+  "id": "C392",
+  "name": "Felix Appliance Heating & Air",
+  "owner_name": "Robert Felix",
+  "owner_title": "",
+  "city": "Maricopa",
+  "emp": 0
+ },
+ {
+  "id": "C393",
+  "name": "AZBLUE Cooling & Heating",
+  "owner_name": "Diego Arizmendi",
+  "owner_title": "",
+  "city": "Buckeye",
+  "emp": 0
+ },
+ {
+  "id": "C409",
+  "name": "Cooling Specialists",
+  "owner_name": "Khaled Ali Taiba",
+  "owner_title": "",
+  "city": "Scottsdale",
+  "emp": 0
+ },
+ {
+  "id": "C414",
+  "name": "Alpha-Plumbing Services",
+  "owner_name": "David Allen Wasserman Jr",
+  "owner_title": "",
+  "city": "Goodyear",
+  "emp": 0
+ },
+ {
+  "id": "C428",
+  "name": "Verde Plumbing Co. LLC",
+  "owner_name": "Dennis Lee Green",
+  "owner_title": "",
+  "city": "Gilbert",
+  "emp": 0
+ },
+ {
+  "id": "C444",
+  "name": "Elijah Air LLC heating and cooling",
+  "owner_name": "Jesus Perez",
+  "owner_title": "",
+  "city": "Buckeye",
+  "emp": "1"
+ },
+ {
+  "id": "C451",
+  "name": "Rainwater Plumbing and HVAC",
+  "owner_name": "Monte Dean Rossi",
+  "owner_title": "",
+  "city": "Chandler",
+  "emp": 0
+ },
+ {
+  "id": "C455",
+  "name": "Milo's Plumbing",
+  "owner_name": "Luis Ismael Chavez",
+  "owner_title": "",
+  "city": "Yuma",
+  "emp": 0
+ },
+ {
+  "id": "C460",
+  "name": "Impact Plumbing",
+  "owner_name": "Carlos Armando Valenzuela",
+  "owner_title": "",
+  "city": "Glendale",
+  "emp": 0
+ },
+ {
+  "id": "C462",
+  "name": "Action Plumbing",
+  "owner_name": "Casey Harrison",
+  "owner_title": "",
+  "city": "Scottsdale",
+  "emp": 0
+ },
+ {
+  "id": "C467",
+  "name": "Royal Plumbing & Rooter Services",
+  "owner_name": "Joel Jeshua Flores",
+  "owner_title": "",
+  "city": "Flagstaff",
+  "emp": 0
+ },
+ {
+  "id": "C471",
+  "name": "J D'Uva Services Plumbing, Inc.",
+  "owner_name": "Joseph Randal D'Uva",
+  "owner_title": "",
+  "city": "Lake Havasu City",
+  "emp": 0
+ },
+ {
+  "id": "C488",
+  "name": "Due-All Air Conditioning & Heating",
+  "owner_name": "Winston Lee Owens II",
+  "owner_title": "",
+  "city": "Queen Creek",
+  "emp": 0
+ },
+ {
+  "id": "C495",
+  "name": "AAM Plumbing Services LLC",
+  "owner_name": "Janifa BEGUM Ali",
+  "owner_title": "",
+  "city": "Maricopa",
+  "emp": 0
+ },
+ {
+  "id": "C499",
+  "name": "Saguaro Air Solutions LLC",
+  "owner_name": "Jesus Galaz Jr",
+  "owner_title": "",
+  "city": "Sierra Vista",
+  "emp": 0
+ },
+ {
+  "id": "C501",
+  "name": "1st Choice Plumbing",
+  "owner_name": "Michael Edward Rhoads",
+  "owner_title": "",
+  "city": "Phoenix",
+  "emp": 0
+ },
+ {
+  "id": "C504",
+  "name": "Arraz AC",
+  "owner_name": "Horacio Arraz",
+  "owner_title": "",
+  "city": "Apache Junction",
+  "emp": 0
+ },
+ {
+  "id": "C514",
+  "name": "Rivers Plumbing Services",
+  "owner_name": "Christopher Rivers",
+  "owner_title": "",
+  "city": "Avondale",
+  "emp": 0
+ },
+ {
+  "id": "C519",
+  "name": "S&H Remodel and Maintenance",
+  "owner_name": "Logan Russell Stiver",
+  "owner_title": "",
+  "city": "Maricopa",
+  "emp": 0
+ },
+ {
+  "id": "C520",
+  "name": "Oro Valley Plumbing LLC",
+  "owner_name": "Rick William Davis",
+  "owner_title": "",
+  "city": "Oro Valley",
+  "emp": 0
+ },
+ {
+  "id": "C521",
+  "name": "Global HVAC and Appliances LLC",
+  "owner_name": "RUSLAN MUKHAMETDINOV",
+  "owner_title": "",
+  "city": "Peoria",
+  "emp": 0
+ },
+ {
+  "id": "C524",
+  "name": "Recon Air Systems",
+  "owner_name": "Coby Duane Chandler",
+  "owner_title": "",
+  "city": "Queen Creek",
+  "emp": 0
+ },
+ {
+  "id": "C530",
+  "name": "Shoreline Plumbing Sales Services",
+  "owner_name": "Rick Norbert Budden",
+  "owner_title": "",
+  "city": "Lake Havasu City",
+  "emp": 0
+ },
+ {
+  "id": "C532",
+  "name": "AZ Chill",
+  "owner_name": "Andrew S Barascout",
+  "owner_title": "",
+  "city": "Queen Creek",
+  "emp": 0
+ },
+ {
+  "id": "C534",
+  "name": "Cleverland Plumbing LLC",
+  "owner_name": "Mohammed Nafiz",
+  "owner_title": "",
+  "city": "Maricopa",
+  "emp": 0
+ },
+ {
+  "id": "C537",
+  "name": "Got Air",
+  "owner_name": "Michael Jay Muckey",
+  "owner_title": "",
+  "city": "Bullhead City",
+  "emp": 0
+ },
+ {
+  "id": "C539",
+  "name": "Haines Plumbing Heating & Cooling",
+  "owner_name": "Peter Robert Haines",
+  "owner_title": "",
+  "city": "Show Low",
+  "emp": 0
+ },
+ {
+  "id": "C551",
+  "name": "Copper State Plumbing Services LLC",
+  "owner_name": "Rocco Vincent Marafioti",
+  "owner_title": "Owner",
+  "city": "Surprise",
+  "emp": 0
+ },
+ {
+  "id": "C554",
+  "name": "Air Solutions Heating & Cooling, LLC",
+  "owner_name": "Michael Brooke Cabaniss",
+  "owner_title": "",
+  "city": "Tucson",
+  "emp": 0
+ },
+ {
+  "id": "C556",
+  "name": "Elston HVAC",
+  "owner_name": "Robert Scott Elston",
+  "owner_title": "",
+  "city": "Payson",
+  "emp": 0
+ },
+ {
+  "id": "C560",
+  "name": "Comfort Air Solutions LLC",
+  "owner_name": "Richard 'RJ' Joseph Bryant",
+  "owner_title": "",
+  "city": "Fort Mohave",
+  "emp": "2"
+ },
+ {
+  "id": "C563",
+  "name": "Glacier Heating & Air",
+  "owner_name": "Jesus A Zuniga",
+  "owner_title": "",
+  "city": "Bullhead City",
+  "emp": 0
+ },
+ {
+  "id": "C565",
+  "name": "The Cool Dude LLC",
+  "owner_name": "Roko Berislav Huljev",
+  "owner_title": "",
+  "city": "Lake Havasu City",
+  "emp": "1"
+ },
+ {
+  "id": "C566",
+  "name": "Western Sky Mechanical",
+  "owner_name": "Austin Charles Barton",
+  "owner_title": "",
+  "city": "El Mirage",
+  "emp": "3"
+ },
+ {
+  "id": "C567",
+  "name": "Desert Bloom Air LLC",
+  "owner_name": "Ernest Perez",
+  "owner_title": "",
+  "city": "San Tan Valley",
+  "emp": 0
+ },
+ {
+  "id": "C574",
+  "name": "Global Comfort LLC",
+  "owner_name": "Adolfo Ochoa martinez",
+  "owner_title": "",
+  "city": "Apache Junction",
+  "emp": 0
+ },
+ {
+  "id": "C579",
+  "name": "Amado Electrical and Refrigeration LLC",
+  "owner_name": "Rex Amado",
+  "owner_title": "",
+  "city": "Casa Grande",
+  "emp": 0
+ },
+ {
+  "id": "C580",
+  "name": "O'Connor Heating & Cooling",
+  "owner_name": "Robert Edward O Connor",
+  "owner_title": "",
+  "city": "Star Valley",
+  "emp": "1"
+ },
+ {
+  "id": "C581",
+  "name": "Watkins Plumbing & Service, LLC",
+  "owner_name": "Christian Watkins",
+  "owner_title": "",
+  "city": "San Tan Valley",
+  "emp": 0
+ },
+ {
+  "id": "C582",
+  "name": "Guaranteed Comfort Heating and Cooling",
+  "owner_name": "Christopher Wallace Pennycook",
+  "owner_title": "",
+  "city": "Glendale",
+  "emp": 0
+ },
+ {
+  "id": "C583",
+  "name": "Pride Plumbing",
+  "owner_name": "Arnold Skip Boldt",
+  "owner_title": "",
+  "city": "Payson",
+  "emp": 0
+ },
+ {
+  "id": "C586",
+  "name": "NextGen Plumbing LLC",
+  "owner_name": "Luca Kaloshi",
+  "owner_title": "Member",
+  "city": "Peoria",
+  "emp": 0
+ },
+ {
+  "id": "C590",
+  "name": "Tri-Sun Refrigeration Inc",
+  "owner_name": "Oscar Martinez Martinez",
+  "owner_title": "",
+  "city": "Yuma",
+  "emp": 0
+ },
+ {
+  "id": "C592",
+  "name": "Moran Plumbing LLC",
+  "owner_name": "Michael Patrick Moran",
+  "owner_title": "",
+  "city": "Buckeye",
+  "emp": 0
+ },
+ {
+  "id": "C593",
+  "name": "A C & Sons Custom Heating & Cooling",
+  "owner_name": "Anthony Castillo",
+  "owner_title": "",
+  "city": "Kingman",
+  "emp": 0
+ },
+ {
+  "id": "C596",
+  "name": "Queen Creek Plumbing Services",
+  "owner_name": "Salvador Martinez",
+  "owner_title": "",
+  "city": "Queen Creek",
+  "emp": 0
+ },
+ {
+  "id": "C600",
+  "name": "All-Right Air Conditioning And Heating, Inc.",
+  "owner_name": "Maria Rollo",
+  "owner_title": "",
+  "city": "Kingman",
+  "emp": 0
+ },
+ {
+  "id": "C601",
+  "name": "Reliable Plumbing & Heating",
+  "owner_name": "George Stephen Binney",
+  "owner_title": "",
+  "city": "Casa Grande",
+  "emp": 0
+ },
+ {
+  "id": "C607",
+  "name": "Benchmark Plumbing Co",
+  "owner_name": "Frederick Proudfoot",
+  "owner_title": "",
+  "city": "Kingman",
+  "emp": 0
+ },
+ {
+  "id": "C608",
+  "name": "Raul's Plumbing Llc",
+  "owner_name": "Raul Lopez Villasenor",
+  "owner_title": "",
+  "city": "Sierra Vista",
+  "emp": 0
+ },
+ {
+  "id": "C609",
+  "name": "C A Plumbing Llc",
+  "owner_name": "Carl Lee Arnold",
+  "owner_title": "",
+  "city": "Show Low",
+  "emp": 0
+ },
+ {
+  "id": "C624",
+  "name": "AZ Auto Air",
+  "owner_name": "Steve O'Brien",
+  "owner_title": "Owner",
+  "city": "Tempe",
+  "emp": 0
+ },
+ {
+  "id": "C628",
+  "name": "D&H Air Conditioning & Heating & Plumbing",
+  "owner_name": "Arthur Duhamel",
+  "owner_title": "Founder",
+  "city": "Tucson",
+  "emp": "42"
+ },
+ {
+  "id": "C645",
+  "name": "1st Choice Plumbing, Air & Insulation",
+  "owner_name": "Michael Edward Rhoads",
+  "owner_title": "Owner",
+  "city": "Phoenix",
+  "emp": 0
+ },
+ {
+  "id": "C647",
+  "name": "Maloney Plumbing & Drain Services in Phoenix, AZ",
+  "owner_name": "Mary Maloney",
+  "owner_title": "Founder",
+  "city": "Phoenix",
+  "emp": 0
+ },
+ {
+  "id": "C660",
+  "name": "FACT HVAC",
+  "owner_name": "Fact Industries LLC",
+  "owner_title": "Member;Parent Entity",
+  "city": "Tempe",
+  "emp": "3"
+ },
+ {
+  "id": "C663",
+  "name": "All Pro AC",
+  "owner_name": "David Hartman",
+  "owner_title": "Founder",
+  "city": "Gilbert",
+  "emp": 0
+ },
+ {
+  "id": "C665",
+  "name": "Jobe & Sons Plumbing",
+  "owner_name": "Stephen Ross Jobe",
+  "owner_title": "Member",
+  "city": "Tucson",
+  "emp": 0
+ },
+ {
+  "id": "C676",
+  "name": "DR Plumbing | Plumbers Marana",
+  "owner_name": "Kathryn \"Kitty\" Maloney Langmade",
+  "owner_title": "Owner",
+  "city": "Marana",
+  "emp": 0
+ },
+ {
+  "id": "C680",
+  "name": "Instant Plumbing and Rooter",
+  "owner_name": "Larry Patterson",
+  "owner_title": "Owner and Plumber",
+  "city": "Glendale",
+  "emp": 0
+ },
+ {
+  "id": "C683",
+  "name": "Temco AC Repair & Replacement",
+  "owner_name": "Marshall Dennington",
+  "owner_title": "Founder / Owner / CEO",
+  "city": "Tucson",
+  "emp": 0
+ },
+ {
+  "id": "C687",
+  "name": "A.S.G. Plumbing Enterprises Tucson",
+  "owner_name": "Anthony Gravagne",
+  "owner_title": "Owner",
+  "city": "Tucson",
+  "emp": 0
+ },
+ {
+  "id": "C688",
+  "name": "Jorge's Plumbing LLC",
+  "owner_name": "Jorge Luis Carbajal",
+  "owner_title": "Member",
+  "city": "Yuma",
+  "emp": 0
+ },
+ {
+  "id": "C698",
+  "name": "A/C ExperTek Service and Installation",
+  "owner_name": "Bryce Steve Heffelfinger",
+  "owner_title": "Owner",
+  "city": "Goodyear",
+  "emp": 0
+ },
+ {
+  "id": "C700",
+  "name": "Wood's Plumbing Enterprises LLC",
+  "owner_name": "Andrew Dobbins",
+  "owner_title": "Owner and Master Plumber",
+  "city": "Marana",
+  "emp": 0
+ },
+ {
+  "id": "C702",
+  "name": "All Drains Emergency Plumbing",
+  "owner_name": "Manuel Cadenas lll",
+  "owner_title": "Member",
+  "city": "Glendale",
+  "emp": 0
+ },
+ {
+  "id": "C708",
+  "name": "POP Plumbing LLC - Glendale",
+  "owner_name": "Jerrson Naluz",
+  "owner_title": "Member/Owner",
+  "city": "Glendale",
+  "emp": 0
+ },
+ {
+  "id": "C710",
+  "name": "Liberty Tradesmen",
+  "owner_name": "Sean",
+  "owner_title": "Founder/Owner (father-and-son team with son Jaden \"Jay\")",
+  "city": "Buckeye",
+  "emp": 0
+ },
+ {
+  "id": "C711",
+  "name": "Cobra Plumbing LLC",
+  "owner_name": "Joshua Pennell",
+  "owner_title": "Owner",
+  "city": "Phoenix",
+  "emp": 0
+ },
+ {
+  "id": "C713",
+  "name": "America's Home Services",
+  "owner_name": "Eldar Cohen",
+  "owner_title": "Member",
+  "city": "Gilbert",
+  "emp": 0
+ },
+ {
+  "id": "C719",
+  "name": "Truelove Plumbing",
+  "owner_name": "Gerard W Truelove",
+  "owner_title": "President",
+  "city": "Kingman",
+  "emp": 0
+ },
+ {
+  "id": "C720",
+  "name": "Arizona Cooling Company",
+  "owner_name": "Dave Porter",
+  "owner_title": "Owner",
+  "city": "Mesa",
+  "emp": 0
+ },
+ {
+  "id": "C724",
+  "name": "AC and Refrigeration (AC, Heating, Refrigeration, Electrical and Plumbing)",
+  "owner_name": "Kristen Franco",
+  "owner_title": "Owner",
+  "city": "Tempe",
+  "emp": 0
+ },
+ {
+  "id": "C729",
+  "name": "Affordable Plumber AZ LLC",
+  "owner_name": "Patrick M Wertin II",
+  "owner_title": "Owner",
+  "city": "Mesa",
+  "emp": 0
+ },
+ {
+  "id": "C734",
+  "name": "AZ AIRCOND LLC -Cooling Heating Plumbing",
+  "owner_name": "Juan M Aldana",
+  "owner_title": "Owner",
+  "city": "Buckeye",
+  "emp": 0
+ },
+ {
+  "id": "C736",
+  "name": "Proforce Plumbing Sewer & Drain",
+  "owner_name": "Omar Carrizoza Fongkee",
+  "owner_title": "Owner/Member",
+  "city": "Glendale",
+  "emp": 0
+ },
+ {
+  "id": "C737",
+  "name": "E & S Plumbing Services",
+  "owner_name": "Daniel Etch",
+  "owner_title": "(title unconfirmed - LinkedIn lists company affiliation only, not a specific title)",
+  "city": "Flagstaff",
+  "emp": 0
+ },
+ {
+  "id": "C741",
+  "name": "Kia's Air Conditioning / stop by #1",
+  "owner_name": "Kia Lam",
+  "owner_title": "Owner",
+  "city": "Casa Grande",
+  "emp": 0
+ },
+ {
+  "id": "C748",
+  "name": "24/7 Craig Plumbing Bullhead City AZ",
+  "owner_name": "Cathy Craig",
+  "owner_title": "Vice President",
+  "city": "Fort Mohave",
+  "emp": 0
+ },
+ {
+  "id": "C756",
+  "name": "Dub's Plumbing Services",
+  "owner_name": "Delbert Ragels",
+  "owner_title": "Owner",
+  "city": "Oracle",
+  "emp": 0
+ },
+ {
+  "id": "C758",
+  "name": "Marco's Mam Plumbing & Repair",
+  "owner_name": "Marco Morga",
+  "owner_title": "Owner",
+  "city": "Fort Mohave",
+  "emp": 0
+ },
+ {
+  "id": "C759",
+  "name": "AC Air conditioning & Heating",
+  "owner_name": "Samir Morina",
+  "owner_title": "Owner, Residential & Commercial HVAC",
+  "city": "Avondale",
+  "emp": 0
+ },
+ {
+  "id": "C762",
+  "name": "Roto-Rooter Sewer & Drain Service",
+  "owner_name": "David R. Gibbs",
+  "owner_title": "Owner (independent franchisee)",
+  "city": "Sierra Vista",
+  "emp": 0
+ },
+ {
+  "id": "C763",
+  "name": "One Shot Installation Electrical, Plumbing & Appliance Repair-Electrician & Plumber Flagstaff, AZ.",
+  "owner_name": "Gabe",
+  "owner_title": "Owner",
+  "city": "Flagstaff",
+  "emp": 0
+ },
+ {
+  "id": "C767",
+  "name": "High Efficiency Air Conditioning Inc.",
+  "owner_name": "Gus Hernandez",
+  "owner_title": "Owner",
+  "city": "Gilbert",
+  "emp": 0
+ },
+ {
+  "id": "C774",
+  "name": "San Tan Valley Emergency Plumbing",
+  "owner_name": "Kaylor Joseph Magouirk",
+  "owner_title": "Member",
+  "city": "San Tan Valley",
+  "emp": 0
+ },
+ {
+  "id": "C776",
+  "name": "Arizona EZ AC",
+  "owner_name": "Andrea Garcia",
+  "owner_title": "Member",
+  "city": "Chandler",
+  "emp": 0
+ },
+ {
+  "id": "C778",
+  "name": "A & C Plumbing Concepts, Inc.",
+  "owner_name": "Richard K. Swenson",
+  "owner_title": "President",
+  "city": "Bullhead City",
+  "emp": 0
+ },
+ {
+  "id": "C780",
+  "name": "halls plumbing",
+  "owner_name": "Lonnie Hall",
+  "owner_title": "Founder",
+  "city": "Eloy",
+  "emp": 0
+ },
+ {
+  "id": "C792",
+  "name": "A&M Refrigeration LLC",
+  "owner_name": "Arturo Enrique Sanchez",
+  "owner_title": "Member/Owner",
+  "city": "Yuma",
+  "emp": 0
+ },
+ {
+  "id": "C793",
+  "name": "The Son's Plumbing Service",
+  "owner_name": "Phillip Smit",
+  "owner_title": "Owner",
+  "city": "Casa Grande",
+  "emp": 0
+ },
+ {
+  "id": "C794",
+  "name": "AZ Home Services Group AC Repair & Plumbing Services of Chandler",
+  "owner_name": "Oded Cohen",
+  "owner_title": "Owner",
+  "city": "Chandler",
+  "emp": 0
+ },
+ {
+  "id": "C804",
+  "name": "AC/DC Design and Fabrication",
+  "owner_name": "Dylan Michael Cosgray",
+  "owner_title": "Member",
+  "city": "Show Low",
+  "emp": 0
+ },
+ {
+  "id": "C805",
+  "name": "Plumbing & Electrical Concepts",
+  "owner_name": "Dave Smith",
+  "owner_title": "Owner",
+  "city": "Flagstaff",
+  "emp": 0
+ },
+ {
+  "id": "C807",
+  "name": "Professional AC Repair Peoria",
+  "owner_name": "Omar Xavier Perez",
+  "owner_title": "Member",
+  "city": "Peoria",
+  "emp": 0
+ },
+ {
+  "id": "C813",
+  "name": "Liberty Plumbing - Flagstaff",
+  "owner_name": "Thomas R. Ford",
+  "owner_title": "President",
+  "city": "Flagstaff",
+  "emp": 0
+ },
+ {
+  "id": "C815",
+  "name": "Prescott Valley HVAC Repair Proline",
+  "owner_name": "Jody Griego",
+  "owner_title": "Member",
+  "city": "Prescott Valley",
+  "emp": 0
+ },
+ {
+  "id": "C816",
+  "name": "Steve Dick AC LLC",
+  "owner_name": "Stephen M. Dick",
+  "owner_title": "Owner",
+  "city": "Apache Junction",
+  "emp": 0
+ },
+ {
+  "id": "C819",
+  "name": "Roto-Rooter Show Low - Septic & Drain Cleaning",
+  "owner_name": "Brian W. Reidhead",
+  "owner_title": "Owner/Member",
+  "city": "Taylor",
+  "emp": 0
+ },
+ {
+  "id": "C821",
+  "name": "Laba Plumbing",
+  "owner_name": "Bob Laba",
+  "owner_title": "Owner",
+  "city": "Casa Grande",
+  "emp": 0
+ },
+ {
+  "id": "C831",
+  "name": "Plumbing Buckeye Sol",
+  "owner_name": "Chauncey M. Briggs",
+  "owner_title": "President/CEO, Briggs Air Conditioning, Heating & Refrigeration",
+  "city": "Buckeye",
+  "emp": 0
+ },
+ {
+  "id": "C836",
+  "name": "Tempe Professional Plumbing",
+  "owner_name": "Teshaine Jean Peterson",
+  "owner_title": "Member",
+  "city": "Tempe",
+  "emp": 0
+ },
+ {
+  "id": "C838",
+  "name": "Phoenix HVAC Repair Authority",
+  "owner_name": "Jason Forrest",
+  "owner_title": "Member",
+  "city": "Phoenix",
+  "emp": 0
+ },
+ {
+  "id": "C839",
+  "name": "Jennings Handyman & Roof Repair",
+  "owner_name": "Roy Jennings",
+  "owner_title": "Owner",
+  "city": "Bullhead City",
+  "emp": 0
+ },
+ {
+  "id": "C840",
+  "name": "Ginco Plumbing & Excavating",
+  "owner_name": "Hans Taylor",
+  "owner_title": "President",
+  "city": "Apache Junction",
+  "emp": 0
+ },
+ {
+  "id": "C843",
+  "name": "Bud's Plumbing",
+  "owner_name": "Noah Sarnowski",
+  "owner_title": "Contact person (title unconfirmed, possible owner)",
+  "city": "Payson",
+  "emp": 0
+ },
+ {
+  "id": "C849",
+  "name": "HALTOM & SON'S CONTRACTING - General Contractor in Show Low, Arizona",
+  "owner_name": "Bill Haltom",
+  "owner_title": "Co-Owner and Founder",
+  "city": "Show Low",
+  "emp": 0
+ },
+ {
+  "id": "C853",
+  "name": "Steve Ash Plumbing",
+  "owner_name": "Steven F. Ash",
+  "owner_title": "Owner (sole proprietor)",
+  "city": "Sedona",
+  "emp": 0
+ },
+ {
+  "id": "C855",
+  "name": "Jimco Air Duct Repair Service",
+  "owner_name": "James Mangold",
+  "owner_title": "Owner",
+  "city": "Bullhead City",
+  "emp": 0
+ },
+ {
+  "id": "C860",
+  "name": "General Contracting and Electrical Services LLC",
+  "owner_name": "William Ernest Shaffstall",
+  "owner_title": "Member",
+  "city": "Sedona",
+  "emp": 0
+ },
+ {
+  "id": "C875",
+  "name": "Elite HVAC Repair Scottsdale",
+  "owner_name": "Anthony Borquez",
+  "owner_title": "Member",
+  "city": "Scottsdale",
+  "emp": 0
+ },
+ {
+  "id": "C879",
+  "name": "Heaven Bound Plumbing",
+  "owner_name": "Michael Jones",
+  "owner_title": "Owner",
+  "city": "Payson",
+  "emp": 0
+ },
+ {
+  "id": "C887",
+  "name": "Northshore Plumbing",
+  "owner_name": "Douglas Brumett",
+  "owner_title": "Owner (Sole Proprietor)",
+  "city": "Lake Havasu City",
+  "emp": 0
+ },
+ {
+  "id": "C929",
+  "name": "Integrity Electrical Services Company LLC",
+  "owner_name": "Mike Cobb",
+  "owner_title": "Owner / Executive Operations Manager",
+  "city": "Tempe",
+  "emp": "20"
+ },
+ {
+  "id": "C933",
+  "name": "Integrity Electrical Contracting LLC",
+  "owner_name": "Mike Cobb",
+  "owner_title": "Owner/Executive Operations Manager",
+  "city": "Goodyear",
+  "emp": "43"
+ },
+ {
+  "id": "C934",
+  "name": "Integrity Electrical LLC",
+  "owner_name": "Mike Cobb",
+  "owner_title": "Owner / Executive Operations Manager",
+  "city": "Prescott",
+  "emp": "20"
+ },
+ {
+  "id": "C936",
+  "name": "Integrity Electrical Service LLC",
+  "owner_name": "Mike Cobb",
+  "owner_title": "Owner / Executive Operations Manager",
+  "city": "Tucson",
+  "emp": "20"
+ },
+ {
+  "id": "C938",
+  "name": "Sparky Electrical LLC",
+  "owner_name": "Mike Tolliver",
+  "owner_title": "Founder",
+  "city": "Taylor",
+  "emp": "27"
+ },
+ {
+  "id": "C954",
+  "name": "Pagett Electric Company",
+  "owner_name": "Whitney Vancil",
+  "owner_title": "Owner",
+  "city": "Pheonix",
+  "emp": "19"
+ },
+ {
+  "id": "C975",
+  "name": "Dependable Sparky Electric LLC",
+  "owner_name": "Mike Tolliver",
+  "owner_title": "Founder",
+  "city": "Peoria",
+  "emp": "27"
+ },
+ {
+  "id": "C994",
+  "name": "JD's Electric",
+  "owner_name": "Joel D Valles",
+  "owner_title": "Owner",
+  "city": "Nogales",
+  "emp": 0
+ },
+ {
+  "id": "C996",
+  "name": "Glen Davidson Electric Consulting and Design",
+  "owner_name": "Leslie Glen Davidson",
+  "owner_title": "Owner",
+  "city": "Surprise",
+  "emp": 0
+ },
+ {
+  "id": "C1003",
+  "name": "Solano Electric",
+  "owner_name": "Jose Luis Solano",
+  "owner_title": "Owner",
+  "city": "Waddell",
+  "emp": 0
+ },
+ {
+  "id": "C1007",
+  "name": "SWS Electrical",
+  "owner_name": "Javier Rene Ruiz",
+  "owner_title": "Owner",
+  "city": "Scottsdale",
+  "emp": 0
+ },
+ {
+  "id": "C1009",
+  "name": "MCR Electric, M C R Electric",
+  "owner_name": "Matthew Curtis Rindy",
+  "owner_title": "Owner",
+  "city": "paulden",
+  "emp": 0
+ },
+ {
+  "id": "C1010",
+  "name": "GHS Electric",
+  "owner_name": "Gaylene Jo Hutchins",
+  "owner_title": "Owner",
+  "city": "Bullhead City",
+  "emp": 0
+ },
+ {
+  "id": "C1011",
+  "name": "G R S Electric",
+  "owner_name": "Gary Joe Stephens",
+  "owner_title": "Owner",
+  "city": "Tucson",
+  "emp": 0
+ },
+ {
+  "id": "C1012",
+  "name": "JH Electrical",
+  "owner_name": "Jason Scott Holland",
+  "owner_title": "Owner",
+  "city": "Lake Havasu City",
+  "emp": 0
+ },
+ {
+  "id": "C1016",
+  "name": "Clement Electric",
+  "owner_name": "Ronald Wayne Clement",
+  "owner_title": "Owner",
+  "city": "topock",
+  "emp": 0
+ },
+ {
+  "id": "C1027",
+  "name": "Medina Electric",
+  "owner_name": "John Robert Medina",
+  "owner_title": "Owner",
+  "city": "Salome",
+  "emp": 0
+ },
+ {
+  "id": "C1029",
+  "name": "A Electric",
+  "owner_name": "Louis M. Nuzzo Jr",
+  "owner_title": "Owner",
+  "city": "Prescott Valley",
+  "emp": 0
+ },
+ {
+  "id": "C1031",
+  "name": "American Electric of Arizona",
+  "owner_name": "Derek Ryan Ross",
+  "owner_title": "Owner",
+  "city": "Lake Havasu City",
+  "emp": 0
+ },
+ {
+  "id": "C1032",
+  "name": "Alire Electric",
+  "owner_name": "Raymond Alire",
+  "owner_title": "Owner",
+  "city": "Phoenix",
+  "emp": 0
+ },
+ {
+  "id": "C1034",
+  "name": "Denny's Electric",
+  "owner_name": "Dennis Paul Kaunzner Jr",
+  "owner_title": "Owner",
+  "city": "Prescott Valley",
+  "emp": 0
+ },
+ {
+  "id": "C1035",
+  "name": "Express Electric Co",
+  "owner_name": "Douglas James Messamore",
+  "owner_title": "Owner",
+  "city": "Arizona City",
+  "emp": 0
+ },
+ {
+  "id": "C1036",
+  "name": "CodeUp Electric",
+  "owner_name": "Pedro Manuel Villarreal",
+  "owner_title": "Owner",
+  "city": "Buckeye",
+  "emp": 0
+ },
+ {
+  "id": "C1038",
+  "name": "MEREDITH ELECTRIC",
+  "owner_name": "Christopher Jon Meredith",
+  "owner_title": "Owner",
+  "city": "APACHE JUNCTION",
+  "emp": 0
+ },
+ {
+  "id": "C1041",
+  "name": "Mark Kris Warren Electric",
+  "owner_name": "Marcus Kris Warren",
+  "owner_title": "Owner",
+  "city": "Phoenix",
+  "emp": 0
+ },
+ {
+  "id": "C1043",
+  "name": "Uscio Electric, USCIO Builders",
+  "owner_name": "Steven Paul Uscio",
+  "owner_title": "Owner",
+  "city": "Tombstone",
+  "emp": 0
+ },
+ {
+  "id": "C1044",
+  "name": "Affordable Electric Service",
+  "owner_name": "Josh Ryan Weinert",
+  "owner_title": "Owner",
+  "city": "Surprise",
+  "emp": 0
+ },
+ {
+  "id": "C1045",
+  "name": "Groves Lighting & Electric",
+  "owner_name": "Jeff Groves",
+  "owner_title": "Owner",
+  "city": "South Tucson",
+  "emp": 0
+ },
+ {
+  "id": "C1046",
+  "name": "M. R.  Electrical",
+  "owner_name": "Mark Robert Rehburg",
+  "owner_title": "Owner",
+  "city": "Quartzsite",
+  "emp": 0
+ },
+ {
+  "id": "C1055",
+  "name": "Crazy Electric",
+  "owner_name": "Armando Sol",
+  "owner_title": "Owner",
+  "city": "Mesa",
+  "emp": 0
+ },
+ {
+  "id": "C1056",
+  "name": "Flash Car Charging and Electric",
+  "owner_name": "Jonathan Thomas",
+  "owner_title": "Owner",
+  "city": "Glendale",
+  "emp": 0
+ },
+ {
+  "id": "C1057",
+  "name": "JT Electric",
+  "owner_name": "Joel Darrin Taylor",
+  "owner_title": "Owner",
+  "city": "Mohave Valley",
+  "emp": 0
+ },
+ {
+  "id": "C1058",
+  "name": "Old Country Electric",
+  "owner_name": "Henry Doroszuk",
+  "owner_title": "Owner",
+  "city": "Sierra Vista",
+  "emp": 0
+ },
+ {
+  "id": "C1062",
+  "name": "American Electrical Pro",
+  "owner_name": "Matthew A Schultz",
+  "owner_title": "Owner",
+  "city": "Lake Havasu City",
+  "emp": 0
+ },
+ {
+  "id": "C1063",
+  "name": "Ambrose Electrical Design and Services LLC",
+  "owner_name": "Mark Thomas Ambrose",
+  "owner_title": "Owner",
+  "city": "Waddell",
+  "emp": 0
+ },
+ {
+  "id": "C1065",
+  "name": "Light The Way Electrical",
+  "owner_name": "Aaron Martin Clark",
+  "owner_title": "Owner",
+  "city": "Tucson",
+  "emp": 0
+ },
+ {
+  "id": "C1072",
+  "name": "Gilmore Electrical",
+  "owner_name": "George Brian Gilmore",
+  "owner_title": "Owner",
+  "city": "Queen Creek",
+  "emp": 0
+ },
+ {
+  "id": "C1073",
+  "name": "Riverview Electric",
+  "owner_name": "David Lynn Mullenax",
+  "owner_title": "Owner",
+  "city": "Bullhead City",
+  "emp": 0
+ },
+ {
+  "id": "C1074",
+  "name": "3 Sons Electric LLC",
+  "owner_name": "Michael Cash",
+  "owner_title": "Owner",
+  "city": "Florence",
+  "emp": 0
+ },
+ {
+  "id": "C1075",
+  "name": "Foothills Electric",
+  "owner_name": "David Lee Avery",
+  "owner_title": "Owner",
+  "city": "Yuma",
+  "emp": 0
+ },
+ {
+  "id": "C1076",
+  "name": "Klein's Kustom Electric",
+  "owner_name": "Kody Boyd",
+  "owner_title": "Owner",
+  "city": "Yuma (Yuma)",
+  "emp": 0
+ },
+ {
+  "id": "C1082",
+  "name": "Tu Strong Electrical",
+  "owner_name": "Nicholas Scott Walstrom",
+  "owner_title": "Owner",
+  "city": "Tucson",
+  "emp": 0
+ },
+ {
+  "id": "C1084",
+  "name": "MIGUEL ESPINOZA CONSTRUCTION, ESPINOZA ELECTRIC",
+  "owner_name": "Miguel Angel Espinoza",
+  "owner_title": "Owner",
+  "city": "Surprise",
+  "emp": 0
+ },
+ {
+  "id": "C1088",
+  "name": "TrustPoint Electric & Air",
+  "owner_name": "Richard L Digilio",
+  "owner_title": "Owner",
+  "city": "Anthem",
+  "emp": 0
+ },
+ {
+  "id": "C1089",
+  "name": "Palo Verde Electric Service",
+  "owner_name": "William Edward Coats",
+  "owner_title": "Owner",
+  "city": "Litchfield Park",
+  "emp": 0
+ },
+ {
+  "id": "C1091",
+  "name": "LaPorte Electric",
+  "owner_name": "Dit Lafleche Laporte",
+  "owner_title": "Owner",
+  "city": "Mohave Valley",
+  "emp": 0
+ },
+ {
+  "id": "C1092",
+  "name": "JRE Electric",
+  "owner_name": "Albert Martinez",
+  "owner_title": "Owner",
+  "city": "BUCKEYE",
+  "emp": 0
+ },
+ {
+  "id": "C1095",
+  "name": "Orange Gator Electric",
+  "owner_name": "Michael John Brandt",
+  "owner_title": "Owner",
+  "city": "Phoenix",
+  "emp": 0
+ },
+ {
+  "id": "C1098",
+  "name": "AnayaL8R Electric, ANAYA L8R CONSTRUCTION",
+  "owner_name": "Charles Richard Anaya Jr",
+  "owner_title": "Owner",
+  "city": "Golden Valley",
+  "emp": 0
+ },
+ {
+  "id": "C1104",
+  "name": "Nate's Electrical Services",
+  "owner_name": "Nate James Munoz",
+  "owner_title": "Owner",
+  "city": "Chandler",
+  "emp": 0
+ },
+ {
+  "id": "C1105",
+  "name": "Pathway Electric",
+  "owner_name": "Caleb Ryan Salisbury",
+  "owner_title": "Owner",
+  "city": "tucson",
+  "emp": 0
+ },
+ {
+  "id": "C1106",
+  "name": "ADC Electrical LLC",
+  "owner_name": "David A Causey",
+  "owner_title": "Owner",
+  "city": "LAKE HAVASU CITY",
+  "emp": 0
+ },
+ {
+  "id": "C1108",
+  "name": "Delta Electric",
+  "owner_name": "Darryl Harrison",
+  "owner_title": "Owner",
+  "city": "Fountain Hills",
+  "emp": 0
+ },
+ {
+  "id": "C1112",
+  "name": "Pine Mountain Electric",
+  "owner_name": "Mark Alan Moroney",
+  "owner_title": "Owner",
+  "city": "Kingman",
+  "emp": 0
+ },
+ {
+  "id": "C1114",
+  "name": "Current Electric & Security",
+  "owner_name": "Brooke Alan Sewell",
+  "owner_title": "Owner",
+  "city": "Wickenburg",
+  "emp": 0
+ },
+ {
+  "id": "C1115",
+  "name": "MVMNT ELECTRIC",
+  "owner_name": "Melissa L Debellis",
+  "owner_title": "Owner",
+  "city": "Queen Creek",
+  "emp": 0
+ },
+ {
+  "id": "C1116",
+  "name": "Power One Electric",
+  "owner_name": "Joseph Sargent Sargent",
+  "owner_title": "Owner",
+  "city": "Fort Mohave",
+  "emp": 0
+ },
+ {
+  "id": "C1120",
+  "name": "D&D Electric",
+  "owner_name": "John Lloyd Daniels",
+  "owner_title": "Owner",
+  "city": "Casa Grande",
+  "emp": 0
+ },
+ {
+  "id": "C1121",
+  "name": "SHOCKWAVE ELECTRICAL SOLUTIONS",
+  "owner_name": "Brian Eugene Baysinger",
+  "owner_title": "Owner",
+  "city": "LAKE HAVASU",
+  "emp": 0
+ },
+ {
+  "id": "C1122",
+  "name": "Elliott Electrical",
+  "owner_name": "Brent William Elliott",
+  "owner_title": "Owner",
+  "city": "Phoenix",
+  "emp": 0
+ },
+ {
+  "id": "C1123",
+  "name": "Aguafria Electric LLC",
+  "owner_name": "Thomas Scott Williford",
+  "owner_title": "Owner",
+  "city": "Glendale",
+  "emp": 0
+ },
+ {
+  "id": "C1124",
+  "name": "Arizona Professional Electricians",
+  "owner_name": "Jacob Weill",
+  "owner_title": "Owner",
+  "city": "Tucson",
+  "emp": 0
+ },
+ {
+  "id": "C1125",
+  "name": "D&M Electrical and Plumbing",
+  "owner_name": "Francisco Javier Retana Leyva",
+  "owner_title": "Owner",
+  "city": "Buckeye",
+  "emp": 0
+ },
+ {
+  "id": "C1126",
+  "name": "Infinity Electrical Services",
+  "owner_name": "James Coughenour",
+  "owner_title": "Owner",
+  "city": "PEORIA",
+  "emp": 0
+ },
+ {
+  "id": "C1129",
+  "name": "Scott's Electric",
+  "owner_name": "Jeffrey Dewayne Scott",
+  "owner_title": "Owner",
+  "city": "Bullhead City",
+  "emp": 0
+ },
+ {
+  "id": "C1130",
+  "name": "Lightning Electrical Solutions",
+  "owner_name": "Robert Rosthenhausler",
+  "owner_title": "Owner",
+  "city": "TUCSON",
+  "emp": 0
+ },
+ {
+  "id": "C1134",
+  "name": "Reasonable Electric",
+  "owner_name": "John Jason Van Sanford",
+  "owner_title": "Owner",
+  "city": "Glendale",
+  "emp": 0
+ },
+ {
+  "id": "C1135",
+  "name": "SSD Electrical",
+  "owner_name": "David Alexander Recalde",
+  "owner_title": "Owner",
+  "city": "Scottsdale",
+  "emp": 0
+ },
+ {
+  "id": "C1137",
+  "name": "Wild-West Electric",
+  "owner_name": "Thomas Knoessen",
+  "owner_title": "Owner",
+  "city": "Phoenix",
+  "emp": 0
+ },
+ {
+  "id": "C1138",
+  "name": "Atomic Electrical",
+  "owner_name": "Steve Thomas Morisky",
+  "owner_title": "Owner",
+  "city": "Tucson",
+  "emp": 0
+ },
+ {
+  "id": "C1141",
+  "name": "Gary Smith Electric",
+  "owner_name": "Gary Craig Smith",
+  "owner_title": "Owner",
+  "city": "Mesa",
+  "emp": 0
+ },
+ {
+  "id": "C1149",
+  "name": "Electric O",
+  "owner_name": "Omer Pineda",
+  "owner_title": "Owner",
+  "city": "CASA GRANDE",
+  "emp": 0
+ },
+ {
+  "id": "C1151",
+  "name": "JEA Electric",
+  "owner_name": "Vincent Vargas",
+  "owner_title": "Owner",
+  "city": "Gilbert",
+  "emp": 0
+ },
+ {
+  "id": "C1152",
+  "name": "Heating and Air Paramedics, Electrical Paramedics, Plumbing Paramedics",
+  "owner_name": "Andrea Matthews",
+  "owner_title": "Owner",
+  "city": "Sahuarita",
+  "emp": 0
+ },
+ {
+  "id": "C1154",
+  "name": "Bobcat Electric",
+  "owner_name": "Robert Winkelman",
+  "owner_title": "Owner",
+  "city": "SUN CITY WEST",
+  "emp": 0
+ },
+ {
+  "id": "C1155",
+  "name": "Carey Electric",
+  "owner_name": "Brandon David Carey",
+  "owner_title": "Owner",
+  "city": "Show Low",
+  "emp": 0
+ },
+ {
+  "id": "C1158",
+  "name": "98 Electric LLC",
+  "owner_name": "Madeline Murdock",
+  "owner_title": "Owner",
+  "city": "Sierra Vista",
+  "emp": 0
+ },
+ {
+  "id": "C1160",
+  "name": "YUMA VALLEY ELECTRIC",
+  "owner_name": "Alberto Garcia",
+  "owner_title": "Owner",
+  "city": "Yuma",
+  "emp": 0
+ },
+ {
+  "id": "C1163",
+  "name": "Trade Cert Electrical",
+  "owner_name": "Trade Certification Academy LLC",
+  "owner_title": "",
+  "city": "SCOTTSDALE",
+  "emp": 0
+ },
+ {
+  "id": "C1164",
+  "name": "GT Electric",
+  "owner_name": "Gustavo Eduardo Ramos",
+  "owner_title": "Owner",
+  "city": "SURPRISE",
+  "emp": 0
+ },
+ {
+  "id": "C1167",
+  "name": "Enlighten Electric Company",
+  "owner_name": "Robert Lee Benz",
+  "owner_title": "Owner",
+  "city": "Tucson",
+  "emp": 0
+ },
+ {
+  "id": "C1173",
+  "name": "R D Electrical Contracting",
+  "owner_name": "Rick Lewis Davis",
+  "owner_title": "Owner",
+  "city": "Prescott",
+  "emp": 0
+ },
+ {
+  "id": "C1175",
+  "name": "Arizona Crusaders Electric",
+  "owner_name": "RL6C GROUP LLC",
+  "owner_title": "",
+  "city": "Laveen",
+  "emp": 0
+ },
+ {
+  "id": "C1180",
+  "name": "Rose Electric",
+  "owner_name": "Steven Scott Rose",
+  "owner_title": "Owner",
+  "city": "Flagstaff",
+  "emp": 0
+ },
+ {
+  "id": "C1182",
+  "name": "RDB Construction, RB Electric",
+  "owner_name": "Roger Dean Buttrum",
+  "owner_title": "Owner",
+  "city": "Phoenix",
+  "emp": 0
+ },
+ {
+  "id": "C1183",
+  "name": "Stan Lawlor Electric",
+  "owner_name": "Stanley C. Lawlor",
+  "owner_title": "Owner",
+  "city": "Mesa",
+  "emp": 0
+ },
+ {
+  "id": "C1184",
+  "name": "Rizzo Electric",
+  "owner_name": "Mesquite Electric Inc",
+  "owner_title": "",
+  "city": "Scottsdale",
+  "emp": 0
+ },
+ {
+  "id": "C1188",
+  "name": "Slade Electric",
+  "owner_name": "George Frederick Slade Slade Electric",
+  "owner_title": "Owner",
+  "city": "Mesa",
+  "emp": 0
+ },
+ {
+  "id": "C1200",
+  "name": "A M N Electric",
+  "owner_name": "Richard Newman",
+  "owner_title": "Owner",
+  "city": "Apache Junction",
+  "emp": 0
+ },
+ {
+  "id": "C1210",
+  "name": "Angler Electric",
+  "owner_name": "Steve Clark Schwartz",
+  "owner_title": "Owner",
+  "city": "Prescott",
+  "emp": 0
+ },
+ {
+  "id": "C1213",
+  "name": "Belasco Electric",
+  "owner_name": "Arnold Edward Belasco",
+  "owner_title": "Owner",
+  "city": "Tucson",
+  "emp": 0
+ },
+ {
+  "id": "C1215",
+  "name": "Berg Electric",
+  "owner_name": "Wayne Terry Berg",
+  "owner_title": "Owner",
+  "city": "Queen Creek",
+  "emp": 0
+ },
+ {
+  "id": "C1219",
+  "name": "T Chappell Electric",
+  "owner_name": "Thomas Roy Chappell",
+  "owner_title": "Owner",
+  "city": "Kingman",
+  "emp": 0
+ },
+ {
+  "id": "C1232",
+  "name": "Barone Electrical Service",
+  "owner_name": "Michael Raymond Barone",
+  "owner_title": "Owner",
+  "city": "Phoenix",
+  "emp": 0
+ },
+ {
+  "id": "C1236",
+  "name": "CTS Electrical & Low Voltage, CTS Trenching & Excavation",
+  "owner_name": "Casa Technology Systems LLC",
+  "owner_title": "",
+  "city": "Phoenix",
+  "emp": 0
+ },
+ {
+  "id": "C1242",
+  "name": "T K Electric",
+  "owner_name": "Timothy Michael Kruger",
+  "owner_title": "Owner",
+  "city": "Casa Grande (Pinal)",
+  "emp": 0
+ },
+ {
+  "id": "C1243",
+  "name": "Total Electric",
+  "owner_name": "Paul R Kurtz",
+  "owner_title": "Owner",
+  "city": "Phoenix",
+  "emp": 0
+ },
+ {
+  "id": "C1245",
+  "name": "Benjamin Electric",
+  "owner_name": "Ben Clark Candler",
+  "owner_title": "Owner",
+  "city": "Phoenix",
+  "emp": 0
+ },
+ {
+  "id": "C1248",
+  "name": "Extreme Electric Customized Systems Wiring",
+  "owner_name": "James Henry Lujan",
+  "owner_title": "Owner",
+  "city": "Lake Havasu City (Mohave)",
+  "emp": 0
+ },
+ {
+  "id": "C1249",
+  "name": "Carroccia Electric",
+  "owner_name": "David Dominic Carochi",
+  "owner_title": "Owner",
+  "city": "Buckeye",
+  "emp": 0
+ },
+ {
+  "id": "C1250",
+  "name": "K SAR Electric",
+  "owner_name": "Kenneth Wayne Mundell",
+  "owner_title": "Owner",
+  "city": "Flagstaff",
+  "emp": 0
+ },
+ {
+  "id": "C1252",
+  "name": "Anaconda Electric Co, Pick Power",
+  "owner_name": "Michael Pickett",
+  "owner_title": "Owner",
+  "city": "Scottsdale",
+  "emp": 0
+ },
+ {
+  "id": "C1254",
+  "name": "DePalo Electric",
+  "owner_name": "Joseph Daniel Depalo",
+  "owner_title": "Owner",
+  "city": "Sun City",
+  "emp": 0
+ },
+ {
+  "id": "C1257",
+  "name": "Enterprise Electric",
+  "owner_name": "Everett William Tate Enterprise Electric",
+  "owner_title": "Owner",
+  "city": "Phoenix",
+  "emp": 0
+ },
+ {
+  "id": "C1260",
+  "name": "Dischinger Electric",
+  "owner_name": "Kevin Dischinger",
+  "owner_title": "Owner",
+  "city": "Scottsdale",
+  "emp": 0
+ },
+ {
+  "id": "C1263",
+  "name": "Fair Oaks Electric",
+  "owner_name": "Thomas Richard Robedeau Jr",
+  "owner_title": "Owner",
+  "city": "Prescott",
+  "emp": 0
+ },
+ {
+  "id": "C1265",
+  "name": "Ferguson Electric",
+  "owner_name": "William Vincent Ferguson",
+  "owner_title": "Owner",
+  "city": "cave creek",
+  "emp": 0
+ },
+ {
+  "id": "C1267",
+  "name": "Four Wye Electric",
+  "owner_name": "Walter Robert Yosin Jr",
+  "owner_title": "Owner",
+  "city": "Vail",
+  "emp": 0
+ },
+ {
+  "id": "C1268",
+  "name": "Electric Light & Power",
+  "owner_name": "Eric James Gould",
+  "owner_title": "Owner",
+  "city": "Fort Mohave",
+  "emp": 0
+ },
+ {
+  "id": "C1271",
+  "name": "Iggy's Electric",
+  "owner_name": "Shane Hillard Ignato",
+  "owner_title": "Owner",
+  "city": "Peoria",
+  "emp": 0
+ },
+ {
+  "id": "C1274",
+  "name": "Durco Electric",
+  "owner_name": "John Joseph Durkin",
+  "owner_title": "Owner",
+  "city": "Tucson",
+  "emp": 0
+ },
+ {
+  "id": "C1276",
+  "name": "Jicote Electric",
+  "owner_name": "Richard V Jaime",
+  "owner_title": "Owner",
+  "city": "Laveen",
+  "emp": 0
+ },
+ {
+  "id": "C1277",
+  "name": "Gila Electric",
+  "owner_name": "Mike E Brown",
+  "owner_title": "Owner",
+  "city": "Thatcher",
+  "emp": 0
+ },
+ {
+  "id": "C1279",
+  "name": "I X L Electric",
+  "owner_name": "Jeff Chapman Chapman",
+  "owner_title": "Owner",
+  "city": "Prescott Valley",
+  "emp": 0
+ },
+ {
+  "id": "C1283",
+  "name": "Kuate's Electric",
+  "owner_name": "Angel Guadalupe Ortega",
+  "owner_title": "Owner",
+  "city": "Sierra Vista",
+  "emp": 0
+ },
+ {
+  "id": "C1284",
+  "name": "Endeavor Electric",
+  "owner_name": "Daniel Ray Tauscher",
+  "owner_title": "Owner",
+  "city": "Gilbert",
+  "emp": 0
+ },
+ {
+  "id": "C1289",
+  "name": "Hatch Electric",
+  "owner_name": "John Fay Hatch",
+  "owner_title": "Owner",
+  "city": "Taylor",
+  "emp": 0
+ },
+ {
+  "id": "C1290",
+  "name": "H D Electric",
+  "owner_name": "Adnan Mustic",
+  "owner_title": "Owner",
+  "city": "phoenix",
+  "emp": 0
+ },
+ {
+  "id": "C1292",
+  "name": "G and S Electric Company",
+  "owner_name": "Gonzalez Electric Inc",
+  "owner_title": "",
+  "city": "Wickenburg",
+  "emp": 0
+ },
+ {
+  "id": "C1293",
+  "name": "E and M Omega Electric",
+  "owner_name": "Ezequiel Heriberto Torres",
+  "owner_title": "Owner",
+  "city": "Tucson",
+  "emp": 0
+ },
+ {
+  "id": "C1294",
+  "name": "N A B Electric",
+  "owner_name": "Nathaniel Archie Begay",
+  "owner_title": "Owner",
+  "city": "Flagstaff",
+  "emp": 0
+ },
+ {
+  "id": "C1298",
+  "name": "Bayne Electric and Repair Company",
+  "owner_name": "Leonard K Bayne Bayne Electric And Repair",
+  "owner_title": "Owner",
+  "city": "surprise",
+  "emp": 0
+ },
+ {
+  "id": "C1300",
+  "name": "Neely Electric",
+  "owner_name": "BW Enterprises LLC",
+  "owner_title": "",
+  "city": "Scottsdale",
+  "emp": 0
+ },
+ {
+  "id": "C1301",
+  "name": "Nicholas Electric",
+  "owner_name": "Nicholas Courson Hawkins",
+  "owner_title": "Owner",
+  "city": "Parker",
+  "emp": 0
+ },
+ {
+  "id": "C1303",
+  "name": "Stars & Stripes Electrical",
+  "owner_name": "Rex Wayne Walker",
+  "owner_title": "Owner",
+  "city": "Springerville",
+  "emp": 0
+ },
+ {
+  "id": "C1310",
+  "name": "M C Y Electric",
+  "owner_name": "Michael Ybarra",
+  "owner_title": "Owner",
+  "city": "Phoenix",
+  "emp": 0
+ },
+ {
+  "id": "C1311",
+  "name": "Oesterling Electrical Services",
+  "owner_name": "Russell Lewis Oesterling",
+  "owner_title": "Owner",
+  "city": "Pima",
+  "emp": 0
+ },
+ {
+  "id": "C1315",
+  "name": "Al-Co Electric",
+  "owner_name": "Alex Kadar Jr",
+  "owner_title": "Owner",
+  "city": "Glendale",
+  "emp": 0
+ },
+ {
+  "id": "C1317",
+  "name": "McKenzie Electric",
+  "owner_name": "Richard Allen Mckenzie",
+  "owner_title": "Owner",
+  "city": "Bullhead City",
+  "emp": 0
+ },
+ {
+  "id": "C1321",
+  "name": "Phaz Electric",
+  "owner_name": "Kevin Kent Birkenkamp",
+  "owner_title": "Owner",
+  "city": "Phoenix",
+  "emp": 0
+ },
+ {
+  "id": "C1323",
+  "name": "Performance Electric",
+  "owner_name": "Russell Eugene Kurz",
+  "owner_title": "Owner",
+  "city": "Glendale",
+  "emp": 0
+ },
+ {
+  "id": "C1327",
+  "name": "Northside Electric",
+  "owner_name": "Michael Joseph Niesl",
+  "owner_title": "Owner",
+  "city": "Seligman",
+  "emp": 0
+ },
+ {
+  "id": "C1331",
+  "name": "TCS Electric (TCS)",
+  "owner_name": "Travis W Short",
+  "owner_title": "Owner",
+  "city": "Show Low",
+  "emp": 0
+ },
+ {
+  "id": "C1335",
+  "name": "Sparky & Sons Electric",
+  "owner_name": "Jedd David Ambrosini",
+  "owner_title": "Owner",
+  "city": "Payson",
+  "emp": 0
+ },
+ {
+  "id": "C1341",
+  "name": "Lunar Electric",
+  "owner_name": "Theodore Cook Ii",
+  "owner_title": "Owner",
+  "city": "Mesa",
+  "emp": 0
+ },
+ {
+  "id": "C1353",
+  "name": "Huachuca Electric",
+  "owner_name": "Kirk Charles Merryfield",
+  "owner_title": "Owner",
+  "city": "Sierra Vista",
+  "emp": 0
+ },
+ {
+  "id": "C1356",
+  "name": "D J L Electric",
+  "owner_name": "Dale James Lederer",
+  "owner_title": "Owner",
+  "city": "Goodyear",
+  "emp": 0
+ },
+ {
+  "id": "C1366",
+  "name": "Pronghorn Electric, Bloomco",
+  "owner_name": "Benjamin Lee Bloom",
+  "owner_title": "Owner",
+  "city": "Prescott Valley",
+  "emp": 0
+ },
+ {
+  "id": "C1370",
+  "name": "Douglas Wright Electric",
+  "owner_name": "Douglas Jon Wright",
+  "owner_title": "Owner",
+  "city": "Gilbert",
+  "emp": 0
+ },
+ {
+  "id": "C1377",
+  "name": "C A T Electric",
+  "owner_name": "Clay Anthony Thomas",
+  "owner_title": "Owner",
+  "city": "Sedona",
+  "emp": 0
+ },
+ {
+  "id": "C1378",
+  "name": "Fine Line Electric",
+  "owner_name": "Ryan Jerome Schmaltz",
+  "owner_title": "Owner",
+  "city": "Bullhead City",
+  "emp": 0
+ },
+ {
+  "id": "C1379",
+  "name": "K P B D Electric",
+  "owner_name": "Kevin B Porter",
+  "owner_title": "Owner",
+  "city": "Bullhead City",
+  "emp": 0
+ },
+ {
+  "id": "C1380",
+  "name": "ML Barnett Electric",
+  "owner_name": "Michael Lowe Barnett",
+  "owner_title": "Owner",
+  "city": "Heber",
+  "emp": 0
+ },
+ {
+  "id": "C1381",
+  "name": "Northern Sunset Electric",
+  "owner_name": "Kenneth Harold Slusher",
+  "owner_title": "Owner",
+  "city": "Mesa",
+  "emp": 0
+ },
+ {
+  "id": "C1382",
+  "name": "Overbey Electric",
+  "owner_name": "Terry Overbey Overbey",
+  "owner_title": "Owner",
+  "city": "Glendale (Maricopa0",
+  "emp": 0
+ },
+ {
+  "id": "C1383",
+  "name": "Pats Electric",
+  "owner_name": "William Patrick Tinkham",
+  "owner_title": "Owner",
+  "city": "Mohave Valley",
+  "emp": 0
+ },
+ {
+  "id": "C1384",
+  "name": "Highlight Electrical",
+  "owner_name": "Michael Lynn Laurent",
+  "owner_title": "Owner",
+  "city": "Scottsdale",
+  "emp": 0
+ },
+ {
+  "id": "C1385",
+  "name": "Connect Electric",
+  "owner_name": "Timothty Lincoln Helm",
+  "owner_title": "Owner",
+  "city": "Tucson",
+  "emp": 0
+ },
+ {
+  "id": "C1386",
+  "name": "Bay Star Electric",
+  "owner_name": "Kenneth Lyle Breeling",
+  "owner_title": "Owner",
+  "city": "Topock",
+  "emp": 0
+ },
+ {
+  "id": "C1387",
+  "name": "Khees Electric",
+  "owner_name": "Kerry Gilbert Hees",
+  "owner_title": "Owner",
+  "city": "Phoenix",
+  "emp": 0
+ },
+ {
+  "id": "C1388",
+  "name": "Kohlman Electric",
+  "owner_name": "Doug Brian Kohlman",
+  "owner_title": "Owner",
+  "city": "Peoria",
+  "emp": 0
+ },
+ {
+  "id": "C1389",
+  "name": "Holton Electric",
+  "owner_name": "John Eric Holton",
+  "owner_title": "Owner",
+  "city": "Sierra Vista",
+  "emp": 0
+ },
+ {
+  "id": "C1390",
+  "name": "Lights Out Electric",
+  "owner_name": "Stephen Joseph Widomski",
+  "owner_title": "Owner",
+  "city": "El Mirage",
+  "emp": 0
+ },
+ {
+  "id": "C1392",
+  "name": "Handy Randy Electric",
+  "owner_name": "Randall James Kidd",
+  "owner_title": "Owner",
+  "city": "Tucson",
+  "emp": 0
+ },
+ {
+  "id": "C1393",
+  "name": "Cirtcele Electric",
+  "owner_name": "David Martin Specht",
+  "owner_title": "Owner",
+  "city": "MESA",
+  "emp": 0
+ },
+ {
+  "id": "C1394",
+  "name": "Dolce Electric Co",
+  "owner_name": "Anthony Dolce",
+  "owner_title": "Owner",
+  "city": "Mesa",
+  "emp": 0
+ },
+ {
+  "id": "C1396",
+  "name": "Curtis Palace Electric",
+  "owner_name": "Curtis Owen Palace",
+  "owner_title": "Owner",
+  "city": "Payson",
+  "emp": 0
+ },
+ {
+  "id": "C1397",
+  "name": "Manietta Electric",
+  "owner_name": "James Manietta",
+  "owner_title": "Owner",
+  "city": "Lake Havasu City",
+  "emp": 0
+ },
+ {
+  "id": "C1398",
+  "name": "Madera Electric",
+  "owner_name": "William Jay Whaley",
+  "owner_title": "Owner",
+  "city": "Vail",
+  "emp": 0
+ },
+ {
+  "id": "C1399",
+  "name": "N H Electrical Services",
+  "owner_name": "Nissim Hamu",
+  "owner_title": "Owner",
+  "city": "Chandler",
+  "emp": 0
+ },
+ {
+  "id": "C1400",
+  "name": "A & J Electric",
+  "owner_name": "Allan Thomas Johnson",
+  "owner_title": "Owner",
+  "city": "Peoria",
+  "emp": 0
+ },
+ {
+  "id": "C1401",
+  "name": "Andrew Casparius Electrician",
+  "owner_name": "Andrew Paul Casparius",
+  "owner_title": "Owner",
+  "city": "Tempe",
+  "emp": 0
+ },
+ {
+  "id": "C1402",
+  "name": "Dragon Electric",
+  "owner_name": "Joseph Henry Pestel Jr",
+  "owner_title": "Owner",
+  "city": "Mesa",
+  "emp": 0
+ },
+ {
+  "id": "C1403",
+  "name": "Electrical Etc",
+  "owner_name": "Christopher David Lee",
+  "owner_title": "Owner",
+  "city": "Yuma",
+  "emp": 0
+ },
+ {
+  "id": "C1404",
+  "name": "England Electric",
+  "owner_name": "Anthony L England",
+  "owner_title": "Owner",
+  "city": "Peoria",
+  "emp": 0
+ },
+ {
+  "id": "C1405",
+  "name": "Five Star Electrical Contracting",
+  "owner_name": "Timothy J Clark",
+  "owner_title": "Owner",
+  "city": "Phoenix",
+  "emp": 0
+ },
+ {
+  "id": "C1406",
+  "name": "Bice Electric",
+  "owner_name": "Gordon Joseph Bice",
+  "owner_title": "Owner",
+  "city": "Cottonwood",
+  "emp": 0
+ },
+ {
+  "id": "C1407",
+  "name": "Pioneer Electric Co",
+  "owner_name": "Robert Drew Galion",
+  "owner_title": "Owner",
+  "city": "Prescott Valley",
+  "emp": 0
+ },
+ {
+  "id": "C1408",
+  "name": "Barron Electric",
+  "owner_name": "Michael Thomas Barron",
+  "owner_title": "Owner",
+  "city": "Tucson",
+  "emp": 0
+ },
+ {
+  "id": "C1409",
+  "name": "S T S Electrical",
+  "owner_name": "Terry Pennington",
+  "owner_title": "Owner",
+  "city": "Phoenix",
+  "emp": 0
+ },
+ {
+  "id": "C1410",
+  "name": "Selectric Systems",
+  "owner_name": "Shawn Lorusso",
+  "owner_title": "Owner",
+  "city": "Phoenix",
+  "emp": 0
+ },
+ {
+  "id": "C1411",
+  "name": "Coconino Electric",
+  "owner_name": "Brad Eugene Sample",
+  "owner_title": "Owner",
+  "city": "Ash Fork",
+  "emp": 0
+ },
+ {
+  "id": "C1412",
+  "name": "Cels Electric",
+  "owner_name": "Jeffrey Doles",
+  "owner_title": "Owner",
+  "city": "Gilbert",
+  "emp": 0
+ },
+ {
+  "id": "C1413",
+  "name": "Salt River Electric",
+  "owner_name": "Gerald Lenn Roell",
+  "owner_title": "Owner",
+  "city": "Phoenix",
+  "emp": 0
+ },
+ {
+  "id": "C1414",
+  "name": "Staltari Electrical Services",
+  "owner_name": "Chris Staltari",
+  "owner_title": "Owner",
+  "city": "Prescott",
+  "emp": 0
+ },
+ {
+  "id": "C1415",
+  "name": "Swiniuch Electric",
+  "owner_name": "John Swiniuch",
+  "owner_title": "Owner",
+  "city": "Tucson",
+  "emp": 0
+ },
+ {
+  "id": "C1416",
+  "name": "Rausch Electric",
+  "owner_name": "Michael Scott Rausch",
+  "owner_title": "Owner",
+  "city": "Tonto Basin",
+  "emp": 0
+ },
+ {
+  "id": "C1417",
+  "name": "Arizona Custom Electric",
+  "owner_name": "Kevin Scott Price",
+  "owner_title": "Owner",
+  "city": "Scottsdale",
+  "emp": 0
+ },
+ {
+  "id": "C1418",
+  "name": "S R Electric",
+  "owner_name": "Sidney Daniel Russell Jr",
+  "owner_title": "Owner",
+  "city": "Phoenix",
+  "emp": 0
+ },
+ {
+  "id": "C1419",
+  "name": "Top Of The Line Electric",
+  "owner_name": "Paul Fred Federico",
+  "owner_title": "Owner",
+  "city": "Phoenix",
+  "emp": 0
+ },
+ {
+  "id": "C1421",
+  "name": "Technical Electrical",
+  "owner_name": "Don Jones Jones",
+  "owner_title": "Owner",
+  "city": "Chino Valley",
+  "emp": 0
+ },
+ {
+  "id": "C1422",
+  "name": "Sensible Electrical Solutions",
+  "owner_name": "Edward Drischler",
+  "owner_title": "Owner",
+  "city": "Lake Havasu City",
+  "emp": 0
+ },
+ {
+  "id": "C1423",
+  "name": "Electric Pro's",
+  "owner_name": "Paul Dean Parry",
+  "owner_title": "Owner",
+  "city": "Mesa",
+  "emp": 0
+ },
+ {
+  "id": "C1424",
+  "name": "Sandia Electric",
+  "owner_name": "John Richard Coffey Jr",
+  "owner_title": "Owner",
+  "city": "San Tan Valley",
+  "emp": 0
+ },
+ {
+  "id": "C1425",
+  "name": "Dutchman Electric",
+  "owner_name": "Johannes B De Kryger",
+  "owner_title": "Owner",
+  "city": "Sun City",
+  "emp": 0
+ },
+ {
+  "id": "C1426",
+  "name": "James Electric",
+  "owner_name": "James Matthew Blanton",
+  "owner_title": "Owner",
+  "city": "tucson",
+  "emp": 0
+ },
+ {
+  "id": "C1427",
+  "name": "Distinctive Electric",
+  "owner_name": "Richard V Lovato",
+  "owner_title": "Owner",
+  "city": "San Tan Valley",
+  "emp": 0
+ },
+ {
+  "id": "C1428",
+  "name": "Diverse Electrical Services",
+  "owner_name": "Julian Robert Jaramillo",
+  "owner_title": "Owner",
+  "city": "Lake Havasu City",
+  "emp": 0
+ }
+]

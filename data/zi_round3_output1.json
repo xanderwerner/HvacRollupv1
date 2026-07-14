@@ -1,0 +1,122 @@
+[
+ {
+  "id": "C1941",
+  "company_name": "Power Contracting LLC",
+  "owner_name_confirmed": "William \"Bill\" James Krukovsky",
+  "mobile_phone": "(602) 513-1147",
+  "office_phone": "(623) 580-5473",
+  "email": "bkrukovsky@powerllc.com",
+  "job_title": "Vice President, Operations",
+  "match_notes": "DO NOT CALL (mobilePhoneDoNotCall=true). Email domain powerllc.com corroborates company; area codes 602/623 match Phoenix metro. Title is VP Operations, not formally 'Owner' — company record lists him as Qualifying Party."
+ },
+ {
+  "id": "C2600",
+  "company_name": "D P Electric Inc",
+  "owner_name_confirmed": "Daniel Joseph Puente",
+  "mobile_phone": "(480) 229-3234",
+  "office_phone": "(480) 289-3170",
+  "email": "dan@dpelectric.com",
+  "job_title": "Founder & Chairman",
+  "match_notes": "Strong match: email domain dpelectric.com matches company name exactly, area code 480 matches Tempe/Phoenix metro, title Founder & Chairman confirms ownership."
+ },
+ {
+  "id": "C2003",
+  "company_name": "Hampton Tedder Electric Co Inc",
+  "owner_name_confirmed": "Christine Marie Tedder",
+  "mobile_phone": "(909) 530-8977",
+  "office_phone": "(909) 628-1253",
+  "email": "chris.tedder@hamptontedder.com",
+  "job_title": "President",
+  "match_notes": "directPhoneDoNotCall=true on office line (mobile is callable). Email domain hamptontedder.com matches company exactly and title President confirms ownership; area code 909 is Inland Empire CA, not AZ — plausible if company HQ/records are CA-based with AZ operations, flagging for awareness."
+ },
+ {
+  "id": "C2623",
+  "company_name": "Hawkins Electric Inc",
+  "owner_name_confirmed": "Denny J Hawkins",
+  "mobile_phone": "(520) 544-7767",
+  "office_phone": "(520) 544-7976",
+  "email": "",
+  "job_title": "Owner",
+  "match_notes": "DO NOT CALL (mobilePhoneDoNotCall=true). Area code 520 matches Marana/Tucson area, title Owner confirmed."
+ },
+ {
+  "id": "C2645",
+  "company_name": "Interface Electric Inc",
+  "owner_name_confirmed": "Michael Thomas Pageler",
+  "mobile_phone": "(480) 326-3375",
+  "office_phone": "(480) 892-2715",
+  "email": "m.pageler@interfaceelectricinc.com",
+  "job_title": "Co-Owner",
+  "match_notes": "DO NOT CALL (mobilePhoneDoNotCall=true). Email domain interfaceelectricinc.com matches company exactly, area code 480 matches Mesa/Phoenix metro, title Co-Owner confirmed."
+ },
+ {
+  "id": "C2435",
+  "company_name": "Eco Electric LLC",
+  "owner_name_confirmed": "Daniel Watts Grayson",
+  "mobile_phone": "(928) 229-0499",
+  "office_phone": "",
+  "email": "",
+  "job_title": "Owner",
+  "match_notes": "Area code 928 is a valid (northern/rural) AZ area code, title Owner confirmed. No email/office phone returned."
+ },
+ {
+  "id": "C1950",
+  "company_name": "Alternative Power Solutions Inc",
+  "owner_name_confirmed": "Mike \"MJ\" Kassemos",
+  "mobile_phone": "(602) 881-0113",
+  "office_phone": "",
+  "email": "",
+  "job_title": "",
+  "match_notes": "DO NOT CALL (mobilePhoneDoNotCall=true). Lower-confidence CONTACT_ONLY_MATCH (not tied to a specific ZoomInfo company record, no title returned), but area code 602 matches Phoenix metro/Cave Creek and name matches closely — included with caution, verify before relying on it."
+ },
+ {
+  "id": "C2666",
+  "company_name": "Mustang Electric Inc",
+  "owner_name_confirmed": "Dave (David Lain) Osborn",
+  "mobile_phone": "",
+  "office_phone": "(602) 620-1923",
+  "email": "",
+  "job_title": "President",
+  "match_notes": "Only an office/direct-dial number returned (no mobile); directPhoneDoNotCall=true so this line should not be called. Area code 602 matches Phoenix, title President confirms ownership. CONTACT_ONLY_MATCH (not tied to a specific company record) — verify before use."
+ },
+ {
+  "id": "C1783",
+  "company_name": "Jacobs Electrical Services LLC",
+  "owner_name_confirmed": "Alex Jacobs",
+  "mobile_phone": "",
+  "office_phone": "",
+  "email": "alex@jesaz.com",
+  "job_title": "",
+  "match_notes": "No phone returned, email only. Email domain jesaz.com strongly corroborates match (Jacobs Electrical Services AZ)."
+ },
+ {
+  "id": "C1955",
+  "company_name": "Precision Power Inc",
+  "owner_name_confirmed": "Roy Gene Gonzales",
+  "mobile_phone": "(520) 631-2479",
+  "office_phone": "(520) 578-8533",
+  "email": "",
+  "job_title": "",
+  "match_notes": "DO NOT CALL (mobilePhoneDoNotCall=true). Area code 520 matches Tucson. No title/email returned."
+ },
+ {
+  "id": "C1965",
+  "company_name": "True Power Electric LLC",
+  "owner_name_confirmed": "Melvin Ceballos Guzman",
+  "mobile_phone": "(602) 642-3506",
+  "office_phone": "",
+  "email": "",
+  "job_title": "Owner",
+  "match_notes": "Area code 602 matches Phoenix, title Owner confirmed."
+ },
+ {
+  "id": "C1269",
+  "company_name": "Hansberger Refrigeration and Electric Company",
+  "owner_name_confirmed": "Mark Allen Hansberger",
+  "mobile_phone": "(520) 783-1876",
+  "office_phone": "(928) 783-1729",
+  "email": "mark.hansberger@hansbergerrefrig.com",
+  "job_title": "Owner",
+  "match_notes": "Strong match: email domain hansbergerrefrig.com matches company exactly, office area code 928 matches Yuma, title Owner confirmed."
+ }
+]
