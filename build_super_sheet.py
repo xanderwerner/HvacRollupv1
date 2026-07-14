@@ -188,13 +188,30 @@ def main():
         except Exception as e:
             print("retry open", attempt, str(e)[:80]); time.sleep(8 * (attempt + 1))
     ws = sh.worksheet("Super Enrichment")
+    # Row 1 = color-legend key, row 2 = real column headers, row 3+ = data.
+    COLUMN_HEADERS = [
+        "ID", "Company Name", "Trade", "City", "State", "Tier",
+        "Owner Name", "Owner Cell", "Cell DNC", "Cell Source",
+        "Employees", "Revenue", "EBITDA",
+        "Owner Confidence", "Size Notes",
+        "Has Mobile (ZI)",
+        "ZI Owner",
+        "ZI Employees", "ZI Revenue", "ZI Company ID",
+        "Apollo Name", "Apollo Employees",
+        "ROC Owner",
+        "Office Phone", "Website", "LinkedIn", "Rating", "Reviews",
+        "Next Action",
+        "Flags",
+    ]
     # Clear the full old data range first -- a plain update() into a smaller range than
     # the sheet's existing data leaves stale rows below the new data (bit twice now).
     existing_row_count = len(ws.get_all_values())
-    if existing_row_count > 1:
-        ws.batch_clear([f"A2:AD{existing_row_count}"])
-    ws.update(values=out_rows, range_name="A2", value_input_option="USER_ENTERED")
-    print(f"pushed {len(out_rows)} rows to Super Enrichment (cleared old range through row {existing_row_count} first)")
+    if existing_row_count > 2:
+        ws.batch_clear([f"A3:AD{existing_row_count}"])
+    ws.update(values=[COLUMN_HEADERS], range_name="A2", value_input_option="RAW")
+    ws.update(values=out_rows, range_name="A3", value_input_option="USER_ENTERED")
+    print(f"pushed {len(out_rows)} rows to Super Enrichment (row 2 = headers, data from row 3; "
+          f"cleared old range through row {existing_row_count} first)")
 
 
 if __name__ == "__main__":
