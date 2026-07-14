@@ -1,0 +1,1710 @@
+[
+ {
+  "id": "C040",
+  "name": "Smith Plumbing, Heating and Cooling",
+  "trade": "Plumbing",
+  "city": "Mesa",
+  "domain": "smithservicesaz.com"
+ },
+ {
+  "id": "C267",
+  "name": "AZ Home Services Group AC Repair & Plumbing Services",
+  "trade": "HVAC",
+  "city": "Queen Creek",
+  "domain": "azhomeservices.group"
+ },
+ {
+  "id": "C275",
+  "name": "Plumbers Near Me - Water Heater & Plumbing Services",
+  "trade": "Plumbing",
+  "city": "Chandler",
+  "domain": "plumbersnearme.services"
+ },
+ {
+  "id": "C629",
+  "name": "Valley Heating, Cooling & Appliances",
+  "trade": "HVAC",
+  "city": "Mesa",
+  "domain": "azvalleyservices.com"
+ },
+ {
+  "id": "C640",
+  "name": "GoodFellas Air Conditioning & Plumbing",
+  "trade": "HVAC",
+  "city": "Tucson",
+  "domain": "goodfellasac.com"
+ },
+ {
+  "id": "C643",
+  "name": "Efficient Air HVAC & Energy Solutions",
+  "trade": "HVAC",
+  "city": "Goodyear",
+  "domain": "myefficientair.com"
+ },
+ {
+  "id": "C645",
+  "name": "1st Choice Plumbing, Air & Insulation",
+  "trade": "HVAC",
+  "city": "Phoenix",
+  "domain": "1stchoicemechanicalaz.com"
+ },
+ {
+  "id": "C648",
+  "name": "Benjamin Franklin Plumbing of Prescott",
+  "trade": "Plumbing",
+  "city": "Prescott",
+  "domain": "benfranklinplumbingprescott.com"
+ },
+ {
+  "id": "C649",
+  "name": "Benjamin Franklin Plumbing of Mohave County",
+  "trade": "Plumbing",
+  "city": "Kingman",
+  "domain": "benfranklinplumbingmohavecounty.com"
+ },
+ {
+  "id": "C650",
+  "name": "Olive Air, Heating & AC Repair",
+  "trade": "HVAC",
+  "city": "Gilbert",
+  "domain": "oliveairandheating.com"
+ },
+ {
+  "id": "C653",
+  "name": "Dignity Plumbers Service & Water Softeners",
+  "trade": "Plumbing",
+  "city": "Youngtown",
+  "domain": "dignityplumbingaz.com"
+ },
+ {
+  "id": "C661",
+  "name": "Autocare Air Conditioning & Auto Repair",
+  "trade": "HVAC",
+  "city": "Phoenix",
+  "domain": "autocareacandbrakeinc.com"
+ },
+ {
+  "id": "C668",
+  "name": "Ram Plumbing, Inc.",
+  "trade": "Plumbing",
+  "city": "Tucson",
+  "domain": "ramplumbingaz.com"
+ },
+ {
+  "id": "C676",
+  "name": "DR Plumbing | Plumbers Marana",
+  "trade": "Plumbing",
+  "city": "Marana",
+  "domain": "maloneyplumbing.com"
+ },
+ {
+  "id": "C683",
+  "name": "Temco AC Repair & Replacement",
+  "trade": "HVAC",
+  "city": "Tucson",
+  "domain": "temcoair.com"
+ },
+ {
+  "id": "C685",
+  "name": "T.C.R. Rooter and Plumbing Repair",
+  "trade": "Plumbing",
+  "city": "Flagstaff",
+  "domain": "tcrrooter.com"
+ },
+ {
+  "id": "C687",
+  "name": "A.S.G. Plumbing Enterprises Tucson",
+  "trade": "Plumbing",
+  "city": "Tucson",
+  "domain": "tucsonazplumber.com"
+ },
+ {
+  "id": "C690",
+  "name": "Drain Medics - No-Dig Sewer Repair",
+  "trade": "Plumbing",
+  "city": "Tucson",
+  "domain": "calldrainmedics.com"
+ },
+ {
+  "id": "C697",
+  "name": "Gabriel's Air Care LLC Arizona Demolition Solution LLC",
+  "trade": "HVAC",
+  "city": "Waddell",
+  "domain": "reedscrewservices.com"
+ },
+ {
+  "id": "C698",
+  "name": "A/C ExperTek Service and Installation",
+  "trade": "HVAC",
+  "city": "Goodyear",
+  "domain": "acexpertek.com"
+ },
+ {
+  "id": "C704",
+  "name": "Baxter Brothers Plumbing",
+  "trade": "Plumbing",
+  "city": "Oro Valley",
+  "domain": null
+ },
+ {
+  "id": "C706",
+  "name": "Saguaro Plumbing And Air Of Tempe",
+  "trade": "HVAC + Plumbing",
+  "city": "Tempe",
+  "domain": "saguaroplumbingandair.com"
+ },
+ {
+  "id": "C707",
+  "name": "Arizona Best Plumbers",
+  "trade": "Plumbing",
+  "city": "Casa Grande",
+  "domain": null
+ },
+ {
+  "id": "C708",
+  "name": "POP Plumbing LLC - Glendale",
+  "trade": "Plumbing",
+  "city": "Glendale",
+  "domain": "popplumbing.co"
+ },
+ {
+  "id": "C709",
+  "name": "Advanced Automotive & Air Ride",
+  "trade": "HVAC",
+  "city": "Sierra Vista",
+  "domain": "advancedautomotiveairride.com"
+ },
+ {
+  "id": "C710",
+  "name": "Liberty Tradesmen",
+  "trade": "HVAC + Plumbing",
+  "city": "Buckeye",
+  "domain": "libertytradesmen.com"
+ },
+ {
+  "id": "C711",
+  "name": "Cobra Plumbing LLC",
+  "trade": "Plumbing",
+  "city": "Phoenix",
+  "domain": "cobraplumbingllc.com"
+ },
+ {
+  "id": "C714",
+  "name": "Air Duct Dynasty",
+  "trade": "HVAC",
+  "city": "Kingman",
+  "domain": "airductdynasty.co"
+ },
+ {
+  "id": "C715",
+  "name": "Corazon Air - Aire Acondicionado y Calefacci\u00f3n",
+  "trade": "HVAC",
+  "city": "Glendale",
+  "domain": "p3plumbingaz.com"
+ },
+ {
+  "id": "C716",
+  "name": "Johnson Family Plumber & HVAC",
+  "trade": "HVAC",
+  "city": "Scottsdale",
+  "domain": "johnsonplumbinghvac.site"
+ },
+ {
+  "id": "C718",
+  "name": "Stanley & Sons Heating & Cooling Company",
+  "trade": "HVAC",
+  "city": "Waddell",
+  "domain": "stanleyhvac.homes"
+ },
+ {
+  "id": "C719",
+  "name": "Truelove Plumbing",
+  "trade": "Plumbing",
+  "city": "Kingman",
+  "domain": "jorgesplumbing.com"
+ },
+ {
+  "id": "C720",
+  "name": "Arizona Cooling Company",
+  "trade": "HVAC",
+  "city": "Mesa",
+  "domain": "azcoolco.com"
+ },
+ {
+  "id": "C721",
+  "name": "America\u2019s Home Services Of Glendale",
+  "trade": "HVAC",
+  "city": "Glendale",
+  "domain": "americahomeservicesllc.com"
+ },
+ {
+  "id": "C722",
+  "name": "Innovative Air Queen Creek",
+  "trade": "HVAC",
+  "city": "Queen Creek",
+  "domain": "innovativeac.com"
+ },
+ {
+  "id": "C723",
+  "name": "Allen Family Plumbing & HVAC",
+  "trade": "HVAC + Plumbing",
+  "city": "Casa Grande",
+  "domain": "allenplumbinghvac.homes"
+ },
+ {
+  "id": "C724",
+  "name": "AC and Refrigeration (AC, Heating, Refrigeration, Electrical and Plumbing)",
+  "trade": "HVAC",
+  "city": "Tempe",
+  "domain": "vesselhomeservices.com"
+ },
+ {
+  "id": "C725",
+  "name": "E.R. Tankless & Plumbing",
+  "trade": "Plumbing",
+  "city": "Peoria",
+  "domain": "erplumbingaz.com"
+ },
+ {
+  "id": "C726",
+  "name": "Magics Auto Ac & Hose LLc",
+  "trade": "HVAC",
+  "city": "Glendale",
+  "domain": "readyrooterphx.com"
+ },
+ {
+  "id": "C728",
+  "name": "Techcool AC Repair Scottsdale",
+  "trade": "HVAC",
+  "city": "Scottsdale",
+  "domain": "techcoollv.com"
+ },
+ {
+  "id": "C729",
+  "name": "Affordable Plumber AZ LLC",
+  "trade": "Plumbing",
+  "city": "Mesa",
+  "domain": "acexpertek.com"
+ },
+ {
+  "id": "C730",
+  "name": "Core Comfort HVAC",
+  "trade": "HVAC",
+  "city": "Tempe",
+  "domain": "azminisplitinstall.com"
+ },
+ {
+  "id": "C732",
+  "name": "Hunter Brothers Heating & AC",
+  "trade": "HVAC",
+  "city": "Peoria",
+  "domain": "hunterhvac.homes"
+ },
+ {
+  "id": "C733",
+  "name": "Charlie Hall's Wrangler Plumbing",
+  "trade": "Plumbing",
+  "city": "Payson",
+  "domain": "charlie-plumbing.jany.io"
+ },
+ {
+  "id": "C734",
+  "name": "AZ AIRCOND LLC -Cooling Heating Plumbing",
+  "trade": "HVAC + Plumbing",
+  "city": "Buckeye",
+  "domain": "hvacheatingandcoolingllc.com"
+ },
+ {
+  "id": "C735",
+  "name": "Auto Air Conditioning Repair Shop",
+  "trade": "HVAC",
+  "city": "Queen Creek",
+  "domain": "autoairconditioning.repair"
+ },
+ {
+  "id": "C736",
+  "name": "Proforce Plumbing Sewer & Drain",
+  "trade": "Plumbing",
+  "city": "Glendale",
+  "domain": "proforceplumbing.com"
+ },
+ {
+  "id": "C737",
+  "name": "E & S Plumbing Services",
+  "trade": "Plumbing",
+  "city": "Flagstaff",
+  "domain": "saguaroplumbingandair.com"
+ },
+ {
+  "id": "C738",
+  "name": "Simpson Plumbing LLC",
+  "trade": "Plumbing",
+  "city": "Bullhead City",
+  "domain": "bullheadcity.plumbernw.com"
+ },
+ {
+  "id": "C740",
+  "name": "Precision Plumber Buckeye",
+  "trade": "Plumbing",
+  "city": "Buckeye",
+  "domain": "emergencyplumberbuckeye1.com"
+ },
+ {
+  "id": "C741",
+  "name": "Kia's Air Conditioning / stop by #1",
+  "trade": "HVAC",
+  "city": "Casa Grande",
+  "domain": "libertytradesmen.com"
+ },
+ {
+  "id": "C742",
+  "name": "Carter & Sons HVAC & Plumbing LLC",
+  "trade": "Plumbing",
+  "city": "Scottsdale",
+  "domain": "cobraplumbingllc.com"
+ },
+ {
+  "id": "C744",
+  "name": "ChillTek AC Repair",
+  "trade": "HVAC",
+  "city": "Glendale",
+  "domain": "chilltekacrepairglendale.com"
+ },
+ {
+  "id": "C745",
+  "name": "AARO Enterprises, HVAC Contractor",
+  "trade": "HVAC",
+  "city": "Lake Havasu City",
+  "domain": "aaroenterprises.com"
+ },
+ {
+  "id": "C746",
+  "name": "Aarow Plumbing Inc",
+  "trade": "Plumbing",
+  "city": "Tucson",
+  "domain": "aarowplumbing.com"
+ },
+ {
+  "id": "C749",
+  "name": "HOWLAIR Air Conditioning & Heating HVAC",
+  "trade": "HVAC",
+  "city": "Scottsdale",
+  "domain": "howlairscottsdale.com"
+ },
+ {
+  "id": "C753",
+  "name": "Prospector Plumbing and Septic pumping , Apache Junction AZ85119",
+  "trade": "Plumbing",
+  "city": "Apache Junction",
+  "domain": "prospectorplumbingandsepticservice.com"
+ },
+ {
+  "id": "C755",
+  "name": "Davis Brothers Heating & Air Conditioning",
+  "trade": "HVAC",
+  "city": "Goodyear",
+  "domain": "davishvac.homes"
+ },
+ {
+  "id": "C756",
+  "name": "Dub's Plumbing Services",
+  "trade": "Plumbing",
+  "city": "Oracle",
+  "domain": "vesselhomeservices.com"
+ },
+ {
+  "id": "C758",
+  "name": "Marco's Mam Plumbing & Repair",
+  "trade": "Plumbing",
+  "city": "Fort Mohave",
+  "domain": null
+ },
+ {
+  "id": "C759",
+  "name": "AC Air conditioning & Heating",
+  "trade": "HVAC",
+  "city": "Avondale",
+  "domain": "acbysamllc.com"
+ },
+ {
+  "id": "C760",
+  "name": "Your Phoenix HVAC",
+  "trade": "HVAC",
+  "city": "Phoenix",
+  "domain": "yourphoenixhvac.net"
+ },
+ {
+  "id": "C762",
+  "name": "Roto-Rooter Sewer & Drain Service",
+  "trade": "Plumbing",
+  "city": "Sierra Vista",
+  "domain": "rotorootersewerndrainsvc.com"
+ },
+ {
+  "id": "C763",
+  "name": "One Shot Installation Electrical, Plumbing & Appliance Repair-Electrician & Plumber Flagstaff, AZ.",
+  "trade": "Plumbing",
+  "city": "Flagstaff",
+  "domain": "oneshotinstallation.com"
+ },
+ {
+  "id": "C764",
+  "name": "Airtronics Air Conditioning & Heating",
+  "trade": "HVAC",
+  "city": "Yuma",
+  "domain": "airtronx.com"
+ },
+ {
+  "id": "C766",
+  "name": "Vertical Plumbing Goodyear",
+  "trade": "Plumbing",
+  "city": "Goodyear",
+  "domain": null
+ },
+ {
+  "id": "C768",
+  "name": "Air Solutions",
+  "trade": "HVAC",
+  "city": "Show Low",
+  "domain": "proforceplumbing.com"
+ },
+ {
+  "id": "C770",
+  "name": "Plumbers Crack Plumbing",
+  "trade": "Plumbing",
+  "city": "Bullhead City",
+  "domain": "plumberscrackplumbing.simdif.com"
+ },
+ {
+  "id": "C771",
+  "name": "ZonAir AC Repair Tempe",
+  "trade": "HVAC",
+  "city": "Tempe",
+  "domain": "zonairacrepairtempe.com"
+ },
+ {
+  "id": "C773",
+  "name": "Arizona Sewer Solution Plumbing and Drain",
+  "trade": "Plumbing",
+  "city": "Tucson",
+  "domain": "arizonasewersolution.com"
+ },
+ {
+  "id": "C775",
+  "name": "Endivo Plumbing",
+  "trade": "Plumbing",
+  "city": "Flagstaff",
+  "domain": "endivoconstruction.com"
+ },
+ {
+  "id": "C777",
+  "name": "Lynlee Plumbing",
+  "trade": "Plumbing",
+  "city": "Flagstaff",
+  "domain": "lynleeplumbing.com"
+ },
+ {
+  "id": "C778",
+  "name": "A & C Plumbing Concepts, Inc.",
+  "trade": "Plumbing",
+  "city": "Bullhead City",
+  "domain": "ancplumbing.com"
+ },
+ {
+  "id": "C779",
+  "name": "Jonez Contracting & Handyman Service",
+  "trade": "Plumbing",
+  "city": "Kingman",
+  "domain": "facebook.com"
+ },
+ {
+  "id": "C781",
+  "name": "United Plumbers Tempe",
+  "trade": "Plumbing",
+  "city": "Tempe",
+  "domain": "unitedplumberstempe.com"
+ },
+ {
+  "id": "C785",
+  "name": "Discount Plumbing Pros",
+  "trade": "Plumbing",
+  "city": "Goodyear",
+  "domain": "discountplumbingpros.com"
+ },
+ {
+  "id": "C786",
+  "name": "Maricopa Mountain Plumbing",
+  "trade": "Plumbing",
+  "city": "Maricopa",
+  "domain": null
+ },
+ {
+  "id": "C787",
+  "name": "Prime AC Repair Phoenix",
+  "trade": "HVAC",
+  "city": "Phoenix",
+  "domain": "primeacrepairphoenix.com"
+ },
+ {
+  "id": "C788",
+  "name": "OneCall Plumber Scottsdale",
+  "trade": "Plumbing",
+  "city": "Scottsdale",
+  "domain": "onecallplumberscottsdale.com"
+ },
+ {
+  "id": "C789",
+  "name": "Quality Pumping Septic Services",
+  "trade": "Plumbing",
+  "city": "Payson",
+  "domain": "qualitypumpingservices.com"
+ },
+ {
+  "id": "C791",
+  "name": "Ez AC Repair Scottsdale",
+  "trade": "HVAC",
+  "city": "Scottsdale",
+  "domain": "ezacrepairscottsdale.com"
+ },
+ {
+  "id": "C792",
+  "name": "A&M Refrigeration LLC",
+  "trade": "HVAC",
+  "city": "Yuma",
+  "domain": null
+ },
+ {
+  "id": "C793",
+  "name": "The Son's Plumbing Service",
+  "trade": "Plumbing",
+  "city": "Casa Grande",
+  "domain": "yourphoenixhvac.net"
+ },
+ {
+  "id": "C794",
+  "name": "AZ Home Services Group AC Repair & Plumbing Services of Chandler",
+  "trade": "HVAC",
+  "city": "Chandler",
+  "domain": "oakcreekhvac.com"
+ },
+ {
+  "id": "C797",
+  "name": "New Plumbing Phoenix",
+  "trade": "Plumbing",
+  "city": "Phoenix",
+  "domain": "airtronx.com"
+ },
+ {
+  "id": "C803",
+  "name": "Quality Refrigeration Supply LLC",
+  "trade": "HVAC",
+  "city": "Bullhead City",
+  "domain": "quality-refrigeration-supply-llc-106928.square.site"
+ },
+ {
+  "id": "C805",
+  "name": "Plumbing & Electrical Concepts",
+  "trade": "Plumbing",
+  "city": "Flagstaff",
+  "domain": "plumbingandelectricalconcepts.com"
+ },
+ {
+  "id": "C808",
+  "name": "Glendale HVAC Contractor Pro LLC",
+  "trade": "HVAC",
+  "city": "Glendale",
+  "domain": "prohvacofglendale.com"
+ },
+ {
+  "id": "C810",
+  "name": "SunPeak AC Repair Buckeye",
+  "trade": "HVAC",
+  "city": "Buckeye",
+  "domain": "sunpeakairbuckeye.com"
+ },
+ {
+  "id": "C811",
+  "name": "Kaylormade Plumbing - Emergency Plumber",
+  "trade": "Plumbing",
+  "city": "Queen Creek",
+  "domain": "kaylormadeplumbing.com"
+ },
+ {
+  "id": "C812",
+  "name": "HighPeak Prescott HVAC Repair",
+  "trade": "HVAC",
+  "city": "Prescott",
+  "domain": "prescotthighpeakheatingcooling.com"
+ },
+ {
+  "id": "C813",
+  "name": "Liberty Plumbing - Flagstaff",
+  "trade": "Plumbing",
+  "city": "Flagstaff",
+  "domain": "ancplumbing.com"
+ },
+ {
+  "id": "C814",
+  "name": "Affordable Avondale AC Repair",
+  "trade": "HVAC",
+  "city": "Avondale",
+  "domain": "affordableavondaleacrepair.com"
+ },
+ {
+  "id": "C816",
+  "name": "Steve Dick AC LLC",
+  "trade": "HVAC",
+  "city": "Apache Junction",
+  "domain": "unitedplumberstempe.com"
+ },
+ {
+  "id": "C819",
+  "name": "Roto-Rooter Show Low - Septic & Drain Cleaning",
+  "trade": "Plumbing",
+  "city": "Taylor",
+  "domain": "showlowrotorooter.com"
+ },
+ {
+  "id": "C820",
+  "name": "Hoosier Plumbing Company - Maricopa, AZ",
+  "trade": "Plumbing",
+  "city": "Maricopa",
+  "domain": "hoosierplumbingaz.com"
+ },
+ {
+  "id": "C821",
+  "name": "Laba Plumbing",
+  "trade": "Plumbing",
+  "city": "Casa Grande",
+  "domain": "boblabaplumbing.net"
+ },
+ {
+  "id": "C823",
+  "name": "Expert Plumber Glendale",
+  "trade": "Plumbing",
+  "city": "Glendale",
+  "domain": "expertplumberglendale.com"
+ },
+ {
+  "id": "C824",
+  "name": "Best Plumbing Goodyear AZ",
+  "trade": "Plumbing",
+  "city": "Goodyear",
+  "domain": "newwavepipeco.site"
+ },
+ {
+  "id": "C826",
+  "name": "Trusted Chandler HVAC Repair",
+  "trade": "HVAC",
+  "city": "Chandler",
+  "domain": "trustedchandlercoolingheating.com"
+ },
+ {
+  "id": "C827",
+  "name": "Master Plumbing Gilbert AZ",
+  "trade": "Plumbing",
+  "city": "Gilbert",
+  "domain": "bluespringsystems.site"
+ },
+ {
+  "id": "C828",
+  "name": "HomeFix HVAC Masters",
+  "trade": "HVAC",
+  "city": "Avondale",
+  "domain": null
+ },
+ {
+  "id": "C829",
+  "name": "Lakeland Advanced Climate Control",
+  "trade": "HVAC",
+  "city": "Sierra Vista",
+  "domain": "steelehvacllc.com"
+ },
+ {
+  "id": "C830",
+  "name": "D&M Construction, Electrical, & Plumbing",
+  "trade": "Plumbing",
+  "city": "Buckeye",
+  "domain": "dm-construction-llc.com"
+ },
+ {
+  "id": "C831",
+  "name": "Plumbing Buckeye Sol",
+  "trade": "Plumbing",
+  "city": "Buckeye",
+  "domain": "briggsairconditioning.com"
+ },
+ {
+  "id": "C834",
+  "name": "Avondale Plumbing & Drain Services Exp",
+  "trade": "Plumbing",
+  "city": "Avondale",
+  "domain": null
+ },
+ {
+  "id": "C835",
+  "name": "Aaa Affordable AC",
+  "trade": "HVAC",
+  "city": "Lake Havasu City",
+  "domain": null
+ },
+ {
+  "id": "C837",
+  "name": "Tite Plumbing Glendale",
+  "trade": "Plumbing",
+  "city": "Glendale",
+  "domain": "plumbingtco.com"
+ },
+ {
+  "id": "C839",
+  "name": "Jennings Handyman & Roof Repair",
+  "trade": "Plumbing",
+  "city": "Bullhead City",
+  "domain": "acdcfab.com"
+ },
+ {
+  "id": "C840",
+  "name": "Ginco Plumbing & Excavating",
+  "trade": "Plumbing",
+  "city": "Apache Junction",
+  "domain": "plumbingandelectricalconcepts.com"
+ },
+ {
+  "id": "C841",
+  "name": "Peoria Plumbing & Drain",
+  "trade": "Plumbing",
+  "city": "Peoria",
+  "domain": "peoriaplumbingfirst.com"
+ },
+ {
+  "id": "C843",
+  "name": "Bud's Plumbing",
+  "trade": "Plumbing",
+  "city": "Payson",
+  "domain": "professionalairconditioningrepairpeoria.com"
+ },
+ {
+  "id": "C844",
+  "name": "Plumbing, Drain & Sewer Pros",
+  "trade": "Plumbing",
+  "city": "Apache Junction",
+  "domain": "prohvacofglendale.com"
+ },
+ {
+  "id": "C845",
+  "name": "Goodyear Plumbing & Piping",
+  "trade": "Plumbing",
+  "city": "Goodyear",
+  "domain": "christianrandleplumbingpro.com"
+ },
+ {
+  "id": "C846",
+  "name": "Pro Plumbers Surprise",
+  "trade": "Plumbing",
+  "city": "Surprise",
+  "domain": "proplumberssurprise.com"
+ },
+ {
+  "id": "C847",
+  "name": "Boreal HVAC Service",
+  "trade": "HVAC",
+  "city": "Fort Mohave",
+  "domain": "kaylormadeplumbing.com"
+ },
+ {
+  "id": "C849",
+  "name": "HALTOM & SON'S CONTRACTING - General Contractor in Show Low, Arizona",
+  "trade": "HVAC",
+  "city": "Show Low",
+  "domain": "showlowbuilder.com"
+ },
+ {
+  "id": "C850",
+  "name": "Surprise Plumber and Handyman",
+  "trade": "Plumbing",
+  "city": "Surprise",
+  "domain": "surpriseplumbingandhandyman.com"
+ },
+ {
+  "id": "C851",
+  "name": "Sierra Sewer & Drain Services",
+  "trade": "Plumbing",
+  "city": "Sierra Vista",
+  "domain": "prescottvalleycoolingheatingproline.com"
+ },
+ {
+  "id": "C852",
+  "name": "Camdeton Air Conditioning & Heating",
+  "trade": "HVAC",
+  "city": "Kingman",
+  "domain": null
+ },
+ {
+  "id": "C853",
+  "name": "Steve Ash Plumbing",
+  "trade": "Plumbing",
+  "city": "Sedona",
+  "domain": null
+ },
+ {
+  "id": "C854",
+  "name": "Air Conditioning AZ Inc",
+  "trade": "HVAC",
+  "city": "Avondale",
+  "domain": null
+ },
+ {
+  "id": "C855",
+  "name": "Jimco Air Duct Repair Service",
+  "trade": "HVAC",
+  "city": "Bullhead City",
+  "domain": "showlowrotorooter.com"
+ },
+ {
+  "id": "C858",
+  "name": "Responsive Plumber Peoria",
+  "trade": "Plumbing",
+  "city": "Peoria",
+  "domain": "responsiveplumberpeoria.com"
+ },
+ {
+  "id": "C859",
+  "name": "Goodyear Plumbing & Sewer",
+  "trade": "Plumbing",
+  "city": "Goodyear",
+  "domain": "goodyearplumbingsewer.com"
+ },
+ {
+  "id": "C862",
+  "name": "Inferno Heating Refrigeration & HVAC Flagstaff",
+  "trade": "HVAC",
+  "city": "Flagstaff",
+  "domain": "newwavepipeco.site"
+ },
+ {
+  "id": "C863",
+  "name": "Kin Plumbing Gilbert",
+  "trade": "Plumbing",
+  "city": "Gilbert",
+  "domain": "kiplumbingpro.com"
+ },
+ {
+  "id": "C864",
+  "name": "Air Conditioning Champ",
+  "trade": "HVAC",
+  "city": "Glendale",
+  "domain": "airconditioningchamp.com"
+ },
+ {
+  "id": "C865",
+  "name": "ProFab Heating & Cooling",
+  "trade": "HVAC",
+  "city": "Prescott",
+  "domain": "profabhvac.com"
+ },
+ {
+  "id": "C868",
+  "name": "Success Air Duct Service LLC",
+  "trade": "HVAC",
+  "city": "Payson",
+  "domain": "steelehvacllc.com"
+ },
+ {
+  "id": "C870",
+  "name": "Grande AC & Heating Repair Inc.",
+  "trade": "HVAC",
+  "city": "Casa Grande",
+  "domain": "dm-construction-llc.com"
+ },
+ {
+  "id": "C871",
+  "name": "Sedona Verde Valley Plumbing",
+  "trade": "Plumbing",
+  "city": "Cornville",
+  "domain": null
+ },
+ {
+  "id": "C872",
+  "name": "Affordable Hometown Plumbing",
+  "trade": "Plumbing",
+  "city": "Payson",
+  "domain": null
+ },
+ {
+  "id": "C874",
+  "name": "Glendale Plumbing Experts",
+  "trade": "Plumbing",
+  "city": "Glendale",
+  "domain": "glendaleplumbingexperts.com"
+ },
+ {
+  "id": "C878",
+  "name": "American Plumber",
+  "trade": "Plumbing",
+  "city": "Bullhead City",
+  "domain": "americanplumberco.com"
+ },
+ {
+  "id": "C879",
+  "name": "Heaven Bound Plumbing",
+  "trade": "Plumbing",
+  "city": "Payson",
+  "domain": "phoenixheatingcoolingauthority.com"
+ },
+ {
+  "id": "C880",
+  "name": "Platinum Tempe Plumbing Experts",
+  "trade": "Plumbing",
+  "city": "Tempe",
+  "domain": "platinumtempeplumbingexperts.com"
+ },
+ {
+  "id": "C881",
+  "name": "El Mirage AC Repair",
+  "trade": "HVAC",
+  "city": "El Mirage",
+  "domain": "elmirageacrepair.com"
+ },
+ {
+  "id": "C882",
+  "name": "Stefick Plumbing and Drain",
+  "trade": "Plumbing",
+  "city": "Lake Havasu City",
+  "domain": "stefickplumbing.com"
+ },
+ {
+  "id": "C883",
+  "name": "Connolly Heating & Cooling",
+  "trade": "HVAC",
+  "city": "Sedona",
+  "domain": null
+ },
+ {
+  "id": "C885",
+  "name": "Max Performance Heating & AC Repair",
+  "trade": "HVAC",
+  "city": "Goodyear",
+  "domain": "maxperformanceheatingacrepair.shop"
+ },
+ {
+  "id": "C886",
+  "name": "Expert Plumbers of Queen Creek",
+  "trade": "Plumbing",
+  "city": "Queen Creek",
+  "domain": "expertplumbersofqueencreek.com"
+ },
+ {
+  "id": "C887",
+  "name": "Northshore Plumbing",
+  "trade": "Plumbing",
+  "city": "Lake Havasu City",
+  "domain": "northshoreplumbinglhc.com"
+ },
+ {
+  "id": "C888",
+  "name": "Timberline Heating And Air Conditioning",
+  "trade": "HVAC",
+  "city": "Pinetop",
+  "domain": null
+ },
+ {
+  "id": "C889",
+  "name": "AZ Home Services Group AC Repair & Plumbing Services of Peoria",
+  "trade": "HVAC",
+  "city": "Peoria",
+  "domain": null
+ },
+ {
+  "id": "C890",
+  "name": "Apache Junction Plumber",
+  "trade": "Plumbing",
+  "city": "Apache Junction",
+  "domain": "showlowbuilder.com"
+ },
+ {
+  "id": "C892",
+  "name": "Hvac Supplies",
+  "trade": "HVAC",
+  "city": "Payson",
+  "domain": null
+ },
+ {
+  "id": "C895",
+  "name": "Ace Air Duct Services",
+  "trade": "HVAC",
+  "city": "Flagstaff",
+  "domain": "steelehvacllc.com"
+ },
+ {
+  "id": "C897",
+  "name": "Supreme HVAC/Duct Serives",
+  "trade": "HVAC",
+  "city": "Sedona",
+  "domain": null
+ },
+ {
+  "id": "C903",
+  "name": "Desert Plumbing Of Buckeye",
+  "trade": "Plumbing",
+  "city": "Buckeye",
+  "domain": "plumbingbuckeye.com"
+ },
+ {
+  "id": "C929",
+  "name": "Integrity Electrical Services Company LLC",
+  "trade": "Electrical",
+  "city": "Tempe",
+  "domain": "www.integrityelectricaz.com"
+ },
+ {
+  "id": "C934",
+  "name": "Integrity Electrical LLC",
+  "trade": "Electrical",
+  "city": "Prescott",
+  "domain": "www.integrityelectricaz.com"
+ },
+ {
+  "id": "C936",
+  "name": "Integrity Electrical Service LLC",
+  "trade": "Electrical",
+  "city": "Tucson",
+  "domain": "www.integrityelectricaz.com"
+ },
+ {
+  "id": "C2727",
+  "name": "Ignite Electric LLC",
+  "trade": "Electrical",
+  "city": "Phoenix",
+  "domain": "ignite-electric.com"
+ },
+ {
+  "id": "C2728",
+  "name": "Gideon Electric",
+  "trade": "Electrical",
+  "city": "Phoenix",
+  "domain": "gideonservicecompany.com"
+ },
+ {
+  "id": "C2729",
+  "name": "Trend Electric",
+  "trade": "Electrical",
+  "city": "Phoenix",
+  "domain": "trendelectrical.com"
+ },
+ {
+  "id": "C2730",
+  "name": "GA Electrical llc",
+  "trade": "Electrical",
+  "city": "Phoenix",
+  "domain": null
+ },
+ {
+  "id": "C2731",
+  "name": "Simple Electric",
+  "trade": "Electrical",
+  "city": "Phoenix",
+  "domain": "simpleelectricaz.com"
+ },
+ {
+  "id": "C2732",
+  "name": "US Electrical Services",
+  "trade": "Electrical",
+  "city": "Phoenix",
+  "domain": "uselectricalservices.us"
+ },
+ {
+  "id": "C2733",
+  "name": "Sharp Electric LLC",
+  "trade": "Electrical",
+  "city": "Tucson",
+  "domain": "tucsonsharpelectric.com"
+ },
+ {
+  "id": "C2734",
+  "name": "Lytle Electric",
+  "trade": "Electrical",
+  "city": "Tucson",
+  "domain": "lytleelectricaz.com"
+ },
+ {
+  "id": "C2735",
+  "name": "RSB Electrical Inc",
+  "trade": "Electrical",
+  "city": "Mesa",
+  "domain": "rsbelectricalinc.com"
+ },
+ {
+  "id": "C2736",
+  "name": "NES Electrical Services",
+  "trade": "Electrical",
+  "city": "Mesa",
+  "domain": "neselectricalservices.com"
+ },
+ {
+  "id": "C2737",
+  "name": "Javier's Quick Electricians",
+  "trade": "Electrical",
+  "city": "Mesa",
+  "domain": null
+ },
+ {
+  "id": "C2738",
+  "name": "Foquito Electric",
+  "trade": "Electrical",
+  "city": "Mesa",
+  "domain": null
+ },
+ {
+  "id": "C2739",
+  "name": "T&K Electric Company",
+  "trade": "Electrical",
+  "city": "Mesa",
+  "domain": "tnkelectric.com"
+ },
+ {
+  "id": "C2740",
+  "name": "Javi Electric",
+  "trade": "Electrical",
+  "city": "Mesa",
+  "domain": "javielectric.com"
+ },
+ {
+  "id": "C2741",
+  "name": "JLM Electric LLC AZ ROC# 361095 - Classification CR11",
+  "trade": "Electrical",
+  "city": "Gilbert",
+  "domain": "queencreekelectrical.com"
+ },
+ {
+  "id": "C2742",
+  "name": "ID ELECTRIC LLC",
+  "trade": "Electrical",
+  "city": "Scottsdale",
+  "domain": "idelectric-az.com"
+ },
+ {
+  "id": "C2743",
+  "name": "EliteElectro Electric Contractors",
+  "trade": "Electrical",
+  "city": "Scottsdale",
+  "domain": null
+ },
+ {
+  "id": "C2744",
+  "name": "PowerPro Electricians",
+  "trade": "Electrical",
+  "city": "Scottsdale",
+  "domain": null
+ },
+ {
+  "id": "C2745",
+  "name": "QuickCall Electric Co",
+  "trade": "Electrical",
+  "city": "Scottsdale",
+  "domain": null
+ },
+ {
+  "id": "C2746",
+  "name": "Bill's Superior Electric Inc.",
+  "trade": "Electrical",
+  "city": "Peoria",
+  "domain": "billsuperiorelectric.com"
+ },
+ {
+  "id": "C2747",
+  "name": "Temple Electric Inc",
+  "trade": "Electrical",
+  "city": "Peoria",
+  "domain": "templeelectricinc.com"
+ },
+ {
+  "id": "C2748",
+  "name": "Electrical Contracting Services",
+  "trade": "Electrical",
+  "city": "Tempe",
+  "domain": null
+ },
+ {
+  "id": "C2749",
+  "name": "Bjelde Electric",
+  "trade": "Electrical",
+  "city": "Tempe",
+  "domain": "bjeldeelectric.com"
+ },
+ {
+  "id": "C2750",
+  "name": "CID Electrical Arizona LLC",
+  "trade": "Electrical",
+  "city": "Surprise",
+  "domain": null
+ },
+ {
+  "id": "C2751",
+  "name": "J & M Repairs",
+  "trade": "Electrical",
+  "city": "Surprise",
+  "domain": "jandmrepairs.net"
+ },
+ {
+  "id": "C2752",
+  "name": "Brylee Electric Inc",
+  "trade": "Electrical",
+  "city": "Surprise",
+  "domain": null
+ },
+ {
+  "id": "C2753",
+  "name": "Jake's Electric Inc",
+  "trade": "Electrical",
+  "city": "Surprise",
+  "domain": "jakeselectric.com"
+ },
+ {
+  "id": "C2754",
+  "name": "Kad Electric Co",
+  "trade": "Electrical",
+  "city": "Surprise",
+  "domain": null
+ },
+ {
+  "id": "C2755",
+  "name": "Morgan Electric",
+  "trade": "Electrical",
+  "city": "Lake Havasu City",
+  "domain": "morganelectricllc.net"
+ },
+ {
+  "id": "C2756",
+  "name": "#1 Arizona Electric",
+  "trade": "Electrical",
+  "city": "Lake Havasu City",
+  "domain": "1arizonaelectricllc.com"
+ },
+ {
+  "id": "C2757",
+  "name": "KS ELECTRIC",
+  "trade": "Electrical",
+  "city": "Lake Havasu City",
+  "domain": "kselectricaz.com"
+ },
+ {
+  "id": "C2758",
+  "name": "Manco services",
+  "trade": "Electrical",
+  "city": "Lake Havasu City",
+  "domain": "facebook.com"
+ },
+ {
+  "id": "C2759",
+  "name": "Rabago Electric LLC",
+  "trade": "Electrical",
+  "city": "Chandler",
+  "domain": "rabagoelectric.com"
+ },
+ {
+  "id": "C2760",
+  "name": "Kirby Electric LLC",
+  "trade": "Electrical",
+  "city": "Flagstaff",
+  "domain": "kirby-electric.net"
+ },
+ {
+  "id": "C2761",
+  "name": "RP ELECTRIC LLC",
+  "trade": "Electrical",
+  "city": "Flagstaff",
+  "domain": "rparizona.com"
+ },
+ {
+  "id": "C2762",
+  "name": "Scheid Electric",
+  "trade": "Electrical",
+  "city": "Queen Creek",
+  "domain": "scheidelectric.com"
+ },
+ {
+  "id": "C2763",
+  "name": "Q Electrical Services",
+  "trade": "Electrical",
+  "city": "Queen Creek",
+  "domain": "qelectricalservices.com"
+ },
+ {
+  "id": "C2764",
+  "name": "D & H Electric",
+  "trade": "Electrical",
+  "city": "Yuma",
+  "domain": "dandhelectric.com"
+ },
+ {
+  "id": "C2765",
+  "name": "Royal Electric",
+  "trade": "Electrical",
+  "city": "Yuma",
+  "domain": "royalelectricyuma.com"
+ },
+ {
+  "id": "C2766",
+  "name": "Jays Electrik LLC",
+  "trade": "Electrical",
+  "city": "Yuma",
+  "domain": null
+ },
+ {
+  "id": "C2767",
+  "name": "O & M Electrical Services, Inc.",
+  "trade": "Electrical",
+  "city": "Yuma",
+  "domain": "oandmelectric.com"
+ },
+ {
+  "id": "C2768",
+  "name": "Westmoor Electric Inc.",
+  "trade": "Electrical",
+  "city": "Yuma",
+  "domain": null
+ },
+ {
+  "id": "C2769",
+  "name": "Consolidated Electrical Distributors",
+  "trade": "Electrical",
+  "city": "Yuma",
+  "domain": "cedyuma.portalced.com"
+ },
+ {
+  "id": "C2770",
+  "name": "Jameson Electric LLC",
+  "trade": "Electrical",
+  "city": "Prescott Valley",
+  "domain": "jamesonelectricaz.com"
+ },
+ {
+  "id": "C2771",
+  "name": "Kage Electric",
+  "trade": "Electrical",
+  "city": "Prescott Valley",
+  "domain": "kageelectric.com"
+ },
+ {
+  "id": "C2772",
+  "name": "S & M Electric",
+  "trade": "Electrical",
+  "city": "Prescott Valley",
+  "domain": "sandmelectricinc.com"
+ },
+ {
+  "id": "C2773",
+  "name": "Adept Electrical Services",
+  "trade": "Electrical",
+  "city": "Prescott Valley",
+  "domain": null
+ },
+ {
+  "id": "C2774",
+  "name": "Sundog Electric LLC",
+  "trade": "Electrical",
+  "city": "Prescott Valley",
+  "domain": "sundogelectricllc.com"
+ },
+ {
+  "id": "C2775",
+  "name": "Bassett Electric LLC",
+  "trade": "Electrical",
+  "city": "Prescott Valley",
+  "domain": "bassettelectricpv.com"
+ },
+ {
+  "id": "C2776",
+  "name": "Pat Electric LLC",
+  "trade": "Electrical",
+  "city": "Prescott Valley",
+  "domain": "patelectricllc.com"
+ },
+ {
+  "id": "C2777",
+  "name": "Cobb AZ Electric",
+  "trade": "Electrical",
+  "city": "Prescott Valley",
+  "domain": "cobbazelectric.com"
+ },
+ {
+  "id": "C2778",
+  "name": "Strombex Electrical",
+  "trade": "Electrical",
+  "city": "Prescott",
+  "domain": "prescottelectrician.strikingly.com"
+ },
+ {
+  "id": "C2779",
+  "name": "Lynx Electric Inc",
+  "trade": "Electrical",
+  "city": "Prescott",
+  "domain": null
+ },
+ {
+  "id": "C2780",
+  "name": "KM Electric",
+  "trade": "Electrical",
+  "city": "Buckeye",
+  "domain": null
+ },
+ {
+  "id": "C2781",
+  "name": "Oliver Electric LLC",
+  "trade": "Electrical",
+  "city": "Buckeye",
+  "domain": "oliverelectricaz.com"
+ },
+ {
+  "id": "C2782",
+  "name": "Cr Electric",
+  "trade": "Electrical",
+  "city": "Buckeye",
+  "domain": null
+ },
+ {
+  "id": "C2783",
+  "name": "Triton Electric LLC",
+  "trade": "Electrical",
+  "city": "Buckeye",
+  "domain": "usmapiqs.org"
+ },
+ {
+  "id": "C2784",
+  "name": "Strada Services",
+  "trade": "Electrical",
+  "city": "Buckeye",
+  "domain": "stradaservices.com"
+ },
+ {
+  "id": "C2785",
+  "name": "Select Electric, Llc",
+  "trade": "Electrical",
+  "city": "Kingman",
+  "domain": null
+ },
+ {
+  "id": "C2786",
+  "name": "Wise Electric, Inc",
+  "trade": "Electrical",
+  "city": "Kingman",
+  "domain": "wisesolarsolutionsinc.com"
+ },
+ {
+  "id": "C2787",
+  "name": "Romar Electric",
+  "trade": "Electrical",
+  "city": "Kingman",
+  "domain": null
+ },
+ {
+  "id": "C2788",
+  "name": "Consolidated Electrical Distribution",
+  "trade": "Electrical",
+  "city": "Kingman",
+  "domain": null
+ },
+ {
+  "id": "C2789",
+  "name": "Jamie's Electricians",
+  "trade": "Electrical",
+  "city": "Casa Grande",
+  "domain": null
+ },
+ {
+  "id": "C2790",
+  "name": "RSC Services",
+  "trade": "Electrical",
+  "city": "Casa Grande",
+  "domain": "rscservicesllc.com"
+ },
+ {
+  "id": "C2791",
+  "name": "Hubbard Electric LLC",
+  "trade": "Electrical",
+  "city": "Casa Grande",
+  "domain": null
+ },
+ {
+  "id": "C2792",
+  "name": "LEI Electrical",
+  "trade": "Electrical",
+  "city": "Casa Grande",
+  "domain": null
+ },
+ {
+  "id": "C2793",
+  "name": "CED Casa Grande - Consolidated Electrical Distributors",
+  "trade": "Electrical",
+  "city": "Casa Grande",
+  "domain": null
+ },
+ {
+  "id": "C2794",
+  "name": "BECKHAM ELECTRIC, LLC,",
+  "trade": "Electrical",
+  "city": "Goodyear",
+  "domain": "beckhamelectricllc.com"
+ },
+ {
+  "id": "C2795",
+  "name": "Excellence Electrical Contracting",
+  "trade": "Electrical",
+  "city": "Goodyear",
+  "domain": null
+ },
+ {
+  "id": "C2796",
+  "name": "Tymeson Electric",
+  "trade": "Electrical",
+  "city": "Goodyear",
+  "domain": null
+ },
+ {
+  "id": "C2797",
+  "name": "Electricians Near You",
+  "trade": "Electrical",
+  "city": "Goodyear",
+  "domain": null
+ },
+ {
+  "id": "C2798",
+  "name": "Alligood Electric Co Inc",
+  "trade": "Electrical",
+  "city": "Avondale",
+  "domain": "alligoodelectric.com"
+ },
+ {
+  "id": "C2799",
+  "name": "C J Electric",
+  "trade": "Electrical",
+  "city": "Laveen",
+  "domain": null
+ },
+ {
+  "id": "C2800",
+  "name": "AJP Electric Inc",
+  "trade": "Electrical",
+  "city": "Laveen",
+  "domain": null
+ },
+ {
+  "id": "C2801",
+  "name": "The Electric Guru LLC",
+  "trade": "Electrical",
+  "city": "Laveen",
+  "domain": "electricgurullc.com"
+ },
+ {
+  "id": "C2802",
+  "name": "Torres Electrical Services LLC",
+  "trade": "Electrical",
+  "city": "Maricopa",
+  "domain": null
+ },
+ {
+  "id": "C2803",
+  "name": "Wynne Electric",
+  "trade": "Electrical",
+  "city": "Maricopa",
+  "domain": null
+ },
+ {
+  "id": "C2804",
+  "name": "HTWT Electric",
+  "trade": "Electrical",
+  "city": "Bullhead City",
+  "domain": null
+ },
+ {
+  "id": "C2805",
+  "name": "Myers Electric",
+  "trade": "Electrical",
+  "city": "Bullhead City",
+  "domain": null
+ },
+ {
+  "id": "C2806",
+  "name": "Norris Electric",
+  "trade": "Electrical",
+  "city": "Bullhead City",
+  "domain": null
+ },
+ {
+  "id": "C2807",
+  "name": "Tristate Workforce",
+  "trade": "Electrical",
+  "city": "Bullhead City",
+  "domain": "tristateworkforce.us"
+ },
+ {
+  "id": "C2808",
+  "name": "Mecca Electric",
+  "trade": "Electrical",
+  "city": "Bullhead City",
+  "domain": null
+ },
+ {
+  "id": "C2809",
+  "name": "Robinson Electric",
+  "trade": "Electrical",
+  "city": "Bullhead City",
+  "domain": "robinsonelectriccompany.com"
+ },
+ {
+  "id": "C2810",
+  "name": "Vegas Electrical Supply Co",
+  "trade": "Electrical",
+  "city": "Bullhead City",
+  "domain": "vesbullheadcity.portalced.com"
+ },
+ {
+  "id": "C2811",
+  "name": "Tristan Scudder Electrical Services",
+  "trade": "Electrical",
+  "city": "Sierra Vista",
+  "domain": null
+ },
+ {
+  "id": "C2812",
+  "name": "Barataria Electric",
+  "trade": "Electrical",
+  "city": "Sierra Vista",
+  "domain": "usmapiz.org"
+ },
+ {
+  "id": "C2813",
+  "name": "Silvics Electrical",
+  "trade": "Electrical",
+  "city": "Sierra Vista",
+  "domain": "silvicselectricalllc.com"
+ },
+ {
+  "id": "C2814",
+  "name": "Castro Electric",
+  "trade": "Electrical",
+  "city": "Sierra Vista",
+  "domain": null
+ },
+ {
+  "id": "C2815",
+  "name": "Scudder Electric",
+  "trade": "Electrical",
+  "city": "Sierra Vista",
+  "domain": null
+ },
+ {
+  "id": "C2816",
+  "name": "Tim's Electric LLC",
+  "trade": "Electrical",
+  "city": "Sierra Vista",
+  "domain": "timselectricllc.net"
+ },
+ {
+  "id": "C2817",
+  "name": "Keith Pember Electric LLC",
+  "trade": "Electrical",
+  "city": "Show Low",
+  "domain": null
+ }
+]
