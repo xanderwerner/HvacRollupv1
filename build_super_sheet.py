@@ -188,8 +188,13 @@ def main():
         except Exception as e:
             print("retry open", attempt, str(e)[:80]); time.sleep(8 * (attempt + 1))
     ws = sh.worksheet("Super Enrichment")
+    # Clear the full old data range first -- a plain update() into a smaller range than
+    # the sheet's existing data leaves stale rows below the new data (bit twice now).
+    existing_row_count = len(ws.get_all_values())
+    if existing_row_count > 1:
+        ws.batch_clear([f"A2:AD{existing_row_count}"])
     ws.update(values=out_rows, range_name="A2", value_input_option="USER_ENTERED")
-    print(f"pushed {len(out_rows)} rows to Super Enrichment")
+    print(f"pushed {len(out_rows)} rows to Super Enrichment (cleared old range through row {existing_row_count} first)")
 
 
 if __name__ == "__main__":
