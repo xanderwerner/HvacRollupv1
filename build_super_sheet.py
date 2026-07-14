@@ -167,6 +167,19 @@ def main():
 
     print("merge stats:", stats)
 
+    # Segregate flagged rows to the bottom (Xander 2026-07-13): a row is "flagged" if it
+    # has a franchise/ROC/QP/etc. flag, an owner conflict, or no owner found at all.
+    # Stable sort preserves relative order within each group. This must live here (not
+    # as a one-off reorder of the sheet) since every rerun rewrites the sheet in master
+    # row order otherwise, silently undoing any manual reorder.
+    def is_flagged(row):
+        owner_conf, flags_str = row[13], row[29]
+        return bool(flags_str) or owner_conf == "NONE FOUND" or owner_conf.startswith("CONFLICT")
+
+    out_rows.sort(key=is_flagged)
+    flagged_count = sum(1 for r in out_rows if is_flagged(r))
+    print(f"segregated: {len(out_rows) - flagged_count} clean rows on top, {flagged_count} flagged rows at bottom")
+
     sa = gspread.service_account(filename=str(Path.home() / "dev/hvac-lead-sourcing/service_account.json"))
     for attempt in range(5):
         try:
