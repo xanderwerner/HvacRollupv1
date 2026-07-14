@@ -1,0 +1,821 @@
+[
+ {
+  "place_id": "ChIJmxYFXxwFZC0RFxpZ4JybkXI",
+  "name": "Ignite Electric LLC",
+  "city": "Phoenix",
+  "address": "7820 E Evans Rd, Scottsdale, AZ 85260, USA",
+  "rating": 5,
+  "reviews": 862,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJHemvlCO9zkgRSPJFwFK55yc",
+  "name": "Gideon Electric",
+  "city": "Phoenix",
+  "address": "2942 N 24th St #201, Phoenix, AZ 85016, USA",
+  "rating": 5,
+  "reviews": 203,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJidIetGCebG8Ry3AAcRE6Vgk",
+  "name": "Trend Electric",
+  "city": "Phoenix",
+  "address": "4117 E Molly Ln, Cave Creek, AZ 85331, USA",
+  "rating": 5,
+  "reviews": 78,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJPcgwp_ltK4cRSCA5F6OTwAc",
+  "name": "GA Electrical llc",
+  "city": "Phoenix",
+  "address": "3625 West Myrtle Ave, Phoenix, AZ 85051, USA",
+  "rating": 4.8,
+  "reviews": 65,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJ5ZZUzdMLK4cRaEs8WMpQE6w",
+  "name": "Simple Electric",
+  "city": "Phoenix",
+  "address": "1201 E Weldon Ave, Phoenix, AZ 85014, USA",
+  "rating": 4.9,
+  "reviews": 597,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJkcvh8Uzh7o4RkDuZweL8GtI",
+  "name": "US Electrical Services",
+  "city": "Phoenix",
+  "address": "4405 E Hubbell St Unit 56, Phoenix, AZ 85008, USA",
+  "rating": 5,
+  "reviews": 15,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJHUB-n-Ru1oYRMOmxVD3-Ids",
+  "name": "Sharp Electric LLC",
+  "city": "Tucson",
+  "address": "7040 N Mona Lisa Rd, Tucson, AZ 85741, USA",
+  "rating": 4.5,
+  "reviews": 114,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJR6ZnX01v1oYRVHuFgLClCCY",
+  "name": "Lytle Electric",
+  "city": "Tucson",
+  "address": "540 N Camino Del Codorniz, Tucson, AZ 85748, USA",
+  "rating": 4.8,
+  "reviews": 97,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJ5fBmEBOoK4cRBM4q5vQGsCY",
+  "name": "RSB Electrical Inc",
+  "city": "Mesa",
+  "address": "1826 W Broadway Rd #44, Mesa, AZ 85202, USA",
+  "rating": 4.4,
+  "reviews": 99,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJ8b_pgZmoK4cR5UgutK4kANM",
+  "name": "NES Electrical Services",
+  "city": "Mesa",
+  "address": "659 S Oracle, Mesa, AZ 85204, USA",
+  "rating": 5,
+  "reviews": 473,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJt7gGT0inK4cRCap6fjhAG-8",
+  "name": "Javier's Quick Electricians",
+  "city": "Mesa",
+  "address": "426 N Drew St #25D, Mesa, AZ 85201, USA",
+  "rating": 4.8,
+  "reviews": 149,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJH88NbXJ3ekoRT9RqUk0wpcg",
+  "name": "Foquito Electric",
+  "city": "Mesa",
+  "address": "Country Club & Southern, S Country Club Dr, Mesa, AZ 85210, USA",
+  "rating": 5,
+  "reviews": 36,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJ0ZsojCQNK4cReHOtLjn1idU",
+  "name": "T&K Electric Company",
+  "city": "Mesa",
+  "address": "Val Vista Crossings, 3707 E Southern Ave 1031 Floor 1, Mesa, AZ 85206, USA",
+  "rating": 4.8,
+  "reviews": 332,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJCyY6-kDmiCMRfpFOG92Xq9o",
+  "name": "Javi Electric",
+  "city": "Mesa",
+  "address": "310 N 26th St, Mesa, AZ 85213, USA",
+  "rating": 5,
+  "reviews": 33,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJ2yozvdvSSmQRSwd6mdNvdMI",
+  "name": "JLM Electric LLC AZ ROC# 361095 - Classification CR11",
+  "city": "Gilbert",
+  "address": "3556 E Powell Way, Gilbert, AZ 85298, USA",
+  "rating": 5,
+  "reviews": 27,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJdR_1OOl1K4cROY1LzWIEnE4",
+  "name": "ID ELECTRIC LLC",
+  "city": "Scottsdale",
+  "address": "10888 N 70th St, Scottsdale, AZ 85254, USA",
+  "rating": 5,
+  "reviews": 17,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJ29oyIo1zK4cR_dJ4YGv9DZY",
+  "name": "EliteElectro Electric Contractors",
+  "city": "Scottsdale",
+  "address": "16801 N 49th St Fl 3, Scottsdale, AZ 85254, USA",
+  "rating": 5,
+  "reviews": 12,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJVVXldbB1K4cRRUTaNooKU7A",
+  "name": "PowerPro Electricians",
+  "city": "Scottsdale",
+  "address": "9375 E Shea Blvd #112, Scottsdale, AZ 85260, USA",
+  "rating": 5,
+  "reviews": 12,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJuagik8N1K4cRfxH12bplNII",
+  "name": "QuickCall Electric Co",
+  "city": "Scottsdale",
+  "address": "15608 N Pima Rd, Scottsdale, AZ 85260, USA",
+  "rating": 4.6,
+  "reviews": 15,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJMTQNkxRpK4cRbUyBztm1OmI",
+  "name": "Bill's Superior Electric Inc.",
+  "city": "Peoria",
+  "address": "8251 W Thunderbird Rd, Peoria, AZ 85381, USA",
+  "rating": 5,
+  "reviews": 22,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJia4ov2BiK4cRXvz1qFFxlD4",
+  "name": "Temple Electric Inc",
+  "city": "Peoria",
+  "address": "9809 W Sydney Way, Peoria, AZ 85383, USA",
+  "rating": 4.9,
+  "reviews": 77,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJ1SK7FzsJK4cRCWjeE_n90nY",
+  "name": "Electrical Contracting Services",
+  "city": "Tempe",
+  "address": "422 E Barbara Dr, Tempe, AZ 85288, USA",
+  "rating": 5,
+  "reviews": 5,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJF95B9XMPK4cRw1Jqg43_hb0",
+  "name": "Bjelde Electric",
+  "city": "Tempe",
+  "address": "415 S 48th St Unit.111, Tempe, AZ 85281, USA",
+  "rating": 4.7,
+  "reviews": 33,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJv21ndHJDK4cRWiTuVefEpTI",
+  "name": "CID Electrical Arizona LLC",
+  "city": "Surprise",
+  "address": "16045 N Hollyhock St, Surprise, AZ 85378, USA",
+  "rating": 4.8,
+  "reviews": 4,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJ2ZUid19FK4cRDRRb2HFwKN4",
+  "name": "J & M Repairs",
+  "city": "Surprise",
+  "address": "14955 W Bell Rd #7904, Surprise, AZ 85374, USA",
+  "rating": 5,
+  "reviews": 25,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJtZ_b34aRwokRTq0dRgKaW0E",
+  "name": "Brylee Electric Inc",
+  "city": "Surprise",
+  "address": "13847 W Camino Del Sol, Sun City West, AZ 85375, USA",
+  "rating": 5,
+  "reviews": 13,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJGTEYiXGz2YgRM-dVKUH9c8s",
+  "name": "Jake's Electric Inc",
+  "city": "Surprise",
+  "address": "12310 W Berry Ln, El Mirage, AZ 85335, USA",
+  "rating": 4.5,
+  "reviews": 17,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJef7Ak6bF5YgR1A9mvLUeBtI",
+  "name": "Kad Electric Co",
+  "city": "Surprise",
+  "address": "16800 N Dysart Rd, Surprise, AZ 85378, USA",
+  "rating": 5,
+  "reviews": 3,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJ_-uDZzDz0YAR-Sef0Vgllcg",
+  "name": "Morgan Electric",
+  "city": "Lake Havasu City",
+  "address": "3181 Maricopa Ave, Lake Havasu City, AZ 86406, USA",
+  "rating": 4.6,
+  "reviews": 32,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJNe9qwvfy0YARLB0BbEG7Wi8",
+  "name": "#1 Arizona Electric",
+  "city": "Lake Havasu City",
+  "address": "2100 College Dr Unit 120, Lake Havasu City, AZ 86403, USA",
+  "rating": 4.9,
+  "reviews": 42,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJNYqnuvHx0YAR5yPu9nGfeto",
+  "name": "KS ELECTRIC",
+  "city": "Lake Havasu City",
+  "address": "1392 Bentley Blvd, Lake Havasu City, AZ 86404, USA",
+  "rating": 5,
+  "reviews": 4,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJ2dULzMKBxg0R2E0P4ozS_Mk",
+  "name": "Manco services",
+  "city": "Lake Havasu City",
+  "address": "2286 Huntington Dr, Lake Havasu City, AZ 86403, USA",
+  "rating": 4.7,
+  "reviews": 17,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJ5X4cHs5UKocRyOHBUdBx4bU",
+  "name": "Rabago Electric LLC",
+  "city": "Chandler",
+  "address": "24440 S. 122nd St, Chandler, AZ 85249, USA",
+  "rating": 4.9,
+  "reviews": 215,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJqaqFYCqPLYcRNzVAnWloMZM",
+  "name": "Kirby Electric LLC",
+  "city": "Flagstaff",
+  "address": "3320 N King St, Flagstaff, AZ 86004, USA",
+  "rating": 4.7,
+  "reviews": 12,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJQUTBCdmOLYcR-pNqSYuC-Yw",
+  "name": "RP ELECTRIC LLC",
+  "city": "Flagstaff",
+  "address": "E 3rd Ave, Flagstaff, AZ 86004, USA",
+  "rating": 3.7,
+  "reviews": 3,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJz09W-rStK4cR266eYygRxgU",
+  "name": "Scheid Electric",
+  "city": "Queen Creek",
+  "address": "22180 S Scotland Ct Ste 111, Queen Creek, AZ 85142, USA",
+  "rating": 5,
+  "reviews": 745,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJgVLnmzReQwgRTKZi4kzxehA",
+  "name": "Q Electrical Services",
+  "city": "Queen Creek",
+  "address": "270 E Hunt Hwy #16-313, San Tan Valley, AZ 85143, USA",
+  "rating": 5,
+  "reviews": 19,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJ5QJYjGlf1oARkmjKJKnCuNc",
+  "name": "D & H Electric",
+  "city": "Yuma",
+  "address": "2333 E Palo Verde St, Yuma, AZ 85365, USA",
+  "rating": 4.9,
+  "reviews": 516,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJqamcMQb21oARm1ewAC1tFEY",
+  "name": "Royal Electric",
+  "city": "Yuma",
+  "address": "311 W 17th Pl, Yuma, AZ 85364, USA",
+  "rating": 4.9,
+  "reviews": 56,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJfYeUw19N0GgRDT86jWSJb8s",
+  "name": "Jays Electrik LLC",
+  "city": "Yuma",
+  "address": "616 E 18th St, Yuma, AZ 85364, USA",
+  "rating": 4.9,
+  "reviews": 49,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJe87AnQlf1oARh6YNTpomfg8",
+  "name": "O & M Electrical Services, Inc.",
+  "city": "Yuma",
+  "address": "983 S 3rd Ave, Yuma, AZ 85364, USA",
+  "rating": 5,
+  "reviews": 4,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJ_xIQpPf11oARFhtm_nrUG8U",
+  "name": "Westmoor Electric Inc.",
+  "city": "Yuma",
+  "address": "1636 E 20th St, Yuma, AZ 85365, USA",
+  "rating": 5,
+  "reviews": 1,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJj40Ka_z11oARev6Wwv1pUMQ",
+  "name": "Consolidated Electrical Distributors",
+  "city": "Yuma",
+  "address": "649 E 18th Pl, Yuma, AZ 85365, USA",
+  "rating": 4.4,
+  "reviews": 20,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJE0ufQHgnLYcRlz8kad7i6wk",
+  "name": "Jameson Electric LLC",
+  "city": "Prescott Valley",
+  "address": "2807 N Date Creek Dr, Prescott Valley, AZ 86314, USA",
+  "rating": 4.9,
+  "reviews": 166,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJU5RepbnGmoARubpLA3HBIe0",
+  "name": "Kage Electric",
+  "city": "Prescott Valley",
+  "address": "270 S Dewey Rd, Dewey, AZ 86327, USA",
+  "rating": 4.9,
+  "reviews": 69,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJcRstXRwvLYcR1tC-MEgRpWM",
+  "name": "S & M Electric",
+  "city": "Prescott Valley",
+  "address": "3 Kiji Dava Dr B, Prescott, AZ 86301, USA",
+  "rating": 5,
+  "reviews": 962,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJgxwx4JkjLYcRyduJKpnwK4o",
+  "name": "Adept Electrical Services",
+  "city": "Prescott Valley",
+  "address": "5021 N Cattlemen Dr, Prescott Valley, AZ 86314, USA",
+  "rating": 4.9,
+  "reviews": 13,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJ2bpk7YVER2sRyLm7pEjyOHQ",
+  "name": "Sundog Electric LLC",
+  "city": "Prescott Valley",
+  "address": "7300 E Sunflower Ln, Prescott Valley, AZ 86314, USA",
+  "rating": 5,
+  "reviews": 17,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJ4V2dmsLRYoARuLt9WeNvQP0",
+  "name": "Bassett Electric LLC",
+  "city": "Prescott Valley",
+  "address": "6216 N Wildhorse Dr, Prescott Valley, AZ 86314, USA",
+  "rating": 5,
+  "reviews": 4,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJcQ8erqGVy0IRGNy3-GZgzkI",
+  "name": "Pat Electric LLC",
+  "city": "Prescott Valley",
+  "address": "7305 S Rigger Rd, Mayer, AZ 86333, USA",
+  "rating": 5,
+  "reviews": 5,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJxWOx0r4oLYcR1CF4u7JPUpc",
+  "name": "Cobb AZ Electric",
+  "city": "Prescott Valley",
+  "address": "317 Robinson Dr, Prescott, AZ 86303, USA",
+  "rating": 4.8,
+  "reviews": 52,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJ282w4GcpLYcRruWullKpTvY",
+  "name": "Strombex Electrical",
+  "city": "Prescott",
+  "address": "729 W Gurley St Ste c, Prescott, AZ 86305, USA",
+  "rating": 5,
+  "reviews": 14,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJF-VqwCopLYcROBUQ9UxB1Lc",
+  "name": "Lynx Electric Inc",
+  "city": "Prescott",
+  "address": "711 Brannen Ave, Prescott, AZ 86301, USA",
+  "rating": 5,
+  "reviews": 7,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJvQj1B-R1Q0sRHc1zeLIg4zU",
+  "name": "KM Electric",
+  "city": "Buckeye",
+  "address": "22082 W Papago St, Buckeye, AZ 85326, USA",
+  "rating": 5,
+  "reviews": 48,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJ-3W2wihIK4cRFU00tK5xmSw",
+  "name": "Oliver Electric LLC",
+  "city": "Buckeye",
+  "address": "18927 W Latham St, Buckeye, AZ 85326, USA",
+  "rating": 4.9,
+  "reviews": 41,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJIXGY6vc0K4cRnQRKQ4WlhYk",
+  "name": "Cr Electric",
+  "city": "Buckeye",
+  "address": "202 N Apache Rd, Buckeye, AZ 85326, USA",
+  "rating": 4.9,
+  "reviews": 30,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJVQrxSNo3K4cRyE_xY4dq6qQ",
+  "name": "Triton Electric LLC",
+  "city": "Buckeye",
+  "address": "428 S 194th Ln, Buckeye, AZ 85326, USA",
+  "rating": 5,
+  "reviews": 2,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJQ1Xr_UAPK4cRshZKp8KuQ80",
+  "name": "Strada Services",
+  "city": "Buckeye",
+  "address": "401 E Jackson Ave, Buckeye, AZ 85326, USA",
+  "rating": 2.7,
+  "reviews": 40,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJtbpePN9wzoARimBb6WxMpxY",
+  "name": "Select Electric, Llc",
+  "city": "Kingman",
+  "address": "3724 Mormon Flat Rd, Kingman, AZ 86413, USA",
+  "rating": 5,
+  "reviews": 14,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJCRsgq-_bzYARInXomTWAUs4",
+  "name": "Wise Electric, Inc",
+  "city": "Kingman",
+  "address": "1570 E Northern Ave, Kingman, AZ 86409, USA",
+  "rating": 5,
+  "reviews": 1,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJPxM8kZLbzYAR02vOPC_wvXY",
+  "name": "Romar Electric",
+  "city": "Kingman",
+  "address": "2361 E Northern Ave #1, Kingman, AZ 86409, USA",
+  "rating": 4.1,
+  "reviews": 17,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJg5a-F2rczYARNEdO3VeLKd4",
+  "name": "Consolidated Electrical Distribution",
+  "city": "Kingman",
+  "address": "2500 Airway Ave, Kingman, AZ 86409, USA",
+  "rating": 4.8,
+  "reviews": 22,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJVQM3DJxnKocRku3lhM2GKFU",
+  "name": "Jamie's Electricians",
+  "city": "Casa Grande",
+  "address": "1116 E Florence Blvd #5200, Casa Grande, AZ 85122, USA",
+  "rating": 4.6,
+  "reviews": 77,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJAUkpzRXitSoR38qx_-_3d5A",
+  "name": "RSC Services",
+  "city": "Casa Grande",
+  "address": "13866 W Jimmie Kerr Blvd, Casa Grande, AZ 85122, USA",
+  "rating": 5,
+  "reviews": 16,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJVVXZOBVcKocREvTC1G_BWeo",
+  "name": "Hubbard Electric LLC",
+  "city": "Casa Grande",
+  "address": "1501 N Amarillo St, Casa Grande, AZ 85122, USA",
+  "rating": 4.3,
+  "reviews": 11,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJoRLNBcpgKocRmp7A4iKYQOQ",
+  "name": "LEI Electrical",
+  "city": "Casa Grande",
+  "address": "816 W Gila Bend Hwy #B3, Casa Grande, AZ 85122, USA",
+  "rating": 4.3,
+  "reviews": 6,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJl8VDHYBeKocRkclPsuQ-3aw",
+  "name": "CED Casa Grande - Consolidated Electrical Distributors",
+  "city": "Casa Grande",
+  "address": "3063 N Rockwell Ave, Casa Grande, AZ 85122, USA",
+  "rating": 4.7,
+  "reviews": 25,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJ-TRnxJw4K4cRu0JzzkOEAGY",
+  "name": "BECKHAM ELECTRIC, LLC,",
+  "city": "Goodyear",
+  "address": "14345 W Alvarado Dr, Goodyear, AZ 85395, USA",
+  "rating": 4.5,
+  "reviews": 11,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJZ7tuIcJBK4cR4xxB4EGycZs",
+  "name": "Excellence Electrical Contracting",
+  "city": "Goodyear",
+  "address": "2760 S La Luna, Goodyear, AZ 85338, USA",
+  "rating": 5,
+  "reviews": 2,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJG1dnS5RFK4cRrbpjfqYsfMQ",
+  "name": "Tymeson Electric",
+  "city": "Goodyear",
+  "address": "15981W W Washington St, Goodyear, AZ 85338, USA",
+  "rating": 5,
+  "reviews": 4,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJVVidBI83K4cRoEW3jnQ7sd4",
+  "name": "Electricians Near You",
+  "city": "Goodyear",
+  "address": "17541 Pima St, Goodyear, AZ 85338, USA",
+  "rating": 3,
+  "reviews": 2,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJrWc2jEbF5YgRLAGLyO3wP4o",
+  "name": "Alligood Electric Co Inc",
+  "city": "Avondale",
+  "address": "11650 W Whyman Ave, Avondale, AZ 85323, USA",
+  "rating": 5,
+  "reviews": 10,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJq1OMjGRxK4cR2Q7Vmp-jtw4",
+  "name": "C J Electric",
+  "city": "Laveen",
+  "address": "4423 E Aire Libre Ave, Phoenix, AZ 85032, USA",
+  "rating": 5,
+  "reviews": 4,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJ735103dyK4cRpa0sdtT3XcE",
+  "name": "AJP Electric Inc",
+  "city": "Laveen",
+  "address": "11250 N Cave Creek Rd, Phoenix, AZ 85020, USA",
+  "rating": 4.5,
+  "reviews": 12,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJUa9Az9nSgQQRrKLvqgt7gdo",
+  "name": "The Electric Guru LLC",
+  "city": "Laveen",
+  "address": "13035 N 18th Pl, Phoenix, AZ 85022, USA",
+  "rating": 5,
+  "reviews": 3,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJiVB4cilTyWMRPU49mo2rPlM",
+  "name": "Torres Electrical Services LLC",
+  "city": "Maricopa",
+  "address": "45373 W Norris Rd, Maricopa, AZ 85139, USA",
+  "rating": 4.9,
+  "reviews": 177,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJgysoUYrlKocRkztgVcl6zXM",
+  "name": "Wynne Electric",
+  "city": "Maricopa",
+  "address": "45102 W Edwards Cir, Maricopa, AZ 85139, USA",
+  "rating": 5,
+  "reviews": 5,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJfRJQrz0_zoARc4yE79FqH_4",
+  "name": "HTWT Electric",
+  "city": "Bullhead City",
+  "address": "5010 AZ-95, Fort Mohave, AZ 86426, USA",
+  "rating": 4.8,
+  "reviews": 14,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJhxrmVMxpzoAR8Ei7UqaIfjA",
+  "name": "Myers Electric",
+  "city": "Bullhead City",
+  "address": "860 Yucca St, Bullhead City, AZ 86429, USA",
+  "rating": 4,
+  "reviews": 5,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJndAwZFFBzoARFYpdbnCpIVM",
+  "name": "Norris Electric",
+  "city": "Bullhead City",
+  "address": "1660 Lakeside Dr #137, Bullhead City, AZ 86442, USA",
+  "rating": 4,
+  "reviews": 1,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJ6ZzkOj9BzoARxnU_wWC7od0",
+  "name": "Tristate Workforce",
+  "city": "Bullhead City",
+  "address": "1595 Clover Ln, Bullhead City, AZ 86442, USA",
+  "rating": 5,
+  "reviews": 5,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJh06DeEpCzoARJDRsD_gZ3jY",
+  "name": "Mecca Electric",
+  "city": "Bullhead City",
+  "address": "Bullhead City, AZ 86429, USA",
+  "rating": 2,
+  "reviews": 1,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJKYe7ufVDzoARrsgr9ijp6HY",
+  "name": "Robinson Electric",
+  "city": "Bullhead City",
+  "address": "1667 Cal Edison Dr, Laughlin, NV 89029, USA",
+  "rating": 3,
+  "reviews": 6,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJIynYtjVCzoARUHWfS2DuHcs",
+  "name": "Vegas Electrical Supply Co",
+  "city": "Bullhead City",
+  "address": "375 Lee Ave, Bullhead City, AZ 86429, USA",
+  "rating": 4.7,
+  "reviews": 19,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJD6c-M5sp14YRXdeN19stdL0",
+  "name": "Tristan Scudder Electrical Services",
+  "city": "Sierra Vista",
+  "address": "5154 Camino Del Norte, Sierra Vista, AZ 85635, USA",
+  "rating": 4.4,
+  "reviews": 67,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJTTiV-HQt14YRI0OFkA720ew",
+  "name": "Barataria Electric",
+  "city": "Sierra Vista",
+  "address": "8922 E McCrum Ln, Sierra Vista, AZ 85650, USA",
+  "rating": 5,
+  "reviews": 22,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJuabXvE-30IYRnuk8lzr59V8",
+  "name": "Silvics Electrical",
+  "city": "Sierra Vista",
+  "address": "2011 W Newell St, Naco, AZ 85620, USA",
+  "rating": 5,
+  "reviews": 16,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJ6_pqGOgu14YRFLcME8_8FFY",
+  "name": "Castro Electric",
+  "city": "Sierra Vista",
+  "address": "72 N 10 Pond Pl, Sierra Vista, AZ 85635, USA",
+  "rating": 4.3,
+  "reviews": 3,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJezTfwjEp14YRf9NfhBb5d3o",
+  "name": "Scudder Electric",
+  "city": "Sierra Vista",
+  "address": "1936 Paseo De La Luna APT 16, Sierra Vista, AZ 85635, USA",
+  "rating": 5,
+  "reviews": 1,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJ7XVMs-Vt14YRS8tq2rwWAY8",
+  "name": "Tim's Electric LLC",
+  "city": "Sierra Vista",
+  "address": "402 E Papago Way, Cochise, AZ 85606, USA",
+  "rating": 4.6,
+  "reviews": 8,
+  "business_status": "OPERATIONAL"
+ },
+ {
+  "place_id": "ChIJ_____-skL4cRfi1hnMmUHfA",
+  "name": "Keith Pember Electric LLC",
+  "city": "Show Low",
+  "address": "750 South Taylor Farms Dr, Taylor, AZ 85939, USA",
+  "rating": 5,
+  "reviews": 10,
+  "business_status": "OPERATIONAL"
+ }
+]
