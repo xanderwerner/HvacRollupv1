@@ -1,0 +1,100 @@
+[
+ {
+  "id": "C2623",
+  "name": "Hawkins Electric Inc",
+  "employees": 110,
+  "city": "Marana",
+  "website": ""
+ },
+ {
+  "id": "C2645",
+  "name": "Interface Electric Inc",
+  "employees": 110,
+  "city": "Mesa",
+  "website": ""
+ },
+ {
+  "id": "C2586",
+  "name": "Rural Electric Inc",
+  "employees": 109,
+  "city": "Mesa",
+  "website": ""
+ },
+ {
+  "id": "C1947",
+  "name": "Active Power Solutions LLC",
+  "employees": 98,
+  "city": "Mesa (Maricopa)",
+  "website": ""
+ },
+ {
+  "id": "C626",
+  "name": "Central Arizona Supply",
+  "employees": 91,
+  "city": "Payson",
+  "website": "https://centralazsupply.com/"
+ },
+ {
+  "id": "C2704",
+  "name": "Robco Electric Inc",
+  "employees": 90,
+  "city": "Phoenix",
+  "website": ""
+ },
+ {
+  "id": "C2612",
+  "name": "Echo Canyon Electric, Inc",
+  "employees": 85,
+  "city": "Phoenix",
+  "website": ""
+ },
+ {
+  "id": "C2132",
+  "name": "DSM Electric, LLC",
+  "employees": 83,
+  "city": "Gilbert",
+  "website": ""
+ },
+ {
+  "id": "C1014",
+  "name": "Nissan Electric",
+  "employees": 82,
+  "city": "Peoria",
+  "website": ""
+ },
+ {
+  "id": "C2399",
+  "name": "Austin Electric Services LLC (FN)",
+  "employees": 79,
+  "city": "Glendale",
+  "website": ""
+ },
+ {
+  "id": "C2435",
+  "name": "Eco Electric LLC",
+  "employees": 79,
+  "city": "Phoenix",
+  "website": ""
+ },
+ {
+  "id": "C2535",
+  "name": "Mohave Electric Inc.",
+  "employees": 79,
+  "city": "Lake Havasu City",
+  "website": ""
+ },
+ {
+  "id": "C2163",
+  "name": "Electric Shuffle LLC",
+  "employees": 76,
+  "city": "Sedona",
+  "website": ""
+ },
+ {
+  "id": "C1749",
+  "name": "Tekline Electrical Services LLC",
+  "employees": 74,
+  "city": "Chandler",
+  "website": ""
+ }
+]

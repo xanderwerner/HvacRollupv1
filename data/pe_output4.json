@@ -1,0 +1,128 @@
+[
+ {
+  "id": "C2156",
+  "company_name": "Elevation Electric & Auto LLC",
+  "ownership_type": "unclear",
+  "parent_or_brand": "",
+  "confidence": "low",
+  "source": "Automated flag likely a false positive: the only 'Elevation' PE-backed company found via web search is a Chandler, AZ residential solar/energy company (backed by Bernhard Capital Partners, president Jordan Kilgore) with no auto-electric line of business and no name match to 'Elevation Electric & Auto LLC'. Could not locate the actual Gilbert company's ownership info via ROC lookup, BBB, or general search.",
+  "worth_zoominfo_followup": true
+ },
+ {
+  "id": "C1977",
+  "company_name": "Volts By Dilts LLC",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "",
+  "confidence": "high",
+  "source": "Small local electrician founded 2022, owned/operated by Chris Dilts (per LinkedIn, BBB, Yelp listings). No franchise or corporate signals.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C192",
+  "company_name": "Rite Way Heating, Cooling & Plumbing",
+  "ownership_type": "PE-backed",
+  "parent_or_brand": "Redwood Services (portfolio company of Union Main Capital)",
+  "confidence": "high",
+  "source": "Confirmed via BusinessWire, Yahoo Finance, and Tucson.com news articles: Redwood Services acquired Rite Way in Jan 2021; Redwood Services is a portfolio company of Union Main, a PE firm. Revenue grew from $30M to ~$70M under ownership; president Rick Walter retained a stake and continues operating under the Rite Way name.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C1603",
+  "company_name": "SKYLINE ELECTRICAL SERVICES LLC",
+  "ownership_type": "unclear",
+  "parent_or_brand": "",
+  "confidence": "low",
+  "source": "Likely false-positive franchise flag: 'Skyline Electric' (skyline.us), a privately-held industrial/commercial contractor est. 1959 with offices in Salt Lake City UT and Tempe AZ, is a DIFFERENT company with a different name/license than 'Skyline Electrical Services LLC' (Prescott Valley, license #356250). No ownership info found for the actual Prescott Valley entity itself.",
+  "worth_zoominfo_followup": true
+ },
+ {
+  "id": "C2577",
+  "company_name": "Cactus Wren Electric Inc",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "",
+  "confidence": "medium",
+  "source": "Incorporated 1998 in Tucson, director listed as Jose Antonio Ramirez (per D&B/Blue Book). No PE, franchise, or corporate-parent signals found in any source.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C2050",
+  "company_name": "Cannon & Wendt Electric Co Inc",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "Employee Stock Ownership Plan (100% employee-owned)",
+  "confidence": "high",
+  "source": "Company's own site (cannon-wendt.com) and ESOP Association records confirm founder Albert Wendt sold the company to employees via ESOP in 2006; 100% employee-owned since. Not PE, not a corporate subsidiary. Also acquired Tucson's Gilbert Electric in 2023 (acquirer, not acquiree).",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C2476",
+  "company_name": "BPG Electric, LLC",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "",
+  "confidence": "high",
+  "source": "Founded March 2000 by Ben Goddard, who still leads the company (per onebpg.com and Blue Book listings). No PE or franchise signals; operates as BPG/BPG Designs across AZ, CA, NV.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C2003",
+  "company_name": "Hampton Tedder Electric Co Inc",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "",
+  "confidence": "high",
+  "source": "Company's own 'About Us' page confirms family-owned and operated since founding in 1958; became a certified Woman-Owned Business in 2008 under President Christine Tedder, who grew it from 20 to 500+ employees. No PE or corporate parent found.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C1942",
+  "company_name": "NERD Power Az LLC",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "",
+  "confidence": "medium",
+  "source": "Renewable energy/solar and electrical contractor with offices in AZ, CA, TX, NM, UT (nerdpower.us). No acquisition, PE, or franchise news found, but multi-state scale means confirmation is less certain than for a purely local shop.",
+  "worth_zoominfo_followup": true
+ },
+ {
+  "id": "C1307",
+  "company_name": "Kowalski Electrical",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "Kowalski Construction Inc",
+  "confidence": "medium",
+  "source": "Electrical division operates under Kowalski Construction Inc, a Phoenix restoration/construction firm founded 1967 and owned by the Kowalski family (James and Steven Kowalski); electrical operations fronted by licensee Gil Chasse per AZ ROC records. No PE or external corporate ownership found.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C1666",
+  "company_name": "Spectra Electrical Services Inc",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "",
+  "confidence": "high",
+  "source": "Company's own site (spectra-electrical.com) states it was founded in 2001 and is 'Arizona's #1 ranked electrical contractor' with 150+ employees; no PE, franchise, or acquisition signals found.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C2699",
+  "company_name": "New Electric Inc",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "",
+  "confidence": "high",
+  "source": "Company's own 'About Us' page (newelectricaz.com) states it was founded in early 2007 by founders with 70+ combined years of experience; no PE or corporate parent signals.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C203",
+  "company_name": "ACE Home Services",
+  "ownership_type": "PE-backed",
+  "parent_or_brand": "Apex Service Partners (backed by Alpine Investors, with minority investment from Apollo Funds and Partners Group)",
+  "confidence": "high",
+  "source": "PitchBook company profile and industry reporting confirm ACE Home Services was acquired by Apex Service Partners on May 9, 2022. Apex is the largest residential HVAC/plumbing/electrical roll-up in the US (107+ brands), majority-owned by Alpine Investors, with Apollo Funds and Partners Group as additional investors per 2026 BusinessWire/Apollo press releases.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C2026",
+  "company_name": "ICKLER ELECTRIC CORPORATION",
+  "ownership_type": "unclear",
+  "parent_or_brand": "",
+  "confidence": "low",
+  "source": "Company site (icklerelectric.com) describes itself as 'led by an electrical engineer' with 35+ years of experience and multiple regional offices (Phoenix, Lake Havasu City), suggesting independent ownership, but no explicit ownership statement, acquisition news, or PE/franchise signal was found either way. Crunchbase profile exists but was inaccessible (403).",
+  "worth_zoominfo_followup": true
+ }
+]

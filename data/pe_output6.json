@@ -1,0 +1,128 @@
+[
+ {
+  "id": "C1071",
+  "company_name": "H.G.Electric",
+  "ownership_type": "unclear",
+  "parent_or_brand": "",
+  "confidence": "low",
+  "source": "No company website, ROC listing, or business profile found under this name in San Tan Valley, AZ despite multiple search variations (H.G. Electric, HG Electric)",
+  "worth_zoominfo_followup": true
+ },
+ {
+  "id": "C1683",
+  "company_name": "Arizona Electrical Apparatus Inc",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "",
+  "confidence": "medium",
+  "source": "RocketReach lists as privately held, founded 1996, ~$18.5M revenue; company's own website has no ownership/parent mentions; no franchise, PE, or acquisition signals found anywhere",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C1953",
+  "company_name": "Icon Power LLC",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "",
+  "confidence": "medium",
+  "source": "CEO Jake Bastian; company grew organically (Inc. 5000, #146 nationally, 5th fastest-growing in AZ), no PE/acquisition news found. NOTE: this is a residential/commercial SOLAR installation company, not HVAC/plumbing/electrical service work - likely out of scope for this roll-up regardless of ownership",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C2644",
+  "company_name": "Hayden Electric Inc",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "",
+  "confidence": "high",
+  "source": "Company's own About Us page states it is 'locally owned and operated,' established 1988, generations of family experience",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C2701",
+  "company_name": "Bates and Hook Electric Inc",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "",
+  "confidence": "high",
+  "source": "Owners Chris Bates (Owner/Director) and Debrah Bates (Director) confirmed via LinkedIn, BuildZoom, and city business directory; ~10 years in business",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C2527",
+  "company_name": "Delta Wye Electric, Inc.",
+  "ownership_type": "corporate-owned (not PE)",
+  "parent_or_brand": "Delta Wye Electric Inc (HQ Anaheim, CA)",
+  "confidence": "high",
+  "source": "Company's own site page 'Delta Wye Electric Expands to Arizona' confirms the Tempe office is a branch/expansion of the California-headquartered firm (founded 1980 by Carl Kasalek, family-owned overall); the AZ location is not a standalone independently-owned business",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C1871",
+  "company_name": "J. F. Edwards Construction Company",
+  "ownership_type": "corporate-owned (not PE)",
+  "parent_or_brand": "Visabeira Group (Portugal)",
+  "confidence": "high",
+  "source": "JFECC's own website and industry coverage confirm the company (founded 1947 in Geneseo, IL) was acquired by the Visabeira Group in 2021. IMPORTANT DATA QUALITY FLAG: this record's city is listed as 'Geneseo' (Illinois, not Arizona), and JFECC is a wind/solar/high-voltage electrical construction firm, not an AZ HVAC/plumbing/electrical service business - this looks like a mismatched entry, likely not a genuine AZ roll-up target",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C040",
+  "company_name": "Smith Plumbing, Heating and Cooling",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "",
+  "confidence": "high",
+  "source": "Company's own site describes itself as family-owned and operated, serving the Phoenix East Valley for 53+ years; no PE or acquisition signal found",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C206",
+  "company_name": "Collins Comfort Masters",
+  "ownership_type": "PE-backed",
+  "parent_or_brand": "Wrench Group (majority owner: Leonard Green & Partners)",
+  "confidence": "high",
+  "source": "Wrench Group press release confirms acquisition of Collins Comfort Masters (Gilbert/Phoenix, AZ) on Oct 6, 2020, its 6th acquisition that year; Wrench Group has been majority-owned by PE firm Leonard Green & Partners since a Dec 2019 deal (Investcorp sold its stake), with TSG Consumer Partners and Oak Hill Capital taking a minority stake in Nov 2022",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C1494",
+  "company_name": "John Bishop Electric",
+  "ownership_type": "unclear",
+  "parent_or_brand": "",
+  "confidence": "low",
+  "source": "No company website, ROC listing, or business profile found under this exact name in Chandler, AZ (search surfaced only unrelated individuals named John/Joe Bishop and a different company, Bishop Electric)",
+  "worth_zoominfo_followup": true
+ },
+ {
+  "id": "C2333",
+  "company_name": "Diaz B Electric LLC",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "",
+  "confidence": "high",
+  "source": "BuildZoom lists Roberto Diaz as the operator/owner; small family-operated electrical contractor in San Luis, AZ with active AZ ROC license",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C2724",
+  "company_name": "ATS Electric, Inc.",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "",
+  "confidence": "high",
+  "source": "Multiple directories describe it as family owned and operated; managed by Robert Edward Sutton (President/CEO) and Beth Ellen Sutton (Treasurer); founded 2001, BBB accredited since 2007",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C049",
+  "company_name": "Reeis Air Conditioning, Plumbing & Electrical",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "",
+  "confidence": "medium",
+  "source": "Multiple sources (own site, BBB, Rosie on the House) describe as locally owned and operated since 2009; no acquisition/PE signal found",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C050",
+  "company_name": "Day & Night Air Conditioning, Heating, & Plumbing",
+  "ownership_type": "PE-backed",
+  "parent_or_brand": "Friendly Group (PE backers: RFE Investment Partners, ACE & Company)",
+  "confidence": "high",
+  "source": "PR Newswire press release (Jan 13, 2022) confirms Friendly Group acquired Day & Night, serving the Greater Phoenix area; Friendly Group is a PE-backed HVAC/plumbing/electrical consolidator backed by RFE Investment Partners and ACE & Company. Owner Jeff Martin continues to operate the business under the Day & Night brand in partnership with Friendly Group",
+  "worth_zoominfo_followup": false
+ }
+]

@@ -1,0 +1,128 @@
+[
+ {
+  "id": "C2623",
+  "company_name": "Hawkins Electric Inc",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "",
+  "confidence": "high",
+  "source": "BBB/BuildZoom listings show Denny Hawkins (President) and Stephanie Hawkins (VP) as owners; incorporated 2006; no franchise or PE signal. Other same-named 'Hawkins Electric' businesses found online (Tucson listing, hawkinselectric.com) appear to be unrelated separate small businesses, not a national chain.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C2645",
+  "company_name": "Interface Electric Inc",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "",
+  "confidence": "high",
+  "source": "Company site/BuildZoom: founded 1989, President Mike Pageler; no franchise/PE mentions found in web search.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C2586",
+  "company_name": "Rural Electric Inc",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "",
+  "confidence": "high",
+  "source": "Company's own materials describe it as 'family-owned and operated' since 1964, woman-owned small business; operates multi-state (AZ/NV/TX/CO/CA) but no acquisition, PE, or franchise signal found.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C1947",
+  "company_name": "Active Power Solutions LLC",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "",
+  "confidence": "medium",
+  "source": "BuildZoom/BBB describe it as a small full-service commercial electrical contractor; no PE/franchise mentions. Unrelated to the public company 'Active Power' (UPS/power equipment manufacturer) that shares a similar name.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C626",
+  "company_name": "Central Arizona Supply",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "",
+  "confidence": "high",
+  "source": "PHCP Pros and Tucson Lifestyle articles confirm it is a 4th-generation Smith family business (Jeremy, Brandon, Andrea Smith co-owners); it is itself the ACQUIRER of Benjamin Supply (2022), not an acquisition target.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C2704",
+  "company_name": "Robco Electric Inc",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "",
+  "confidence": "high",
+  "source": "Company's own website (robcoelectric.com) describes itself as 'a locally owned business' operating since 2002; no franchise/PE signal found.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C2612",
+  "company_name": "Echo Canyon Electric, Inc",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "",
+  "confidence": "high",
+  "source": "BuildZoom/D&B: founded 1987, ~$14.7M revenue, no PE/acquisition/franchise mentions found in web search.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C2132",
+  "company_name": "DSM Electric, LLC",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "",
+  "confidence": "medium",
+  "source": "BBB lists Sherman Powell as Owner/Operator of a small residential/light-commercial contractor. Several unrelated same-initial companies exist (DSM Electric Corp, DSM Arizona Inc, DSM Network LLC) but none appear connected to this entity.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C1014",
+  "company_name": "Nissan Electric",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "",
+  "confidence": "high",
+  "source": "Arizona business filing shows Nissan Electric LLC (Peoria) incorporated 2021, single Member/Manager Bhnan A Nissan (a surname). Unrelated to Nissan Motor Co. despite the name match.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C2399",
+  "company_name": "Austin Electric Services LLC (FN)",
+  "ownership_type": "corporate-owned (not PE)",
+  "parent_or_brand": "Synergos Companies (wholly owned by Asahi Kasei Homes / Asahi Kasei Corporation, a Japanese public company)",
+  "confidence": "high",
+  "source": "PRNewswire and Offsite Builder Magazine articles confirm Synergos Companies (a residential-trades 'super sub' consolidator covering AZ/CA/NV/FL/Carolinas) acquired Austin Electric Services LLC, Austin Concrete & Stone LLC, and Austin HVAC LLC to build out its Arizona platform; Synergos itself is fully owned by Asahi Kasei Homes, a subsidiary of publicly traded Asahi Kasei Corporation (Japan). This is a real franchise/parent match, not a false positive.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C2435",
+  "company_name": "Eco Electric LLC",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "",
+  "confidence": "high",
+  "source": "BuildZoom lists managers Daniel Watts Grayson and Wendi Lee Scovell; small firm (BuildZoom estimates ~2 employees, ~$97K revenue) operating since 2009; no PE/franchise signal.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C2535",
+  "company_name": "Mohave Electric Inc.",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "",
+  "confidence": "high",
+  "source": "Confirmed via Chamber of Commerce/Bizapedia listings that Mohave Electric Inc. (1931 McCulloch Blvd, Lake Havasu City, ROC lic #233146, 45 years in business) is a distinct for-profit contractor, separate from the similarly named nonprofit Mohave Electric Cooperative (a member-owned electric utility) -- a likely false-positive name match.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C2163",
+  "company_name": "Electric Shuffle LLC",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "",
+  "confidence": "high",
+  "source": "BuildZoom confirms Electric Shuffle LLC (Sedona, AZ) is a licensed electrical contractor (Qualifying Party Geoffrey Merlyn Hollister, license #348788, Specialty Dual). This is unrelated to 'Electric Shuffle,' the national high-tech shuffleboard bar/entertainment chain (Dallas, Austin, NYC, Chicago) -- confirmed false-positive name match, not a franchise relationship.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C1749",
+  "company_name": "Tekline Electrical Services LLC",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "",
+  "confidence": "medium",
+  "source": "Company/LinkedIn describe it as privately held, 51-200 employees, 35 years in business, full-service commercial/industrial electrical contractor in the Southwest; no PE, franchise, or acquisition news found, but no specific named owner/founder was found via free search either.",
+  "worth_zoominfo_followup": true
+ }
+]

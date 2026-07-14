@@ -1,0 +1,128 @@
+[
+ {
+  "id": "C662",
+  "company_name": "One Hour Air Conditioning & Heating of Scottsdale",
+  "ownership_type": "independent franchisee",
+  "parent_or_brand": "One Hour Heating & Air Conditioning (Authority Brands franchise system)",
+  "confidence": "high",
+  "source": "Authority Brands official 'Our Brands' page and Franchise Times Top 400 2025 listing confirm One Hour Heating & Air Conditioning is a franchised network under Authority Brands (itself PE-backed by American Securities); individual locations including Scottsdale operate as independently owned/operated franchisees, not corporate stores. Could not confirm the specific local franchisee's name with certainty.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C664",
+  "company_name": "Roto-Rooter Plumbing & Water Cleanup",
+  "ownership_type": "corporate-owned (not PE)",
+  "parent_or_brand": "Roto-Rooter Services Company / Chemed Corporation (NYSE: CHE)",
+  "confidence": "high",
+  "source": "Roto-Rooter is a wholly owned subsidiary of publicly traded Chemed Corporation. Roto-Rooter Services Co. acquired Hoffman Southwest Corp's independent franchise operations covering Phoenix, Tucson, and Florence, AZ in 2019, converting AZ Roto-Rooter territories from franchised to company-owned branches (PRNewswire/Franchising.com/Trenchless Technology, Sept 2019).",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C689",
+  "company_name": "All Aloha Plumbing Phoenix",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "All Aloha Plumbing (common founder network with San Diego CA and Hawaii sister locations; not a licensed franchise)",
+  "confidence": "medium",
+  "source": "All Aloha Plumbing Phoenix and San Diego 'About Us' pages plus BBB profiles show the Phoenix location is a sister company under common owner Deven Tells, who founded the brand in Hawaii before expanding to San Diego and Phoenix. Not PE-backed or corporately structured as a franchise. Note: ROC license was flagged inactive in the source data - operating status should be re-verified.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C691",
+  "company_name": "Roto-Rooter Plumbing Yuma - 24/7",
+  "ownership_type": "corporate-owned (not PE)",
+  "parent_or_brand": "Roto-Rooter Services Company / Chemed Corporation (NYSE: CHE)",
+  "confidence": "medium",
+  "source": "Same corporate structure as other AZ Roto-Rooter entries (subsidiary of publicly traded Chemed Corp). The 2019 Hoffman Southwest acquisition article explicitly names Phoenix/Tucson/Florence as converted to company-owned; Yuma is not explicitly named so this is inferred rather than directly confirmed.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C728",
+  "company_name": "Techcool AC Repair Scottsdale",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "Techcool (same company as Techcool Cooling & Heating, HQ North Las Vegas, NV - multi-state operation, not a separate franchise)",
+  "confidence": "high",
+  "source": "techcoollv.com serves the Scottsdale/Arizona pages from the same domain and company as the North Las Vegas HQ; BBB and Yelp profiles describe Techcool as a family-owned and operated business (~20 years). The ZI 'match' is the same underlying company operating across state lines, not an unrelated franchise brand.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C866",
+  "company_name": "Right Pro Cool & Heat",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "Right Pro Hvac (same company/brand as the Houston, TX location - multi-state operation)",
+  "confidence": "low",
+  "source": "rightprohvacsolutions.com hosts both the Houston, TX and Apache Junction, AZ location pages on the same domain, confirming a genuine same-company match rather than a coincidental name collision - but no press, ownership, or corporate-structure information was found for the business. Source data flags the ROC license as inactive with owner/qualifier status unverified, so operating status and true ownership remain uncertain.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C896",
+  "company_name": "Roto-Rooter Plumbing & Drain Cleaning",
+  "ownership_type": "corporate-owned (not PE)",
+  "parent_or_brand": "Roto-Rooter Services Company / Chemed Corporation (NYSE: CHE)",
+  "confidence": "medium",
+  "source": "Same corporate structure as other AZ Roto-Rooter entries (subsidiary of publicly traded Chemed Corp). Cornville, AZ is a small town in the broader north-central AZ market likely serviced under the same company-owned AZ territory network established after the 2019 Hoffman Southwest acquisition, though not explicitly named in that coverage.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C1811",
+  "company_name": "Veregy DER & Electrical LLC",
+  "ownership_type": "PE-backed",
+  "parent_or_brand": "Court Square Capital Partners",
+  "confidence": "high",
+  "source": "PRNewswire 'Bow River Capital Completes Sale of Veregy' (Nov 3, 2020) confirms Court Square Capital Partners acquired Veregy (an energy efficiency/ESCO platform built from AZ-based Midstate Energy and other roll-up acquisitions) from Bow River Capital; PitchBook and Mergr corroborate Court Square as current PE owner.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C2600",
+  "company_name": "D P Electric Inc",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "",
+  "confidence": "high",
+  "source": "dpelectric.com About page: company became 100% employee-owned (ESOP) in 2024 (up from 30% in 2021); founder Dan Puente (started 1990) remains Chairman of the Board and his daughter Danielle Puente Torres became President/CEO in 2023. No external PE or corporate parent found.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C2036",
+  "company_name": "Beecroft, Netsian Technologies Group",
+  "ownership_type": "corporate-owned (not PE)",
+  "parent_or_brand": "Wilson Electric Services Corp (employee-owned ESOP parent; Netsian Technologies Group operates as a dba/subsidiary)",
+  "confidence": "medium",
+  "source": "Constrafor contractor directory lists 'Wilson Electric Services Corp dba Netsian Technologies Group'; Wilson Electric Services Corp (Tempe, AZ) has been employee-owned (ESOP) since 2005 per its own company brochure - not PE-backed. Note: the 'Beecroft' prefix in this record's company name is unexplained (possibly a data merge artifact) and was not corroborated by any source found.",
+  "worth_zoominfo_followup": true
+ },
+ {
+  "id": "C015",
+  "company_name": "ACE Home Services",
+  "ownership_type": "PE-backed",
+  "parent_or_brand": "Apex Service Partners (Alpine Investors portfolio company)",
+  "confidence": "high",
+  "source": "PitchBook company profile states ACE Home Services was acquired May 9, 2022 by Apex Service Partners, which is itself an Alpine Investors home-services roll-up platform active in the Arizona/Sun Belt HVAC-plumbing-electrical market.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C189",
+  "company_name": "Parker & Sons",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "",
+  "confidence": "high",
+  "source": "Parker & Sons 'About Us' page (operating as Environmental Conditioning, LLC dba Parker & Sons) and an industry podcast (rynoss.com, 'The $210M Parker & Sons Story') both describe owner Paul Kelly purchasing the company from Blue Dot in 2004 and growing it independently to ~$250M revenue by 2022, including making its own tuck-in acquisitions. No evidence of PE or corporate parent ownership found, despite heavy PE consolidation activity elsewhere in the AZ HVAC/plumbing market.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C2545",
+  "company_name": "Simco Electric Inc.",
+  "ownership_type": "unclear",
+  "parent_or_brand": "",
+  "confidence": "low",
+  "source": "No web presence could be found for a 'Simco Electric Inc.' electrical contractor in Phoenix, AZ specifically. Search results only surfaced same-named but clearly unrelated businesses (Simco Electric LLC in Duluth, MN; Simco Electric Inc in Salem, UT) and an unrelated calibration-lab company, SIMCO Electronics, which has a Scottsdale/Phoenix location but is a different industry (equipment calibration, not electrical contracting).",
+  "worth_zoominfo_followup": true
+ },
+ {
+  "id": "C1447",
+  "company_name": "K2 Electric",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "",
+  "confidence": "high",
+  "source": "K2 Electric 'The K2 Story' about page plus IECI and Construction Today profiles: founded by Dean and Marna Kredit in 2003, now led by their son Jared Kredit as President/CEO, with brother Nick and wife Natalie also in leadership roles. Described consistently as a family-owned Phoenix/Tucson electrical contractor with no PE or corporate parent found.",
+  "worth_zoominfo_followup": false
+ }
+]

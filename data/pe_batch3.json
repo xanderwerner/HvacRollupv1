@@ -1,0 +1,107 @@
+[
+ {
+  "id": "C662",
+  "name": "One Hour Air Conditioning & Heating of Scottsdale",
+  "trade": "HVAC",
+  "city": "Tempe",
+  "website": "https://www.onehourheatandair.com/scottsdale/",
+  "flag_text": "FRANCHISE/PARENT MATCH in ZI (One Hour Heating & Air Conditioning, Frisco, Texas) \u2014 its size/owner NOT used | ZI re-check: company-only match for Justin Lange at One Hour of Scottsdale (as 'One Hour A"
+ },
+ {
+  "id": "C664",
+  "name": "Roto-Rooter Plumbing & Water Cleanup",
+  "trade": "Plumbing",
+  "city": "Scottsdale",
+  "website": "https://www.rotorooter.com/scottsdaleaz/?utm_source=Google&utm_medium=organic&utm_campaign=gmb&utm_content=website",
+  "flag_text": "FRANCHISE/PARENT MATCH in ZI (Roto-Rooter, Cincinnati, Ohio) \u2014 its size/owner NOT used | VERIFY: size data looks like parent/franchise org; ROC match REVERTED 2026-07-09 (false positive: matched 'BDR "
+ },
+ {
+  "id": "C689",
+  "name": "All Aloha Plumbing Phoenix",
+  "trade": "Plumbing",
+  "city": "Tempe",
+  "website": "https://www.callallaloha.com/phoenix/",
+  "flag_text": "FRANCHISE/PARENT MATCH in ZI (All Aloha Plumbing, San Diego, California) \u2014 its size/owner NOT used | QP may be hired qualifier - verify owner; ROC license INACTIVE - verify still operating | ROC licen"
+ },
+ {
+  "id": "C691",
+  "name": "Roto-Rooter Plumbing Yuma - 24/7",
+  "trade": "Plumbing",
+  "city": "Yuma",
+  "website": "https://www.rotorooter.com/yumacountyaz/",
+  "flag_text": "FRANCHISE/PARENT MATCH in ZI (Roto-Rooter, Cincinnati, Ohio) \u2014 its size/owner NOT used | VERIFY: size data looks like parent/franchise org; ROC match REVERTED 2026-07-09 (false positive: matched 'BDR "
+ },
+ {
+  "id": "C728",
+  "name": "Techcool AC Repair Scottsdale",
+  "trade": "HVAC",
+  "city": "Scottsdale",
+  "website": "https://techcoollv.com/nearme/LandingPage.php?air-conditioning-repair-scottsdale-AZ",
+  "flag_text": "FRANCHISE/PARENT MATCH in ZI (Techcool, North Las Vegas, Nevada) \u2014 its size/owner NOT used"
+ },
+ {
+  "id": "C866",
+  "name": "Right Pro Cool & Heat",
+  "trade": "HVAC",
+  "city": "Apache Junction",
+  "website": "https://rightprohvacsolutions.com/apache-junction-az/",
+  "flag_text": "FRANCHISE/PARENT MATCH in ZI (Right Pro Hvac, Houston, Texas) \u2014 its size/owner NOT used | QP may be hired qualifier - verify owner; ROC license INACTIVE - verify still operating | ROC license inactive"
+ },
+ {
+  "id": "C896",
+  "name": "Roto-Rooter Plumbing & Drain Cleaning",
+  "trade": "Plumbing",
+  "city": "Cornville",
+  "website": "http://www.rotorooter.com/",
+  "flag_text": "FRANCHISE/PARENT MATCH in ZI (Roto-Rooter, Cincinnati, Ohio) \u2014 its size/owner NOT used | VERIFY: size data looks like parent/franchise org; ROC match REVERTED 2026-07-09 (false positive: matched 'M S "
+ },
+ {
+  "id": "C1811",
+  "name": "Veregy DER & Electrical LLC",
+  "employees": 500,
+  "city": "Phoenix",
+  "website": ""
+ },
+ {
+  "id": "C2600",
+  "name": "D P Electric Inc",
+  "employees": 500,
+  "city": "Tempe",
+  "website": ""
+ },
+ {
+  "id": "C2036",
+  "name": "Beecroft, Netsian Technologies Group",
+  "employees": 496,
+  "city": "Tempe",
+  "website": ""
+ },
+ {
+  "id": "C015",
+  "name": "ACE Home Services",
+  "employees": 483,
+  "city": "Prescott",
+  "website": "https://acehomeaz.com/areas-served/sedona/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*10*ace-home-services-sedona"
+ },
+ {
+  "id": "C189",
+  "name": "Parker & Sons",
+  "employees": 450,
+  "city": "Phoenix",
+  "website": "https://www.parkerandsons.com/?utm_campaign=gmb_pk-phx_home_cus-all_googlebusinessprofile&utm_medium=gmb&utm_source=google"
+ },
+ {
+  "id": "C2545",
+  "name": "Simco Electric Inc.",
+  "employees": 350,
+  "city": "Phoenix",
+  "website": ""
+ },
+ {
+  "id": "C1447",
+  "name": "K2 Electric",
+  "employees": 300,
+  "city": "Phoenix",
+  "website": ""
+ }
+]

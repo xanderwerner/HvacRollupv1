@@ -1,0 +1,100 @@
+[
+ {
+  "id": "C1071",
+  "name": "H.G.Electric",
+  "employees": 73,
+  "city": "San tan valley",
+  "website": ""
+ },
+ {
+  "id": "C1683",
+  "name": "Arizona Electrical Apparatus Inc",
+  "employees": 72,
+  "city": "Tucson",
+  "website": ""
+ },
+ {
+  "id": "C1953",
+  "name": "Icon Power LLC",
+  "employees": 70,
+  "city": "Tempe",
+  "website": ""
+ },
+ {
+  "id": "C2644",
+  "name": "Hayden Electric Inc",
+  "employees": 70,
+  "city": "Scottsdale",
+  "website": ""
+ },
+ {
+  "id": "C2701",
+  "name": "Bates and Hook Electric Inc",
+  "employees": 70,
+  "city": "Tucson",
+  "website": ""
+ },
+ {
+  "id": "C2527",
+  "name": "Delta Wye Electric, Inc.",
+  "employees": 62,
+  "city": "Tempe",
+  "website": ""
+ },
+ {
+  "id": "C1871",
+  "name": "J. F. Edwards Construction Company",
+  "employees": 61,
+  "city": "Geneseo",
+  "website": ""
+ },
+ {
+  "id": "C040",
+  "name": "Smith Plumbing, Heating and Cooling",
+  "employees": 59,
+  "city": "Mesa",
+  "website": "https://www.smithservicesaz.com/"
+ },
+ {
+  "id": "C206",
+  "name": "Collins Comfort Masters",
+  "employees": 59,
+  "city": "Tempe",
+  "website": "https://collinscomfort.com/?utm_source=GMB&utm_medium=organic&utm_campaign=Website"
+ },
+ {
+  "id": "C1494",
+  "name": "John Bishop Electric",
+  "employees": 59,
+  "city": "Chandler",
+  "website": ""
+ },
+ {
+  "id": "C2333",
+  "name": "Diaz B Electric LLC",
+  "employees": 55,
+  "city": "SAN LUIS",
+  "website": ""
+ },
+ {
+  "id": "C2724",
+  "name": "ATS Electric, Inc.",
+  "employees": 55,
+  "city": "Glendale",
+  "website": ""
+ },
+ {
+  "id": "C049",
+  "name": "Reeis Air Conditioning, Plumbing & Electrical",
+  "employees": 53,
+  "city": "Phoenix",
+  "website": "http://reeis.com/"
+ },
+ {
+  "id": "C050",
+  "name": "Day & Night Air Conditioning, Heating, & Plumbing",
+  "employees": 50,
+  "city": "Phoenix",
+  "website": "https://www.dayandnightair.com/?utm_source=gmb&utm_medium=local&utm_campaign=phoenix-az"
+ }
+]

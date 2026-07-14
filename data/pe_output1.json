@@ -1,0 +1,128 @@
+[
+ {
+  "id": "C002",
+  "company_name": "Any Hour Services - Electric, Plumbing, Heating & Air",
+  "ownership_type": "PE-backed",
+  "parent_or_brand": "Any Hour Group (backed by Knox Lane, San Francisco PE firm)",
+  "confidence": "high",
+  "source": "Knox Lane / PR Newswire press releases confirm Any Hour Group (Knox Lane-backed) expanded into Phoenix and Scottsdale, AZ under the Any Hour Services brand; company's own AZ site is anyhourservices.com/arizona",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C008",
+  "company_name": "Mason Pro Services",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "",
+  "confidence": "high",
+  "source": "Company About page: founded 1993 by Steve and Deanna Mason (formerly 'Mason Mechanical'), family owned and operated in Chandler/Mesa AZ. The ZI flag matched an unrelated 'Mason Mechanical' in Las Vegas, NV -- false positive, no evidence of a link between the two",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C024",
+  "company_name": "Reddi Services",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "Reddi Services Inc. (Shawnee, KS) -- same family-owned company, not a separate local business",
+  "confidence": "high",
+  "source": "Company website (reddiservices.com/about-us) explicitly states it serves 'Kansas City Metro and Greater Phoenix Metro areas' as one family-owned company since 1957 that has consolidated several acquired local plumbing/HVAC businesses. The 'FRANCHISE/PARENT MATCH' flag is correct that it's the same company, but it is not PE-backed and not a franchise -- it's a direct multi-state branch of a family-owned business",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C031",
+  "company_name": "Semper Fi Heating and Cooling",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "",
+  "confidence": "high",
+  "source": "Company About page: veteran-owned (Marine veteran 'Jesse'), Mesa AZ, in business 10+ years. The ZI flag matched an unrelated PA business ('Semper Fi Property Solutions' / 'Semper Fi Heating & Cooling', New Castle, PA, est. 2019) -- different owner, different company, false positive (both simply chose a common veteran-themed name)",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C035",
+  "company_name": "Lee's Air, Plumbing, & Heating",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "Lee's Air, Plumbing, Heating & Roofing (CA-based multi-state company; same company as the Fresno-area entity, not a separate franchise)",
+  "confidence": "medium",
+  "source": "leesair.com/acquisitions page shows Lee's has been the acquirer of several smaller CA companies (Mitchell Aire, Marthedal, Temp Pro, etc.) rather than being acquired itself, describing itself as independent since 1981. A press item shows a 'partnership' with LB Capital limited to launching a new roofing division (financing/training support), not an equity acquisition of Lee's. No PE ownership of Lee's itself was found",
+  "worth_zoominfo_followup": true
+ },
+ {
+  "id": "C036",
+  "company_name": "Ambient Edge Heating, Air Conditioning & Refrigeration Inc.",
+  "ownership_type": "PE-backed",
+  "parent_or_brand": "Friendly Group (backed by RFE Investment Partners)",
+  "confidence": "high",
+  "source": "Friendly Group press release 'Home Services Company Ambient Edge Acquired by Friendly Group' (May 2021); Friendly Group is confirmed backed by RFE Investment Partners per Friendly Group's own site and rfeip.com deal announcements. Founder Steve Lewis stayed on as GM post-acquisition",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C037",
+  "company_name": "Ambient Edge Cooling, Heating & Plumbing",
+  "ownership_type": "PE-backed",
+  "parent_or_brand": "Friendly Group (backed by RFE Investment Partners)",
+  "confidence": "high",
+  "source": "Same entity/finding as C036 -- shares ambientedge.com domain and is part of the same Friendly Group platform covering Kingman, Lake Havasu City AZ and Henderson/Las Vegas NV",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C046",
+  "company_name": "Rooter Hero Plumbing & Air of Tempe",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "Rooter Hero Plumbing Inc. (Mission Hills, CA) -- same multi-state company, owner-operated by founder John Akhoian",
+  "confidence": "medium",
+  "source": "Company founder-message page and BBB profile identify John Akhoian as founder/owner (founded 2011); company itself is an active acquirer of other plumbing/HVAC firms (Allied Aire, Velavi Heating & Cooling, Specialty Contracting Group per Mergr/PrivSource). No evidence found of Rooter Hero itself taking PE investment",
+  "worth_zoominfo_followup": true
+ },
+ {
+  "id": "C057",
+  "company_name": "Arizona's Dukes of Air & Plumbing",
+  "ownership_type": "corporate-owned (not PE)",
+  "parent_or_brand": "Service Experts LLC, owned by Enercare Home & Commercial Services, ultimate parent Brookfield Infrastructure Partners LP (NYSE: BIP)",
+  "confidence": "high",
+  "source": "Website is literally serviceexperts.com (not an independent domain), confirming this is a company-owned Service Experts location, not a locally owned business. Ownership chain confirmed via Brookfield Infrastructure Partners press release (2018 Enercare acquisition) and Service Experts' own 'Our History' page",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C060",
+  "company_name": "Canyon State Service Experts",
+  "ownership_type": "corporate-owned (not PE)",
+  "parent_or_brand": "Service Experts LLC, owned by Enercare Home & Commercial Services, ultimate parent Brookfield Infrastructure Partners LP (NYSE: BIP)",
+  "confidence": "high",
+  "source": "Same finding as C057 -- website is serviceexperts.com, confirming a company-owned Service Experts branch in Surprise, AZ, not an independent business",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C075",
+  "company_name": "One Hour Heating & Air Conditioning® of Yuma",
+  "ownership_type": "independent franchisee",
+  "parent_or_brand": "One Hour Heating & Air Conditioning franchise system, owned by Authority Brands (PE-backed by Apax Partners, with BCI minority stake)",
+  "confidence": "high",
+  "source": "Authority Brands' own 'Our Brands' page confirms One Hour is one of its franchise brands (since 2019); Apax Partners' site confirms Apax funds own Authority Brands. The Yuma location itself operates under a local franchisee (Esteban Escobar per the ZI flag notes) -- the PE backing sits at the franchisor level, not the local unit",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C213",
+  "company_name": "Action Plumbing Heating Air & Electric",
+  "ownership_type": "unclear",
+  "parent_or_brand": "Action Plumbing, Heating, Air & Electric (Salt Lake City, UT) -- same multi-state company; local owner listed as Ben Jordan",
+  "confidence": "low",
+  "source": "BBB profile and LinkedIn list Ben Jordan as owner, with alternate registered names ('Connectionz Plumbing, Heating and Air LLC', 'Connectionz Acquisition LLC') suggesting a past local restructuring, not clear PE involvement. One search result claimed the company was 'acquired by Heartland Home Services' in Dec 2020, but Heartland's own confirmed brand portfolio (Randazzo, Vredevoogd, A+Derr, Hager Fox, First Call Plumbing, Blind & Sons) is Midwest-only (MI/OH/IN/KY/WI) and does not list Action Plumbing -- this claim looks like a search artifact/false lead and could not be corroborated",
+  "worth_zoominfo_followup": true
+ },
+ {
+  "id": "C222",
+  "company_name": "Aire Serv of North Central Arizona",
+  "ownership_type": "independent franchisee",
+  "parent_or_brand": "Aire Serv franchise system, owned by Neighborly (PE-backed -- acquired by KKR in Q1 2025, previously Harvest Partners since 2018)",
+  "confidence": "high",
+  "source": "Neighborly Brands' own site confirms Aire Serv is one of its franchise brands; Franchise Times and PR Newswire confirm Neighborly's ownership chain (Harvest Partners 2018 -> KKR 2025). Local unit operated by franchisee Tim Roth per the ZI flag notes -- PE backing sits at the franchisor level, not the local unit",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C236",
+  "company_name": "Goettl Air Conditioning and Plumbing",
+  "ownership_type": "PE-backed",
+  "parent_or_brand": "American Residential Services (ARS/Rescue Rooter), owned by Charlesbank Capital Partners (with prior GI Partners investment)",
+  "confidence": "high",
+  "source": "ACHR News (2008) confirms ARS/Rescue Rooter acquired Tempe-based Goettl; Charlesbank Capital Partners' own portfolio page and Berenson & Co. press release confirm Charlesbank's ownership of ARS (2014 acquisition, reaffirmed 2023), with GI Partners having taken a majority stake in 2020. Goettl operates as a retained brand within the ARS national network",
+  "worth_zoominfo_followup": false
+ }
+]

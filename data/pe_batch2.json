@@ -1,0 +1,114 @@
+[
+ {
+  "id": "C276",
+  "name": "Champion Air",
+  "trade": "HVAC",
+  "city": "Scottsdale",
+  "website": "https://championair.com/service-area/scottsdale/?utm_campaign=gmb&utm_medium=referral&utm_source=gmblisting",
+  "flag_text": "FRANCHISE/PARENT MATCH in ZI (Champion Air, Bloomington, Minnesota) \u2014 its size/owner NOT used"
+ },
+ {
+  "id": "C277",
+  "name": "Thompson Family Plumbing and Drain",
+  "trade": "Plumbing",
+  "city": "Lake Havasu City",
+  "website": "http://www.thompsonfamilyplumbing.com/",
+  "flag_text": "FRANCHISE/PARENT MATCH in ZI (Thompson Family Plumbing & Rooter, Hesperia, California) \u2014 its size/owner NOT used"
+ },
+ {
+  "id": "C368",
+  "name": "Nothing But Water Heaters",
+  "trade": "Plumbing",
+  "city": "Avondale",
+  "website": "http://nbwaterheaters.com/",
+  "flag_text": "FRANCHISE/PARENT MATCH in ZI (Nothing But Water Heaters, Las Vegas, Nevada) \u2014 its size/owner NOT used"
+ },
+ {
+  "id": "C406",
+  "name": "bluefrog Plumbing and Drain of Gilbert",
+  "trade": "Plumbing",
+  "city": "Gilbert",
+  "website": "http://bluefrogplumbing.com/gilbert",
+  "flag_text": "FRANCHISE/PARENT MATCH in ZI (bluefrog Plumbing + Drain, Pompano Beach, Florida) \u2014 its size/owner NOT used"
+ },
+ {
+  "id": "C434",
+  "name": "Roto-Rooter Plumbing Drain Services",
+  "trade": "Plumbing",
+  "city": "Casa Grande",
+  "website": "https://www.rotorooter.com/casagrandeaz/?utm_source=Google&utm_medium=organic&utm_campaign=gmb&utm_content=website",
+  "flag_text": "FRANCHISE/PARENT MATCH in ZI (Roto-Rooter, Cincinnati, Ohio) \u2014 its size/owner NOT used | VERIFY: size data looks like parent/franchise org; MERGED multi-location duplicate(s) 2026-07-09: Roto-Rooter P"
+ },
+ {
+  "id": "C566",
+  "name": "Western Sky Mechanical",
+  "trade": "HVAC",
+  "city": "El Mirage",
+  "website": "https://www.westernskymechanical.com/",
+  "flag_text": "FRANCHISE/PARENT MATCH in ZI (Western Sky Mechanical, Calgary, Alberta) \u2014 its size/owner NOT used | Shares domain 'westernskymechanical.com' with C592 (different city) -- could be a multi-location fra"
+ },
+ {
+  "id": "C601",
+  "name": "Reliable Plumbing & Heating",
+  "trade": "Plumbing",
+  "city": "Casa Grande",
+  "website": "http://reliableheatingandplumbing.com/casa-grande-az/",
+  "flag_text": "FRANCHISE/PARENT MATCH in ZI (Reliable Plumbing & Heating, Pittsfield, Massachusetts) \u2014 its size/owner NOT used | MERGED multi-location duplicate(s) 2026-07-09: Reliable Plumbing (same license 66053)"
+ },
+ {
+  "id": "C606",
+  "name": "Hercules Industries",
+  "trade": "HVAC",
+  "city": "Show Low",
+  "website": "https://www.herculesindustries.com/",
+  "flag_text": "FRANCHISE/PARENT MATCH in ZI (Hercules Industries, Denver, Colorado) \u2014 its size/owner NOT used | VERIFY: size data looks like parent/franchise org"
+ },
+ {
+  "id": "C631",
+  "name": "Aire Serv of E Glendale-Peoria",
+  "trade": "HVAC",
+  "city": "Glendale",
+  "website": "https://www.aireserv.com/east-glendale-peoria/",
+  "flag_text": "FRANCHISE/PARENT MATCH in ZI (Aire Serv heating and air conditioning, Waco, Texas) \u2014 its size/owner NOT used | ZI re-check: no personal mobile found for Keith Saunders at Aire Serv of E Glendale-Peori"
+ },
+ {
+  "id": "C632",
+  "name": "1-800-PLUMBER +AIR",
+  "trade": "Plumbing",
+  "city": "Scottsdale",
+  "website": "https://1800plumber.com/locations/scottsdale-az",
+  "flag_text": "FRANCHISE/PARENT MATCH in ZI (1-800-Plumber +Air, Austin, Texas) \u2014 its size/owner NOT used | ROC match REVERTED 2026-07-09 (false positive: matched 'Barngrover LLC', not this company) - owner unknown,"
+ },
+ {
+  "id": "C637",
+  "name": "One Hour Heating & Air Conditioning\u00ae of Kingman",
+  "trade": "HVAC",
+  "city": "Kingman",
+  "website": "https://www.onehourheatandair.com/kingman",
+  "flag_text": "FRANCHISE/PARENT MATCH in ZI (One Hour Heating & Air Conditioning, Frisco, Texas) \u2014 its size/owner NOT used | ZI re-check: company-only match for Justin Lange at One Hour of Kingman (as 'Pitzer's One "
+ },
+ {
+  "id": "C638",
+  "name": "Mr. Rooter Plumbing of Tucson",
+  "trade": "Plumbing",
+  "city": "Tucson",
+  "website": "https://www.mrrooter.com/tucson/?cid=LSTL_MRR000199&utm_source=gmb&utm_campaign=local&utm_medium=organic",
+  "flag_text": "FRANCHISE/PARENT MATCH in ZI (Mr. Rooter Plumbing, Waco, Texas) \u2014 its size/owner NOT used | VERIFY: size data looks like parent/franchise org; ROC match REVERTED 2026-07-09 (false positive: matched 'C"
+ },
+ {
+  "id": "C642",
+  "name": "Mr. Rooter Plumbing of Yavapai, Coconino and Maricopa Counties",
+  "trade": "Plumbing",
+  "city": "Camp Verde",
+  "website": "https://www.mrrooter.com/yavapai-and-coconino-counties/?utm_source=gmb&utm_campaign=local&utm_medium=organic",
+  "flag_text": "FRANCHISE/PARENT MATCH in ZI (Mr. Rooter Plumbing, Waco, Texas) \u2014 its size/owner NOT used | VERIFY: size data looks like parent/franchise org; ROC match REVERTED 2026-07-09 (false positive: matched 'T"
+ },
+ {
+  "id": "C644",
+  "name": "One Hour Heating & Air Conditioning\u00ae of Prescott",
+  "trade": "HVAC",
+  "city": "Prescott",
+  "website": "https://www.onehourheatandair.com/prescott",
+  "flag_text": "FRANCHISE/PARENT MATCH in ZI (One Hour Heating & Air Conditioning, Frisco, Texas) \u2014 its size/owner NOT used | ZI re-check: no personal mobile found for Justin Lange at One Hour of Prescott. Original +"
+ }
+]

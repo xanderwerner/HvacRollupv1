@@ -1,0 +1,128 @@
+[
+ {
+  "id": "C276",
+  "company_name": "Champion Air",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "",
+  "confidence": "high",
+  "source": "Company site/Yelp/BBB describe it as family-owned since 1982, 'the largest family-owned HVAC company in Arizona.' The flagged Bloomington, MN 'Champion Air' is a defunct charter airline (per Wikipedia), an unrelated business — false positive flag.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C277",
+  "company_name": "Thompson Family Plumbing and Drain",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "",
+  "confidence": "high",
+  "source": "ShoutOut Arizona interview and Havasu Chamber listing confirm John & Devynn Thompson founded the company in Hesperia, CA in 2013 and expanded to Lake Havasu City, AZ in 2019 — same family owns both locations. Not a franchise or corporate chain; the ZI match is real but reflects common family ownership, not a parent/franchise relationship.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C368",
+  "company_name": "Nothing But Water Heaters",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "",
+  "confidence": "high",
+  "source": "Company 'About Us' page: founded 2018 by co-owners David Leahy, Ronald Munguia and Paul (CFO); explicitly describes itself as independent/locally-owned (not a franchise), operating in Phoenix, AZ and Las Vegas, NV under the same ownership with separate state ROC/contractor licenses.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C406",
+  "company_name": "bluefrog Plumbing and Drain of Gilbert",
+  "ownership_type": "independent franchisee",
+  "parent_or_brand": "bluefrog Plumbing + Drain (franchisor: Stellar Brands, owned by MPK Equity Partners — PE-backed at the franchisor level)",
+  "confidence": "high",
+  "source": "Gilbert Chamber of Commerce lists the location as locally/family-owned. Plumbing & Mechanical magazine (2021) and a PR Newswire release confirm the bluefrog Plumbing + Drain franchise network is owned by Stellar Brands, the umbrella entity created when MPK Equity Partners acquired Restoration 1 and bluefrog in April 2020.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C434",
+  "company_name": "Roto-Rooter Plumbing Drain Services",
+  "ownership_type": "corporate-owned (not PE)",
+  "parent_or_brand": "Roto-Rooter Services Co., a wholly owned subsidiary of Chemed Corporation (NYSE: CHE)",
+  "confidence": "high",
+  "source": "PR Newswire, Franchising.com, and Trenchless Technology (Sept 2019) report Roto-Rooter Services Co. (Chemed subsidiary) bought Hoffman Southwest Corp's Roto-Rooter franchise operations covering Casa Grande, Phoenix, Tucson and Florence, converting this AZ territory from franchised to company-owned. Chemed is publicly traded on NYSE, not private equity.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C566",
+  "company_name": "Western Sky Mechanical",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "",
+  "confidence": "high",
+  "source": "Company website describes a 'family-owned team with over 40 years of experience' based in El Mirage, AZ. The flagged Calgary, Alberta 'Western Sky Mechanical' is a separate, unrelated Canadian company — false positive. Domain-sharing with C592 (a different AZ city) reflects a second in-state location under the same local owner, not a national chain.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C601",
+  "company_name": "Reliable Plumbing & Heating",
+  "ownership_type": "independent/family-owned",
+  "parent_or_brand": "",
+  "confidence": "low",
+  "source": "No franchise or national-brand language found in any listing; internal note indicates merged duplicate listings share one AZ ROC license (#66053), consistent with a single small independent local outfit. Could not find an 'About'/ownership page naming a specific owner. The flagged Pittsfield, MA 'Reliable Plumbing & Heating' is a generically-named, seemingly unrelated small business — likely a false positive (common business name), no evidence of a shared parent.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C606",
+  "company_name": "Hercules Industries",
+  "ownership_type": "corporate-owned (not PE)",
+  "parent_or_brand": "Hercules Industries, Inc. — 100% employee-owned (ESOP) since Oct 2019; multi-state HVAC manufacturer/distributor headquartered in Denver, CO with AZ branches (Tempe, Phoenix, Flagstaff, Tucson, Surprise)",
+  "confidence": "high",
+  "source": "ACHR News and Manufacturing Today articles confirm Hercules Industries transitioned from Newland-family ownership to a 100% Employee Stock Ownership Plan (ESOP) in October 2019; the company's own 'Locations' page lists multiple Arizona branches (Show Low is served as part of this multi-state network). Not PE-backed.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C631",
+  "company_name": "Aire Serv of E Glendale-Peoria",
+  "ownership_type": "independent franchisee",
+  "parent_or_brand": "Aire Serv (franchisor: Neighborly, PE-backed — acquired by KKR in 2021)",
+  "confidence": "medium",
+  "source": "Listed as an independently operated Aire Serv franchise territory. LinkedIn shows 'Keith and Kara Saunders' recognized as Aire Serv Franchise Owners of the Year, but another profile ties a Keith Saunders to a Central Texas Aire Serv, so the exact local AZ owner identity is unconfirmed. Neighborly's 2021 KKR acquisition is confirmed via BusinessWire and Franchise Times.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C632",
+  "company_name": "1-800-PLUMBER +AIR",
+  "ownership_type": "independent franchisee",
+  "parent_or_brand": "1-800-PLUMBER +AIR (franchisor headquartered Pearland, TX; parent entity reported as BELFOR Franchise Group / Shaded Oak Group, LLC — no confirmed PE ownership found at franchisor level)",
+  "confidence": "high",
+  "source": "Franchising.com press release (Oct 2020) names Ben Barngrover as the franchisee launching 1-800-Plumber +Air of Scottsdale in Jan 2021, matching the internal note that a ROC record for 'Barngrover LLC' was found tied to this business — confirms local franchisee ownership.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C637",
+  "company_name": "One Hour Heating & Air Conditioning® of Kingman",
+  "ownership_type": "independent franchisee",
+  "parent_or_brand": "One Hour Heating & Air Conditioning (franchisor: Neighborly, PE-backed — KKR); local operator 'Pitzer's One Hour Heating & AC' / HHS Arizona, Inc.",
+  "confidence": "high",
+  "source": "Facebook page and multiple directory listings identify the Kingman location as 'Pitzer's One Hour Air Conditioning & Heating,' operated by HHS Arizona, Inc. (per Prescott Valley Chamber of Commerce listing), a local multi-location franchisee serving Lake Havasu City, Bullhead City, Kingman and Prescott Valley — not corporate-owned.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C638",
+  "company_name": "Mr. Rooter Plumbing of Tucson",
+  "ownership_type": "independent franchisee",
+  "parent_or_brand": "Mr. Rooter Plumbing (franchisor: Neighborly, PE-backed — KKR)",
+  "confidence": "medium",
+  "source": "Mr. Rooter Corporation (Waco, TX) franchise system; BBB and company listings describe it as locally owned and independently operated, but the specific individual franchise owner's name could not be confirmed via free search.",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C642",
+  "company_name": "Mr. Rooter Plumbing of Yavapai, Coconino and Maricopa Counties",
+  "ownership_type": "independent franchisee",
+  "parent_or_brand": "Mr. Rooter Plumbing (franchisor: Neighborly, PE-backed — KKR); locally owned by Tim & Robyn Roth",
+  "confidence": "high",
+  "source": "BBB profile and FMCSA SAFER carrier record list 'Tim & Robyn Roth LLC DBA Mr. Rooter Plumbing of Yavapai and Coconino Counties'; company site states 'locally owned Mr. Rooter Plumbing.'",
+  "worth_zoominfo_followup": false
+ },
+ {
+  "id": "C644",
+  "company_name": "One Hour Heating & Air Conditioning® of Prescott",
+  "ownership_type": "independent franchisee",
+  "parent_or_brand": "One Hour Heating & Air Conditioning (franchisor: Neighborly, PE-backed — KKR); local operator 'Pitzer's One Hour Heating & AC' / HHS Arizona, Inc. (President Larry Thornton)",
+  "confidence": "high",
+  "source": "Prescott Valley Chamber of Commerce lists 'HHS Arizona, Inc. DBA Pitzer's One Hour Heating & AC,' the same local multi-location franchisee that also operates the Kingman, Lake Havasu City and Bullhead City territories.",
+  "worth_zoominfo_followup": false
+ }
+]
