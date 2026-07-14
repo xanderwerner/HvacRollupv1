@@ -103,9 +103,13 @@ def main():
         # ---- Size best + confidence ----
         emp_best, rev_best = emp, rev
         size_notes = []
+        try:
+            emp_num = int(emp) if emp not in (None, "") else None
+        except (TypeError, ValueError):
+            emp_num = None
         if z_usable and z.get("zi_employees"):
-            if emp:
-                ratio = z["zi_employees"] / emp if emp else 0
+            if emp_num:
+                ratio = z["zi_employees"] / emp_num
                 if 0.5 <= ratio <= 2.0:
                     size_notes.append(f"ZI agrees (~{z['zi_employees']})")
                     stats["size_verified"] += 1
