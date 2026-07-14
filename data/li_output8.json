@@ -1,0 +1,218 @@
+[
+ {
+  "id": "C2746",
+  "company_name": "Bill's Superior Electric Inc.",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "FLAG: billsuperiorelectric.com describes a Utah-founded company (founder Bill Bindrup, current owner Paul Poorte) operating in Utah/Idaho, with Arizona listed as 'coming soon.' This conflicts with the Peoria, AZ / (602) phone listing in our data — possibly a different entity or an unlaunched AZ branch. Could not confirm an AZ-based owner. LinkedIn search only surfaced 'Scott Trane - Driving Growth at Bill's Superior Electric' (role unclear, not confirmed as owner). Not found with confidence."
+ },
+ {
+  "id": "C2747",
+  "company_name": "Temple Electric Inc",
+  "owner_name": "William \"Chip\" Temple",
+  "owner_title": "Founder/Owner",
+  "owner_linkedin_url": "",
+  "source": "Company website",
+  "confidence_notes": "templeelectricinc.com states company founded in 2009 by Chip Temple; email Chip@TempleElectricInc.com. LinkedIn search only found an unrelated 'Chip Temple' (Tractor & Equipment sales rep) — not confirmed as same person, so no LinkedIn URL included."
+ },
+ {
+  "id": "C2748",
+  "company_name": "Electrical Contracting Services",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "No website on file; toll-free (855) number suggests possible lead-gen/directory line rather than a direct contractor. AZ Corporation Commission filing (via bizprofile.net) for 'Electrical Contracting Services LLC' in Tempe lists three managers: Chad Van Core, Jenna Merrill (also statutory agent), and Rich Digilio — but none could be confirmed via LinkedIn or other sources as tied to this specific business, and it's unclear which (if any) is the actual owner. Not reporting a guess."
+ },
+ {
+  "id": "C2749",
+  "company_name": "Bjelde Electric",
+  "owner_name": "Lyle Bjelde",
+  "owner_title": "Member (Owner)",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "BBB profile for Bjelde Electric LLC (Mesa/Tempe area) lists Mr. Lyle Bjelde as Member/principal contact; also lists Clayton Conaster as a Member. No confirmed LinkedIn profile found for Lyle Bjelde tied to this company."
+ },
+ {
+  "id": "C2750",
+  "company_name": "CID Electrical Arizona LLC",
+  "owner_name": "Placido Zavala Jr.",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "BBB / ZoomInfo",
+  "confidence_notes": "BBB and ZoomInfo both list Placido Zavala Jr. as Owner of CID Electrical Arizona LLC (Surprise/El Mirage/Buckeye area). A LinkedIn profile 'Placido Zavala - Electrical Foreman' surfaced but title conflicts with 'Owner' and could not be confirmed as the same person, so no LinkedIn URL included."
+ },
+ {
+  "id": "C2751",
+  "company_name": "J & M Repairs",
+  "owner_name": "Jason Bottorff",
+  "owner_title": "Owner/Managing Member",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "BBB profile lists Mr. Jason Bottorff as managing member/principal/customer contact; other sources note the business was founded by Jason and Maria Bottorff. Multiple 'Jason Bottorff' LinkedIn profiles found (factory rep, Calgary tree-care owner) but none confirmed as this Surprise, AZ electrician — no LinkedIn URL included."
+ },
+ {
+  "id": "C2752",
+  "company_name": "Brylee Electric Inc",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "No website on file. Could not locate a BBB, ROC, LinkedIn, or directory listing specifically for 'Brylee Electric Inc' in Surprise, AZ despite multiple search angles. Not found."
+ },
+ {
+  "id": "C2753",
+  "company_name": "Jake's Electric Inc",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "FLAG: jakeselectric.com content returned describes a Miami Beach, FL company (jake@jakeselectric.com, 4410 Adams Ave, Miami Beach) — likely a domain mismatch/unrelated business, not the Surprise, AZ company. A LinkedIn 'Brian Jacobs - Jakes Electric' profile also describes an unrelated agriculture-focused electrical business founded 2001 in a different region. No confident owner match found for the Surprise, AZ entity."
+ },
+ {
+  "id": "C2754",
+  "company_name": "Kad Electric Co",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "FLAG: Search results for 'Kad Electric' consistently point to a business in Lake Havasu City, AZ (manager listed only as 'David S.' on Yelp), not Surprise, AZ as listed in our data — possible city mismatch or duplicate/similarly-named entity. Could not confirm an owner for the Surprise, AZ listing specifically. Not found."
+ },
+ {
+  "id": "C2755",
+  "company_name": "Morgan Electric",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Company website (morganelectricllc.net) blocked fetch (403). LinkedIn search returned many 'Morgan Electric' owners (Ed Morgan, Tom Morgan, Ronnie Morgan, Kevin Morgan, Doug Morgan) across different states/companies — none could be confirmed as the Lake Havasu City, AZ entity. Not found with confidence."
+ },
+ {
+  "id": "C2756",
+  "company_name": "#1 Arizona Electric",
+  "owner_name": "Andrew \"Andy\" Ganas",
+  "owner_title": "Owner / Qualifying Party",
+  "owner_linkedin_url": "",
+  "source": "BBB / business directory",
+  "confidence_notes": "Multiple sources (BBB, Havasu Chamber of Commerce listing, customer reviews) identify Andrew (Andy) Ganas as owner/qualifying party of #1 Arizona Electric, LLC, a Lake Havasu City resident since 1983 and electrician since 1993. LinkedIn search found 5 'Andrew Ganas' profile matches but could not confirm the specific profile URL for this individual, so none included."
+ },
+ {
+  "id": "C2757",
+  "company_name": "KS ELECTRIC",
+  "owner_name": "Keith Stewart",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "Web search / business directory",
+  "confidence_notes": "Search results identify Keith Stewart as owner of KS Electric LLC, a family-owned business in Lake Havasu City with 35+ years experience. Company website did not name an owner directly. LinkedIn search surfaced only a generic profile reference, not a confirmed dedicated URL for this Keith Stewart."
+ },
+ {
+  "id": "C2758",
+  "company_name": "Manco services",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Manco Electric Service (Lake Havasu City) is described as women-owned/veteran-owned in business listings, but no owner name is confirmed. A LinkedIn profile for 'Charlie Manco' surfaced by surname match only, with no confirmed tie to this company, title, or location. Not found with confidence."
+ },
+ {
+  "id": "C2759",
+  "company_name": "Rabago Electric LLC",
+  "owner_name": "Jaime J. Rabago",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "Company profile (Networx/business directories)",
+  "confidence_notes": "Multiple directory listings identify Jaime J. Rabago as owner of Rabago Electric LLC (Chandler, AZ, family business since 1995, license C11 125175). LinkedIn search only returned Jaime Rabago profiles based in Mexico — not confirmed as the same person, so no LinkedIn URL included."
+ },
+ {
+  "id": "C2760",
+  "company_name": "Kirby Electric LLC",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "kirby-electric.net redirects to flagstaffkirby.com, which does not name an owner on the fetched pages (states 'Based in Flagstaff AZ with over 20 years experience,' site maintained by staff). LinkedIn search surfaced many unrelated 'Kirby Electric' owners in other states (Portland, Puget Sound, Daphne, Scotts Valley) but none confirmed for Flagstaff, AZ. Not found."
+ },
+ {
+  "id": "C2761",
+  "company_name": "RP ELECTRIC LLC",
+  "owner_name": "Randy Paulsen",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "https://www.linkedin.com/in/randy-paulsen-15846577",
+  "source": "LinkedIn",
+  "confidence_notes": "LinkedIn listing explicitly titled 'Randy Paulsen - Owner at RP Electric LLC,' matching the exact company name in our data (RP Electric LLC, Flagstaff, AZ). Good confidence match."
+ },
+ {
+  "id": "C2762",
+  "company_name": "Scheid Electric",
+  "owner_name": "Collin Scheid",
+  "owner_title": "Owner & Certified Electrician",
+  "owner_linkedin_url": "https://www.linkedin.com/in/collin-scheid-32a6513b/",
+  "source": "Company website + LinkedIn",
+  "confidence_notes": "scheidelectric.com (Queen Creek, AZ, ROC# 333329) names Collin Scheid as Owner & Certified Electrician on its team page. LinkedIn profile 'Collin Scheid - Owner - Scheid Services' lists Gilbert, AZ (neighboring city) — likely the same person/related DBA, but title/company name differ slightly so flagging for verification."
+ },
+ {
+  "id": "C2763",
+  "company_name": "Q Electrical Services",
+  "owner_name": "Robert Jay Quartarone",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "BBB profile for Q Electrical Services LLC (San Tan Valley/Queen Creek area) names Mr. Robert Jay Quartarone as owner. A LinkedIn 'Robert Quartarone' profile was found but tied to Hayes Electric Services in Vista, CA — not confirmed as the same person, so no LinkedIn URL included."
+ },
+ {
+  "id": "C2765",
+  "company_name": "Royal Electric",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "royalelectricyuma.com is described as a 3rd-generation, 50+ year family-owned business. The only personal name found was 'Ronnie' from the contact email (ronnie@royalelectricyuma.com) — full name not confirmed, so not reporting as owner. Not found with confidence."
+ },
+ {
+  "id": "C2766",
+  "company_name": "Jays Electrik LLC",
+  "owner_name": "Francisco Monjardin",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "BBB profile for Jays Electrik LLC (Yuma, AZ, est. 2022) lists Mr. Francisco Monjardin as business owner and principal/customer contact. No confirmed LinkedIn profile found."
+ },
+ {
+  "id": "C2767",
+  "company_name": "O & M Electrical Services, Inc.",
+  "owner_name": "Chad Bailey",
+  "owner_title": "Co-Owner",
+  "owner_linkedin_url": "",
+  "source": "Company website",
+  "confidence_notes": "oandmelectric.com states the company was founded in April 2007 by Trinidad 'Olie' Morin, who as of January 2026 transferred ownership to Chad Bailey and Shawnna Krull (co-owners). Several 'Chad Bailey' LinkedIn profiles found (State Electric Supply Co., Warren Cat, others) but none confirmed as this specific person, so no LinkedIn URL included."
+ },
+ {
+  "id": "C2768",
+  "company_name": "Westmoor Electric Inc.",
+  "owner_name": "Donald Peterson",
+  "owner_title": "Vice-President/Director",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "BBB lists Mr. Donald Peterson as Vice-President/Director and principal/customer contact for Westmoor Electric, Inc. (Yuma, AZ, family-owned since 1953). James G. Allen is also listed as a Vice-President. Neither is explicitly labeled 'Owner,' so reporting with the VP/Director title rather than assuming sole ownership. No LinkedIn profile confirmed."
+ },
+ {
+  "id": "C2769",
+  "company_name": "Consolidated Electrical Distributors",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "FLAG: This appears to be a branch location of CED (Consolidated Electrical Distributors), a national electrical-supply distributor chain, not an independently owned local business. LinkedIn search identified Jeff Flermoen as associated with the company, likely a branch manager, not an owner. Likely out of scope for an owner-operated roll-up target; recommend confirming acquisition relevance before pursuing."
+ },
+ {
+  "id": "C2771",
+  "company_name": "Kage Electric",
+  "owner_name": "Arthur Julio Hernandez",
+  "owner_title": "Owner/Founder",
+  "owner_linkedin_url": "",
+  "source": "Company website / business directories",
+  "confidence_notes": "Multiple sources (kageelectric.com about page, business directories) identify Arthur Julio Hernandez as founder/owner of Kage Electric (founded May 2017, relocated to Prescott/Dewey-Humboldt area March 2020, AZ contractor license Jan 2022). No confirmed LinkedIn profile found despite searches."
+ }
+]

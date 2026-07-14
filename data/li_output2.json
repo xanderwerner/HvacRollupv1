@@ -1,0 +1,218 @@
+[
+ {
+  "id": "C710",
+  "company_name": "Liberty Tradesmen",
+  "owner_name": "Sean",
+  "owner_title": "Founder/Owner (father-and-son team with son Jaden \"Jay\")",
+  "owner_linkedin_url": "",
+  "source": "company website",
+  "confidence_notes": "Company's own About page (libertytradesmen.com/about-liberty-tradesmen) names founder/owner only as 'Sean' with son 'Jaden (Jay)' as co-owner; last name not disclosed anywhere found (site, BBB, reviews). Not confident enough to attach a surname or LinkedIn profile - would need a direct call to confirm full name."
+ },
+ {
+  "id": "C711",
+  "company_name": "Cobra Plumbing LLC",
+  "owner_name": "Joshua Pennell",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "Confirmed via BBB business profile (Cobra Plumbing LLC, 3219 E Camelback Rd, Phoenix) listing 'Mr. Joshua Pennell, Owner' under Business Management and Principal Contacts; corroborated by other listings describing 'Josh' as 15+ year owner-operator. No matching LinkedIn profile found (a 'Seth Pennell - Plumber' profile exists but is a different person/company, not used)."
+ },
+ {
+  "id": "C714",
+  "company_name": "Air Duct Dynasty",
+  "owner_name": "Stephanie Williams",
+  "owner_title": "Owner/Operator",
+  "owner_linkedin_url": "",
+  "source": "BBB / NADCA directory",
+  "confidence_notes": "Family-owned business founded by Stephanie and John J. Williams (John listed as Member); Stephanie listed as Owner/Operator with NADCA ASCS certification, address and phone match input record exactly. No LinkedIn profile could be confidently matched (a same-name 'Stephanie Williams' profile found is an airline employee, unrelated)."
+ },
+ {
+  "id": "C715",
+  "company_name": "Corazon Air - Aire Acondicionado y Calefacción",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found after LinkedIn, general web, BBB-style searches. Note: the website on file (p3plumbingaz.com) does not resolve to this company name/brand, suggesting a data-linkage issue in the source record. No owner name surfaced for the Glendale HVAC business trading as 'Corazon Air'."
+ },
+ {
+  "id": "C716",
+  "company_name": "Johnson Family Plumber & HVAC",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Site (johnsonplumbinghvac.site/scottsdale) only self-describes as 'family-owned' with no individual name; appears to be part of a templated microsite network (same template as Stanley & Sons, Allen Family, Hunter Brothers listings in this batch, all on '.homes'/'.site' domains). LinkedIn searches surfaced only unrelated 'Johnson' plumbers in other states."
+ },
+ {
+  "id": "C718",
+  "company_name": "Stanley & Sons Heating & Cooling Company",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Site (stanleyhvac.homes) has no individual name; appears to be the same templated microsite network as Johnson Family, Allen Family, and Hunter Brothers listings. LinkedIn/web searches only surfaced unrelated 'Stanley' HVAC owners in other states (Tommy Stanley, Stanley Barineau, Remington Stanley) - not used as they don't match this Waddell, AZ business."
+ },
+ {
+  "id": "C719",
+  "company_name": "Truelove Plumbing",
+  "owner_name": "Gerard W Truelove",
+  "owner_title": "President",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "Confirmed via BBB profile for Truelove Plumbing, 3522 N Swing St, Kingman AZ (business started 1975) listing Mr. Gerard W Truelove as President/Principal Contact. Note: website on file (jorgesplumbing.com) does not match this business, likely a data-linkage issue. No LinkedIn profile found for Gerard Truelove specifically (other Truelove LinkedIn profiles found - Gene, Jeremy, Gerod - are unrelated people/locations)."
+ },
+ {
+  "id": "C720",
+  "company_name": "Arizona Cooling Company",
+  "owner_name": "Dave Porter",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "Confirmed via BBB profile for Arizona Cooling Company, 8831 E Apache Trail, Mesa AZ (azcoolco.com, matches domain on file) listing Mr. Dave Porter as Owner and Renee Briscoe as Office Manager. No matching LinkedIn found - several other 'Dave Porter' LinkedIn profiles exist (NextEra Energy, IT/ERP) but none reference Arizona Cooling Company."
+ },
+ {
+  "id": "C721",
+  "company_name": "America’s Home Services Of Glendale",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Company website About page (americahomeservicesllc.com/about) uses only collective 'our team' language with no named owner. Web/BBB searches surfaced only unrelated similarly-named companies (American Home Services in Tucson - Phil Janzow; American Home Solutions AZ LLC - John Cuevas) which are different legal entities, not used."
+ },
+ {
+  "id": "C722",
+  "company_name": "Innovative Air Queen Creek",
+  "owner_name": "Ralph W Costanzo",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "BBB / business registration record",
+  "confidence_notes": "Confirmed via BBB profile for Innovative Air Inc (veteran-owned, est. 2014, Queen Creek AZ) listing Ralph W Costanzo as owner; corroborated by a public records listing showing a 71-year-old Ralph Costanzo residing in Queen Creek, AZ. No confidently matching LinkedIn profile - a 'Ralph Costanzo - Business owner' LinkedIn result exists but could not be verified as this specific person/company (other Ralph Costanzo LinkedIn profiles found are unrelated - PA construction firm, physician, IT)."
+ },
+ {
+  "id": "C723",
+  "company_name": "Allen Family Plumbing & HVAC",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Site (allenplumbinghvac.homes) has no individual name anywhere, including contact page; appears to be part of the same templated microsite network as Johnson Family, Stanley & Sons, and Hunter Brothers listings in this batch. No BBB profile or owner name surfaced in web search."
+ },
+ {
+  "id": "C724",
+  "company_name": "AC and Refrigeration (AC, Heating, Refrigeration, Electrical and Plumbing)",
+  "owner_name": "Kristen Franco",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "https://www.linkedin.com/in/kristen-franco-85934493/",
+  "source": "LinkedIn",
+  "confidence_notes": "High confidence. Website on file (vesselhomeservices.com) matches domain exactly. LinkedIn headline reads 'Owner of Vessel Home Services LLC.' Company is a husband-and-wife team - Trevor Franco is co-owner (linkedin.com/in/trevor-franco-099097b9/), also confirmed via company About Us page narrative (both fathers served in military, matches company's veteran-discount messaging)."
+ },
+ {
+  "id": "C725",
+  "company_name": "E.R. Tankless & Plumbing",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found with confidence. Company website and customer reviews repeatedly reference a 'Roland' as the responsive point of contact/likely owner-operator, but no last name or formal title could be confirmed anywhere (site, BBB, Yelp), so not reporting a name to avoid guessing."
+ },
+ {
+  "id": "C726",
+  "company_name": "Magics Auto Ac & Hose LLc",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Flag: this is an automotive A/C and hose repair shop (car AC, not residential/commercial HVAC), and the website on file (readyrooterphx.com) doesn't match the company name either - likely a data quality/scope mismatch for a building HVAC/plumbing/electrical roll-up. Reviews mention an employee named 'Jorge' but not confirmed as owner."
+ },
+ {
+  "id": "C728",
+  "company_name": "Techcool AC Repair Scottsdale",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Listing domain (techcoollv.com, 'lv' suggesting Las Vegas) and near-identical listing pages across many directory sites (nears.me, serden, vouchedpros, hvacservice.io) suggest this is a generated/aggregator local-landing-page rather than a distinct locally-owned business with a discoverable owner. Only customer-review first names ('Andres', 'David') surfaced, not confirmed as owner."
+ },
+ {
+  "id": "C729",
+  "company_name": "Affordable Plumber AZ LLC",
+  "owner_name": "Patrick M Wertin II",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "Confirmed via BBB profile for Affordable Plumber AZ LLC, Mesa AZ (started 2019) listing Mr. Patrick M Wertin II as Owner and Melissa N Wertin as Co-owner. Note: website on file (acexpertek.com) does not match this business name. No LinkedIn profile found for Patrick Wertin matching this company."
+ },
+ {
+  "id": "C730",
+  "company_name": "Core Comfort HVAC",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Website on file (azminisplitinstall.com) is a generic mini-split install lead-gen/service-area site with no individual names anywhere on it, and no separate 'Core Comfort HVAC' entity surfaced in BBB or general web search under that name in Tempe, AZ."
+ },
+ {
+  "id": "C732",
+  "company_name": "Hunter Brothers Heating & AC",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Site (hunterhvac.homes) has no individual names; appears to be part of the same templated microsite network as Johnson Family, Stanley & Sons, and Allen Family listings in this batch. A 'David Hunter' LinkedIn profile exists but is Owner of an unrelated Jacksonville, FL company - not used."
+ },
+ {
+  "id": "C733",
+  "company_name": "Charlie Hall's Wrangler Plumbing",
+  "owner_name": "Luke Weisser",
+  "owner_title": "Owner (succeeded founder Charlie Hall)",
+  "owner_linkedin_url": "",
+  "source": "company website",
+  "confidence_notes": "Company's own About Us page (wranglerplumbing.com/about-us) states founder Charlie Hall 'has passed the torch to son-in-law Luke and daughter Sheyla Weisser' who now lead the company; a D&B listing also names Charles Sherman Hall, Luke Michael Weisser, and Sheyla Marie Weisser as company principals. Sheyla Weisser is co-owner. No LinkedIn profile could be found for either Luke or Sheyla Weisser."
+ },
+ {
+  "id": "C734",
+  "company_name": "AZ AIRCOND LLC -Cooling Heating Plumbing",
+  "owner_name": "Juan M Aldana",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "Confirmed via BBB profile for AZ Aircond, Buckeye AZ (started 2012) listing Mr. Juan M Aldana as owner. Note: website on file (hvacheatingandcoolingllc.com) does not match this business name. No LinkedIn profile found for Juan Aldana matching this company."
+ },
+ {
+  "id": "C735",
+  "company_name": "Auto Air Conditioning Repair Shop",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Flag: this business (autoairconditioning.repair) is an automotive A/C repair shop (car air conditioning, ASE-certified techs), not a residential/commercial HVAC/plumbing/electrical contractor - likely out of scope for this roll-up. No owner name surfaced in any source."
+ },
+ {
+  "id": "C736",
+  "company_name": "Proforce Plumbing Sewer & Drain",
+  "owner_name": "Omar Carrizoza Fongkee",
+  "owner_title": "Owner/Member",
+  "owner_linkedin_url": "",
+  "source": "Arizona Corporation Commission record (via city-data.com)",
+  "confidence_notes": "Business entity record for Proforce Plumbing LLC (Entity ID 23093354, incorporated 6/3/2020, Scottsdale AZ address matching proforceplumbing.com's registered address) lists Omar Carrizoza Fongkee as owner/member; a separate listing also calls him 'the owner of Pro Force Plumbing Sewer & Drain.' Company's own team page shows a person named 'Omar' but doesn't caption his role. A LinkedIn profile for an 'Omar Carrizoza' exists but lists a different job (Remodeling at Once Construction) with no plumbing company mention, so not confident enough to attach as this person's LinkedIn."
+ },
+ {
+  "id": "C737",
+  "company_name": "E & S Plumbing Services",
+  "owner_name": "Daniel Etch",
+  "owner_title": "(title unconfirmed - LinkedIn lists company affiliation only, not a specific title)",
+  "owner_linkedin_url": "https://www.linkedin.com/in/daniel-etch-2403a5186/",
+  "source": "LinkedIn",
+  "confidence_notes": "Found via LinkedIn search: profile titled 'Daniel Etch - E and S Plumbing services llc' matches the company name and Flagstaff, AZ location on file exactly. Profile appears sparse (LinkedIn shows only ~8 connections) so role/title (owner vs. employee) is not explicitly stated on the profile - flagging for a quick verify call before treating as confirmed owner."
+ },
+ {
+  "id": "C738",
+  "company_name": "Simpson Plumbing LLC",
+  "owner_name": "Kent Morgan",
+  "owner_title": "Division Owner-Operator (Arizona/Bullhead City location, DBA Anderson & Morgan Plumbing)",
+  "owner_linkedin_url": "",
+  "source": "company website",
+  "confidence_notes": "Company website (bullheadcity.plumbernw.com, matches domain on file) states Kent Morgan, a 30+ year plumbing veteran who worked for parent company Simpson Plumbing in OR/WA, was given the opportunity to run his own division out of Arizona (DBA 'Anderson & Morgan Plumbing'). Note this is a franchise/division of a Washington-state-based Simpson Plumbing (founder Dale Simpson, not local to AZ) - Kent Morgan is the relevant local operator for outreach purposes. No LinkedIn profile found for Kent Morgan."
+ }
+]

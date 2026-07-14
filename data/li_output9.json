@@ -1,0 +1,218 @@
+[
+ {
+  "id": "C2772",
+  "company_name": "S & M Electric",
+  "owner_name": "Donna Miller",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "https://www.linkedin.com/in/donna-miller-60513941",
+  "source": "LinkedIn",
+  "confidence_notes": "LinkedIn profile explicitly lists title 'Owner - S & M Electric Inc'; name/trade match, no conflicting candidates found."
+ },
+ {
+  "id": "C2773",
+  "company_name": "Adept Electrical Services",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. LinkedIn search only returned Adept Electrical Services owners in the UK and Canada, not Prescott Valley AZ. No website; directory listings and BBB search turned up no owner name."
+ },
+ {
+  "id": "C2774",
+  "company_name": "Sundog Electric LLC",
+  "owner_name": "Roy Ewert",
+  "owner_title": "Principal Owner",
+  "owner_linkedin_url": "https://www.linkedin.com/in/roy-ewert-b8280a88/",
+  "source": "LinkedIn",
+  "confidence_notes": "LinkedIn lists him as 'Principal Owner - Sundog Electric LLC' located in Prescott Valley, matching city/domain. Corroborated by a Tyler Ewert also listed as electrician at same company (family business)."
+ },
+ {
+  "id": "C2775",
+  "company_name": "Bassett Electric LLC",
+  "owner_name": "Branden Bassett",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "https://www.linkedin.com/in/branden-bassett-b1885132/",
+  "source": "LinkedIn + business registry (Bizapedia)",
+  "confidence_notes": "LinkedIn profile lists 'Owner - Bassett Electric LLC' but shows Oklahoma City as location; Bizapedia confirms a Bassett Electric LLC entity registered in Prescott Valley, AZ, and the surname matches the company name. Medium-high confidence; location mismatch on LinkedIn profile itself is a minor flag (could be an outdated profile field)."
+ },
+ {
+  "id": "C2776",
+  "company_name": "Pat Electric LLC",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Only LinkedIn match for 'Pat Electric' was Patrick Malbon at a same-named company in Santa Clarita, CA (different entity, ruled out). Company website and BBB search did not surface an owner name."
+ },
+ {
+  "id": "C2777",
+  "company_name": "Cobb AZ Electric",
+  "owner_name": "David Cobb",
+  "owner_title": "Founder/Owner",
+  "owner_linkedin_url": "",
+  "source": "company website",
+  "confidence_notes": "Company website About Us page states David Cobb founded the company in 1990, a Prescott, AZ resident for 60+ years. No matching LinkedIn profile found (LinkedIn search for 'Cobb AZ Electric' returned only unrelated Cobb-surname profiles at other companies)."
+ },
+ {
+  "id": "C2778",
+  "company_name": "Strombex Electrical",
+  "owner_name": "Adam Strombeck",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "web search / Facebook",
+  "confidence_notes": "Multiple directory/review sites identify the owner only by first name 'Adam'; a Facebook profile for 'Adam Strombeck' (surname closely matches the company name 'Strombex') lists him as a master electrician in the Prescott/Yavapai area. No direct LinkedIn profile found. Medium confidence due to name-derivation inference rather than a direct title match."
+ },
+ {
+  "id": "C2779",
+  "company_name": "Lynx Electric Inc",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. LinkedIn matches for 'Lynx Electric' owners were in Albuquerque and Cle Elum WA, not Prescott AZ. Note: BuildZoom shows this company's Arizona electrician license (#088702) was revoked 2/28/2025 - business may be inactive, flag for verification before outreach."
+ },
+ {
+  "id": "C2780",
+  "company_name": "KM Electric",
+  "owner_name": "Kent Cuellar",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "BuildZoom / customer reviews",
+  "confidence_notes": "BuildZoom and review sites for the Buckeye, AZ address (22082 W Papago St) name Kent Cuellar as owner/primary contact; reviews reference 'Kent and Mike'. No LinkedIn profile could be found for a Kent Cuellar at this company. Medium-low confidence given lack of LinkedIn/BBB corroboration."
+ },
+ {
+  "id": "C2781",
+  "company_name": "Oliver Electric LLC",
+  "owner_name": "Johnny Oliver",
+  "owner_title": "Member (Principal)",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "BBB profile for Oliver Electric LLC (Buckeye, AZ) lists Mr. Johnny Oliver as the Member/principal contact. Note conflict: LinkedIn separately shows a 'Kelly Oliver - President - Oliver Electric LLC' with unclear location; could not confirm which is current/correct, so flagging for spot-check before outreach."
+ },
+ {
+  "id": "C2782",
+  "company_name": "Cr Electric",
+  "owner_name": "Reinaldo Cruz",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "BBB profile for CR Electric (Buckeye, AZ, in business since 2015) lists Mr. Reinaldo Cruz as owner (also referenced as Reinaldo Cruz Rodriguez on ROC license, with Judith Cruz in operations). No LinkedIn profile found; company name matches owner initials (C.R.)."
+ },
+ {
+  "id": "C2783",
+  "company_name": "Triton Electric LLC",
+  "owner_name": "Michael Doporto",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "BBB profile for Triton Electric LLC (428 S 194th Ln, Buckeye, AZ, ROC #333259) lists Michael Doporto as owner. Ruled out a same-named 'Triton Electric, Inc.' with a different owner (Dave Holloway) found on LinkedIn as a non-matching entity in a different state. No LinkedIn profile found for Michael Doporto."
+ },
+ {
+  "id": "C2784",
+  "company_name": "Strada Services",
+  "owner_name": "Joe Strada",
+  "owner_title": "Founder/CEO",
+  "owner_linkedin_url": "https://www.linkedin.com/in/joe-strada/",
+  "source": "company website + LinkedIn",
+  "confidence_notes": "FLAG: Strada Services is a large, family-owned but multi-state home services company (FL-based, since 2003) with a west-Phoenix/Buckeye service-area page, not a small independent local AZ contractor. Joe Strada is the national founder/CEO; sons Michael and Anthony Strada also active. This is likely not the type of owner-operator target this roll-up is sourcing - flagging for review rather than treating as a standard small-business match."
+ },
+ {
+  "id": "C2785",
+  "company_name": "Select Electric, Llc",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found (full name). Multiple review/directory sites for the Kingman, AZ location refer to the owner only as 'Dave' with no surname. A LinkedIn 'Landon Smith - Select Electric, Inc.' was ruled out as a different company based in Huntington Beach, CA."
+ },
+ {
+  "id": "C2786",
+  "company_name": "Wise Electric, Inc",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Company website (wisesolarsolutionsinc.com) confirms this is licensed/bonded/insured and 'family owned and operated' but discloses no individual names; also does solar work per its own domain name - flag for review against the roll-up's solar-exclusion rule. LinkedIn matches for 'Wise Electric' owners were in Phoenixville PA, Bakersfield CA, and NYC - none in Kingman AZ."
+ },
+ {
+  "id": "C2787",
+  "company_name": "Romar Electric",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Only LinkedIn match for 'Romar Electric' was Bob Weingartner at 'Romar Electrical Services Inc.' based in Canada - ruled out as a different company/location, not Kingman AZ."
+ },
+ {
+  "id": "C2788",
+  "company_name": "Consolidated Electrical Distribution",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found, and likely not applicable: this is a branch of Consolidated Electrical Distributors, Inc. (CED), a large national electrical wholesale distribution chain, not an independently owned local contractor. No branch manager name could be confirmed for the Kingman location. Flag: this entity may not fit the roll-up's target profile (distributor, not a contractor)."
+ },
+ {
+  "id": "C2789",
+  "company_name": "Jamie's Electricians",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Company website (jamieselectricians.best) confirms the business has served Casa Grande & Phoenix since 2013 but does not name 'Jamie' or any owner. No LinkedIn or BBB match found; a 'Joe V. Jaime - Owner, Jaime Construction and Electric' was ruled out as a different, unrelated company."
+ },
+ {
+  "id": "C2790",
+  "company_name": "RSC Services",
+  "owner_name": "Ron Chandler",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "https://www.linkedin.com/in/ron-chandler-4839a2a1/",
+  "source": "LinkedIn",
+  "confidence_notes": "LinkedIn profile explicitly lists 'Owner - RSC Services LLC Electrical', based in Casa Grande, AZ since May 2012, overseeing residential new-construction crews. Strong match on city, trade, and company name/initials (R.S.C. = Ron... Chandler consistent with initials on entity)."
+ },
+ {
+  "id": "C2791",
+  "company_name": "Hubbard Electric LLC",
+  "owner_name": "Troy Hubbard",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "https://www.linkedin.com/in/troy-hubbard-2b264442/",
+  "source": "LinkedIn + web search corroboration",
+  "confidence_notes": "LinkedIn lists 'Business Owner at Hubbard Electric llc' (Greater Phoenix Area, near Casa Grande). Multiple independent local sources (Nextdoor, Yelp) name Troy Hubbard and Tim Hubbard as co-owners of the Casa Grande, AZ location (2820 N Pinal Ave), serving Pinal County 20+ years. Good confidence given the corroboration, though exact LinkedIn location field says 'Greater Phoenix Area' rather than Casa Grande specifically."
+ },
+ {
+  "id": "C2792",
+  "company_name": "LEI Electrical",
+  "owner_name": "Nick Lomeli",
+  "owner_title": "Member (Principal)",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "BBB profile for L E I Electrical LLC (Casa Grande, AZ) lists Mr. Nick Lomeli as Member/business management contact, with Victor Lomeli (Vice President) as the customer-facing contact. No LinkedIn profile confirmed for either; a 'Michael Lurence - LEI electrical contractors Inc.' LinkedIn result was ruled out as a different company in Downey, CA."
+ },
+ {
+  "id": "C2793",
+  "company_name": "CED Casa Grande - Consolidated Electrical Distributors",
+  "owner_name": "Richard Tuey",
+  "owner_title": "Branch Manager",
+  "owner_linkedin_url": "",
+  "source": "web search (business directory)",
+  "confidence_notes": "FLAG: Like the Kingman CED entry, this is a branch of the national Consolidated Electrical Distributors, Inc. chain, not an independently owned contractor. Richard Tuey is identified as Branch Manager, not an owner - reporting as the closest available contact but this is a corporate branch employee, not a business owner, and may not fit the roll-up's target profile."
+ },
+ {
+  "id": "C2794",
+  "company_name": "BECKHAM ELECTRIC, LLC,",
+  "owner_name": "John Beckham",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "company website",
+  "confidence_notes": "Company website About page names John Beckham and Craig Lostutter as the licensed owners, family-owned, serving Goodyear/West Valley for 25+ years. No LinkedIn profile found for either individual under this company."
+ },
+ {
+  "id": "C2795",
+  "company_name": "Excellence Electrical Contracting",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. No business by this exact name turned up in web, BBB, or LinkedIn searches for Goodyear, AZ (only a distinctly-named 'Excellence Electrical Services, LLC' LinkedIn company page was found, unconfirmed as the same entity, and no owner name available). No website on file for this company either, limiting verification options."
+ }
+]

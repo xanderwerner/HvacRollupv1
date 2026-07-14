@@ -1,0 +1,218 @@
+[
+ {
+  "id": "C823",
+  "company_name": "Expert Plumber Glendale",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. LinkedIn, web, and BBB searches for expertplumberglendale.com and the company name turned up no owner candidate confidently tied to this specific business (only unrelated Glendale-area plumbers)."
+ },
+ {
+  "id": "C824",
+  "company_name": "Best Plumbing Goodyear AZ",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Website is 'NewWave Pipe Co.' (newwavepipeco.site) but no owner name surfaced on LinkedIn, web search, or directory listings."
+ },
+ {
+  "id": "C826",
+  "company_name": "Trusted Chandler HVAC Repair",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not confidently found. A LinkedIn listing 'Andrew Dobbins - Owner at Trusted Heating & Cooling' surfaced, but a separate, verifiable Andrew Dobbins is founder of Intelligent Design Air Conditioning in Tucson - could not confirm the Trusted Heating & Cooling profile is the same person or is the Chandler AZ business at trustedchandlercoolingheating.com. Marked not found to avoid a false match; website blocked scraping (403)."
+ },
+ {
+  "id": "C827",
+  "company_name": "Master Plumbing Gilbert AZ",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Domain bluespringsystems.site returned no useful results; general Gilbert AZ plumber searches did not surface this specific company or an owner."
+ },
+ {
+  "id": "C828",
+  "company_name": "HomeFix HVAC Masters",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. No website/domain on file; LinkedIn, Facebook, and BBB searches for this exact name in Avondale AZ returned nothing specific to this business."
+ },
+ {
+  "id": "C829",
+  "company_name": "Lakeland Advanced Climate Control",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found / likely false match. Domain steelehvacllc.com/about returned 404, and the LinkedIn profile 'Larry Blanchard III - Steele HVAC LLC' lists his location as Hephzibah, Georgia, matching a Georgia-based Steele HVAC LLC (BBB confirms Augusta, GA owner Michael E. Steele Jr.), not the Sierra Vista, AZ company in this list. Discarded as a false match rather than reported."
+ },
+ {
+  "id": "C830",
+  "company_name": "D&M Construction, Electrical, & Plumbing",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not confidently found. Website dm-construction-llc.com lists no owner name (contact email prefix 'Fretana' unexplained). A related-sounding company at the same Buckeye address, 'D & M Roofing LLC,' is owned by David O. Garcia per BBB, but roofing is a different trade/entity from the electrical & plumbing business, so this was not reported as a confirmed match."
+ },
+ {
+  "id": "C831",
+  "company_name": "Plumbing Buckeye Sol",
+  "owner_name": "Chauncey M. Briggs",
+  "owner_title": "President/CEO, Briggs Air Conditioning, Heating & Refrigeration",
+  "owner_linkedin_url": "https://www.linkedin.com/in/chauncey-briggs-44582082/",
+  "source": "LinkedIn",
+  "confidence_notes": "Website on file (briggsairconditioning.com) and city (Buckeye, AZ) match Briggs Air Conditioning Heating & Refrigeration exactly. LinkedIn profile explicitly lists him as President at Briggs Air Conditioning; corroborated by company site, Yelp/BBB listings, and reviews crediting Chauncey Briggs personally. Note: input labels the trade as 'Plumbing' but this is actually an HVAC/AC company - likely a data tagging error upstream, not a company mismatch (name/domain/phone/city all align)."
+ },
+ {
+  "id": "C834",
+  "company_name": "Avondale Plumbing & Drain Services Exp",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. No website/domain on file; could not confirm any owner tied to this exact business name or phone (623) 220-4266."
+ },
+ {
+  "id": "C835",
+  "company_name": "Aaa Affordable AC",
+  "owner_name": "Myron Black",
+  "owner_title": "Owner/Managing Member",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "BBB business profile for AAA Affordable A/C in Lake Havasu City, AZ lists Mr. Myron Black under both 'Business Management' and 'Customer Contacts' roles. Corroborated by customer reviews referencing Myron Black by name. No LinkedIn profile located for him despite targeted searches."
+ },
+ {
+  "id": "C837",
+  "company_name": "Tite Plumbing Glendale",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Business listing on RepairHit is marked 'Unclaimed' with only customer reviewer names visible, no owner/contact name. Website plumbingtco.com could not be reached."
+ },
+ {
+  "id": "C839",
+  "company_name": "Jennings Handyman & Roof Repair",
+  "owner_name": "Roy Jennings",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "Chamber of Commerce / Alignable / Facebook",
+  "confidence_notes": "Phone number (760) 953-0731 matches exactly. Multiple sources (Alignable, Chamber of Commerce listing, Facebook page) identify Roy Jennings, a retired 40+ year roofer, as the owner/operator of Jennings Handyman Services in Bullhead City, AZ. No LinkedIn profile located for Roy Jennings specifically (a different person, Jason Jennings, appears on LinkedIn and was not used)."
+ },
+ {
+  "id": "C840",
+  "company_name": "Ginco Plumbing & Excavating",
+  "owner_name": "Hans Taylor",
+  "owner_title": "President",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "Phone (480) 288-1077 and Apache Junction, AZ address match exactly. BBB profile for Ginco Plumbing, LLC lists company officers: Hans Taylor (President), John Taylor (Treasurer/Secretary), Doug Taylor (VP). Reported the President as the primary owner contact. No LinkedIn profile found for Hans Taylor despite targeted search."
+ },
+ {
+  "id": "C841",
+  "company_name": "Peoria Plumbing & Drain",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Website peoriaplumbingfirst.com confirmed as the correct company, but no owner name surfaced via LinkedIn, BBB, or general web search."
+ },
+ {
+  "id": "C843",
+  "company_name": "Bud's Plumbing",
+  "owner_name": "Noah Sarnowski",
+  "owner_title": "Contact person (title unconfirmed, possible owner)",
+  "owner_linkedin_url": "",
+  "source": "ZoomInfo / business directory",
+  "confidence_notes": "City (Payson, AZ) and business name match exactly to the real 'Bud's Plumbing' at 606 W Main St, Payson AZ. ZoomInfo and business-directory listings associate Noah Sarnowski with the company, but his exact title (owner vs. manager) could not be independently confirmed - no LinkedIn profile found. Lower confidence than other 'found' entries; flagged for verification."
+ },
+ {
+  "id": "C844",
+  "company_name": "Plumbing, Drain & Sewer Pros",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Website (prohvacofglendale.com) resolves to 'Pro HVAC Contractor of Glendale LLC' in Glendale, AZ; reviews mention staff named 'Stan' and 'Deo' and 'Juan' but no confirmed owner name via BBB, Crunchbase, or web search."
+ },
+ {
+  "id": "C845",
+  "company_name": "Goodyear Plumbing & Piping",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Domain christianrandleplumbingpro.com (site blocked scraping, 403) suggests an owner possibly named 'Christian Randle' but this could not be confirmed via LinkedIn or web search. A same-named 'Goodyear Plumbing, LLC' owner (Trace Whites) found via search is a Texas company, not Goodyear, AZ - correctly excluded as a false match."
+ },
+ {
+  "id": "C846",
+  "company_name": "Pro Plumbers Surprise",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Fetched proplumberssurprise.com directly - About/Contact content has no named owner or founder, only generic marketing copy. No LinkedIn or directory match found."
+ },
+ {
+  "id": "C847",
+  "company_name": "Boreal HVAC Service",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found / likely false match. Domain on file (kaylormadeplumbing.com) belongs to 'KaylorMade Plumbing,' owned by Jason Kaylor, but that business operates in Queen Creek/Maricopa & Pinal County - nowhere near Fort Mohave, AZ (Mohave County) where this company is listed. Discarded as a mismatch rather than reported."
+ },
+ {
+  "id": "C849",
+  "company_name": "HALTOM & SON'S CONTRACTING - General Contractor in Show Low, Arizona",
+  "owner_name": "Bill Haltom",
+  "owner_title": "Co-Owner and Founder",
+  "owner_linkedin_url": "",
+  "source": "company website",
+  "confidence_notes": "Domain (showlowbuilder.com) and city (Show Low, AZ) match exactly. Company's own About page identifies Bill Haltom as Co-Owner and Founder (licensed contractor since 1986) and Jennifer Haltom as Co-Owner; son Tucker Haltom joined in 2019 prompting the '& Sons' name. No confirmed current LinkedIn profile found for Bill Haltom (an old broken linkedin.com/pub link for 'wild-bill-haltom' was not used due to inability to verify)."
+ },
+ {
+  "id": "C850",
+  "company_name": "Surprise Plumber and Handyman",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Yelp listing for the matching address (13856 W Country Gables Dr, Surprise, AZ) is unclaimed with no owner name; no LinkedIn or other source surfaced an owner."
+ },
+ {
+  "id": "C851",
+  "company_name": "Sierra Sewer & Drain Services",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found / likely false match. Domain on file (prescottvalleycoolingheatingproline.com) points toward 'Prescott Valley Heating and Cooling' entities, which are located in Prescott/Prescott Valley, AZ - not Sierra Vista, AZ where this company is listed. Candidates (David Gere, Gary Falk, Ragen Hamilton) were not reported due to location mismatch."
+ },
+ {
+  "id": "C852",
+  "company_name": "Camdeton Air Conditioning & Heating",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. No website/domain on file; web search confirms the company exists in Kingman, AZ but no owner name surfaced via LinkedIn, BBB, or general search."
+ },
+ {
+  "id": "C853",
+  "company_name": "Steve Ash Plumbing",
+  "owner_name": "Steven F. Ash",
+  "owner_title": "Owner (sole proprietor)",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "Address (50 Stutz Bearcat Dr, Sedona, AZ) and phone (928) 282-7835 match exactly. BBB profile confirms Steven F. Ash as owner of this sole proprietorship, started 5/14/2009. Company name itself is the owner's name. No LinkedIn profile located for him despite targeted search."
+ }
+]

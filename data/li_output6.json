@@ -1,0 +1,218 @@
+[
+ {
+  "id": "C854",
+  "company_name": "Air Conditioning AZ Inc",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "No website/domain on file. Web and LinkedIn searches (site:linkedin.com/in \"Air Conditioning AZ\") returned only unrelated Avondale-area HVAC owners (e.g. Joe Cool AC). No ROC/BBB record located under this exact name. Not found."
+ },
+ {
+  "id": "C855",
+  "company_name": "Jimco Air Duct Repair Service",
+  "owner_name": "James Mangold",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "BBB profile for \"Jimco LLC\" (dba Jimco Air Conditioning Heating & Refrigeration), Bullhead City AZ, lists Mr. James Mangold as Owner/principal contact; city and trade match. No matching personal LinkedIn profile found. Flag: a 2020 AZ ROC news item names a James Allen Mangold of Bullhead City who pleaded guilty to contracting without a license in connection with operating Jimco - worth a light diligence check. Also note the input record's website field (showlowrotorooter.com) does not match this business, likely a scrape mismatch."
+ },
+ {
+  "id": "C858",
+  "company_name": "Responsive Plumber Peoria",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Company website has no About/Team page content and returned no owner name. LinkedIn and general web searches for \"Responsive Plumber Peoria\" returned no matching company or personal profile (only unrelated Peoria, IL plumbers). Not found."
+ },
+ {
+  "id": "C859",
+  "company_name": "Goodyear Plumbing & Sewer",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Website (goodyearplumbingsewer.com) returned 403 and could not be fetched. Search results only surfaced a same-named but unrelated \"Goodyear Plumbing, LLC\" in New Braunfels/Texas (owner Trace Whites) and a different AZ company \"Bucksworth Home Services\" (Jordan/Taylor Moore) - neither confirmed as this exact entity, so not reported to avoid a false match. Not found."
+ },
+ {
+  "id": "C862",
+  "company_name": "Inferno Heating Refrigeration & HVAC Flagstaff",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "No dedicated BBB profile or owner name located for this exact business name in Flagstaff. LinkedIn search only returned unrelated Flagstaff HVAC owners (e.g. Flagstaff Heating & Cooling's Guy Rene Gonzalez, Flagstaff Comfort Systems' Steve Hanson). Input record's website field (newwavepipeco.site) does not match this business - likely scrape mismatch. Not found."
+ },
+ {
+  "id": "C863",
+  "company_name": "Kin Plumbing Gilbert",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Company website (kiplumbingpro.com) returned 403 and could not be fetched. LinkedIn and BBB/ROC searches for \"Kin Plumbing\" Gilbert AZ returned no matching owner - only unrelated Gilbert-area plumbers (Gilbert Plumbing Company, AZ Plumbing Solutions). Not found."
+ },
+ {
+  "id": "C864",
+  "company_name": "Air Conditioning Champ",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "airconditioningchamp.com lists locations across AZ, CA, FL, NV, and TX with only a generic contact email, suggesting this is a multi-market marketing/lead-gen brand rather than a single locally-owned operator. No owner name found on site or via LinkedIn search (site:linkedin.com/in \"Air Conditioning Champ\"). Flag for manual review - may not fit the single-owner acquisition profile. Not found."
+ },
+ {
+  "id": "C865",
+  "company_name": "ProFab Heating & Cooling",
+  "owner_name": "Seth Disert",
+  "owner_title": "Managing Member",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "BBB profile for \"Profab Custom Sheet Metal LLC\" (dba ProFab Heating & Cooling / Profab Custom Sheet Metal Heating & Air Conditioning), 2997 Centerpointe East Dr, Prescott AZ - matches address/phone on profabhvac.com. BBB lists Seth Disert as Managing Member and Michael Wells as Member. No matching personal LinkedIn profile found for either name. Secondary owner candidate: Michael Wells (Member)."
+ },
+ {
+  "id": "C868",
+  "company_name": "Success Air Duct Service LLC",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Directory listings (Cylex) confirm the entity name in Payson, AZ but no owner name is disclosed. LinkedIn searches returned only unrelated air-duct company owners in other states. Input record's website field (steelehvacllc.com) does not match this business - likely scrape mismatch. Not found."
+ },
+ {
+  "id": "C870",
+  "company_name": "Grande AC & Heating Repair Inc.",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "No BBB, ROC, or LinkedIn record found under this exact company name in Casa Grande; searches surfaced only other unrelated Casa Grande HVAC companies (Big House Heating & Cooling, Hero AC & Heat, Air Aid, Kia's, ESCO, Al & Riley's). Input record's website field (dm-construction-llc.com) does not match this business - likely scrape mismatch. Not found."
+ },
+ {
+  "id": "C871",
+  "company_name": "Sedona Verde Valley Plumbing",
+  "owner_name": "Jay Elmer",
+  "owner_title": "Member/Owner",
+  "owner_linkedin_url": "",
+  "source": "BBB / AZ LLC registration",
+  "confidence_notes": "BBB profile and Arizona LLC registration (L12147403, Sedona-Verde Valley Plumbing LLC, 1050 S Page Springs Rd, Cornville AZ, founded 2005) both list Jay Elmer as Member/owner and principal contact; phone matches (928) 282-5784. No LinkedIn profile found. Flag: a Nextdoor post suggests the business name/phone may have since been sold to a Phoenix-based operator - worth verifying current ownership before outreach."
+ },
+ {
+  "id": "C872",
+  "company_name": "Affordable Hometown Plumbing",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "No website on file; no BBB profile located under this exact name in Payson. Secondary sources describe it as a husband-and-wife operation but no names are given. LinkedIn search returned no match. Not found."
+ },
+ {
+  "id": "C874",
+  "company_name": "Glendale Plumbing Experts",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "No BBB profile or owner name located. LinkedIn search for \"Glendale Plumbing Experts\" returned only unrelated employees of a distributor called \"Glendale Plumbing & Fire Supply\" (a different company) - not reported to avoid false match. Not found."
+ },
+ {
+  "id": "C878",
+  "company_name": "American Plumber",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "No BBB profile or owner name located for americanplumberco.com's Bullhead City location. LinkedIn searches for \"American Plumber\"/\"American Plumbing\" returned several owners of similarly-named but confirmed-unrelated companies in other AZ cities/states (e.g. Rich Tomas of American Plumbing and Rooter, Phoenix-area) - not reported to avoid false match. Not found."
+ },
+ {
+  "id": "C879",
+  "company_name": "Heaven Bound Plumbing",
+  "owner_name": "Michael Jones",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "Business directories (Allbiz, WhoDoYou, and others)",
+  "confidence_notes": "Multiple independent business-directory listings for Heaven Bound Plumbing at 600 E Lorene St, Payson AZ (matching phone 928-951-4366) name Michael Jones as owner. Not confirmed via BBB or LinkedIn - moderate confidence given directory-only sourcing. Input record's website field (phoenixheatingcoolingauthority.com) does not match this business - likely scrape mismatch."
+ },
+ {
+  "id": "C880",
+  "company_name": "Platinum Tempe Plumbing Experts",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "No BBB profile or owner name located. LinkedIn search for \"Platinum Tempe Plumbing\" returned only owners of unrelated same-named \"Platinum Plumbing\" companies in other states (IL, CT, IA) - not reported to avoid false match. Not found."
+ },
+ {
+  "id": "C881",
+  "company_name": "El Mirage AC Repair",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "No BBB profile or owner match located for elmirageacrepair.com specifically. Search surfaced other unrelated El Mirage-area HVAC owners (Republic Air Conditioning's Donald Peterson, Klimate King's Mike Mule) but none confirmed for this exact business. Not found."
+ },
+ {
+  "id": "C882",
+  "company_name": "Stefick Plumbing and Drain",
+  "owner_name": "Anthony Garcia",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "BBB profile for Stefick Plumbing and Drain LLC, 3637 Blue Colt Dr, Lake Havasu City AZ (phone 928-706-1716, matches input) lists Anthony Garcia as owner and principal contact. No matching LinkedIn profile found."
+ },
+ {
+  "id": "C883",
+  "company_name": "Connolly Heating & Cooling",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "LinkedIn search surfaced a Norman Grimes as President of a company also called \"Connolly Heating and A/C,\" but that business is based in Pacheco, CA / Bay Area per its BBB profile - a different, unrelated company from Sedona AZ's Connolly Heating & Cooling despite the shared name. Not reported to avoid false match. A related-sounding local entity \"Connolly Electric and Mechanical\" also serves Sedona/Cottonwood but ownership could not be confirmed as the same business. Not found."
+ },
+ {
+  "id": "C885",
+  "company_name": "Max Performance Heating & AC Repair",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "No BBB profile or owner name located for maxperformanceheatingacrepair.shop. LinkedIn search returned no matching profile (only unrelated Goodyear-area/Max-named HVAC owners). Not found."
+ },
+ {
+  "id": "C886",
+  "company_name": "Expert Plumbers of Queen Creek",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "No BBB profile, LinkedIn profile, or owner name located under this exact business name in Queen Creek. Not found."
+ },
+ {
+  "id": "C887",
+  "company_name": "Northshore Plumbing",
+  "owner_name": "Douglas Brumett",
+  "owner_title": "Owner (Sole Proprietor)",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "BBB profile for \"North Shore Plumbing,\" 911 N Lake Havasu Ave Ste 401, Lake Havasu City AZ, phone 928-230-8714 (exact match to input), AZ ROC# 286940, lists Douglas Scott Brumett as owner/sole proprietor. No LinkedIn profile found."
+ },
+ {
+  "id": "C888",
+  "company_name": "Timberline Heating And Air Conditioning",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Multiple secondary sources (customer reviews) refer to the owner only by first name \"Tony\" with no surname found - insufficient to report a full name per instructions. One review also states the owner claimed he did not need an AZ ROC license for service calls, which may be a licensing flag worth noting for diligence. Not found."
+ },
+ {
+  "id": "C889",
+  "company_name": "AZ Home Services Group AC Repair & Plumbing Services of Peoria",
+  "owner_name": "Oded Cohen",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "BBB profile for \"AZ Home Services Group AC Repair & Plumbing Services\" (Tempe/Fountain Hills-listed, serves the Phoenix Valley including Peoria per azhomeservices.group) lists Mr. Oded Cohen as owner and principal contact. A LinkedIn company page lists a \"Business Owner at AZ Home Services Group,\" but a personal LinkedIn profile for this specific Oded Cohen could not be confidently confirmed (an Oded Cohen profile found appears to be an unrelated media consultant), so LinkedIn is not cited as the source."
+ }
+]

@@ -1,0 +1,218 @@
+[
+ {
+  "id": "C779",
+  "company_name": "Jonez Contracting & Handyman Service",
+  "owner_name": "Tim Jones",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "business directory bio",
+  "confidence_notes": "Name and background story (in trades since 1992, Hurricane Andrew origin story, Kingman/Bullhead since 2008) repeated consistently across handyman/electrician directory bios. No LinkedIn profile found for him; not high-confidence but consistent across multiple independent directory sources."
+ },
+ {
+  "id": "C781",
+  "company_name": "United Plumbers Tempe",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Site appears to be a lead-generation/referral marketing page (states it is a referral platform, does not itself perform work), no named owner found via LinkedIn, BBB, or web search after multiple query angles."
+ },
+ {
+  "id": "C785",
+  "company_name": "Discount Plumbing Pros",
+  "owner_name": "Abdul Muhammad",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "BBB profile for Discount Plumbing (Goodyear, AZ) lists Mr. Abdul Muhammad as Owner/principal/customer contact. Could not find a matching LinkedIn profile in Arizona -- the only 'Abdul Muhammad' found on LinkedIn runs an unrelated 'Abduls Plumbing Service LLC' in Waldorf, MD, so that LinkedIn profile is NOT attached (false-match risk)."
+ },
+ {
+  "id": "C786",
+  "company_name": "Maricopa Mountain Plumbing",
+  "owner_name": "John Robert Stranford",
+  "owner_title": "President",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "BBB and b2bhint business registry both list Mr. John Robert Stranford as President (principal contact) and Ms. Sheryl Wollam as VP. No matching LinkedIn profile found -- LinkedIn results for 'John Stranford' were unrelated logistics-industry people in PA, not a match."
+ },
+ {
+  "id": "C787",
+  "company_name": "Prime AC Repair Phoenix",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Company's own About Us page states it is a free referral service connecting homeowners to independent contractors, with no named owner. No LinkedIn or BBB owner record located."
+ },
+ {
+  "id": "C788",
+  "company_name": "OneCall Plumber Scottsdale",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found after LinkedIn, BBB, and general web searches. Multiple unrelated 'One Call Plumbing' businesses exist in other states/cities; none matched to this Scottsdale, AZ number/domain."
+ },
+ {
+  "id": "C789",
+  "company_name": "Quality Pumping Septic Services",
+  "owner_name": "Chancy Thomas",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "trade publication (Pumper.com)",
+  "confidence_notes": "Pumper magazine profile (2022) confirms Chancy Thomas took over Quality Pumping in Payson, AZ from her parents Joe and Shelly Brown, matching address/phone (928) 978-8838. No confident LinkedIn match found (LinkedIn results for 'Thomas Chancy' variants were unrelated people in other states)."
+ },
+ {
+  "id": "C791",
+  "company_name": "Ez AC Repair Scottsdale",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Appears to be part of the same lead-gen style site network as Prime AC Repair Phoenix (near-identical phone number pattern). No named owner on About Us page, LinkedIn, or BBB."
+ },
+ {
+  "id": "C792",
+  "company_name": "A&M Refrigeration LLC",
+  "owner_name": "Arturo Enrique Sanchez",
+  "owner_title": "Member/Owner",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "BBB business profile lists Arturo Enrique Sanchez as Member handling business management, principal contact, and customer contact for A&M Refrigeration LLC, Yuma AZ. No confident LinkedIn match -- a similarly named 'Artemio Sanchez' HVAC tech on LinkedIn appears to be a different person, not attached."
+ },
+ {
+  "id": "C793",
+  "company_name": "The Son's Plumbing Service",
+  "owner_name": "Phillip Smit",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "https://www.linkedin.com/in/phillip-smit-a62274116",
+  "source": "LinkedIn",
+  "confidence_notes": "LinkedIn profile explicitly reads 'Phillip Smit - Owner at The son's Plumbing Service'; corroborated by BBB record for 'Phillip E. Smit' as owner (sole proprietorship, started 1995) in Casa Grande, AZ. Strong match on name, city, and trade."
+ },
+ {
+  "id": "C794",
+  "company_name": "AZ Home Services Group AC Repair & Plumbing Services of Chandler",
+  "owner_name": "Oded Cohen",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "BBB profile for AZ Home Services Group (Tempe/Chandler, AZ HVAC & plumbing) lists Mr. Oded Cohen as Owner in Business Management, Principal Contacts, and Customer Contacts sections. No confident LinkedIn match -- multiple unrelated 'Oded Cohen' profiles exist (tech industry, Israel) with no indication of connection to this business."
+ },
+ {
+  "id": "C797",
+  "company_name": "New Plumbing Phoenix",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Note: the website field on file (airtronx.com) does not correspond to this company name -- likely a data mapping issue, not used for research. No owner located via LinkedIn, BBB, or general search."
+ },
+ {
+  "id": "C803",
+  "company_name": "Quality Refrigeration Supply LLC",
+  "owner_name": "Brian Boisclair",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "business license record / TikTok/Facebook business page",
+  "confidence_notes": "Bullhead City new-business-license record and the company's own TikTok/Facebook page (email boisclair_20@hotmail.com) tie Brian Boisclair to Quality Refrigeration Supply LLC. No LinkedIn profile located for him."
+ },
+ {
+  "id": "C805",
+  "company_name": "Plumbing & Electrical Concepts",
+  "owner_name": "Dave Smith",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "https://www.linkedin.com/in/dave-smith-3a834949/",
+  "source": "LinkedIn",
+  "confidence_notes": "LinkedIn headline reads 'Dave Smith - Owner Plumbing & Electrical Concepts', matching company address (3285 Hidden Hollow Rd, Flagstaff, AZ) confirmed via Yelp/BuildZoom. Note: a separate BBB listing for a similarly-named but distinct/defunct 'Plumbing Concepts' (different address, DBA Synergia Development LLC) lists a different owner (Anthony Wooten) -- that is a different company and was NOT used."
+ },
+ {
+  "id": "C808",
+  "company_name": "Glendale HVAC Contractor Pro LLC",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found after LinkedIn, BBB, and general web searches. A LinkedIn profile for 'David Glendale, Owner - Glendale Air Conditioning Repair & Installation' exists but is a differently-named company, so not used as a false match."
+ },
+ {
+  "id": "C810",
+  "company_name": "SunPeak AC Repair Buckeye",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Company website has an SSL/cert mismatch suggesting a possibly parked or repurposed domain. BBB search turned up only an unrelated company (Buckeye AC LLC, different owner). No LinkedIn match for 'SunPeak' + Buckeye AC."
+ },
+ {
+  "id": "C811",
+  "company_name": "Kaylormade Plumbing - Emergency Plumber",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Company name strongly implies owner surname 'Kaylor,' and is family/locally owned per its own marketing copy, but no full name could be confirmed via LinkedIn, BBB, or business registries (a 'Jason Kaylor' found on LinkedIn runs an unrelated Kaylor Plumbing LLC in Lebanon, not Queen Creek AZ -- not used as a false match). Marking not found rather than guessing."
+ },
+ {
+  "id": "C812",
+  "company_name": "HighPeak Prescott HVAC Repair",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. The company's own domain (prescotthighpeakheatingcooling.com) now redirects to an unrelated affiliate/spam page, suggesting the domain may be expired or the business is defunct/rebranded. No BBB or LinkedIn record located under 'HighPeak' for Prescott, AZ."
+ },
+ {
+  "id": "C813",
+  "company_name": "Liberty Plumbing - Flagstaff",
+  "owner_name": "Thomas R. Ford",
+  "owner_title": "President",
+  "owner_linkedin_url": "https://www.linkedin.com/in/tom-ford-686b80119",
+  "source": "LinkedIn",
+  "confidence_notes": "BBB lists Thomas R Ford as President and Tara L Ford as VP of Liberty Plumbing & Solar (DBA Liberty Mechanical Corp), which operates the Flagstaff office at 2532 N 4th St matching this listing's city/trade. LinkedIn profile 'Tom Ford - Liberty Plumbing' corroborates. Note: the website field on file (ancplumbing.com) actually belongs to an unrelated Bullhead City company (A & C Plumbing Concepts) and was NOT used -- likely a data mapping issue."
+ },
+ {
+  "id": "C814",
+  "company_name": "Affordable Avondale AC Repair",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found after LinkedIn, BBB, and general search. Only similarly-themed Avondale AC companies found (e.g., AC Andes, owner Fabian Esquer Fuentes) are differently named businesses and were not used as false matches."
+ },
+ {
+  "id": "C816",
+  "company_name": "Steve Dick AC LLC",
+  "owner_name": "Stephen M. Dick",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "BBB profile 'Stephen M. Dick's A/C & Heating' in Apache Junction, AZ matches phone number exactly (602-526-0242) and business name (the company is literally named after him). In business since 1985. No LinkedIn profile found for him personally."
+ },
+ {
+  "id": "C819",
+  "company_name": "Roto-Rooter Show Low - Septic & Drain Cleaning",
+  "owner_name": "Brian W. Reidhead",
+  "owner_title": "Owner/Member",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "BBB profile for this Roto-Rooter franchise (DBA Avango Plumbing LLC, Taylor AZ, matching city and phone-area) lists Mr. Brian W. Reidhead as Owner/Member and Mr. Michael P. Keele as Qualifying Partner. No LinkedIn profile confirmed for Brian Reidhead specifically -- a related 'Derek Reidhead, President, Reidhead Plumbing and Solar' (Mesa, AZ) appears to be a different, though possibly related-family, company, so not attached as his profile."
+ },
+ {
+  "id": "C820",
+  "company_name": "Hoosier Plumbing Company - Maricopa, AZ",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Company's own About Us page and web search repeatedly describe the owner only as 'Paul,' an Indiana-native journeyman plumber with 25+ years experience, but no last name could be confirmed via LinkedIn, BBB, or business registries. Marking not found rather than guessing the surname."
+ },
+ {
+  "id": "C821",
+  "company_name": "Laba Plumbing",
+  "owner_name": "Bob Laba",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "company website / business directories",
+  "confidence_notes": "Company is named/branded 'Bob Laba Plumbing' (boblabaplumbing.net) and directory bios describe Bob Laba as the owner/operator in Casa Grande, AZ, matching domain and phone. No LinkedIn profile found for him. Flag: one contractor-license lookup (BuildZoom) shows a specialist license for this business was suspended as of 12/30/2023 -- worth a status check before outreach."
+ }
+]

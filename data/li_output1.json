@@ -1,0 +1,218 @@
+[
+ {
+  "id": "C267",
+  "company_name": "AZ Home Services Group AC Repair & Plumbing Services",
+  "owner_name": "Jerry Finney Jr.",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "BBB / Angi",
+  "confidence_notes": "BBB and Angi both list Jerry Finney Jr. as owner of AZ Home Services LLC (opened 2012, business started 2010) at the Queen Creek address matching this record. No confirmed personal LinkedIn profile found for him; a LinkedIn company page exists but lists no real name."
+ },
+ {
+  "id": "C275",
+  "company_name": "Plumbers Near Me - Water Heater & Plumbing Services",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. A LinkedIn profile titled 'Plumbers Near Me Chandler - Business Owner' exists but uses the company name as the profile name, not a real person, and lists Phoenix rather than Chandler. No other source (BBB, website) surfaced a real owner name. Left blank rather than guessing."
+ },
+ {
+  "id": "C629",
+  "company_name": "Valley Heating, Cooling & Appliances",
+  "owner_name": "Curtis Callaway",
+  "owner_title": "President",
+  "owner_linkedin_url": "https://www.linkedin.com/in/curtis-callaway-58011a23/",
+  "source": "LinkedIn",
+  "confidence_notes": "LinkedIn profile explicitly says 'President at Valley Heating, Cooling & ...' in the Greater Phoenix area, matching this Mesa company. Corroborated by company About Us page and multiple business listings identifying him as 2nd-generation owner/operator (company started 1976 by Larry Callaway and Gerald Hammill)."
+ },
+ {
+  "id": "C640",
+  "company_name": "GoodFellas Air Conditioning & Plumbing",
+  "owner_name": "Brent A. Lush",
+  "owner_title": "President/Owner",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "BBB profile for Goodfellas HVAC lists Brent A. Lush as President/Owner, at the same 6907 W Linda Vista Blvd, Tucson address confirmed via the company's own contact page (phone 520-386-0560 matches this record exactly). Flag: a LinkedIn profile for 'Gregory Kotrba - Owner, goodfellas' also surfaced but could not be verified against this specific entity/address, so it was not used; no personal LinkedIn found for Brent Lush."
+ },
+ {
+  "id": "C643",
+  "company_name": "Efficient Air HVAC & Energy Solutions",
+  "owner_name": "Oscar Manzo",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "https://www.linkedin.com/in/oscar-manzo-692ab9134/",
+  "source": "LinkedIn",
+  "confidence_notes": "LinkedIn profile title reads 'Oscar Manzo - Efficient Air HVAC & Energy Solutions', matching company name and Goodyear location. Corroborated by multiple review sites referring to 'Oscar, the owner' as very responsive to customers."
+ },
+ {
+  "id": "C645",
+  "company_name": "1st Choice Plumbing, Air & Insulation",
+  "owner_name": "Michael Edward Rhoads",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "https://www.linkedin.com/in/michael-rhoads-07083a252",
+  "source": "BBB, corroborated by LinkedIn",
+  "confidence_notes": "BBB profile for 1st Choice Mechanical (Phoenix/Peoria) lists Michael Edward Rhoads as Owner and Timothy Ethan Rhoads as General Manager. LinkedIn profile 'Michael Rhoads - 1st Choice Mechanical llc' corroborates. Note: customer reviews often refer informally to 'Tim, the owner' (likely the GM, Timothy Rhoads) so there is some ambiguity between the two Rhoads family members, but BBB's formal owner designation is Michael Edward Rhoads."
+ },
+ {
+  "id": "C648",
+  "company_name": "Benjamin Franklin Plumbing of Prescott",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Franchise is independently owned per corporate site but no owner name could be confirmed. A BBB entity 'Franklin Plumbing Services Inc' in Prescott (Michael Edward Macon, President/CEO) surfaced but its address and phone number (928-445-1045) do not match this record's phone (928-235-9474), so it was not treated as a confirmed match."
+ },
+ {
+  "id": "C649",
+  "company_name": "Benjamin Franklin Plumbing of Mohave County",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Site says 'independently owned and operated' but names no one. A nearby franchise entity 'Benjamin Franklin Plumbing of Western Arizona' (Larry Thornton, President, based in Henderson NV with a Lake Havasu City location) surfaced but does not clearly cover Kingman/Mohave County under this record's phone number, so not used as a confirmed match."
+ },
+ {
+  "id": "C650",
+  "company_name": "Olive Air, Heating & AC Repair",
+  "owner_name": "Oliver Melchor",
+  "owner_title": "Owner / Lead Tech",
+  "owner_linkedin_url": "",
+  "source": "BBB / company website",
+  "confidence_notes": "BBB profile and company About Us page both name Oliver Melchor as Owner and Lead Tech of Olive Air & Heating LLC, Gilbert AZ, matching address and phone. No confirmed personal LinkedIn profile found (a same-named LinkedIn CEO profile in Spain is an unrelated false match, excluded)."
+ },
+ {
+  "id": "C653",
+  "company_name": "Dignity Plumbers Service & Water Softeners",
+  "owner_name": "Estevan \"Batman\" Leyva",
+  "owner_title": "Owner / Master Plumber",
+  "owner_linkedin_url": "",
+  "source": "company website",
+  "confidence_notes": "Company About page (dignityplumbingaz.com) names Estevan 'Batman' Leyva as the master-plumber owner with 25+ years experience, matching Youngtown, AZ address. No confirmed personal LinkedIn profile found; several LinkedIn profiles for 'Estevan Leyva' exist but are in California/Idaho and unrelated."
+ },
+ {
+  "id": "C661",
+  "company_name": "Autocare Air Conditioning & Auto Repair",
+  "owner_name": "Nicholas Catsibris",
+  "owner_title": "President",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "BBB profile for Auto Care, Air Conditioning & Brake, Inc. lists Mr. Nicholas Catsibris as President, at the matching 4223 E Bell Rd, Phoenix address. Note this business is primarily automotive AC/repair, not building HVAC. No LinkedIn profile found."
+ },
+ {
+  "id": "C668",
+  "company_name": "Ram Plumbing, Inc.",
+  "owner_name": "Erik Carrasco",
+  "owner_title": "President",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "BBB profile for Ram Plumbing, Inc. (Tucson) lists Mr. Erik Carrasco as President. No matching personal LinkedIn profile could be confirmed -- multiple 'Erik Carrasco' LinkedIn profiles exist for unrelated people/industries and locations, so none were reported as a match. Other sources describe the company as women/family-owned since 1983, which was not reconciled with this name; flagging for a follow-up check."
+ },
+ {
+  "id": "C676",
+  "company_name": "DR Plumbing | Plumbers Marana",
+  "owner_name": "Kathryn \"Kitty\" Maloney Langmade",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "https://www.linkedin.com/in/kittylangmade/",
+  "source": "LinkedIn, corroborated by company website",
+  "confidence_notes": "The listed website (maloneyplumbing.com) is Maloney Plumbing, LLC (Phoenix-headquartered, serving Marana as one of its service areas -- this record's page is a Marana service-area landing page). Company site confirms founders William 'Duke' and Mary Maloney (1964) and current owner Kitty Maloney Langmade, their daughter; LinkedIn profile 'Kathryn Kitty Maloney Langmade - Maloney Plumbing, LLC' confirms."
+ },
+ {
+  "id": "C683",
+  "company_name": "Temco AC Repair & Replacement",
+  "owner_name": "Marshall Dennington",
+  "owner_title": "Founder / Owner / CEO",
+  "owner_linkedin_url": "",
+  "source": "company website / press release",
+  "confidence_notes": "Multiple sources (BBB, company site, press coverage) identify Marshall Dennington as founder/owner/CEO of Temco Air Environmental (Tucson), the entity behind this BBB listing (same BBB ID as 'Temco AC Repair & Replacement'). FLAG: a June 2025 PRNewswire release announced Temco 'joining' ResiXperts (a competing HVAC roll-up/PE platform) in a 'partnership' -- exact current ownership stake is unclear from the release, so Dennington's title/equity position may have changed. Worth a fresh check before outreach. No personal LinkedIn profile found for him."
+ },
+ {
+  "id": "C685",
+  "company_name": "T.C.R. Rooter and Plumbing Repair",
+  "owner_name": "Cary Kent Guenther",
+  "owner_title": "Manager",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "BBB profile for TCR Rooter & Plumbing Repair (Flagstaff, matching address and phone 928-773-4905) lists Mr. Cary Kent Guenther as Manager and Ms. Amy Redhorse as Comptroller -- no one is listed as Owner/President specifically, so ownership is not fully confirmed, only day-to-day management. Note: a 'Terry Ault' LinkedIn/BBB owner match for a same-named TCR Rooter business was ruled out as a false match -- that is a separate, unrelated company in Raleigh, NC."
+ },
+ {
+  "id": "C687",
+  "company_name": "A.S.G. Plumbing Enterprises Tucson",
+  "owner_name": "Anthony Gravagne",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "web search / customer reviews",
+  "confidence_notes": "Multiple business listings and customer reviews name Anthony Gravagne as owner of A.S.G. Plumbing Enterprises (Tucson, matching address/phone). A LinkedIn profile under this name was found but lists an unrelated company ('structural concept inc'), so it was not used as a confirmed personal LinkedIn match."
+ },
+ {
+  "id": "C690",
+  "company_name": "Drain Medics - No-Dig Sewer Repair",
+  "owner_name": "Austin Sanchez",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "BBB profile for Drain Medics LLC (Tucson) lists Austin Sanchez as Owner, with Robert Sanchez as a Member -- consistent with a family-owned business. No LinkedIn profile could be confidently matched (two 'Austin Sanchez' LinkedIn profiles found are for unrelated companies/locations)."
+ },
+ {
+  "id": "C697",
+  "company_name": "Gabriel's Air Care LLC Arizona Demolition Solution LLC",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found -- likely data quality issue in the source list. The listed website (reedscrewservices.com) actually belongs to a different business entirely: 'RCS Plumbing / Reed's Crew Services' based in San Tan Valley, AZ, with no mention of Gabriel's Air Care or Arizona Demolition Solution anywhere on the site. Separately, BBB lists a 'Gabriel's Air Care LLC' in Phoenix (co-owner Gabriel Uriarte) but its address/phone do not match this record's Waddell city and (480) 519-1893 phone, so that name was not reported to avoid a false match. Recommend re-verifying this row's source data before further outreach."
+ },
+ {
+  "id": "C698",
+  "company_name": "A/C ExperTek Service and Installation",
+  "owner_name": "Bryce Steve Heffelfinger",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "https://www.linkedin.com/in/bryce-heffelfinger-a-c-expertek-service-and-installation-93596254",
+  "source": "LinkedIn",
+  "confidence_notes": "LinkedIn profile name is literally 'Bryce Heffelfinger A/C Expertek Service and Installation', matching company name and Goodyear address exactly. Corroborated by ZoomInfo listing him as Owner at A/C Expertek."
+ },
+ {
+  "id": "C704",
+  "company_name": "Baxter Brothers Plumbing",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. The Oro Valley address/phone (520-438-4953) traces to a BBB entity 'Oro Valley Plumbing, LLC' (Ms. Joy Derrick, Member), but BBB does not list 'Baxter Brothers Plumbing' as a DBA of that entity, so this could not be confirmed as the same business and was not reported to avoid a false match."
+ },
+ {
+  "id": "C706",
+  "company_name": "Saguaro Plumbing And Air Of Tempe",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. A LinkedIn profile 'Scott Hull - President at Saguaro Plumbing, Inc.' surfaced, but that entity is a separate, unrelated company based in Yuma, AZ (started 1980) -- not the Tempe-based 'Saguaro Plumbing and Air' (started later, different address at 5024 S Ash Ave, Tempe) that matches this record. Ruled out as a false match; no owner name found for the Tempe company."
+ },
+ {
+  "id": "C707",
+  "company_name": "Arizona Best Plumbers",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. No BBB, LinkedIn, or website source surfaced an owner name for arizonabestplumbers.com / (520) 397-3653 in Casa Grande. Other Casa Grande plumbers with named owners (e.g. Copperhead Plumbing's Chris Guerra) are unrelated companies, not this one."
+ },
+ {
+  "id": "C708",
+  "company_name": "POP Plumbing LLC - Glendale",
+  "owner_name": "Jerrson Naluz",
+  "owner_title": "Member/Owner",
+  "owner_linkedin_url": "https://www.linkedin.com/in/jerrson-naluz-05560043/",
+  "source": "BBB",
+  "confidence_notes": "BBB profile for POP Plumbing LLC (Glendale, matching address 8355 W Midway Ave and phone 602-529-0025) lists Mr. Jerrson Naluz as Member; 'Jerry' matches the informal name used in customer reviews and on the company website ('Jerry founded Pop Plumbing'). FLAG: the LinkedIn profile found for Jerrson Naluz currently lists his employer as a different company ('Jerry's Rooter & Quality Plumbing'), so it's possible he has since moved on or runs multiple entities -- worth confirming current role before outreach."
+ },
+ {
+  "id": "C709",
+  "company_name": "Advanced Automotive & Air Ride",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found with confidence. Customer reviews repeatedly reference 'Daniel' as the owner/operator (running the business since ~2018), but no last name could be confirmed. BBB lists Ms. Alexandria Valtierra under Business Management/Principal Contact, but her role (owner vs. office contact) is unclear and inconsistent with the 'Daniel' references, so neither was reported as a confirmed owner name."
+ }
+]

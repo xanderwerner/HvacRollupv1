@@ -1,0 +1,200 @@
+[
+ {
+  "id": "C2796",
+  "company_name": "Tymeson Electric",
+  "owner_name": "Bruce Tymeson",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "Yelp / ZoomInfo (web)",
+  "confidence_notes": "Multiple Yelp reviews (through June 2026) and BBB/directory listings name Bruce as owner, with son Gavin as apprentice. No confirmed current LinkedIn profile for this specific Bruce Tymeson tied to the Goodyear AZ business (a 'Bruce Tymeson Jr' LinkedIn profile exists but title is 'Field Operations Manager' elsewhere, and ZoomInfo shows a Bruce Tymeson now at a Houston company, listed as 'previously Owner at Tymeson Electric') - name confirmed, LinkedIn identity not."
+ },
+ {
+  "id": "C2797",
+  "company_name": "Electricians Near You",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Listings for this name/phone (800-583-6339) appear in multiple AZ cities (Goodyear, Cave Creek), suggesting a lead-generation/directory brand rather than a single owner-operated contractor. No individual name surfaced on LinkedIn, BBB, or the web after multiple search angles."
+ },
+ {
+  "id": "C2798",
+  "company_name": "Alligood Electric Co Inc",
+  "owner_name": "Keith Alligood",
+  "owner_title": "President",
+  "owner_linkedin_url": "https://www.linkedin.com/in/keith-alligood-24544020",
+  "source": "LinkedIn",
+  "confidence_notes": "LinkedIn profile explicitly states 'President at Alligood Electric Company Inc', matching company name, trade, and website (alligoodelectric.com). High confidence."
+ },
+ {
+  "id": "C2799",
+  "company_name": "C J Electric",
+  "owner_name": "Christopher J. Kortas",
+  "owner_title": "President",
+  "owner_linkedin_url": "",
+  "source": "BBB / Buzzfile",
+  "confidence_notes": "BBB and Buzzfile list CJ Electric, Inc. with President Christopher J. Kortas at phone (602) 762-1416, an EXACT match to the phone on file. Listed city (Phoenix mailing address) differs from Laveen but Laveen is a Phoenix village, and the phone match is strong. No confirmed personal LinkedIn found (a different 'Christopher Clake - owner - C J Electric' in Belfair, WA is a false match and was excluded)."
+ },
+ {
+  "id": "C2800",
+  "company_name": "AJP Electric Inc",
+  "owner_name": "Jozef Paganik",
+  "owner_title": "President",
+  "owner_linkedin_url": "",
+  "source": "Web (contractor directories / D&B)",
+  "confidence_notes": "Multiple directories (licensed.contractors, D&B, contractors-near-me) name Jozef Paganik as President of AJP Electric Inc, Phoenix AZ, with related family members Anna/Josef/Michael Paganik also on staff, matching company name and trade exactly. FLAG: the phone on file (888) 681-7568 does not match the (602) 944-5477 found in research, and listed city is Laveen vs. the confirmed north-Phoenix address (Cave Creek Rd) - possible toll-free routing line but not independently confirmed as the same location. No LinkedIn profile found for Jozef Paganik specifically."
+ },
+ {
+  "id": "C2801",
+  "company_name": "The Electric Guru LLC",
+  "owner_name": "Paul Schmitz",
+  "owner_title": "Business Owner",
+  "owner_linkedin_url": "https://www.linkedin.com/in/paul-schmitz-7783a8107/",
+  "source": "LinkedIn",
+  "confidence_notes": "LinkedIn profile states 'Business Owner - The Electric Guru LLC', located in Phoenix (Laveen is within Phoenix metro), matching website electricgurullc.com and company name exactly. High confidence."
+ },
+ {
+  "id": "C2802",
+  "company_name": "Torres Electrical Services LLC",
+  "owner_name": "Gilbert Torres",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "https://www.linkedin.com/in/gilbert-torres-982678140",
+  "source": "LinkedIn / Birdeye reviews",
+  "confidence_notes": "LinkedIn profile shows 'Electrician at Torres Electrical Services'; Birdeye review summary independently states 'Gilbert is at the helm of Torres Electrical Services LLC, making him the owner,' with 40 years experience. Address (45373 W Norris Rd, Maricopa) matches city on file. High confidence."
+ },
+ {
+  "id": "C2803",
+  "company_name": "Wynne Electric",
+  "owner_name": "Will Wynne",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "Web reviews (Birdeye/Nextdoor)",
+  "confidence_notes": "Reviews consistently reference a 'Will' as the person who runs the business (25+ years servicing Maricopa), and the address/phone (602-390-7726, 45102 W Edwards Cir, Maricopa) is an EXACT match to the record. Last name 'Wynne' is inferred from the company name (not independently verified in a public record) - flagging as medium confidence rather than fully confirmed."
+ },
+ {
+  "id": "C2804",
+  "company_name": "HTWT Electric",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found with a full name. A LinkedIn profile exists under the business name 'HTWT Electric - Owner/President at H.T.W.T Electric Inc.' but does not reveal a real personal name. Customer reviews repeatedly mention a technician/owner named 'Paul' but no last name was found after multiple searches."
+ },
+ {
+  "id": "C2805",
+  "company_name": "Myers Electric",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found with confidence. There is spelling ambiguity between 'Myers Electric' (our record, no phone listed) and 'Meyers Electric LLC' in Bullhead City (whose AZ electrician license was reportedly suspended 3/17/2026, associated with a 'Jeff Meyers'), plus a separately incorporated 'Myers Electric Company Inc.' with no officer name surfaced. Could not confidently confirm which entity matches or its current owner."
+ },
+ {
+  "id": "C2806",
+  "company_name": "Norris Electric",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Business listed as unclaimed on Manta/Yelp/BuildZoom at 1660 Lakeside Dr, Bullhead City with matching phone (928-704-5478), but no owner name is published on any directory, BBB, or LinkedIn after multiple search angles (unrelated Norris Electric owners found in TX, FL/GA, KS, and Canada)."
+ },
+ {
+  "id": "C2807",
+  "company_name": "Tristate Workforce",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Company website (tristateworkforce.us) describes it as a general home-services/staffing company (furniture delivery, plumbing, electrical, junk removal, etc.), not a dedicated electrical contractor, and states only that it is 'locally owned' and a 'family business' without naming an owner. No LinkedIn match found."
+ },
+ {
+  "id": "C2808",
+  "company_name": "Mecca Electric",
+  "owner_name": "Daniel Gabriel Mecca",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "Web (licensing/directory - Chamber of Commerce, Homeyou)",
+  "confidence_notes": "Licensing/directory records tie Daniel Gabriel Mecca to the electrical license at 2555 N Ridge Ave, Bullhead City, matching the company's phone (928-754-4000). No LinkedIn profile found for this specific person (a 'Bill Mecca - President - Mecca Electric Inc.' LinkedIn profile exists but is based in NY/PA and is a false match on a different company)."
+ },
+ {
+  "id": "C2809",
+  "company_name": "Robinson Electric",
+  "owner_name": "Drew Ralston",
+  "owner_title": "President",
+  "owner_linkedin_url": "https://www.linkedin.com/in/drew-ralston-47b85a2b/",
+  "source": "LinkedIn / ZoomInfo",
+  "confidence_notes": "LinkedIn lists 'Drew Ralston - President at Robinson Electric'; ZoomInfo separately lists a 'Drew Ralston, Business Owner at Robinson Electric' with a robinsonelectric.com email (close to, though not identical to, the site on file, robinsonelectriccompany.com). FLAG: founder Robert Alden Robinson Sr. (who built the Laughlin, NV location, directly across the river from Bullhead City AZ, matching phone area code 702) passed away in March 2024; Ralston appears to be the current post-succession leader per LinkedIn/ZoomInfo, but this was not independently verified with the company directly."
+ },
+ {
+  "id": "C2810",
+  "company_name": "Vegas Electrical Supply Co",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found / likely not an independent acquisition target. Multiple sources indicate this Bullhead City location operates as a branch of CED (Consolidated Electrical Distributors), a national wholesale distributor franchise, not an independently owned small business. No individual owner name found."
+ },
+ {
+  "id": "C2811",
+  "company_name": "Tristan Scudder Electrical Services",
+  "owner_name": "Tristan Scudder",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "https://www.linkedin.com/in/tristan-scudder-electrical-services-610b86273/",
+  "source": "LinkedIn / obituary",
+  "confidence_notes": "FLAG - DECEASED: Tristan Charles Scudder (b. Aug 15, 1984, Sierra Vista) died unexpectedly June 1, 2024 per a Hatfield Funeral Home obituary, which confirms he owned Scudder Electrical Services. Current business/ownership status post-death is unclear (some directories still show the listing as active as of 2026) - flagging for manual review rather than treating as a live acquisition contact."
+ },
+ {
+  "id": "C2812",
+  "company_name": "Barataria Electric",
+  "owner_name": "William J. Barnes",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "SAM.gov federal contractor registry (via govcb.com)",
+  "confidence_notes": "Federal contractor registry record for Barataria Electric LLC, 8922 E McCrum Ln, Sierra Vista AZ 85650, names William J Barnes, matching phone (520) 249-7373 in other listings for the same address. A business-style LinkedIn profile exists ('BARATARIA ELECTRIC, LLC') but does not show a personal name; no separate personal LinkedIn confirmed for Barnes."
+ },
+ {
+  "id": "C2813",
+  "company_name": "Silvics Electrical",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Company website (silvicselectricalllc.com, About page) describes 'a small team' of licensed professionals but names no owner/founder. No matching LinkedIn profile found; searches surfaced only an unrelated company, 'Silvics Solutions/Analytic', a data-analytics firm."
+ },
+ {
+  "id": "C2814",
+  "company_name": "Castro Electric",
+  "owner_name": "Valentin Castro III",
+  "owner_title": "President",
+  "owner_linkedin_url": "",
+  "source": "Buzzfile (business record)",
+  "confidence_notes": "Buzzfile record for Castro Electric (legal name '1MD, Inc.') at phone (520) 459-6766 - an EXACT match to the record on file - names Valentin Castro III as President. In business since 1982 at 72 N Ten Pond Pl, Sierra Vista. No LinkedIn profile confirmed for this specific person (other 'Castro Electric' LinkedIn profiles found are in MA/MD/DC and are false matches)."
+ },
+ {
+  "id": "C2815",
+  "company_name": "Scudder Electric",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "FLAG - likely related to/duplicate of Tristan Scudder Electrical Services (id C2811, same Scudder family, same city, overlapping directory listings). Both the son (Tristan Scudder, d. June 2024) and the father (Joel Charles Scudder, d. March 2020) - the two most likely 'owner' candidates in this family - are deceased. No separate living owner name was found for this specific listing after multiple searches. Recommend manual review alongside C2811 rather than treating as a distinct live lead."
+ },
+ {
+  "id": "C2816",
+  "company_name": "Tim's Electric LLC",
+  "owner_name": "Tim Schmidt",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "https://www.linkedin.com/in/tim-schmidt-8b2a68105",
+  "source": "BBB / LinkedIn",
+  "confidence_notes": "BBB profile for Tim's Electric, LLC (Cochise/Willcox, AZ) names Tim Schmidt as Owner; phone (520-507-1977) is an EXACT match to the record. Note: company site lists the business address as Cochise, AZ rather than Sierra Vista, but Cochise is a small community within the same Sierra Vista/Cochise County service area and the phone match confirms it's the same business."
+ },
+ {
+  "id": "C2817",
+  "company_name": "Keith Pember Electric LLC",
+  "owner_name": "Keith V. Pember",
+  "owner_title": "Owner / Member",
+  "owner_linkedin_url": "https://www.linkedin.com/in/keith-pember-942ab3b4",
+  "source": "BBB / LinkedIn",
+  "confidence_notes": "BBB lists 'Keith V Pember' as a Member of Keith Pember Electric LLC (est. 1986, serving the White Mountains region including Show Low); phone (928-243-2693) is an EXACT match to the record. LinkedIn profile 'Keith Pember Electric' exists under the business name. Company name itself matches the owner's name, reinforcing confidence. Primary listed city is Taylor, AZ (near Show Low) rather than Show Low itself."
+ }
+]

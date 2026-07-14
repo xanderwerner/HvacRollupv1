@@ -1,0 +1,218 @@
+[
+ {
+  "id": "C890",
+  "company_name": "Apache Junction Plumber",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Website on file (showlowbuilder.com) is unrelated (belongs to Haltom & Sons Contracting in Show Low). Confirmed real business at 3301 S Goldfield Rd, Apache Junction via Yelp using the phone number, but no owner name found on LinkedIn, BBB, or business directories after multiple search angles."
+ },
+ {
+  "id": "C892",
+  "company_name": "Hvac Supplies",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Generic/placeholder-looking name with no website. Phone (928) 264-4335 could not be matched to any specific business via web search, LinkedIn, or directories. Not found."
+ },
+ {
+  "id": "C895",
+  "company_name": "Ace Air Duct Services",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Website on file (steelehvacllc.com) is actually a Georgia HVAC company (Steele HVAC LLC, Augusta GA), unrelated to this Flagstaff, AZ business - data quality mismatch. Searched phone number (928-361-9228) and business name directly; no owner name found via LinkedIn, BBB, or web search."
+ },
+ {
+  "id": "C897",
+  "company_name": "Supreme HVAC/Duct Serives",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "No website on file. Phone number traces to an address on Shelby Dr in Sedona shared with Hart Heating & Cooling, but no business specifically named 'Supreme HVAC/Duct' could be confirmed at that address. No LinkedIn or BBB match found."
+ },
+ {
+  "id": "C903",
+  "company_name": "Desert Plumbing Of Buckeye",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Company website (plumbingbuckeye.com) confirms it is family-owned but does not name owners; no About/Team page found. Checked LinkedIn (multiple 'Desert Plumbing' owners found but all in California, not Arizona), BBB, and web search - no confident owner name found for this specific Buckeye, AZ business."
+ },
+ {
+  "id": "C929",
+  "company_name": "Integrity Electrical Services Company LLC",
+  "owner_name": "Mike Cobb",
+  "owner_title": "Owner / Executive Operations Manager",
+  "owner_linkedin_url": "https://www.linkedin.com/in/mike-cobb-a4aa9721/",
+  "source": "LinkedIn",
+  "confidence_notes": "Confirmed via LinkedIn search and company website (integrityelectricaz.com, matches domain on file). Company was co-founded in 2012 by Mike Cobb and Grant Nichols (also on LinkedIn, listed as Owner/Field Operations Manager). Company is based in Tempe, matching the city on file."
+ },
+ {
+  "id": "C934",
+  "company_name": "Integrity Electrical LLC",
+  "owner_name": "Mike Cobb",
+  "owner_title": "Owner / Executive Operations Manager",
+  "owner_linkedin_url": "https://www.linkedin.com/in/mike-cobb-a4aa9721/",
+  "source": "LinkedIn",
+  "confidence_notes": "Shares domain (integrityelectricaz.com) with C929 and C936 - appears to be the same underlying company (Integrity Electrical Services, Tempe-based, serves statewide including Prescott) listed multiple times under different city/phone entries. Same owner as confirmed for C929."
+ },
+ {
+  "id": "C936",
+  "company_name": "Integrity Electrical Service LLC",
+  "owner_name": "Mike Cobb",
+  "owner_title": "Owner / Executive Operations Manager",
+  "owner_linkedin_url": "https://www.linkedin.com/in/mike-cobb-a4aa9721/",
+  "source": "LinkedIn",
+  "confidence_notes": "Shares domain (integrityelectricaz.com) with C929 and C934 - appears to be the same underlying company (Integrity Electrical Services, Tempe-based, serves statewide including Tucson) listed multiple times under different city/phone entries. Same owner as confirmed for C929."
+ },
+ {
+  "id": "C2727",
+  "company_name": "Ignite Electric LLC",
+  "owner_name": "Miah Paul",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "https://www.linkedin.com/in/miahsanders/",
+  "source": "BBB",
+  "confidence_notes": "BBB profile explicitly lists Ms. Miah Paul as owner under Business Management/Principal Contacts. Found a LinkedIn profile for a Miah Paul located in Scottsdale, AZ (matching Ignite Electric's Scottsdale address) but the profile itself does not explicitly confirm the Ignite Electric affiliation, so treating BBB as the primary confirmed source."
+ },
+ {
+  "id": "C2728",
+  "company_name": "Gideon Electric",
+  "owner_name": "Jorge Armando Hernandez",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "Legal name is Gideon Service Company LLC (brand name Gideon Electric); BBB lists Mr. Jorge Armando Hernandez as owner. Multiple LinkedIn searches for Jorge Hernandez + Gideon Electric/Service did not surface a matching profile."
+ },
+ {
+  "id": "C2729",
+  "company_name": "Trend Electric",
+  "owner_name": "Ryan Stanulis",
+  "owner_title": "Founder / Master Electrician",
+  "owner_linkedin_url": "",
+  "source": "company website",
+  "confidence_notes": "Company's About page and press mentions identify Ryan Stanulis, a Master Electrician who relocated from New Jersey in 2020, as founder of the family-owned business in Cave Creek/Phoenix, AZ (ROC #339027, matches trendelectrical.com on file). No LinkedIn profile found under this name."
+ },
+ {
+  "id": "C2730",
+  "company_name": "GA Electrical llc",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Confirmed business address (3625 W Myrtle Ave, Phoenix) via phone number lookup, but no owner name found via LinkedIn, BBB, or directory searches."
+ },
+ {
+  "id": "C2731",
+  "company_name": "Simple Electric",
+  "owner_name": "Todd Lloyd Peterson",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "BBB and ZoomInfo both list Todd Lloyd Peterson (with Kari Jayne Peterson) as owner of Simple Electric, Phoenix/Scottsdale AZ (matches simpleelectricaz.com on file). LinkedIn search found other Todd Petersons but none matching this company; no confirmed LinkedIn profile."
+ },
+ {
+  "id": "C2732",
+  "company_name": "US Electrical Services",
+  "owner_name": "Georgi Penkov Teofilov",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "BBB profile for US Electrical Services LLC (Phoenix, ROC #328945, matches uselectricalservices.us on file) lists Mr. Georgi Penkov Teofilov as owner, described elsewhere as running the family business with his father. No matching LinkedIn profile found (a Georgi Teofilov on LinkedIn is unrelated, based in the UK)."
+ },
+ {
+  "id": "C2733",
+  "company_name": "Sharp Electric LLC",
+  "owner_name": "Hector Torres",
+  "owner_title": "President / CEO",
+  "owner_linkedin_url": "https://www.linkedin.com/in/tucsonsharpelectric/",
+  "source": "LinkedIn",
+  "confidence_notes": "Confirmed via LinkedIn (profile URL itself is 'tucsonsharpelectric'), cross-checked with ZoomInfo and company address (7040 N Mona Lisa Rd, Tucson) and phone (520) 245-5153, both matching the record on file exactly."
+ },
+ {
+  "id": "C2736",
+  "company_name": "NES Electrical Services",
+  "owner_name": "Jose Nunez",
+  "owner_title": "Business Owner",
+  "owner_linkedin_url": "https://www.linkedin.com/in/jose-nunez-70575b154/",
+  "source": "LinkedIn",
+  "confidence_notes": "Confirmed via LinkedIn listing Jose Nunez as Business Owner at NES Electrical Services; cross-checked against neselectricalservices.com (matches domain on file) and phone (480) 474-7857, which matches the record exactly. Business listings refer to him as Jose Nunez Jr."
+ },
+ {
+  "id": "C2737",
+  "company_name": "Javier's Quick Electricians",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Business name implies owner is likely named Javier, but no full name could be confirmed via LinkedIn, BBB, or directory searches. Declined to guess a surname."
+ },
+ {
+  "id": "C2738",
+  "company_name": "Foquito Electric",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Confirmed business via Yelp/Instagram/Facebook (Mesa, AZ, phone matches), but no owner name found via LinkedIn or other sources."
+ },
+ {
+  "id": "C2740",
+  "company_name": "Javi Electric",
+  "owner_name": "Javier Carcamo",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "https://www.linkedin.com/in/javier-carcamo-6950b5370",
+  "source": "LinkedIn",
+  "confidence_notes": "Two separate LinkedIn profiles both list Javier Carcamo as Owner of 'Javi Electric' / 'javi Electric' in the Greater Phoenix Area, matching javielectric.com and Mesa, AZ location on file."
+ },
+ {
+  "id": "C2741",
+  "company_name": "JLM Electric LLC AZ ROC# 361095 - Classification CR11",
+  "owner_name": "Jerry Edward Matthews",
+  "owner_title": "Member/Manager",
+  "owner_linkedin_url": "",
+  "source": "state business registry",
+  "confidence_notes": "Business registry listing (bizprofile.net) shows JLM Electric LLC, Gilbert AZ (est. April 2025, matches queencreekelectrical.com on file) is managed by Jerry Edward Matthews, with Erica Lynne Matthews as registered agent - consistent with initials 'JLM' and the site's description of a family-owned business. No matching LinkedIn profile found for this specific person."
+ },
+ {
+  "id": "C2742",
+  "company_name": "ID ELECTRIC LLC",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Company website (idelectric-az.com) identifies two co-owners, brothers named only 'Jon' and 'Bim' - no last names given anywhere online (website, press, directories). Could not confirm full names via LinkedIn or business registry search, so not reporting a name."
+ },
+ {
+  "id": "C2743",
+  "company_name": "EliteElectro Electric Contractors",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Small/newer Scottsdale listing (via ServiceAgent directory aggregator) with no dedicated website. No owner name found via LinkedIn or other searches."
+ },
+ {
+  "id": "C2744",
+  "company_name": "PowerPro Electricians",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Possible LinkedIn candidates found (Ryan Hudson - 'Company Owner' at powerproelectric; Scott Picard/Kenny Adair at 'PowerPro Electric, Inc' in Portsmouth) but none could be confirmed as matching this specific Scottsdale, AZ business (9375 E Shea Blvd) - declined to report an unverified match."
+ },
+ {
+  "id": "C2745",
+  "company_name": "QuickCall Electric Co",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Confirmed as a real, reviewed business in Scottsdale via directory aggregators, but no owner name found via LinkedIn, BBB, or web search."
+ }
+]

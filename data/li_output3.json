@@ -1,0 +1,218 @@
+[
+ {
+  "id": "C740",
+  "company_name": "Precision Plumber Buckeye",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Website (emergencyplumberbuckeye1.com) is a bare local-SEO/lead-gen style site with no team/about names. Web search surfaced owners of similarly-named but unrelated AZ 'Precision' plumbing companies (AZ Precision Plumbing - Arkadi Zverjako; Precision Air & Plumbing - Erik Bryan) whose domains do not match this company's domain, so not reported to avoid a false match."
+ },
+ {
+  "id": "C741",
+  "company_name": "Kia's Air Conditioning / stop by #1",
+  "owner_name": "Kia Lam",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "BBB profile for Kia's Heating & Air Conditioning (Casa Grande, AZ, matches phone/city) lists Mr. Kia Lam as owner. Searched LinkedIn specifically for 'Kia Lam Arizona' but only found an unrelated Kia Lam (Red Hat/SF) - no LinkedIn match found for this owner."
+ },
+ {
+  "id": "C742",
+  "company_name": "Carter & Sons HVAC & Plumbing LLC",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Listed website (cobraplumbingllc.com) shows no ownership info and does not mention 'Carter & Sons' anywhere, suggesting a data mismatch between company name and domain in the source list. Extensive search for 'Carter & Sons' plumbing/HVAC in Scottsdale, AZ only surfaced unrelated same-named companies in Louisiana and Georgia. Declined to report a false match."
+ },
+ {
+  "id": "C744",
+  "company_name": "ChillTek AC Repair",
+  "owner_name": "W.F. Smith",
+  "owner_title": "President/Owner",
+  "owner_linkedin_url": "",
+  "source": "ZoomInfo",
+  "confidence_notes": "LOW CONFIDENCE - single source only. ZoomInfo lists 'W.F. Smith' as President/Owner; could not corroborate via BBB, company website (About Us page has no names), or LinkedIn. Recommend verifying before outreach."
+ },
+ {
+  "id": "C745",
+  "company_name": "AARO Enterprises, HVAC Contractor",
+  "owner_name": "Michael Studer",
+  "owner_title": "President",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "BBB profile for AARO Enterprises Inc (Lake Havasu City, AZ, matches domain aaroenterprises.com) lists Mr. Michael Studer as President and Ms. Jennifer Studer as Secretary - consistent with 'family-owned since 1998' description. LinkedIn search for 'Michael Studer AARO Lake Havasu' returned only unrelated Michael Studers; no LinkedIn match found."
+ },
+ {
+  "id": "C746",
+  "company_name": "Aarow Plumbing Inc",
+  "owner_name": "Robert Glassbrook Jr.",
+  "owner_title": "President",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "BBB profile for Aarow Plumbing Co., Inc (Tucson, AZ, matches domain aarowplumbing.com and phone) lists Mr. Robert Glassbrook Jr. as President and Mr. Rocky Glassbrook as VP. LinkedIn searches for both names plus Tucson/plumbing turned up no matching profile."
+ },
+ {
+  "id": "C749",
+  "company_name": "HOWLAIR Air Conditioning & Heating HVAC",
+  "owner_name": "John Reeves",
+  "owner_title": "President/Owner",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "BBB profile for Howlair HVAC-R LLC (Scottsdale, AZ, matches domain howlairscottsdale.com) lists Mr. John Reeves as President/Owner and principal contact. LinkedIn search for 'John Reeves Howlair/HVAC Scottsdale' did not return a confirmed matching profile (only same-named HVAC workers at other companies)."
+ },
+ {
+  "id": "C753",
+  "company_name": "Prospector Plumbing and Septic pumping , Apache Junction AZ85119",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Company website, BBB/Yelp/Manta/ZoomInfo listings and general web search did not surface any named owner or principal despite '30+ years in business' claim. No LinkedIn presence located."
+ },
+ {
+  "id": "C755",
+  "company_name": "Davis Brothers Heating & Air Conditioning",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Company website (davishvac.homes) returned HTTP 403 and could not be fetched; ZoomInfo/Birdeye/local directory listings give company info only, no owner name. Other 'Davis Brothers' HVAC companies found online (Indiana PA, other states) are unrelated - not reported to avoid false match."
+ },
+ {
+  "id": "C756",
+  "company_name": "Dub's Plumbing Services",
+  "owner_name": "Delbert Ragels",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "Business directory (Manta/Buzzfile)",
+  "confidence_notes": "Multiple directory listings (Manta, Buzzfile) for Dub's Plumbing Service, Oracle AZ (matches phone 520-896-2648) name Delbert Ragels as owner. LinkedIn search found no profile for him; a similarly-named 'Tim Ragels' is Owner/Operator of a different company (A to Z Plumbing LLC) and was not reported."
+ },
+ {
+  "id": "C758",
+  "company_name": "Marco's Mam Plumbing & Repair",
+  "owner_name": "Marco Morga",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "https://www.linkedin.com/in/marco-morga-59a7592a",
+  "source": "LinkedIn",
+  "confidence_notes": "Multiple business directories (Yelp, Buzzfile) name Marco Morga as owner of Marco's Mam Plumbing & Repair, Fort Mohave, AZ (phone matches). Found a LinkedIn profile at the URL above under that name, but LinkedIn blocked automated fetch of the profile content so title/employer could not be directly re-verified on-page - treat as medium confidence."
+ },
+ {
+  "id": "C759",
+  "company_name": "AC Air conditioning & Heating",
+  "owner_name": "Samir Morina",
+  "owner_title": "Owner, Residential & Commercial HVAC",
+  "owner_linkedin_url": "https://www.linkedin.com/in/samir-morina-9965533b3",
+  "source": "LinkedIn",
+  "confidence_notes": "Company site acbysamllc.com ('AC by Sam LLC') and BBB confirm the business goes by 'Sam' as hands-on owner; found LinkedIn profile for Samir Morina titled 'Owner Residential & Commercial HVAC' appearing alongside AC by Sam search results. Note: company's listed office address is Phoenix (4131 E Taro Ln) rather than Avondale as in source list - likely just service-area labeling, but flagging the city discrepancy."
+ },
+ {
+  "id": "C760",
+  "company_name": "Your Phoenix HVAC",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Domain-specific searches (yourphoenixhvac.net) and LinkedIn search only returned owners of other, unrelated Phoenix-area HVAC companies (Richard Hanna, Kendall Cooper, Colin Avila, etc.) - none tied to this specific business, so none reported."
+ },
+ {
+  "id": "C762",
+  "company_name": "Roto-Rooter Sewer & Drain Service",
+  "owner_name": "David R. Gibbs",
+  "owner_title": "Owner (independent franchisee)",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "BBB profile for Roto-Rooter Sewer & Drain Svc, Sierra Vista AZ (matches domain rotorootersewerndrainsvc.com and address) lists Mr. David R. Gibbs and Mr. Thomas Gibbs as Owners of this independent franchise location. No confirmed LinkedIn profile found for either."
+ },
+ {
+  "id": "C763",
+  "company_name": "One Shot Installation Electrical, Plumbing & Appliance Repair-Electrician & Plumber Flagstaff, AZ.",
+  "owner_name": "Gabe",
+  "owner_title": "Owner",
+  "owner_linkedin_url": "",
+  "source": "Customer reviews / web search",
+  "confidence_notes": "LOW CONFIDENCE / partial name only. Multiple review sites (Birdeye, Yelp) and articles repeatedly refer to 'Gabe' (possibly Gabriel) as the owner/lead of One Shot Installation across its Phoenix/Peoria and Flagstaff locations, but no last name could be found anywhere, and no LinkedIn profile could be matched. Flagging for manual follow-up rather than guessing a surname."
+ },
+ {
+  "id": "C764",
+  "company_name": "Airtronics Air Conditioning & Heating",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. BBB, Yelp, and company site (airtronx.com) confirm the business (Yuma, AZ, in operation since 1989) but do not name an owner/principal. LinkedIn company page exists but no personal profile could be tied to ownership."
+ },
+ {
+  "id": "C766",
+  "company_name": "Vertical Plumbing Goodyear",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. No website listed in source data; company site located separately (verticalplumbingaz.com) but general web/LinkedIn search returned no owner name for this specific company."
+ },
+ {
+  "id": "C768",
+  "company_name": "Air Solutions",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found / unresolved. Website listed in source (proforceplumbing.com) is a Phoenix-area plumbing company ('ProForce Plumbing LLC') with no stated connection to 'Air Solutions' in Show Low - likely a data mismatch. A separate company 'Air Solutions of Yuma LLC' (which has a Show Low location run by technician Luke Grinder) lists an Eddie Garcia in BBB records, but given the domain mismatch this could not be confidently tied to the company in the source list, so nothing is reported to avoid a false match."
+ },
+ {
+  "id": "C770",
+  "company_name": "Plumbers Crack Plumbing",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Company (Bullhead City, AZ) has a Facebook page, Yelp/Nextdoor listings and a Simdif site, but no owner name appears in any public source found, and no LinkedIn presence located."
+ },
+ {
+  "id": "C771",
+  "company_name": "ZonAir AC Repair Tempe",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Company website About Us page describes 'our team' generically with no individual names; BBB, Yelp, Birdeye and LinkedIn searches did not surface an owner name."
+ },
+ {
+  "id": "C773",
+  "company_name": "Arizona Sewer Solution Plumbing and Drain",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Company's own About Us page states it was 'Founded by a Veteran' and is 'Family-Owned, Veteran-Led' but deliberately does not name the founder. No name found via BBB, Facebook, or LinkedIn search."
+ },
+ {
+  "id": "C775",
+  "company_name": "Endivo Plumbing",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Company website (endivoconstruction.com) has no About/Team page with names; general web and LinkedIn search for 'Endivo Plumbing/Construction Flagstaff' returned only unrelated Flagstaff plumbing professionals at other companies."
+ },
+ {
+  "id": "C777",
+  "company_name": "Lynlee Plumbing",
+  "owner_name": "",
+  "owner_title": "",
+  "owner_linkedin_url": "",
+  "source": "",
+  "confidence_notes": "Not found. Reviews mention a 'Brian'/'Bryan' associated with the company, but this is not confirmed as the owner (could be a technician), so not reported. No BBB principal-contact listing or LinkedIn match found."
+ },
+ {
+  "id": "C778",
+  "company_name": "A & C Plumbing Concepts, Inc.",
+  "owner_name": "Richard K. Swenson",
+  "owner_title": "President",
+  "owner_linkedin_url": "",
+  "source": "BBB",
+  "confidence_notes": "BBB profile for A & C Plumbing Concepts Inc, Bullhead City AZ (matches domain ancplumbing.com) lists Mr. Richard K. Swenson as President and Ms. Nickie D. Swenson as Secretary/Treasurer - consistent with 'family-owned and operated' description. LinkedIn search for 'Richard Swenson plumbing Arizona' returned no matching profile."
+ }
+]
